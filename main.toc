@@ -1,0 +1,10 @@
+\contentsline {chapter}{Preface}{vii}
+\contentsline {chapter}{\rule {0pt}{25pt}Conference committee}{ix}
+\contentsline {part}{Digital Editions of Inscriptions: methods, problems, approaches}{1}
+\contentsline {part}{Collaborating in Digital Epigraphy}{3}
+\contentsline {chapter}{Mapping Databases to EpiDoc.\\ \textit {Stefania De Vido, Ivan Matijasic, Silvia Palazzo, Giulia Sarullo, Giovanna Rocca, Marta Muscariello, Jonathan Prag, James Chartrand, James Cummings, Mariarita Sgarlata, Anita Rocco, Antonio Felle, Rebecca Benefiel, Holly Sypniewski, Sara Sprenkle, Claudio Prandoni, Pietro Maria Liuzzo}}{5}
+\contentsline {chapter}{TIGLIO. Translations and Images of Greek and Latin Inscriptions Online.\\ \textit {Herbert Verreth, Angelos Barmpoutis, Eleni Bozia, Pietro Maria Liuzzo, Bridget Almas, Ryan Baumann, Marie-Claire Beaulieu, Hugh Cayless, James Cowey, Finlay Mc Court, Joshua Sosin}}{19}
+\contentsline {part}{Users, Epigraphy and the social web}{31}
+\contentsline {part}{Digital Approaches to cross-disciplinary studies of inscriptions}{33}
+\contentsline {chapter}{Romans 1 by 1. Documenting a Population Database for the Roman World.\\ \textit {Katja Diederichs, Sven Gronemeyer, Christian Prager, Elisabeth Wagner, Franziska Diehr, Brodhun Maximilian, Nikolai Grube, Valentina Vassallo, Uros Damnjanovic, Mirco Modolo, Elisa Bonacini, Francesca Licordari, Marion Lamé, Federico Ponchio, Ivan Radman-Livaja, Bruce Robertson, Enrico Zuddas, Rada Varga}}{35}
+\contentsline {part}{Posters}{45}

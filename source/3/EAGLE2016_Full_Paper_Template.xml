@@ -1,0 +1,2237 @@
+<?xml version="1.0"?>
+<root ptr="0x7f992ec866e0" id="390" symbol="9SwRootFrm" lower="391">
+ <shellCrsr>
+  <swPaM>
+   <point>
+    <swPosition nNode="37" nContent="0"/>
+   </point>
+  </swPaM>
+ </shellCrsr>
+ <infos>
+  <bounds left="284" top="284" width="17245" height="119434"/>
+ </infos>
+ <page ptr="0x17f7b3740" id="391" symbol="9SwPageFrm" next="422" upper="390" lower="393">
+  <infos>
+   <bounds left="8468" top="284" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b6640" id="393" symbol="11SwHeaderFrm" next="392" upper="391" lower="394" fmtName="Right header" fmtPtr="0x17f629498">
+   <infos>
+    <bounds left="9772" top="964" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x1864ab260" id="394" symbol="9SwTextFrm" upper="393" txtNodeIndex="31">
+    <infos>
+     <bounds left="9772" top="964" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b5640" id="392" symbol="9SwBodyFrm" prev="393" upper="391" lower="395">
+   <infos>
+    <bounds left="9772" top="1702" width="6169" height="10749"/>
+   </infos>
+   <txt ptr="0x1864ab160" id="395" symbol="9SwTextFrm" next="402" upper="392" txtNodeIndex="37">
+    <infos>
+     <bounds left="9772" top="1702" width="6169" height="3419"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x7f992b7cca60" id="396" symbol="13SwFlyAtCntFrm" lower="397">
+      <infos>
+       <bounds left="9776" top="1704" width="6180" height="3141"/>
+      </infos>
+      <txt ptr="0x1864ab060" id="397" symbol="9SwTextFrm" next="398" upper="396" txtNodeIndex="12">
+       <infos>
+        <bounds left="9776" top="1704" width="6180" height="380"/>
+       </infos>
+*ROMANS 1 BY 1       <Text nLength="1" nType="POR_TABLEFT" nHeight="345" nWidth="454"/>
+       <Text nLength="13" nType="POR_TXT" nHeight="345" nWidth="2214"/>
+       <LineBreak nWidth="2668"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x1864aad58" id="398" symbol="9SwTextFrm" next="399" prev="397" upper="396" txtNodeIndex="13">
+       <infos>
+        <bounds left="9776" top="2084" width="6180" height="1140"/>
+       </infos>
+Documenting a population database for the Roman world*       <Text nLength="42" nType="POR_PARA" nHeight="345" nWidth="5248"/>
+       <LineBreak nWidth="5248"/>
+       <Text nLength="11" nType="POR_TXT" nHeight="345" nWidth="1642"/>
+       <Text nLength="1" nType="POR_BRK"/>
+       <LineBreak nWidth="1642"/>
+       <Text nLength="0" nType="POR_LAY" nHeight="345"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x1864aae58" id="399" symbol="9SwTextFrm" next="400" prev="398" upper="396" txtNodeIndex="14">
+       <infos>
+        <bounds left="9776" top="3224" width="6180" height="380"/>
+       </infos>
+Rada Varga       <Text nLength="10" nType="POR_PARA" nHeight="231" nWidth="962"/>
+       <LineBreak nWidth="962"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x1864aac58" id="400" symbol="9SwTextFrm" next="401" prev="399" upper="396" txtNodeIndex="15">
+       <infos>
+        <bounds left="9776" top="3604" width="6180" height="380"/>
+       </infos>
+Babeș-Bolyai University, Cluj-Napoca       <Text nLength="36" nType="POR_PARA" nHeight="231" nWidth="3102"/>
+       <LineBreak nWidth="3102"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x1864aaa58" id="401" symbol="9SwTextFrm" prev="400" upper="396" txtNodeIndex="16">
+       <infos>
+        <bounds left="9776" top="3984" width="6180" height="380"/>
+       </infos>
+radavarga@gmail.com       <Text nLength="19" nType="POR_PARA" nHeight="231" nWidth="1879"/>
+       <LineBreak nWidth="1879"/>
+       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+Abstract    <Special nLength="0" nType="POR_FLY" rText="" nHeight="2742" nWidth="6169"/>
+    <LineBreak nWidth="6169"/>
+    <Text nLength="8" nType="POR_LAY" nHeight="276" nWidth="893"/>
+    <LineBreak nWidth="893"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864aab58" id="402" symbol="9SwTextFrm" next="403" prev="395" upper="392" txtNodeIndex="38">
+    <infos>
+     <bounds left="9772" top="5121" width="6169" height="1850"/>
+    </infos>
+The present article briefly documents the epigraphic division of a developing online population database for the Roman Empire, accessible at www.romans1by1.com. The paper presents the motivation of constructing the database and its envisioned architecture, in relation with the various sources, while emphasizing on the steps and procedures required in order to transpose epigraphical information into an ancient population database.     <Text nLength="69" nType="POR_TXT" nHeight="231" nWidth="5465"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="5744"/>
+    <Text nLength="71" nType="POR_TXT" nHeight="231" nWidth="5843"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="18" nType="POR_TXT" nHeight="231" nWidth="1800"/>
+    <Text nLength="55" nType="POR_TXT" nHeight="231" nWidth="4367"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="79" nType="POR_TXT" nHeight="231" nWidth="6131"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="72" nType="POR_TXT" nHeight="231" nWidth="5804"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="67" nType="POR_LAY" nHeight="231" nWidth="5371"/>
+    <LineBreak nWidth="5371"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864aa958" id="403" symbol="9SwTextFrm" next="404" prev="402" upper="392" txtNodeIndex="39">
+    <infos>
+     <bounds left="9772" top="6971" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864aa858" id="404" symbol="9SwTextFrm" next="405" prev="403" upper="392" txtNodeIndex="40">
+    <infos>
+     <bounds left="9772" top="7202" width="6169" height="677"/>
+    </infos>
+Keywords    <Text nLength="8" nType="POR_PARA" nHeight="276" nWidth="1040"/>
+    <LineBreak nWidth="1040"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864aa758" id="405" symbol="9SwTextFrm" next="406" prev="404" upper="392" txtNodeIndex="41">
+    <infos>
+     <bounds left="9772" top="7879" width="6169" height="730"/>
+    </infos>
+Epigraphy, middle classes, provincial society, occupational inscriptions, prosopography    <Text nLength="73" nType="POR_TXT" nHeight="231" nWidth="5750"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="5887"/>
+    <Text nLength="13" nType="POR_LAY" nHeight="231" nWidth="1200"/>
+    <LineBreak nWidth="1200"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864aa458" id="406" symbol="9SwTextFrm" next="407" prev="405" upper="392" txtNodeIndex="42">
+    <infos>
+     <bounds left="9772" top="8609" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864aa658" id="407" symbol="9SwTextFrm" next="408" prev="406" upper="392" txtNodeIndex="43">
+    <infos>
+     <bounds left="9772" top="8840" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864aa558" id="408" symbol="9SwTextFrm" next="409" prev="407" upper="392" txtNodeIndex="44">
+    <infos>
+     <bounds left="9772" top="9071" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9d50" id="409" symbol="9SwTextFrm" next="410" prev="408" upper="392" txtNodeIndex="45">
+    <infos>
+     <bounds left="9772" top="9302" width="6169" height="1680"/>
+    </infos>
+ Romans 1 by 1 database and afferent website were created for filling in an existing gap in the study of Roman-era population. The database tries to begin answering to the need of properly cataloguing all attested inhabitants of the Roman Empire. Of course, this is a tremendous task and www.romans1by1.com is only a first step, circumscribed for now to a very specific category of sources.    <Text nLength="1" nType="POR_TXT" nHeight="231" nWidth="50"/>
+    <Text nLength="14" nType="POR_TXT" nHeight="231" nWidth="1233"/>
+    <Text nLength="57" nType="POR_TXT" nHeight="231" nWidth="4450"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="5886"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="6000"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="76" nType="POR_TXT" nHeight="231" nWidth="6009"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="61" nType="POR_TXT" nHeight="231" nWidth="5016"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="231" nWidth="656"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="12" nType="POR_TXT" nHeight="231" nWidth="1194"/>
+    <Text nLength="63" nType="POR_TXT" nHeight="231" nWidth="4804"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="20" nType="POR_LAY" nHeight="231" nWidth="1605"/>
+    <LineBreak nWidth="1605"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9c50" id="410" symbol="9SwTextFrm" next="411" prev="409" upper="392" txtNodeIndex="46">
+    <infos>
+     <bounds left="9772" top="10982" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9b50" id="411" symbol="9SwTextFrm" next="412" prev="410" upper="392" txtNodeIndex="47">
+    <infos>
+     <bounds left="9772" top="11213" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9a50" id="412" symbol="9SwTextFrm" next="413" prev="411" upper="392" txtNodeIndex="48">
+    <infos>
+     <bounds left="9772" top="11444" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9950" id="413" symbol="9SwTextFrm" prev="412" upper="392" txtNodeIndex="49">
+    <infos>
+     <bounds left="9772" top="11675" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x17f7b3658" id="422" symbol="9SwPageFrm" next="447" prev="391" upper="390" lower="424">
+  <infos>
+   <bounds left="8468" top="13586" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b6578" id="424" symbol="11SwHeaderFrm" next="423" upper="422" lower="425" fmtName="Right header" fmtPtr="0x17f6295e8">
+   <infos>
+    <bounds left="10056" top="14266" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x1864a9050" id="425" symbol="9SwTextFrm" upper="424" txtNodeIndex="28">
+    <infos>
+     <bounds left="10056" top="14266" width="6169" height="207"/>
+    </infos>
+**    <Special nLength="1" nType="POR_FLD" rText="2"/>
+    <Text nLength="1" nType="POR_TABRIGHT" nHeight="207" nWidth="6079"/>
+    <LineBreak nWidth="6169"/>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b5578" id="423" symbol="9SwBodyFrm" prev="424" upper="422" lower="414">
+   <infos>
+    <bounds left="10056" top="15004" width="6169" height="10749"/>
+   </infos>
+   <txt ptr="0x1864a9850" id="414" symbol="9SwTextFrm" next="415" upper="423" txtNodeIndex="50">
+    <infos>
+     <bounds left="10056" top="15004" width="6169" height="280"/>
+    </infos>
+1. Motivation    <Text nLength="13" nType="POR_PARA" nHeight="276" nWidth="1373"/>
+    <LineBreak nWidth="1373"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9750" id="415" symbol="9SwTextFrm" next="416" prev="414" upper="423" txtNodeIndex="51">
+    <infos>
+     <bounds left="10056" top="15284" width="6169" height="2786"/>
+    </infos>
+But why would an ancient population database be essential? Because a digital resource focused on individuals would reveal linkage possibilities that otherwise elude us, it would finally give us the complete and accurate image of the Roman attested population and, through codifications, it would open the way towards computer-assisted in-depth analyses on all relevant aspects imagined (epigraphic patterns, religiosity, migrations, onomastics, occupations, family data, etc.). A complete, aggregate database will allow a longitudinal (diachronic) view on the attested Roman population from a certain area and ideally from the whole Empire, while also opening transversal (a section in time) perspectives.    <Text nLength="68" nType="POR_TXT" nHeight="231" nWidth="5665"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="5887"/>
+    <Text nLength="74" nType="POR_TXT" nHeight="231" nWidth="5832"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="5926"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="6099"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="6094"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="76" nType="POR_TXT" nHeight="231" nWidth="5991"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="74" nType="POR_TXT" nHeight="231" nWidth="5837"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="74" nType="POR_TXT" nHeight="231" nWidth="6043"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="6054"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="33" nType="POR_LAY" nHeight="231" nWidth="2538"/>
+    <LineBreak nWidth="2538"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9650" id="416" symbol="9SwTextFrm" next="417" prev="415" upper="423" txtNodeIndex="52">
+    <infos>
+     <bounds left="10056" top="18070" width="6169" height="1590"/>
+    </infos>
+The database in itself would have three components (see below Fig. 1), following the best practices in the field (Mandemakers and Dillon 2004): the sources database (with “facsimile” transcription of the sources’ text), the central database (the complete, corrected, integrated, standardized and coded form of the sources database) and the data releases (destined for on-line usage, allowing easy extraction of data in view of analyses).     <Text nLength="70" nType="POR_TXT" nHeight="231" nWidth="5693"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="5887"/>
+    <Text nLength="76" nType="POR_TXT" nHeight="231" nWidth="6137"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="16" nType="POR_TXT" nHeight="231" nWidth="1376"/>
+    <Text nLength="59" nType="POR_TXT" nHeight="231" nWidth="4467"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="16" nType="POR_TXT" nHeight="231" nWidth="1339"/>
+    <Text nLength="55" nType="POR_TXT" nHeight="231" nWidth="4337"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="44" nType="POR_TXT" nHeight="231" nWidth="3565"/>
+    <Text nLength="13" nType="POR_TXT" nHeight="231" nWidth="1054"/>
+    <Text nLength="18" nType="POR_TXT" nHeight="231" nWidth="1383"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="67" nType="POR_LAY" nHeight="231" nWidth="5215"/>
+    <LineBreak nWidth="5215"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9550" id="417" symbol="9SwTextFrm" next="418" prev="416" upper="423" txtNodeIndex="53">
+    <infos>
+     <bounds left="10056" top="19660" width="6169" height="2915"/>
+    </infos>
+Alongside these components, which actually represent various steps in the data preparation process, a population database for the Roman Empire should be built on three pillars, which we might call units or divisions of the database: epigraphic, literary and archaeological, each of them requiring different expertise, different approaches and different standards for the individual recording forms. In the end, of course, all three types of individual records will have to be integrated in a central standardized component, whose structure is to be developed by merging the three aforementioned divisions; consequently, its configuration will ideally take shape only after all three units enjoy a stable architecture at least in the sources component of the database.    <Text nLength="69" nType="POR_TXT" nHeight="231" nWidth="5649"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="5887"/>
+    <Text nLength="72" nType="POR_TXT" nHeight="231" nWidth="5915"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="79" nType="POR_TXT" nHeight="231" nWidth="6105"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="77" nType="POR_TXT" nHeight="231" nWidth="6058"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="5790"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="79" nType="POR_TXT" nHeight="231" nWidth="6076"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <Special nLength="0" nType="POR_MARGIN" rText=""/>
+    <LineBreak nWidth="6170"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="6065"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="6065"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="6039"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="6039"/>
+    <Text nLength="76" nType="POR_TXT" nHeight="231" nWidth="5824"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="5824"/>
+    <Text nLength="74" nType="POR_TXT" nHeight="231" nWidth="5742"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="5742"/>
+    <Text nLength="9" nType="POR_LAY" nHeight="231" nWidth="738"/>
+    <LineBreak nWidth="738"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9450" id="418" symbol="9SwTextFrm" next="419" prev="417" upper="423" txtNodeIndex="54">
+    <infos>
+     <bounds left="10056" top="22575" width="6169" height="2650"/>
+    </infos>
+The construction of the database will follow a series of steps imposed by best practices: creating a repository of sources; introducing, integrating, standardizing, coding and storing the information; enriching and disseminating the information. The codifications hold an essential part, not only in the individual linkage procedures, but in the analysing process as well. At the point when the database will comprise enough data, properly recorded and with all codifications undertaken, the usage of statistical software in order to identify trends and run comparisons over large scale geographical and administrative units might result in a better than ever understanding of Rome`s social history.    <Text nLength="73" nType="POR_TXT" nHeight="231" nWidth="5821"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="5821"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="5743"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="5743"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="6060"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <LineBreak nWidth="6127"/>
+    <Text nLength="78" nType="POR_TXT" nHeight="231" nWidth="6039"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="6039"/>
+    <Text nLength="75" nType="POR_TXT" nHeight="231" nWidth="5893"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="5893"/>
+    <Text nLength="72" nType="POR_TXT" nHeight="231" nWidth="5959"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="5959"/>
+    <Text nLength="80" nType="POR_TXT" nHeight="231" nWidth="6120"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="6120"/>
+    <Text nLength="72" nType="POR_TXT" nHeight="231" nWidth="5839"/>
+    <Special nLength="0" nType="POR_HYPH" rText="-"/>
+    <LineBreak nWidth="5906"/>
+    <Text nLength="77" nType="POR_TXT" nHeight="231" nWidth="6115"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="6115"/>
+    <Text nLength="15" nType="POR_LAY" nHeight="231" nWidth="1109"/>
+    <LineBreak nWidth="1109"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9350" id="419" symbol="9SwTextFrm" prev="418" upper="423" txtNodeIndex="55">
+    <infos>
+     <bounds left="10056" top="25225" width="6169" height="265"/>
+    </infos>
+    <Text nLength="0" nType="POR_PARA" nHeight="231"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x17f7b3570" id="447" symbol="9SwPageFrm" next="703" prev="422" upper="390" lower="449">
+  <infos>
+   <bounds left="8468" top="26888" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b64b0" id="449" symbol="11SwHeaderFrm" next="448" upper="447" lower="450" fmtName="Right header" fmtPtr="0x17f6293f0">
+   <infos>
+    <bounds left="9772" top="27568" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x1864a5940" id="450" symbol="9SwTextFrm" upper="449" txtNodeIndex="25">
+    <infos>
+     <bounds left="9772" top="27568" width="6169" height="207"/>
+    </infos>
+1. TITLE**    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b54b0" id="448" symbol="9SwBodyFrm" prev="449" upper="447" lower="420">
+   <infos>
+    <bounds left="9772" top="28306" width="6169" height="10749"/>
+   </infos>
+   <txt ptr="0x1864a9250" id="420" symbol="9SwTextFrm" next="421" upper="448" txtNodeIndex="56">
+    <infos>
+     <bounds left="9772" top="28306" width="6169" height="231"/>
+    </infos>
+    <Text nLength="0" nType="POR_PARA" nHeight="231"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a9150" id="421" symbol="9SwTextFrm" next="426" prev="420" upper="448" txtNodeIndex="57">
+    <infos>
+     <bounds left="9772" top="28537" width="6169" height="265"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7e48" id="426" symbol="9SwTextFrm" next="427" prev="421" upper="448" txtNodeIndex="58">
+    <infos>
+     <bounds left="9772" top="28802" width="6169" height="265"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7d48" id="427" symbol="9SwTextFrm" next="428" prev="426" upper="448" txtNodeIndex="59">
+    <infos>
+     <bounds left="9772" top="29067" width="6169" height="265"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7c48" id="428" symbol="9SwTextFrm" next="429" prev="427" upper="448" txtNodeIndex="60">
+    <infos>
+     <bounds left="9772" top="29332" width="6169" height="6296"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7b48" id="429" symbol="9SwTextFrm" next="430" prev="428" upper="448" txtNodeIndex="61">
+    <infos>
+     <bounds left="9772" top="35628" width="6169" height="265"/>
+    </infos>
+    <anchored>
+     <SwAnchoredDrawObject ptr="0x7f992c121ef0">
+      <bounds left="8986" top="29398" width="7744" height="5965"/>
+     </SwAnchoredDrawObject>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7a48" id="430" symbol="9SwTextFrm" next="431" prev="429" upper="448" txtNodeIndex="62">
+    <infos>
+     <bounds left="9772" top="35893" width="6169" height="265"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7948" id="431" symbol="9SwTextFrm" next="432" prev="430" upper="448" txtNodeIndex="63">
+    <infos>
+     <bounds left="9772" top="36158" width="6169" height="218"/>
+    </infos>
+Fig. 1. Schema of the database    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7848" id="432" symbol="9SwTextFrm" next="433" prev="431" upper="448" txtNodeIndex="64">
+    <infos>
+     <bounds left="9772" top="36376" width="6169" height="704"/>
+    </infos>
+2. The sources    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7748" id="433" symbol="9SwTextFrm" prev="432" upper="448" txtNodeIndex="65" follow="755">
+    <infos>
+     <bounds left="9772" top="37080" width="6169" height="1726"/>
+    </infos>
+Within this theoretical frame, whose amplitude implies a gradual and long-term approach, we have chosen to start by building the epigraphical division of the database. Thus, we began developing a project on the middle classes of the Low Danube provinces and their epigraphic attestations. The database created in this context together with the platform www.romans1by1.com represent the skeleton of the future population database of the Roman Empire.    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x17f7b3488" id="703" symbol="9SwPageFrm" next="708" prev="447" upper="390" lower="705">
+  <infos>
+   <bounds left="8468" top="40190" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b63e8" id="705" symbol="11SwHeaderFrm" next="704" upper="703" lower="706" fmtName="Right header" fmtPtr="0x17f6295e8">
+   <infos>
+    <bounds left="10056" top="40870" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x17f3f9e88" id="706" symbol="9SwTextFrm" upper="705" txtNodeIndex="28">
+    <infos>
+     <bounds left="10056" top="40870" width="6169" height="207"/>
+    </infos>
+**    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b53e8" id="704" symbol="9SwBodyFrm" prev="705" upper="703" lower="755">
+   <infos>
+    <bounds left="10056" top="41608" width="6169" height="10749"/>
+   </infos>
+   <txt ptr="0x117393698" id="755" symbol="9SwTextFrm" next="434" upper="704" txtNodeIndex="65" precede="433">
+    <infos>
+     <bounds left="10056" top="41608" width="6169" height="231"/>
+    </infos>
+Within this theoretical frame, whose amplitude implies a gradual and long-term approach, we have chosen to start by building the epigraphical division of the database. Thus, we began developing a project on the middle classes of the Low Danube provinces and their epigraphic attestations. The database created in this context together with the platform www.romans1by1.com represent the skeleton of the future population database of the Roman Empire.    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7648" id="434" symbol="9SwTextFrm" next="435" prev="755" upper="704" txtNodeIndex="66">
+    <infos>
+     <bounds left="10056" top="41839" width="6169" height="2351"/>
+    </infos>
+For now, we are solely focusing on characters attested epigraphically – thus on inscriptions as sources. As constructing a metadata suitable for all social and professional categories of the provincial world is very complex, our database is created for accommodating all information epigraphically provided on members of the provincial middle classes. Terminologically, we consider all those who manifest themselves epigraphically, without being members of the imperial or provincial elite, as member of the middle socio-economical layers. Likewise, we have excluded active militaries (but not their families), as their appurtenance to the army creates their social status.    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7548" id="435" symbol="9SwTextFrm" next="436" prev="434" upper="704" txtNodeIndex="67">
+    <infos>
+     <bounds left="10056" top="44190" width="6169" height="2616"/>
+    </infos>
+Regarding the data entry, we are trying to remain faithful to the source and to record, during the first phase, only the minimum of deduced information (gender, juridical status, ethnicity of the name). At the same time, we operate some conventional onomastic transcriptions (AEL will be Aelius from the start, etc.). All these basic normalization procedures are being thoroughly explained and documented in the data entry manual, and the reason why we chose to apply them is to speed up data standardization, run analyses and publish results on small samples, whose standardization procedures would otherwise be overwhelmingly time-consuming in relation with the results.    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7448" id="436" symbol="9SwTextFrm" next="437" prev="435" upper="704" txtNodeIndex="68">
+    <infos>
+     <bounds left="10056" top="46806" width="6169" height="707"/>
+    </infos>
+3. Database architecture    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7348" id="437" symbol="9SwTextFrm" next="438" prev="436" upper="704" txtNodeIndex="69">
+    <infos>
+     <bounds left="10056" top="47513" width="6169" height="1502"/>
+    </infos>
+The core of the database`s epigraphical division is formed by a table used for recording personal individual data (labelled Personal data), around which the entire network of components needed to ensure proper information recording is built. However, when starting data entry, one must begin by recording information about the source in use.    <Finish/>
+   </txt>
+   <txt ptr="0x1864aa358" id="438" symbol="9SwTextFrm" prev="437" upper="704" txtNodeIndex="70" follow="761">
+    <infos>
+     <bounds left="10056" top="49015" width="6169" height="3180"/>
+    </infos>
+The first table to be filled in is the file of the source – Inscriptions. First of all, each inscription gets a source code, formed of 5 digits and a symbol/acronym of the province’s name (D for Dacia, MS for Moesia Superior, DAL for Dalmatia, etc.) – so we have, for example 00001MS. The Inscriptions table has text fields, as well as value lists. Then, we have text strings for: Relevant expressions, Stylistic details, Atypical features, Observations, Place of discovery, Place of provenience, Ancient name provenience, Timestamp/Timeframe and External links. Although we are aware that some of the data (Timestamp/Timeframe) could have benefitted from a standardized form, at this point we opted for vaster possibilities of expression and adaptation. Other information will be filled using value lists, as standardization is more suited: Type of inscription, Language, Material. For these we will use the Eagle vocabularies,* because they offer an already standardized language.    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x17f7b33a0" id="708" symbol="9SwPageFrm" next="713" prev="703" upper="390" lower="710">
+  <infos>
+   <bounds left="8468" top="53492" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b6320" id="710" symbol="11SwHeaderFrm" next="709" upper="708" lower="711" fmtName="Right header" fmtPtr="0x17f6293f0">
+   <infos>
+    <bounds left="9772" top="54172" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x117392090" id="711" symbol="9SwTextFrm" upper="710" txtNodeIndex="25">
+    <infos>
+     <bounds left="9772" top="54172" width="6169" height="207"/>
+    </infos>
+1. TITLE**    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b5320" id="709" symbol="9SwBodyFrm" next="753" prev="710" upper="708" lower="761">
+   <infos>
+    <bounds left="9772" top="54910" width="6169" height="10349"/>
+   </infos>
+   <txt ptr="0x117393798" id="761" symbol="9SwTextFrm" next="439" upper="709" txtNodeIndex="70" precede="438">
+    <infos>
+     <bounds left="9772" top="54910" width="6169" height="496"/>
+    </infos>
+The first table to be filled in is the file of the source – Inscriptions. First of all, each inscription gets a source code, formed of 5 digits and a symbol/acronym of the province’s name (D for Dacia, MS for Moesia Superior, DAL for Dalmatia, etc.) – so we have, for example 00001MS. The Inscriptions table has text fields, as well as value lists. Then, we have text strings for: Relevant expressions, Stylistic details, Atypical features, Observations, Place of discovery, Place of provenience, Ancient name provenience, Timestamp/Timeframe and External links. Although we are aware that some of the data (Timestamp/Timeframe) could have benefitted from a standardized form, at this point we opted for vaster possibilities of expression and adaptation. Other information will be filled using value lists, as standardization is more suited: Type of inscription, Language, Material. For these we will use the Eagle vocabularies,* because they offer an already standardized language.    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7248" id="439" symbol="9SwTextFrm" next="440" prev="761" upper="709" txtNodeIndex="71">
+    <infos>
+     <bounds left="9772" top="55406" width="6169" height="530"/>
+    </infos>
+The Coordinates table links each inscription with the latitude and longitude of its place of provenience, in order to place it on a map.     <Finish/>
+   </txt>
+   <txt ptr="0x1864a7148" id="440" symbol="9SwTextFrm" next="441" prev="439" upper="709" txtNodeIndex="72">
+    <infos>
+     <bounds left="9772" top="55936" width="6169" height="1855"/>
+    </infos>
+The Inscription bibliography was conceived so that extracting complete or selective bibliographical lists would be possible. Thus, a normalization table includes all bibliographical titles referred to and from it; through a value list, one can select the Bibliography abbreviation. The exact reference is presented and detailed in the Details and Comments text strings. Of course, all data are linked to the Inscription code, selected as well from a value list.    <Finish/>
+   </txt>
+   <txt ptr="0x1864a7048" id="441" symbol="9SwTextFrm" next="442" prev="440" upper="709" txtNodeIndex="73">
+    <infos>
+     <bounds left="9772" top="57791" width="6169" height="2915"/>
+    </infos>
+Only after properly documenting the source one can access the main and most complex table, Personal data, where basically the individual file of each person is created. At this point, each new entry represents a singular epigraphic attestation of an individual, and a unique ID is generated, which will help link the respective character throughout the various components of the database and with other database entries. The person is also manually linked to the source using a value list of the inscriptions` codes. In the event of one person being attested in multiple epigraphs, each attestation will represent a new entry, and it will be assigned a new unique ID, which will be doubled, during linkage procedures, by a common ID for all instances of the same person.      <Finish/>
+   </txt>
+   <txt ptr="0x1864a5e40" id="442" symbol="9SwTextFrm" prev="441" upper="709" txtNodeIndex="74" follow="762">
+    <infos>
+     <bounds left="9772" top="60706" width="6169" height="4240"/>
+    </infos>
+The Personal data table was built to host a large variety of information offered by epigraphs, and its structure has proved, up to this day, rather stable. However, if need be, it can always be extended in order to accommodate any new kind of information. A first set of its variables are name-connected: Praenomen, Nomen, Cognomen/Personal name, Father/Master name, Agnomen, Signum, where each also has a drop-down associated for Ethnicity and the Agnomen and Signum an Observations string. While we believe the possibilities of actually identifying signa for members of the middle classes, during the Principate period, is rather reduced, we opted for facilitating their correct registration, in case they are discovered. Other data regard Natione, Ethnicity, Origo and Domus – if and how they are mentioned in the inscription. As acknowledged above, some information will be recorded, even if they are deductive and not literally written in the source: Gender and Juridical status (though the servile one often is literally recorded). For the latter, we have opted for a check box, which, if checked, opens all the available possibilities. The rest of the fields accommodate supplementary information, when and how there is the case: Occupation, Collegium, Deities, Age (at death), Details of life/death and Observations.     <Finish/>
+   </txt>
+  </body>
+  <ftncont ptr="0x7f992c080270" id="753" symbol="17SwFootnoteContFrm" prev="709" upper="708" lower="760">
+   <infos>
+    <bounds left="9772" top="65259" width="6169" height="400"/>
+   </infos>
+   <ftn ptr="0x7f992ecc9f60" id="760" symbol="13SwFootnoteFrm" upper="753" lower="757">
+    <infos>
+     <bounds left="9772" top="65383" width="6169" height="276"/>
+    </infos>
+    <txt ptr="0x117393398" id="757" symbol="9SwTextFrm" upper="760" txtNodeIndex="4">
+     <infos>
+      <bounds left="9772" top="65383" width="6169" height="276"/>
+     </infos>
+ http://www.eagle-network.eu/resources/vocabularies.      <Finish/>
+    </txt>
+   </ftn>
+  </ftncont>
+ </page>
+ <page ptr="0x17f7b32b8" id="713" symbol="9SwPageFrm" next="718" prev="708" upper="390" lower="715">
+  <infos>
+   <bounds left="8468" top="66794" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b6258" id="715" symbol="11SwHeaderFrm" next="714" upper="713" lower="716" fmtName="Right header" fmtPtr="0x17f6295e8">
+   <infos>
+    <bounds left="10056" top="67474" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x117392190" id="716" symbol="9SwTextFrm" upper="715" txtNodeIndex="28">
+    <infos>
+     <bounds left="10056" top="67474" width="6169" height="207"/>
+    </infos>
+**    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b5258" id="714" symbol="9SwBodyFrm" next="763" prev="715" upper="713" lower="762">
+   <infos>
+    <bounds left="10056" top="68212" width="6169" height="10349"/>
+   </infos>
+   <txt ptr="0x117393898" id="762" symbol="9SwTextFrm" next="443" upper="714" txtNodeIndex="74" precede="442">
+    <infos>
+     <bounds left="10056" top="68212" width="6169" height="496"/>
+    </infos>
+The Personal data table was built to host a large variety of information offered by epigraphs, and its structure has proved, up to this day, rather stable. However, if need be, it can always be extended in order to accommodate any new kind of information. A first set of its variables are name-connected: Praenomen, Nomen, Cognomen/Personal name, Father/Master name, Agnomen, Signum, where each also has a drop-down associated for Ethnicity and the Agnomen and Signum an Observations string. While we believe the possibilities of actually identifying signa for members of the middle classes, during the Principate period, is rather reduced, we opted for facilitating their correct registration, in case they are discovered. Other data regard Natione, Ethnicity, Origo and Domus – if and how they are mentioned in the inscription. As acknowledged above, some information will be recorded, even if they are deductive and not literally written in the source: Gender and Juridical status (though the servile one often is literally recorded). For the latter, we have opted for a check box, which, if checked, opens all the available possibilities. The rest of the fields accommodate supplementary information, when and how there is the case: Occupation, Collegium, Deities, Age (at death), Details of life/death and Observations.     <Finish/>
+   </txt>
+   <txt ptr="0x1864a5d40" id="443" symbol="9SwTextFrm" next="444" prev="762" upper="714" txtNodeIndex="75">
+    <infos>
+     <bounds left="10056" top="68708" width="6169" height="3180"/>
+    </infos>
+The Occupation field requires some special attention, as it has the Occupation code associated with it; as we are trying to propose a codification of Roman occupations/professions, based on and adapting the HISCO classification model*. While a raw classification and codification based on HISCO might only be a slight challenge, finding a theoretical model might prove to be a more elaborated task. What we aim at is constructing the “metadata” for the codification of Roman professions attested on stone and analyse how deep the classification can realistically go. Much alike other normalization fields present in the sources component of the database, Occupation code was implemented because it helps dealing faster with small and medium size samples (up to hundreds of people) in view of publishing preliminary results which are vital for dissemination and further financial support of the project.      <Finish/>
+   </txt>
+   <txt ptr="0x1864a5c40" id="444" symbol="9SwTextFrm" next="445" prev="443" upper="714" txtNodeIndex="76">
+    <infos>
+     <bounds left="10056" top="71888" width="6169" height="1060"/>
+    </infos>
+Two important variables, for statistics and working with the data, are Dedicated by and Dedicated for, which state the relation of the recorded individual with the epigraph and with other persons mentioned by it. Both appear in the simple form of check boxes.     <Finish/>
+   </txt>
+   <txt ptr="0x1864a5b40" id="445" symbol="9SwTextFrm" next="446" prev="444" upper="714" txtNodeIndex="77">
+    <infos>
+     <bounds left="10056" top="72948" width="6169" height="3975"/>
+    </infos>
+Another particular check box, in need of supplementary explanations, is Later. The database was conceived for attested civilians from the middle classes, but sometimes they are associated in inscriptions with militaries or representatives of the elites. In this case, we have to register a minimum of data on the later as well, in order to build a wider image of the characters that we focus on. When checking Later, it opens Status, which at its turn opens the following options in the form of check boxes: Senator, Knight, Local magistrate, Decurion, Imperial priest, Imperial slave, Imperial freedman, Military personnel. If checked, each of these boxes opens a Details text box; additionally, Local magistrate and Decurion open a City/Town value list, while Military personnel, opens Rank and Unit value lists. While elite members and military personnel will at some point be added to the database, for the currently running project purposes, their social and professional status, together with a minimum of relevant details and relation with the recorded individuals represent enough information.     <Finish/>
+   </txt>
+   <txt ptr="0x1864a5a40" id="446" symbol="9SwTextFrm" next="451" prev="445" upper="714" txtNodeIndex="78">
+    <infos>
+     <bounds left="10056" top="76923" width="6169" height="265"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x1864a5840" id="451" symbol="9SwTextFrm" next="452" prev="446" upper="714" txtNodeIndex="79">
+    <infos>
+     <bounds left="10056" top="77188" width="6169" height="241"/>
+    </infos>
+Table 1. Metadata of the Personal data table    <Finish/>
+   </txt>
+   <txt ptr="0x1864a5740" id="452" symbol="9SwTextFrm" next="453" prev="451" upper="714" txtNodeIndex="80">
+    <infos>
+     <bounds left="10056" top="77429" width="6169" height="238"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <tab ptr="0x18649a400" id="453" symbol="8SwTabFrm" prev="452" upper="714" lower="454" follow="764">
+    <infos>
+     <bounds left="10056" top="77667" width="6169" height="621"/>
+    </infos>
+    <row ptr="0x1864a2e88" id="454" symbol="8SwRowFrm" next="461" upper="453" lower="455">
+     <infos>
+      <bounds left="9943" top="77698" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a8508" id="455" symbol="9SwCellFrm" next="457" upper="454" lower="456">
+      <infos>
+       <bounds left="9943" top="77698" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864a5640" id="456" symbol="9SwTextFrm" upper="455" txtNodeIndex="83">
+       <infos>
+        <bounds left="10051" top="77708" width="2001" height="280"/>
+       </infos>
+Field label       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a8438" id="457" symbol="9SwCellFrm" next="459" prev="455" upper="454" lower="458">
+      <infos>
+       <bounds left="12160" top="77698" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864a5540" id="458" symbol="9SwTextFrm" upper="457" txtNodeIndex="86">
+       <infos>
+        <bounds left="12268" top="77708" width="1565" height="280"/>
+       </infos>
+Field id       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a8368" id="459" symbol="9SwCellFrm" prev="457" upper="454" lower="460">
+      <infos>
+       <bounds left="13941" top="77698" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864a5440" id="460" symbol="9SwTextFrm" upper="459" txtNodeIndex="89">
+       <infos>
+        <bounds left="14049" top="77708" width="2181" height="280"/>
+       </infos>
+Data type       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2da0" id="461" symbol="8SwRowFrm" prev="454" upper="453" lower="462">
+     <infos>
+      <bounds left="9943" top="77988" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a8298" id="462" symbol="9SwCellFrm" next="464" upper="461" lower="463">
+      <infos>
+       <bounds left="9943" top="77988" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864a5340" id="463" symbol="9SwTextFrm" upper="462" txtNodeIndex="92">
+       <infos>
+        <bounds left="10051" top="77998" width="2001" height="280"/>
+       </infos>
+Praenomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a81c8" id="464" symbol="9SwCellFrm" next="466" prev="462" upper="461" lower="465">
+      <infos>
+       <bounds left="12160" top="77988" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864a5240" id="465" symbol="9SwTextFrm" upper="464" txtNodeIndex="95">
+       <infos>
+        <bounds left="12268" top="77998" width="1565" height="280"/>
+       </infos>
+rperson_praenomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a80f8" id="466" symbol="9SwCellFrm" prev="464" upper="461" lower="467">
+      <infos>
+       <bounds left="13941" top="77988" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864a5140" id="467" symbol="9SwTextFrm" upper="466" txtNodeIndex="98">
+       <infos>
+        <bounds left="14049" top="77998" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+  </body>
+  <ftncont ptr="0x7f992be8d510" id="763" symbol="17SwFootnoteContFrm" prev="714" upper="713" lower="751">
+   <infos>
+    <bounds left="10056" top="78561" width="6169" height="400"/>
+   </infos>
+   <ftn ptr="0x7f992be502d0" id="751" symbol="13SwFootnoteFrm" upper="763" lower="752">
+    <infos>
+     <bounds left="10056" top="78685" width="6169" height="276"/>
+    </infos>
+    <txt ptr="0x117393498" id="752" symbol="9SwTextFrm" upper="751" txtNodeIndex="7">
+     <infos>
+      <bounds left="10056" top="78685" width="6169" height="276"/>
+     </infos>
+ http://historyofwork.iisg.nl/      <Finish/>
+    </txt>
+   </ftn>
+  </ftncont>
+ </page>
+ <page ptr="0x17f7b31d0" id="718" symbol="9SwPageFrm" next="723" prev="713" upper="390" lower="720">
+  <infos>
+   <bounds left="8468" top="80096" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b6190" id="720" symbol="11SwHeaderFrm" next="719" upper="718" lower="721" fmtName="Right header" fmtPtr="0x17f6293f0">
+   <infos>
+    <bounds left="9772" top="80776" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x117392290" id="721" symbol="9SwTextFrm" upper="720" txtNodeIndex="25">
+    <infos>
+     <bounds left="9772" top="80776" width="6169" height="207"/>
+    </infos>
+1. TITLE**    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b5190" id="719" symbol="9SwBodyFrm" prev="720" upper="718" lower="764">
+   <infos>
+    <bounds left="9772" top="81514" width="6169" height="10749"/>
+   </infos>
+   <tab ptr="0x18649a100" id="764" symbol="8SwTabFrm" upper="719" lower="468" follow="772" precede="453">
+    <infos>
+     <bounds left="9772" top="81514" width="6169" height="10630"/>
+    </infos>
+    <row ptr="0x1864a2cb8" id="468" symbol="8SwRowFrm" next="475" upper="764" lower="469">
+     <infos>
+      <bounds left="9659" top="81514" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a8028" id="469" symbol="9SwCellFrm" next="471" upper="468" lower="470">
+      <infos>
+       <bounds left="9659" top="81514" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864a5040" id="470" symbol="9SwTextFrm" upper="469" txtNodeIndex="101">
+       <infos>
+        <bounds left="9767" top="81524" width="2001" height="280"/>
+       </infos>
+Ethnicity praenomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6ec0" id="471" symbol="9SwCellFrm" next="473" prev="469" upper="468" lower="472">
+      <infos>
+       <bounds left="11876" top="81514" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3e38" id="472" symbol="9SwTextFrm" upper="471" txtNodeIndex="104">
+       <infos>
+        <bounds left="11984" top="81524" width="1565" height="280"/>
+       </infos>
+rperson_eth_praen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6df0" id="473" symbol="9SwCellFrm" prev="471" upper="468" lower="474">
+      <infos>
+       <bounds left="13657" top="81514" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3d38" id="474" symbol="9SwTextFrm" upper="473" txtNodeIndex="107">
+       <infos>
+        <bounds left="13765" top="81524" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2bd0" id="475" symbol="8SwRowFrm" next="482" prev="468" upper="764" lower="476">
+     <infos>
+      <bounds left="9659" top="81804" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a6d20" id="476" symbol="9SwCellFrm" next="478" upper="475" lower="477">
+      <infos>
+       <bounds left="9659" top="81804" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3c38" id="477" symbol="9SwTextFrm" upper="476" txtNodeIndex="110">
+       <infos>
+        <bounds left="9767" top="81814" width="2001" height="280"/>
+       </infos>
+Nomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6c50" id="478" symbol="9SwCellFrm" next="480" prev="476" upper="475" lower="479">
+      <infos>
+       <bounds left="11876" top="81804" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3b38" id="479" symbol="9SwTextFrm" upper="478" txtNodeIndex="113">
+       <infos>
+        <bounds left="11984" top="81814" width="1565" height="280"/>
+       </infos>
+rperson_nomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6b80" id="480" symbol="9SwCellFrm" prev="478" upper="475" lower="481">
+      <infos>
+       <bounds left="13657" top="81804" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3a38" id="481" symbol="9SwTextFrm" upper="480" txtNodeIndex="116">
+       <infos>
+        <bounds left="13765" top="81814" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2ae8" id="482" symbol="8SwRowFrm" next="489" prev="475" upper="764" lower="483">
+     <infos>
+      <bounds left="9659" top="82094" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a6ab0" id="483" symbol="9SwCellFrm" next="485" upper="482" lower="484">
+      <infos>
+       <bounds left="9659" top="82094" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3938" id="484" symbol="9SwTextFrm" upper="483" txtNodeIndex="119">
+       <infos>
+        <bounds left="9767" top="82104" width="2001" height="280"/>
+       </infos>
+Ethnicity nomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a69e0" id="485" symbol="9SwCellFrm" next="487" prev="483" upper="482" lower="486">
+      <infos>
+       <bounds left="11876" top="82094" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3838" id="486" symbol="9SwTextFrm" upper="485" txtNodeIndex="122">
+       <infos>
+        <bounds left="11984" top="82104" width="1565" height="280"/>
+       </infos>
+rperson_eth_nom       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6910" id="487" symbol="9SwCellFrm" prev="485" upper="482" lower="488">
+      <infos>
+       <bounds left="13657" top="82094" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3738" id="488" symbol="9SwTextFrm" upper="487" txtNodeIndex="125">
+       <infos>
+        <bounds left="13765" top="82104" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2a00" id="489" symbol="8SwRowFrm" next="496" prev="482" upper="764" lower="490">
+     <infos>
+      <bounds left="9659" top="82384" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a6840" id="490" symbol="9SwCellFrm" next="492" upper="489" lower="491">
+      <infos>
+       <bounds left="9659" top="82384" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864a9e50" id="491" symbol="9SwTextFrm" upper="490" txtNodeIndex="128">
+       <infos>
+        <bounds left="9767" top="82394" width="2001" height="280"/>
+       </infos>
+Cognomen/Personal name       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6770" id="492" symbol="9SwCellFrm" next="494" prev="490" upper="489" lower="493">
+      <infos>
+       <bounds left="11876" top="82384" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864aa058" id="493" symbol="9SwTextFrm" upper="492" txtNodeIndex="131">
+       <infos>
+        <bounds left="11984" top="82394" width="1565" height="280"/>
+       </infos>
+rperson_cognomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a66a0" id="494" symbol="9SwCellFrm" prev="492" upper="489" lower="495">
+      <infos>
+       <bounds left="13657" top="82384" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864aa158" id="495" symbol="9SwTextFrm" upper="494" txtNodeIndex="134">
+       <infos>
+        <bounds left="13765" top="82394" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2918" id="496" symbol="8SwRowFrm" next="503" prev="489" upper="764" lower="497">
+     <infos>
+      <bounds left="9659" top="82674" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x1864a65d0" id="497" symbol="9SwCellFrm" next="499" upper="496" lower="498">
+      <infos>
+       <bounds left="9659" top="82674" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x1864aa258" id="498" symbol="9SwTextFrm" upper="497" txtNodeIndex="137">
+       <infos>
+        <bounds left="9767" top="82684" width="2001" height="560"/>
+       </infos>
+Ethnicity cognomen/personal name       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6500" id="499" symbol="9SwCellFrm" next="501" prev="497" upper="496" lower="500">
+      <infos>
+       <bounds left="11876" top="82674" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x1864a3038" id="500" symbol="9SwTextFrm" upper="499" txtNodeIndex="140">
+       <infos>
+        <bounds left="11984" top="82684" width="1565" height="280"/>
+       </infos>
+rperson_eth_cogn       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6430" id="501" symbol="9SwCellFrm" prev="499" upper="496" lower="502">
+      <infos>
+       <bounds left="13657" top="82674" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x1864a3138" id="502" symbol="9SwTextFrm" upper="501" txtNodeIndex="143">
+       <infos>
+        <bounds left="13765" top="82684" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2830" id="503" symbol="8SwRowFrm" next="510" prev="496" upper="764" lower="504">
+     <infos>
+      <bounds left="9659" top="83244" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a6360" id="504" symbol="9SwCellFrm" next="506" upper="503" lower="505">
+      <infos>
+       <bounds left="9659" top="83244" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3238" id="505" symbol="9SwTextFrm" upper="504" txtNodeIndex="146">
+       <infos>
+        <bounds left="9767" top="83254" width="2001" height="280"/>
+       </infos>
+Father/Master name       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6290" id="506" symbol="9SwCellFrm" next="508" prev="504" upper="503" lower="507">
+      <infos>
+       <bounds left="11876" top="83244" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3338" id="507" symbol="9SwTextFrm" upper="506" txtNodeIndex="149">
+       <infos>
+        <bounds left="11984" top="83254" width="1565" height="280"/>
+       </infos>
+rperson_father       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a61c0" id="508" symbol="9SwCellFrm" prev="506" upper="503" lower="509">
+      <infos>
+       <bounds left="13657" top="83244" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864a3438" id="509" symbol="9SwTextFrm" upper="508" txtNodeIndex="152">
+       <infos>
+        <bounds left="13765" top="83254" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2748" id="510" symbol="8SwRowFrm" next="517" prev="503" upper="764" lower="511">
+     <infos>
+      <bounds left="9659" top="83534" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x1864a60f0" id="511" symbol="9SwCellFrm" next="513" upper="510" lower="512">
+      <infos>
+       <bounds left="9659" top="83534" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x1864a3538" id="512" symbol="9SwTextFrm" upper="511" txtNodeIndex="155">
+       <infos>
+        <bounds left="9767" top="83544" width="2001" height="560"/>
+       </infos>
+Ethnicity father/master name       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a6020" id="513" symbol="9SwCellFrm" next="515" prev="511" upper="510" lower="514">
+      <infos>
+       <bounds left="11876" top="83534" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x1864a3638" id="514" symbol="9SwTextFrm" upper="513" txtNodeIndex="158">
+       <infos>
+        <bounds left="11984" top="83544" width="1565" height="280"/>
+       </infos>
+rperson_eth_fth       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4eb8" id="515" symbol="9SwCellFrm" prev="513" upper="510" lower="516">
+      <infos>
+       <bounds left="13657" top="83534" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x1864ab560" id="516" symbol="9SwTextFrm" upper="515" txtNodeIndex="161">
+       <infos>
+        <bounds left="13765" top="83544" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2660" id="517" symbol="8SwRowFrm" next="524" prev="510" upper="764" lower="518">
+     <infos>
+      <bounds left="9659" top="84104" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a4de8" id="518" symbol="9SwCellFrm" next="520" upper="517" lower="519">
+      <infos>
+       <bounds left="9659" top="84104" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864ab360" id="519" symbol="9SwTextFrm" upper="518" txtNodeIndex="164">
+       <infos>
+        <bounds left="9767" top="84114" width="2001" height="280"/>
+       </infos>
+Agnomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4d18" id="520" symbol="9SwCellFrm" next="522" prev="518" upper="517" lower="521">
+      <infos>
+       <bounds left="11876" top="84104" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864ab460" id="521" symbol="9SwTextFrm" upper="520" txtNodeIndex="167">
+       <infos>
+        <bounds left="11984" top="84114" width="1565" height="280"/>
+       </infos>
+rperson_agnomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4c48" id="522" symbol="9SwCellFrm" prev="520" upper="517" lower="523">
+      <infos>
+       <bounds left="13657" top="84104" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864ab660" id="523" symbol="9SwTextFrm" upper="522" txtNodeIndex="170">
+       <infos>
+        <bounds left="13765" top="84114" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2578" id="524" symbol="8SwRowFrm" next="531" prev="517" upper="764" lower="525">
+     <infos>
+      <bounds left="9659" top="84394" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a4b78" id="525" symbol="9SwCellFrm" next="527" upper="524" lower="526">
+      <infos>
+       <bounds left="9659" top="84394" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864ab760" id="526" symbol="9SwTextFrm" upper="525" txtNodeIndex="173">
+       <infos>
+        <bounds left="9767" top="84404" width="2001" height="280"/>
+       </infos>
+Ethnicity agnomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4aa8" id="527" symbol="9SwCellFrm" next="529" prev="525" upper="524" lower="528">
+      <infos>
+       <bounds left="11876" top="84394" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864ab860" id="528" symbol="9SwTextFrm" upper="527" txtNodeIndex="176">
+       <infos>
+        <bounds left="11984" top="84404" width="1565" height="280"/>
+       </infos>
+rperson_eth_agn       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a49d8" id="529" symbol="9SwCellFrm" prev="527" upper="524" lower="530">
+      <infos>
+       <bounds left="13657" top="84394" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x1864ab960" id="530" symbol="9SwTextFrm" upper="529" txtNodeIndex="179">
+       <infos>
+        <bounds left="13765" top="84404" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2490" id="531" symbol="8SwRowFrm" next="538" prev="524" upper="764" lower="532">
+     <infos>
+      <bounds left="9659" top="84684" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x1864a4908" id="532" symbol="9SwCellFrm" next="534" upper="531" lower="533">
+      <infos>
+       <bounds left="9659" top="84684" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x1864aba60" id="533" symbol="9SwTextFrm" upper="532" txtNodeIndex="182">
+       <infos>
+        <bounds left="9767" top="84694" width="2001" height="280"/>
+       </infos>
+Observations agnomen       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4838" id="534" symbol="9SwCellFrm" next="536" prev="532" upper="531" lower="535">
+      <infos>
+       <bounds left="11876" top="84684" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x1864abb60" id="535" symbol="9SwTextFrm" upper="534" txtNodeIndex="185">
+       <infos>
+        <bounds left="11984" top="84694" width="1565" height="560"/>
+       </infos>
+rperson_remark_agn       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4768" id="536" symbol="9SwCellFrm" prev="534" upper="531" lower="537">
+      <infos>
+       <bounds left="13657" top="84684" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x1864abc60" id="537" symbol="9SwTextFrm" upper="536" txtNodeIndex="188">
+       <infos>
+        <bounds left="13765" top="84694" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a23a8" id="538" symbol="8SwRowFrm" next="545" prev="531" upper="764" lower="539">
+     <infos>
+      <bounds left="9659" top="85254" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a4698" id="539" symbol="9SwCellFrm" next="541" upper="538" lower="540">
+      <infos>
+       <bounds left="9659" top="85254" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x1864abd60" id="540" symbol="9SwTextFrm" upper="539" txtNodeIndex="191">
+       <infos>
+        <bounds left="9767" top="85264" width="2001" height="280"/>
+       </infos>
+Signum       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a45c8" id="541" symbol="9SwCellFrm" next="543" prev="539" upper="538" lower="542">
+      <infos>
+       <bounds left="11876" top="85254" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x1864abe60" id="542" symbol="9SwTextFrm" upper="541" txtNodeIndex="194">
+       <infos>
+        <bounds left="11984" top="85264" width="1565" height="280"/>
+       </infos>
+rperson_signum       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a44f8" id="543" symbol="9SwCellFrm" prev="541" upper="538" lower="544">
+      <infos>
+       <bounds left="13657" top="85254" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114d9b068" id="544" symbol="9SwTextFrm" upper="543" txtNodeIndex="197">
+       <infos>
+        <bounds left="13765" top="85264" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a22c0" id="545" symbol="8SwRowFrm" next="552" prev="538" upper="764" lower="546">
+     <infos>
+      <bounds left="9659" top="85544" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a4428" id="546" symbol="9SwCellFrm" next="548" upper="545" lower="547">
+      <infos>
+       <bounds left="9659" top="85544" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114d9b168" id="547" symbol="9SwTextFrm" upper="546" txtNodeIndex="200">
+       <infos>
+        <bounds left="9767" top="85554" width="2001" height="280"/>
+       </infos>
+Ethnicity signum       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4358" id="548" symbol="9SwCellFrm" next="550" prev="546" upper="545" lower="549">
+      <infos>
+       <bounds left="11876" top="85544" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114d9b268" id="549" symbol="9SwTextFrm" upper="548" txtNodeIndex="203">
+       <infos>
+        <bounds left="11984" top="85554" width="1565" height="280"/>
+       </infos>
+rperson_eth_sign       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4288" id="550" symbol="9SwCellFrm" prev="548" upper="545" lower="551">
+      <infos>
+       <bounds left="13657" top="85544" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114d9b368" id="551" symbol="9SwTextFrm" upper="550" txtNodeIndex="206">
+       <infos>
+        <bounds left="13765" top="85554" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a21d8" id="552" symbol="8SwRowFrm" next="559" prev="545" upper="764" lower="553">
+     <infos>
+      <bounds left="9659" top="85834" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x1864a41b8" id="553" symbol="9SwCellFrm" next="555" upper="552" lower="554">
+      <infos>
+       <bounds left="9659" top="85834" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x114d9b468" id="554" symbol="9SwTextFrm" upper="553" txtNodeIndex="209">
+       <infos>
+        <bounds left="9767" top="85844" width="2001" height="280"/>
+       </infos>
+Observations signum       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a40e8" id="555" symbol="9SwCellFrm" next="557" prev="553" upper="552" lower="556">
+      <infos>
+       <bounds left="11876" top="85834" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x114d9b568" id="556" symbol="9SwTextFrm" upper="555" txtNodeIndex="212">
+       <infos>
+        <bounds left="11984" top="85844" width="1565" height="560"/>
+       </infos>
+rperson_remark_sign       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a4018" id="557" symbol="9SwCellFrm" prev="555" upper="552" lower="558">
+      <infos>
+       <bounds left="13657" top="85834" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x114d9b668" id="558" symbol="9SwTextFrm" upper="557" txtNodeIndex="215">
+       <infos>
+        <bounds left="13765" top="85844" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a20f0" id="559" symbol="8SwRowFrm" next="566" prev="552" upper="764" lower="560">
+     <infos>
+      <bounds left="9659" top="86404" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a0eb0" id="560" symbol="9SwCellFrm" next="562" upper="559" lower="561">
+      <infos>
+       <bounds left="9659" top="86404" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114d9b768" id="561" symbol="9SwTextFrm" upper="560" txtNodeIndex="218">
+       <infos>
+        <bounds left="9767" top="86414" width="2001" height="280"/>
+       </infos>
+Natione       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0de0" id="562" symbol="9SwCellFrm" next="564" prev="560" upper="559" lower="563">
+      <infos>
+       <bounds left="11876" top="86404" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114d9b868" id="563" symbol="9SwTextFrm" upper="562" txtNodeIndex="221">
+       <infos>
+        <bounds left="11984" top="86414" width="1565" height="280"/>
+       </infos>
+rperson_nation       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0d10" id="564" symbol="9SwCellFrm" prev="562" upper="559" lower="565">
+      <infos>
+       <bounds left="13657" top="86404" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114d9b968" id="565" symbol="9SwTextFrm" upper="564" txtNodeIndex="224">
+       <infos>
+        <bounds left="13765" top="86414" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x1864a2008" id="566" symbol="8SwRowFrm" next="573" prev="559" upper="764" lower="567">
+     <infos>
+      <bounds left="9659" top="86694" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x1864a0c40" id="567" symbol="9SwCellFrm" next="569" upper="566" lower="568">
+      <infos>
+       <bounds left="9659" top="86694" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x114d9ba68" id="568" symbol="9SwTextFrm" upper="567" txtNodeIndex="227">
+       <infos>
+        <bounds left="9767" top="86704" width="2001" height="280"/>
+       </infos>
+Ethnicity       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0b70" id="569" symbol="9SwCellFrm" next="571" prev="567" upper="566" lower="570">
+      <infos>
+       <bounds left="11876" top="86694" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x114d9bb68" id="570" symbol="9SwTextFrm" upper="569" txtNodeIndex="230">
+       <infos>
+        <bounds left="11984" top="86704" width="1565" height="560"/>
+       </infos>
+rperson_nat_ethnicity       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0aa0" id="571" symbol="9SwCellFrm" prev="569" upper="566" lower="572">
+      <infos>
+       <bounds left="13657" top="86694" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x114d9bc68" id="572" symbol="9SwTextFrm" upper="571" txtNodeIndex="233">
+       <infos>
+        <bounds left="13765" top="86704" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649be80" id="573" symbol="8SwRowFrm" next="580" prev="566" upper="764" lower="574">
+     <infos>
+      <bounds left="9659" top="87264" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a09d0" id="574" symbol="9SwCellFrm" next="576" upper="573" lower="575">
+      <infos>
+       <bounds left="9659" top="87264" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114d9bd68" id="575" symbol="9SwTextFrm" upper="574" txtNodeIndex="236">
+       <infos>
+        <bounds left="9767" top="87274" width="2001" height="280"/>
+       </infos>
+Gender       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0900" id="576" symbol="9SwCellFrm" next="578" prev="574" upper="573" lower="577">
+      <infos>
+       <bounds left="11876" top="87264" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114d9be68" id="577" symbol="9SwTextFrm" upper="576" txtNodeIndex="239">
+       <infos>
+        <bounds left="11984" top="87274" width="1565" height="280"/>
+       </infos>
+rperson_rgender_id       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0830" id="578" symbol="9SwCellFrm" prev="576" upper="573" lower="579">
+      <infos>
+       <bounds left="13657" top="87264" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114d9d070" id="579" symbol="9SwTextFrm" upper="578" txtNodeIndex="242">
+       <infos>
+        <bounds left="13765" top="87274" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649bd98" id="580" symbol="8SwRowFrm" next="589" prev="573" upper="764" lower="581">
+     <infos>
+      <bounds left="9659" top="87554" width="6395" height="1690"/>
+     </infos>
+     <cell ptr="0x1864a0760" id="581" symbol="9SwCellFrm" next="583" upper="580" lower="582">
+      <infos>
+       <bounds left="9659" top="87554" width="2217" height="1690"/>
+      </infos>
+      <txt ptr="0x114d9d170" id="582" symbol="9SwTextFrm" upper="581" txtNodeIndex="245">
+       <infos>
+        <bounds left="9767" top="87564" width="2001" height="280"/>
+       </infos>
+Juridical status       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0690" id="583" symbol="9SwCellFrm" next="585" prev="581" upper="580" lower="584">
+      <infos>
+       <bounds left="11876" top="87554" width="1781" height="1690"/>
+      </infos>
+      <txt ptr="0x114d9d270" id="584" symbol="9SwTextFrm" upper="583" txtNodeIndex="248">
+       <infos>
+        <bounds left="11984" top="87564" width="1565" height="280"/>
+       </infos>
+rperson_jstatus       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a05c0" id="585" symbol="9SwCellFrm" prev="583" upper="580" lower="586">
+      <infos>
+       <bounds left="13657" top="87554" width="2397" height="1690"/>
+      </infos>
+      <txt ptr="0x114d9d370" id="586" symbol="9SwTextFrm" next="587" upper="585" txtNodeIndex="251">
+       <infos>
+        <bounds left="13765" top="87564" width="2181" height="560"/>
+       </infos>
+Checkbox.  Opens checkboxes:        <Finish/>
+      </txt>
+      <txt ptr="0x114d9d470" id="587" symbol="9SwTextFrm" next="588" prev="586" upper="585" txtNodeIndex="252">
+       <infos>
+        <bounds left="13765" top="88124" width="2181" height="560"/>
+       </infos>
+Citizen/Libertus/Peregrine/Slave/       <Finish/>
+      </txt>
+      <txt ptr="0x114d9d570" id="588" symbol="9SwTextFrm" prev="587" upper="585" txtNodeIndex="253">
+       <infos>
+        <bounds left="13765" top="88684" width="2181" height="560"/>
+       </infos>
+Veteranus (opens Unit/Rank - valuelists)       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649bcb0" id="589" symbol="8SwRowFrm" next="596" prev="580" upper="764" lower="590">
+     <infos>
+      <bounds left="9659" top="89244" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a04f0" id="590" symbol="9SwCellFrm" next="592" upper="589" lower="591">
+      <infos>
+       <bounds left="9659" top="89244" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114d9d670" id="591" symbol="9SwTextFrm" upper="590" txtNodeIndex="256">
+       <infos>
+        <bounds left="9767" top="89254" width="2001" height="280"/>
+       </infos>
+Tribus       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0420" id="592" symbol="9SwCellFrm" next="594" prev="590" upper="589" lower="593">
+      <infos>
+       <bounds left="11876" top="89244" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114d9d770" id="593" symbol="9SwTextFrm" upper="592" txtNodeIndex="259">
+       <infos>
+        <bounds left="11984" top="89254" width="1565" height="280"/>
+       </infos>
+rperson_rtribus_id       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a0350" id="594" symbol="9SwCellFrm" prev="592" upper="589" lower="595">
+      <infos>
+       <bounds left="13657" top="89244" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114d9d870" id="595" symbol="9SwTextFrm" upper="594" txtNodeIndex="262">
+       <infos>
+        <bounds left="13765" top="89254" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649bbc8" id="596" symbol="8SwRowFrm" next="603" prev="589" upper="764" lower="597">
+     <infos>
+      <bounds left="9659" top="89534" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a0280" id="597" symbol="9SwCellFrm" next="599" upper="596" lower="598">
+      <infos>
+       <bounds left="9659" top="89534" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114d9d970" id="598" symbol="9SwTextFrm" upper="597" txtNodeIndex="265">
+       <infos>
+        <bounds left="9767" top="89544" width="2001" height="280"/>
+       </infos>
+Origo       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a01b0" id="599" symbol="9SwCellFrm" next="601" prev="597" upper="596" lower="600">
+      <infos>
+       <bounds left="11876" top="89534" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114d9da70" id="600" symbol="9SwTextFrm" upper="599" txtNodeIndex="268">
+       <infos>
+        <bounds left="11984" top="89544" width="1565" height="280"/>
+       </infos>
+rperson_origo       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x1864a00e0" id="601" symbol="9SwCellFrm" prev="599" upper="596" lower="602">
+      <infos>
+       <bounds left="13657" top="89534" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114d9db70" id="602" symbol="9SwTextFrm" upper="601" txtNodeIndex="271">
+       <infos>
+        <bounds left="13765" top="89544" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649bae0" id="603" symbol="8SwRowFrm" next="610" prev="596" upper="764" lower="604">
+     <infos>
+      <bounds left="9659" top="89824" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x1864a0010" id="604" symbol="9SwCellFrm" next="606" upper="603" lower="605">
+      <infos>
+       <bounds left="9659" top="89824" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114d9dc70" id="605" symbol="9SwTextFrm" upper="604" txtNodeIndex="274">
+       <infos>
+        <bounds left="9767" top="89834" width="2001" height="280"/>
+       </infos>
+Domus       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649eea8" id="606" symbol="9SwCellFrm" next="608" prev="604" upper="603" lower="607">
+      <infos>
+       <bounds left="11876" top="89824" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114d9dd70" id="607" symbol="9SwTextFrm" upper="606" txtNodeIndex="277">
+       <infos>
+        <bounds left="11984" top="89834" width="1565" height="280"/>
+       </infos>
+rperson_domus       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649edd8" id="608" symbol="9SwCellFrm" prev="606" upper="603" lower="609">
+      <infos>
+       <bounds left="13657" top="89824" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114d9de70" id="609" symbol="9SwTextFrm" upper="608" txtNodeIndex="280">
+       <infos>
+        <bounds left="13765" top="89834" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b9f8" id="610" symbol="8SwRowFrm" next="617" prev="603" upper="764" lower="611">
+     <infos>
+      <bounds left="9659" top="90114" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x18649ed08" id="611" symbol="9SwCellFrm" next="613" upper="610" lower="612">
+      <infos>
+       <bounds left="9659" top="90114" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114da1078" id="612" symbol="9SwTextFrm" upper="611" txtNodeIndex="283">
+       <infos>
+        <bounds left="9767" top="90124" width="2001" height="280"/>
+       </infos>
+Collegium       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649ec38" id="613" symbol="9SwCellFrm" next="615" prev="611" upper="610" lower="614">
+      <infos>
+       <bounds left="11876" top="90114" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114da1178" id="614" symbol="9SwTextFrm" upper="613" txtNodeIndex="286">
+       <infos>
+        <bounds left="11984" top="90124" width="1565" height="280"/>
+       </infos>
+rperson_collegium       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649eb68" id="615" symbol="9SwCellFrm" prev="613" upper="610" lower="616">
+      <infos>
+       <bounds left="13657" top="90114" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114da1278" id="616" symbol="9SwTextFrm" upper="615" txtNodeIndex="289">
+       <infos>
+        <bounds left="13765" top="90124" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b910" id="617" symbol="8SwRowFrm" next="624" prev="610" upper="764" lower="618">
+     <infos>
+      <bounds left="9659" top="90404" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x18649ea98" id="618" symbol="9SwCellFrm" next="620" upper="617" lower="619">
+      <infos>
+       <bounds left="9659" top="90404" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114da1378" id="619" symbol="9SwTextFrm" upper="618" txtNodeIndex="292">
+       <infos>
+        <bounds left="9767" top="90414" width="2001" height="280"/>
+       </infos>
+Occupation       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e9c8" id="620" symbol="9SwCellFrm" next="622" prev="618" upper="617" lower="621">
+      <infos>
+       <bounds left="11876" top="90404" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114da1478" id="621" symbol="9SwTextFrm" upper="620" txtNodeIndex="295">
+       <infos>
+        <bounds left="11984" top="90414" width="1565" height="280"/>
+       </infos>
+rperson_occupation       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e8f8" id="622" symbol="9SwCellFrm" prev="620" upper="617" lower="623">
+      <infos>
+       <bounds left="13657" top="90404" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114da1578" id="623" symbol="9SwTextFrm" upper="622" txtNodeIndex="298">
+       <infos>
+        <bounds left="13765" top="90414" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b828" id="624" symbol="8SwRowFrm" next="631" prev="617" upper="764" lower="625">
+     <infos>
+      <bounds left="9659" top="90694" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x18649e828" id="625" symbol="9SwCellFrm" next="627" upper="624" lower="626">
+      <infos>
+       <bounds left="9659" top="90694" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114da1678" id="626" symbol="9SwTextFrm" upper="625" txtNodeIndex="301">
+       <infos>
+        <bounds left="9767" top="90704" width="2001" height="280"/>
+       </infos>
+Occupation code       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e758" id="627" symbol="9SwCellFrm" next="629" prev="625" upper="624" lower="628">
+      <infos>
+       <bounds left="11876" top="90694" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114da1778" id="628" symbol="9SwTextFrm" upper="627" txtNodeIndex="304">
+       <infos>
+        <bounds left="11984" top="90704" width="1565" height="280"/>
+       </infos>
+rperson_occ_code       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e688" id="629" symbol="9SwCellFrm" prev="627" upper="624" lower="630">
+      <infos>
+       <bounds left="13657" top="90694" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114da1878" id="630" symbol="9SwTextFrm" upper="629" txtNodeIndex="307">
+       <infos>
+        <bounds left="13765" top="90704" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b740" id="631" symbol="8SwRowFrm" next="638" prev="624" upper="764" lower="632">
+     <infos>
+      <bounds left="9659" top="90984" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x18649e5b8" id="632" symbol="9SwCellFrm" next="634" upper="631" lower="633">
+      <infos>
+       <bounds left="9659" top="90984" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114da1978" id="633" symbol="9SwTextFrm" upper="632" txtNodeIndex="310">
+       <infos>
+        <bounds left="9767" top="90994" width="2001" height="280"/>
+       </infos>
+Deities       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e4e8" id="634" symbol="9SwCellFrm" next="636" prev="632" upper="631" lower="635">
+      <infos>
+       <bounds left="11876" top="90984" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114da1a78" id="635" symbol="9SwTextFrm" upper="634" txtNodeIndex="313">
+       <infos>
+        <bounds left="11984" top="90994" width="1565" height="280"/>
+       </infos>
+rperson_deity       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e418" id="636" symbol="9SwCellFrm" prev="634" upper="631" lower="637">
+      <infos>
+       <bounds left="13657" top="90984" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114da1b78" id="637" symbol="9SwTextFrm" upper="636" txtNodeIndex="316">
+       <infos>
+        <bounds left="13765" top="90994" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b658" id="638" symbol="8SwRowFrm" next="645" prev="631" upper="764" lower="639">
+     <infos>
+      <bounds left="9659" top="91274" width="6395" height="290"/>
+     </infos>
+     <cell ptr="0x18649e348" id="639" symbol="9SwCellFrm" next="641" upper="638" lower="640">
+      <infos>
+       <bounds left="9659" top="91274" width="2217" height="290"/>
+      </infos>
+      <txt ptr="0x114da1c78" id="640" symbol="9SwTextFrm" upper="639" txtNodeIndex="319">
+       <infos>
+        <bounds left="9767" top="91284" width="2001" height="280"/>
+       </infos>
+Age       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e278" id="641" symbol="9SwCellFrm" next="643" prev="639" upper="638" lower="642">
+      <infos>
+       <bounds left="11876" top="91274" width="1781" height="290"/>
+      </infos>
+      <txt ptr="0x114da1d78" id="642" symbol="9SwTextFrm" upper="641" txtNodeIndex="322">
+       <infos>
+        <bounds left="11984" top="91284" width="1565" height="280"/>
+       </infos>
+rperson_age       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e1a8" id="643" symbol="9SwCellFrm" prev="641" upper="638" lower="644">
+      <infos>
+       <bounds left="13657" top="91274" width="2397" height="290"/>
+      </infos>
+      <txt ptr="0x114da1e78" id="644" symbol="9SwTextFrm" upper="643" txtNodeIndex="325">
+       <infos>
+        <bounds left="13765" top="91284" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b570" id="645" symbol="8SwRowFrm" prev="638" upper="764" lower="646">
+     <infos>
+      <bounds left="9659" top="91564" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x18649e0d8" id="646" symbol="9SwCellFrm" next="648" upper="645" lower="647">
+      <infos>
+       <bounds left="9659" top="91564" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8080" id="647" symbol="9SwTextFrm" upper="646" txtNodeIndex="328">
+       <infos>
+        <bounds left="9767" top="91574" width="2001" height="280"/>
+       </infos>
+Details of life/death       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649e008" id="648" symbol="9SwCellFrm" next="650" prev="646" upper="645" lower="649">
+      <infos>
+       <bounds left="11876" top="91564" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8180" id="649" symbol="9SwTextFrm" upper="648" txtNodeIndex="331">
+       <infos>
+        <bounds left="11984" top="91574" width="1565" height="560"/>
+       </infos>
+rperson_death_details       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649cea0" id="650" symbol="9SwCellFrm" prev="648" upper="645" lower="651">
+      <infos>
+       <bounds left="13657" top="91564" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8280" id="651" symbol="9SwTextFrm" upper="650" txtNodeIndex="334">
+       <infos>
+        <bounds left="13765" top="91574" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+  </body>
+ </page>
+ <page ptr="0x17f7b30e8" id="723" symbol="9SwPageFrm" next="727" prev="718" upper="390" lower="725">
+  <infos>
+   <bounds left="8468" top="93398" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b60c8" id="725" symbol="11SwHeaderFrm" next="724" upper="723" lower="726" fmtName="Right header" fmtPtr="0x17f6295e8">
+   <infos>
+    <bounds left="10056" top="94078" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x117392390" id="726" symbol="9SwTextFrm" upper="725" txtNodeIndex="28">
+    <infos>
+     <bounds left="10056" top="94078" width="6169" height="207"/>
+    </infos>
+**    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b50c8" id="724" symbol="9SwBodyFrm" prev="725" upper="723" lower="772">
+   <infos>
+    <bounds left="10056" top="94816" width="6169" height="10749"/>
+   </infos>
+   <tab ptr="0x18649a200" id="772" symbol="8SwTabFrm" next="731" upper="724" lower="652" precede="764">
+    <infos>
+     <bounds left="10056" top="94816" width="6169" height="8190"/>
+    </infos>
+    <row ptr="0x18649b488" id="652" symbol="8SwRowFrm" next="659" upper="772" lower="653">
+     <infos>
+      <bounds left="9943" top="94816" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x18649cdd0" id="653" symbol="9SwCellFrm" next="655" upper="652" lower="654">
+      <infos>
+       <bounds left="9943" top="94816" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8380" id="654" symbol="9SwTextFrm" upper="653" txtNodeIndex="337">
+       <infos>
+        <bounds left="10051" top="94826" width="2001" height="280"/>
+       </infos>
+Dedicated for       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649cd00" id="655" symbol="9SwCellFrm" next="657" prev="653" upper="652" lower="656">
+      <infos>
+       <bounds left="12160" top="94816" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8480" id="656" symbol="9SwTextFrm" upper="655" txtNodeIndex="340">
+       <infos>
+        <bounds left="12268" top="94826" width="1565" height="560"/>
+       </infos>
+rperson_dedicated_for       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649cc30" id="657" symbol="9SwCellFrm" prev="655" upper="652" lower="658">
+      <infos>
+       <bounds left="13941" top="94816" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8580" id="658" symbol="9SwTextFrm" upper="657" txtNodeIndex="343">
+       <infos>
+        <bounds left="14049" top="94826" width="2181" height="280"/>
+       </infos>
+Checkbox       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b3a0" id="659" symbol="8SwRowFrm" next="666" prev="652" upper="772" lower="660">
+     <infos>
+      <bounds left="9943" top="95386" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x18649cb60" id="660" symbol="9SwCellFrm" next="662" upper="659" lower="661">
+      <infos>
+       <bounds left="9943" top="95386" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8680" id="661" symbol="9SwTextFrm" upper="660" txtNodeIndex="346">
+       <infos>
+        <bounds left="10051" top="95396" width="2001" height="280"/>
+       </infos>
+Dedicated by       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649ca90" id="662" symbol="9SwCellFrm" next="664" prev="660" upper="659" lower="663">
+      <infos>
+       <bounds left="12160" top="95386" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8780" id="663" symbol="9SwTextFrm" upper="662" txtNodeIndex="349">
+       <infos>
+        <bounds left="12268" top="95396" width="1565" height="560"/>
+       </infos>
+rperson_dedicated_by       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c9c0" id="664" symbol="9SwCellFrm" prev="662" upper="659" lower="665">
+      <infos>
+       <bounds left="13941" top="95386" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8880" id="665" symbol="9SwTextFrm" upper="664" txtNodeIndex="352">
+       <infos>
+        <bounds left="14049" top="95396" width="2181" height="280"/>
+       </infos>
+Checkbox       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b2b8" id="666" symbol="8SwRowFrm" next="673" prev="659" upper="772" lower="667">
+     <infos>
+      <bounds left="9943" top="95956" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x18649c8f0" id="667" symbol="9SwCellFrm" next="669" upper="666" lower="668">
+      <infos>
+       <bounds left="9943" top="95956" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8980" id="668" symbol="9SwTextFrm" upper="667" txtNodeIndex="355">
+       <infos>
+        <bounds left="10051" top="95966" width="2001" height="280"/>
+       </infos>
+Inscription code       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c820" id="669" symbol="9SwCellFrm" next="671" prev="667" upper="666" lower="670">
+      <infos>
+       <bounds left="12160" top="95956" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8a80" id="670" symbol="9SwTextFrm" upper="669" txtNodeIndex="358">
+       <infos>
+        <bounds left="12268" top="95966" width="1565" height="560"/>
+       </infos>
+rperson_rinscription_ids       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c750" id="671" symbol="9SwCellFrm" prev="669" upper="666" lower="672">
+      <infos>
+       <bounds left="13941" top="95956" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8b80" id="672" symbol="9SwTextFrm" upper="671" txtNodeIndex="361">
+       <infos>
+        <bounds left="14049" top="95966" width="2181" height="280"/>
+       </infos>
+Value list       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b1d0" id="673" symbol="8SwRowFrm" next="680" prev="666" upper="772" lower="674">
+     <infos>
+      <bounds left="9943" top="96526" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x18649c680" id="674" symbol="9SwCellFrm" next="676" upper="673" lower="675">
+      <infos>
+       <bounds left="9943" top="96526" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8c80" id="675" symbol="9SwTextFrm" upper="674" txtNodeIndex="364">
+       <infos>
+        <bounds left="10051" top="96536" width="2001" height="280"/>
+       </infos>
+Later       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c5b0" id="676" symbol="9SwCellFrm" next="678" prev="674" upper="673" lower="677">
+      <infos>
+       <bounds left="12160" top="96526" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8d80" id="677" symbol="9SwTextFrm" upper="676" txtNodeIndex="367">
+       <infos>
+        <bounds left="12268" top="96536" width="1565" height="280"/>
+       </infos>
+rperson_now_stat       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c4e0" id="678" symbol="9SwCellFrm" prev="676" upper="673" lower="679">
+      <infos>
+       <bounds left="13941" top="96526" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f8e80" id="679" symbol="9SwTextFrm" upper="678" txtNodeIndex="370">
+       <infos>
+        <bounds left="14049" top="96536" width="2181" height="560"/>
+       </infos>
+Checkbox. Opens checkbox: Status       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b0e8" id="680" symbol="8SwRowFrm" next="695" prev="673" upper="772" lower="681">
+     <infos>
+      <bounds left="9943" top="97096" width="6395" height="5330"/>
+     </infos>
+     <cell ptr="0x18649c410" id="681" symbol="9SwCellFrm" next="683" upper="680" lower="682">
+      <infos>
+       <bounds left="9943" top="97096" width="2217" height="5330"/>
+      </infos>
+      <txt ptr="0x17f3f9088" id="682" symbol="9SwTextFrm" upper="681" txtNodeIndex="373">
+       <infos>
+        <bounds left="10051" top="97106" width="2001" height="280"/>
+       </infos>
+Status       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c340" id="683" symbol="9SwCellFrm" next="685" prev="681" upper="680" lower="684">
+      <infos>
+       <bounds left="12160" top="97096" width="1781" height="5330"/>
+      </infos>
+      <txt ptr="0x17f3f9188" id="684" symbol="9SwTextFrm" upper="683" txtNodeIndex="376">
+       <infos>
+        <bounds left="12268" top="97106" width="1565" height="280"/>
+       </infos>
+rperson_status       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c270" id="685" symbol="9SwCellFrm" prev="683" upper="680" lower="686">
+      <infos>
+       <bounds left="13941" top="97096" width="2397" height="5330"/>
+      </infos>
+      <txt ptr="0x17f3f9288" id="686" symbol="9SwTextFrm" next="687" upper="685" txtNodeIndex="379">
+       <infos>
+        <bounds left="14049" top="97106" width="2181" height="560"/>
+       </infos>
+Checkbox. Opens checkboxes:        <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9388" id="687" symbol="9SwTextFrm" next="688" prev="686" upper="685" txtNodeIndex="380">
+       <infos>
+        <bounds left="14049" top="97666" width="2181" height="560"/>
+       </infos>
+Senator (opens Details – text)/       <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9488" id="688" symbol="9SwTextFrm" next="689" prev="687" upper="685" txtNodeIndex="381">
+       <infos>
+        <bounds left="14049" top="98226" width="2181" height="560"/>
+       </infos>
+Knight (opens Details – text)/       <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9588" id="689" symbol="9SwTextFrm" next="690" prev="688" upper="685" txtNodeIndex="382">
+       <infos>
+        <bounds left="14049" top="98786" width="2181" height="560"/>
+       </infos>
+Local Magistrate (opens Details – text, City – value list)/       <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9688" id="690" symbol="9SwTextFrm" next="691" prev="689" upper="685" txtNodeIndex="383">
+       <infos>
+        <bounds left="14049" top="99346" width="2181" height="560"/>
+       </infos>
+Decurion (opens Details – text, City – value list)/       <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9788" id="691" symbol="9SwTextFrm" next="692" prev="690" upper="685" txtNodeIndex="384">
+       <infos>
+        <bounds left="14049" top="99906" width="2181" height="560"/>
+       </infos>
+Imperial priest (opens Details – text)/       <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9888" id="692" symbol="9SwTextFrm" next="693" prev="691" upper="685" txtNodeIndex="385">
+       <infos>
+        <bounds left="14049" top="100466" width="2181" height="560"/>
+       </infos>
+Imperial slave (opens Details – text)/       <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9988" id="693" symbol="9SwTextFrm" next="694" prev="692" upper="685" txtNodeIndex="386">
+       <infos>
+        <bounds left="14049" top="101026" width="2181" height="560"/>
+       </infos>
+Imperial freedman (opens Details – text)/       <Finish/>
+      </txt>
+      <txt ptr="0x17f3f9a88" id="694" symbol="9SwTextFrm" prev="693" upper="685" txtNodeIndex="387">
+       <infos>
+        <bounds left="14049" top="101586" width="2181" height="840"/>
+       </infos>
+Military personnel (opens Details – text, Unit/Rank – value lists)       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x18649b000" id="695" symbol="8SwRowFrm" prev="680" upper="772" lower="696">
+     <infos>
+      <bounds left="9943" top="102426" width="6395" height="570"/>
+     </infos>
+     <cell ptr="0x18649c1a0" id="696" symbol="9SwCellFrm" next="698" upper="695" lower="697">
+      <infos>
+       <bounds left="9943" top="102426" width="2217" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f9b88" id="697" symbol="9SwTextFrm" upper="696" txtNodeIndex="390">
+       <infos>
+        <bounds left="10051" top="102436" width="2001" height="280"/>
+       </infos>
+Observations       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c0d0" id="698" symbol="9SwCellFrm" next="700" prev="696" upper="695" lower="699">
+      <infos>
+       <bounds left="12160" top="102426" width="1781" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f9c88" id="699" symbol="9SwTextFrm" upper="698" txtNodeIndex="393">
+       <infos>
+        <bounds left="12268" top="102436" width="1565" height="560"/>
+       </infos>
+rperson_observation       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x18649c000" id="700" symbol="9SwCellFrm" prev="698" upper="695" lower="701">
+      <infos>
+       <bounds left="13941" top="102426" width="2397" height="570"/>
+      </infos>
+      <txt ptr="0x17f3f9d88" id="701" symbol="9SwTextFrm" upper="700" txtNodeIndex="396">
+       <infos>
+        <bounds left="14049" top="102436" width="2181" height="280"/>
+       </infos>
+Text       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x117392590" id="731" symbol="9SwTextFrm" next="732" prev="772" upper="724" txtNodeIndex="399">
+    <infos>
+     <bounds left="10056" top="103006" width="6169" height="231"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x117392690" id="732" symbol="9SwTextFrm" prev="731" upper="724" txtNodeIndex="400">
+    <infos>
+     <bounds left="10056" top="103237" width="6169" height="2120"/>
+    </infos>
+Based on the personal ID given to each individual, the Relationship table will solely name the relationship between individuals (A to B and B to A), choosing from a drop-down menu. The relationships have been encoded from the start, in order to make processing quicker; thus first-degree relationships have 10-codes (101-Husband, 102-Wife), second and third degree relations 20- and respectively 30-codes, non-family relations were given 40- codes and 50-s for the unspecified/unreadable relations. Male relations were given odd numbers and female ones – even numbers.     <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x17f7b3000" id="727" symbol="9SwPageFrm" prev="723" upper="390" lower="729">
+  <infos>
+   <bounds left="8468" top="106700" width="9061" height="13018"/>
+  </infos>
+  <header ptr="0x17f7b6000" id="729" symbol="11SwHeaderFrm" next="728" upper="727" lower="730" fmtName="Right header" fmtPtr="0x17f6293f0">
+   <infos>
+    <bounds left="9772" top="107380" width="6169" height="738"/>
+   </infos>
+   <txt ptr="0x117392490" id="730" symbol="9SwTextFrm" upper="729" txtNodeIndex="25">
+    <infos>
+     <bounds left="9772" top="107380" width="6169" height="207"/>
+    </infos>
+1. TITLE**    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x17f7b5000" id="728" symbol="9SwBodyFrm" prev="729" upper="727" lower="733">
+   <infos>
+    <bounds left="9772" top="108118" width="6169" height="10749"/>
+   </infos>
+   <txt ptr="0x117392790" id="733" symbol="9SwTextFrm" next="734" upper="728" txtNodeIndex="401">
+    <infos>
+     <bounds left="9772" top="108118" width="6169" height="276"/>
+    </infos>
+4. Conclusions    <Finish/>
+   </txt>
+   <txt ptr="0x117392890" id="734" symbol="9SwTextFrm" next="735" prev="733" upper="728" txtNodeIndex="402">
+    <infos>
+     <bounds left="9772" top="108394" width="6169" height="1502"/>
+    </infos>
+Romans 1 by 1 is a first step towards a comprehensive and exhaustive electronic resource for the attested population of the Roman Empire. The following normal steps for expanding and enriching the database is elaborating the fitted metadata for provincial elites and military personnel epigraphically attested.    <Finish/>
+   </txt>
+   <txt ptr="0x117392990" id="735" symbol="9SwTextFrm" next="736" prev="734" upper="728" txtNodeIndex="403">
+    <infos>
+     <bounds left="9772" top="109896" width="6169" height="265"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x117392a90" id="736" symbol="9SwTextFrm" next="739" prev="735" upper="728" txtNodeIndex="404">
+    <infos>
+     <bounds left="9772" top="110161" width="6169" height="265"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x7f993071c400" id="737" symbol="13SwFlyAtCntFrm" lower="738">
+      <infos>
+       <bounds left="9772" top="110597" width="6180" height="535"/>
+      </infos>
+      <txt ptr="0x117392b90" id="738" symbol="9SwTextFrm" upper="737" txtNodeIndex="19">
+       <infos>
+        <bounds left="9772" top="110597" width="6180" height="380"/>
+       </infos>
+Bibliography       <Text nLength="12" nType="POR_PARA" nHeight="345" nWidth="1583"/>
+       <LineBreak nWidth="1583"/>
+       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x117392c90" id="739" symbol="9SwTextFrm" next="740" prev="736" upper="728" txtNodeIndex="405">
+    <infos>
+     <bounds left="9772" top="110426" width="6169" height="1501"/>
+    </infos>
+MANDEMAKERS, K. and DILLON, J., Best Practices with Large Databases on Historical Populations, Historical Methods: A Journal of Quantitative and Interdisciplinary History, 37:1 (2004), 34-38.    <Finish/>
+   </txt>
+   <txt ptr="0x117392d90" id="740" symbol="9SwTextFrm" next="743" prev="739" upper="728" txtNodeIndex="406">
+    <infos>
+     <bounds left="9772" top="111927" width="6169" height="265"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x7f993071cb00" id="741" symbol="13SwFlyAtCntFrm" lower="742">
+      <infos>
+       <bounds left="9772" top="112342" width="6180" height="491"/>
+      </infos>
+      <txt ptr="0x117392e90" id="742" symbol="9SwTextFrm" upper="741" txtNodeIndex="22">
+       <infos>
+        <bounds left="9772" top="112342" width="6180" height="380"/>
+       </infos>
+Acknowledgement       <Text nLength="15" nType="POR_PARA" nHeight="345" nWidth="2266"/>
+       <LineBreak nWidth="2266"/>
+       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x117393098" id="743" symbol="9SwTextFrm" next="744" prev="740" upper="728" txtNodeIndex="407">
+    <infos>
+     <bounds left="9772" top="112192" width="6169" height="2231"/>
+    </infos>
+This work began being developed during the period of a residential scholarship at the Hardt Fondation, Vandoeuvre. Its expansion to the area of the whole Latin language Empire is being undertaken with the support of a postdoctoral fellowship of the Fritz Thyssen Stiftung. Also important was the financial support of a POSDRU scholarship, granted by the Babeș-Bolyai University.    <Finish/>
+   </txt>
+   <txt ptr="0x117393198" id="744" symbol="9SwTextFrm" next="745" prev="743" upper="728" txtNodeIndex="408">
+    <infos>
+     <bounds left="9772" top="114423" width="6169" height="265"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x117393298" id="745" symbol="9SwTextFrm" prev="744" upper="728" txtNodeIndex="409">
+    <infos>
+     <bounds left="9772" top="114688" width="6169" height="265"/>
+    </infos>
+This work began being developed during the period of a residential scholarship at the Hardt Fondation, Vandoeuvre. Its expansion to the area of the whole Latin language Empire is being undertaken with the support of a postdoctoral fellowship of the Fritz Thyssen Stiftung. *    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>

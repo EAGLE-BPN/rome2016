@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Mandemakers and Dillon}(2004)}]{doi:10.3200/HMTS.37.1.34-38}
+\textsc{Mandemakers, K., Dillon, L.}, \emph{Best practices with large databases
+  on historical populations}, Historical Methods: A Journal of Quantitative and
+  Interdisciplinary History, 37 (2004), 34--38, \doi{10.3200/HMTS.37.1.34-38},
+  \urlprefix\url{http://dx.doi.org/10.3200/HMTS.37.1.34-38}.
+
+\end{thebibliography}

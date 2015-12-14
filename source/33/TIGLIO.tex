@@ -1,0 +1,176 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX program = pdflatex
+% !TEX spellcheck = en_US
+
+
+% In order to correctly compile this document,
+% execute the following commands:
+% 1. pdflatex
+% 2. pdflatex
+% 3. pdflatex
+
+
+
+\documentclass[amsthm,ebook]{saparticle}
+
+% IF YOU USE PDFLATEX
+\usepackage[utf8x]{inputenc}
+% if you write in english and in greek
+\usepackage{ucs}
+\usepackage[greek,english]{babel}
+\languageattribute{greek}{polutoniko}
+
+% IF YOU USE XELATEX
+%\usepackage{polyglossia}
+% if you write in italian
+%\setmainlanguage{italian}
+% If you want put some ancient greek:
+%\setotherlanguage[variant=polytonic]{greek}
+%\newfontfamily{\greekfont}[Ligatures=TeX]{Palatino Linotype}
+
+% dummy text (remove in a normal thesis)
+% remove if not necessary
+\usepackage{siunitx}
+%Natbib for bibliography management
+\usepackage[authoryear]{natbib}
+% custom commands
+\newcommand{\bs}{\textbackslash}
+
+%%%%%%%%
+%TITLE:%
+%%%%%%%%
+\title{TIGLIO. Translations and Images of Greek and Latin Inscriptions Online}
+
+%%%%%%%%
+%AUTHORS:%
+%%%%%%%%
+\author[PERSEIDS]{Almas Bridget}
+\author[DC3]{Baumann Ryan}
+\author[PERSEIDS]{Beaulieu Marie-Claire}
+\author[DC3]{Cayless Hugh}
+\author[UHEI]{Cowey James}
+\author[UHEI]{Liuzzo Pietro\corref{first}}
+%\author[AIO]{Lambert Stephen}
+\author[AIO]{McCourt Finlay}
+\author[DC3]{Sosin Joshua}
+
+\cortext[first]{Corresponding author. Email: pietro.liuzzo@zaw.uni-heidelberg.de}
+
+\address[UHEI]{Ruprecht-Karls-Universität Heidelberg - Marstallstraße 6, 69117, Heidelberg (DE)}
+\address[AIO]{Glasgow University - Attic Inscriptions Online (UK)}
+\address[PERSEIDS]{Tufts University (USA)}
+\address[DC3]{Duke Collaboratory for Classics Computing (USA)}
+
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This paper describes the aims of a project funded by The Andrew W. Mellon Foundation to speculate on the best ways to deal with two forgotten types of content in the realm of ancient epigraphy: translations and images. Translations available online are less then 3\% of the total available transcriptions online; images are often subject to policies which make extremely difficult their use for research, publication, even simple viewing. There has been no thought given to these before in an articulated manner although these are the types of content which can bring a much larger group of users to epigraphy.   
+\end{abstract}
+
+\keywords{Translations, Images, Greek and Latin, Epigraphy, Online}
+
+\section{Introduction}\label{sec:intro}
+
+Nearly all Greek and Latin epigraphic texts are available, sometimes in multiple versions, after three decades of continuous digitization and online publication. Without counting repeated inscriptions and \textit{instrumenta}, there are about 300.000 Latin inscriptions\footnote{EAGLE disambiguated total: 235.626 ; EDCS not disambiguated total without \textit{instrumenta} and \textit{inscriptiones christianae}: 308.581. On the definition of Roman Epigraphy, see \citet{Panciera2012}.} online and about 200.000 Greek Inscriptions\footnote{Data from the latest Integrating Digital Epigraphies's (\url{https://youtu.be/OPfDj_hjeok}) harvest from the Packard Humanities Institute, Searchable Greek Inscriptions (\url{http://epigraphy.packhum.org/}), with some duplicates, 207.964.}. In some databases there is also abundant metadata and  a structured bibliography. The situation for translations and images of these inscriptions (text and support) available in the digital space is nevertheless quite different. The ratio between images of inscriptions and text is of one image every two inscriptions,\footnote{At the time in which this paper is being written (\today) the Epigraphic Database Heidelberg has ca. 35.000 photos and ca. 71.000 texts (0,5); The Epigraphic Database Roma has a slightly better ratio with 45.000 photos for 71.000 texts (0,6); The Epigraphic Database Bari has 34538 texts and 10341 images (0,3). In the EAGLE aggregator, the total ratio (excluding the related content of Arachne), is of 0,79 images for each text (235626 documental entities per 185999 visual entities) because smaller corpora tend to have a better photographic documentation.} but those inscriptions which have photographic documentation usually have many photos.\footnote{The Epigraphic Database Heidelberg has to date ca. 14.000 records with a photo or a drawing attached, bringing the average number of images per inscription to 2,5.} Translations are present only in smaller corpora edited online in most cases and the Attic Inscriptions Online project\footnote{\url{https://www.atticinscriptions.com}} is an \textit{uniquum} in its intent to provide mainly translations of inscriptions.\footnote{\citet{Lambert2014}} There are many publications offering translations in print, but these are not published online. An estimate calculation, based on the 11.000 translations present in the EAGLE Media Wiki, and known collections of printed translations of inscriptions, compared to a total of texts usefully translatable of around 300,000 texts, brings to an alarming 10\% of translated texts, of which only a third (slightly more than 3\%) is online. Translations are perhaps not a priority for researchers who know Greek and Latin, but are a way to clarify the interpretation of a text and an invaluable tool for didactical purposes and teaching: they are the only way in which an inscription can reach a wider public in a significant way as part of cultural heritage. The same could be said for images, even more obviously, since researchers also need them because: 1) they cannot always reach the place where an inscription is stored to study it  (given that the inscription is still there); 2) there are cases  in which a photo might be all we are left with and these are quickly increasing as monuments get lost or are destroyed. The imbalance in the documentation is thus pressing, since translations and images are our two best controls on the constitution and interpretation of ancient documentary texts. To an extent, digital epigraphy today is the direct descendant of epigraphy’s 19th century analog self: many texts, few translations, few images. This project aims to take initial steps to redress that imbalance, building resources that allow epigraphists and ancient historians to bring translations and images more closely into the suite of existing digital epigraphy resources.
+
+
+
+\section{Problems}
+Let's look at the data we have. The EAGLE project has gathered some insights on small collections of images of inscriptions openly published online, on Wikimedia Commons,\footnote{\url{https://commons.wikimedia.org/wiki/Category:Media_contributed_by_EAGLE}} and on a set of translations of inscriptions, collected in the EAGLE Media Wiki.\footnote{\citet{Liuzzo2014} \url{http://www.eagle-network.eu/wiki/index.php/Main_Page}} We shall compare their impact and reach on the wider public to that of the texts of inscriptions, to underline the urgency for these materials to be produced also in order to bring epigraphy outside its restricted circles.
+Let's look at the visits to the Epigraphic Database Clauss-Slaby, the largest collections of texts (with minimal metadata and no directly stored image): EDCS has an average 3000 requests per day.\footnote{This can be easily monitored looking at the counter on the website at the end of each day. No better statistics are available.} The result page is always one, containing all the results from the database, which has a total of 491353 texts. We have no means to provide better data unfortunately but for the comparison these will be enough. The images collected under the category ``Media Contributed by EAGLE'' on Wikimedia Commons contains instead around 8000 photos of inscriptions and we have some good insights on this data\footnote{Thanks to user:Fae and the authors of the BaGLAMa 2 tool. See \url{https://commons.wikimedia.org/wiki/Category_talk:Media_contributed_by_EAGLE/reports} and \url{https://tools.wmflabs.org/glamtools/baglama2/\#gid=148\&month=201508}}. These photos have been viewed in 19 months 22,236,085 times. Another interesting information is the number of people who have worked on them, by no means only members of the EAGLE project: 7 users have made more than 1000 edits, which could be anything above the figure; 20 have made between 100 and 1000 edits; 71 have made between 10 and 100, and even more interestingly 581 have made between 1 and 10 edits. This is a critical mass of active users, uploading, editing, curating, using data they are interested in. 
+The same situation can be noted for the 11.000 translations in the EAGLE Media Wiki, which were viewed in 18 months 1.380.000 times and have seen 280 active users, who have at least made 1 edit. The tool is not well known outside the EAGLE consortium and is a very small prototype, but the fact that it has already attracted such a mass of views is significant. What would happen if we gave 100.000 translations in the way we have given them to the people in the Mediawiki, completely openly? What would happen if those people contributing to images and translations were empowered to operate easily and intuitively to enter more and more data? Inscriptions will never get as many fans as we would like to, but perhaps their content and related resources would be a bit more accessible to non-initiated. 
+This comparison confirms also that the usability of resources is measured at a different level when they are made open, and that images and translations have an undeniable higher relevance as an online resource, thus attracting interest also to the transcriptions, while this does not happen the other way around and only those who know what they are looking for will stumble upon an ancient inscription published online. Nothing new in these observations, but this obvious observation is in contrast with the actual situation in which photos are few and translation even fewer. Why so, then? The possible reasons are:
+\begin{enumerate}
+\item the lack of an entry point which is easy to access and use
+\item people get easily worried by copyright due diligence and find diffucult sometime to trak back who is the author or the copyright owner of a photo
+\item a lack of coordinated effort, planning and management of the storage of both these types of content
+\item researchers working on inscriptions identify their intended audience in a very specific academic community which does not need translations and instead needs edited texts (transcriptions and metadata). 
+\item publication of content with (sometimes unnecessary) restrictions
+\item lack of time for this effort, unrecognized in academic settings as a contribution to the progress of knowledge, as, sadly, most other digital efforts
+\end{enumerate}
+
+We shall point out what has been done to solve these problems and cater for an improvement in this part of documentation and production of online content in the future.
+
+The international group of partners, which includes University of Heidelberg, University of Cardiff, Duke University and Tufts University is holding regular workshop meetings to design and  develop a suite of resources that support generation of epigraphic translations, with peer-review and publication workflows supported by Perseids’ extension of the Son of the Suda On Line code (SoSOL), with publication supported by the EAGLE Mediawiki, and image management, reference ontology, geo- and other services, supported by Integrating Digital Epigraphies, and with Attic Inscription Online translations as the key content stream for development and testing.
+
+
+\section{Translations}
+To face these challenges with regard to translations, it is the opinion of the project team that tying together existing resources is a better way to tackle the issues rather than trying to superimpose a new tool or system. The available building blocks for such systematization of existing resources are the following:
+
+\begin{itemize}
+\item the existing local data entry point of Attic Inscriptions Online, in the process of moving to TEI-EpiDoc markup for the underlying data
+\item the EAGLE Mediawiki, with the Wikibase Extension, which collects translations from several users as a part of the work of the EAGLE consortium to bring epigraphy to a wider public 
+\item the Perseids peer review system,\footnote{\url{http://sites.tufts.edu/perseids/}} which uses the Son of the Suda Online\footnote{\citet{Baumann2013}}
+\item Leiden+,\footnote{\url{http://papyri.info/docs/about} and J. Sosin presentation at \url{http://www.stoa.org/archives/1263}} a simplified markup which allows the use of normal diacritics instead of tags to enter XML markup. 
+\item identification and disambiguation done by content providers (the epigraphic databases) and by projects such as Trismegistos\footnote{\url{http://www.trismegistos.org/}} for the members of the EAGLE consortium and IDEs\footnote{\url{http://blogs.library.duke.edu/dcthree/projects/}} for Greek Epigraphy projects.
+\item referencing and resolution services provided by IDEs which do not just align content relating to one resource but describe the relation among them
+\end{itemize}
+
+These consider two kinds of users: 
+\begin{itemize}
+\item users involved in a project with access to a data entry point in a database (using XML)
+\item independent contributors 
+\end{itemize}
+
+With the available building blocks what can be done currently for translations is:
+\begin{itemize}
+\item a standalone javascript library to enter translations using Leiden+ (to be implemented and tested in AIO, as the best candidate for its focus on translations) which implies:
+	\begin{itemize}
+	\item an enlargement of the encoding guidance and conversion capabilities of Leiden+ to EpiDoc for translations.\footnote{\url{https://github.com/TIGLIOPROJECT/documentation/wiki}}
+	\item recommendation on how to mark up translations for the EpiDoc guidelines
+	\end{itemize}
+	These developments will hopefully be beneficial to the EpiDoc users community as well, which has in the past asked for more guidance on how to encode translations. 
+\item An export of AIO in EpiDoc to the Perseids platform in which translations will be peer-reviewed for ingestion in the EAGLE wiki, bypassing the harvest process for EAGLE. This might be useful as a use case for future project willing to publish their translations with the others collected into the EAGLE Media Wiki.
+\item facilitate flow between existing tools and services 
+	\begin{itemize}
+	\item EAGLE and Perseids worked together in the past years in order to integrate the two services offered, but this had a number of limitations, e.g. the requirement for a translation to be already present in the wiki in order to be able to publish another one via Perseids. This reduced the number of items for which the integration could be used to a minimum, forcing the use of workarounds as mock text and placeholders. The integration of the EAGLE wiki with Perseids will now enable users to enter translations for any inscriptions and even a new translation from scratch with a specific new language, thus covering all possibilities for the EAGLE Mediwiki user. This requires nevertheless:
+	\begin{itemize}
+	\item unique identifiers for Latin and Greek texts, which are currently provided for the first by Trismegistos, and for the second group of texts by IDEs.
+	\item a citation URN structure which is agreed upon and otherwise usable. This will be based on the scheme already in use for EAGLE built on CTS URN syntax as in the example: 
+	\begin{quotation}
+\footnotesize{urn:cts:pdlepi:eagle.tm12345.perseids-translation-1}
+\end{quotation}
+where the structure is 
+\begin{quotation}
+\footnotesize{urn:cts:namespace:textgroup.work.version}
+\end{quotation}
+	\end{itemize}
+	\item The complete workflow from data entry to publication in a website and to the common EAGLE resource via Perseids will then be a complete and replicable workflow, scalable for use from larger projects and documented to guarantee easy and sensible connection of the resources online. 
+	 \end{itemize}
+\end{itemize}
+
+The workflow for the connection of new translations and images to existing online content will be then facilitated in this way. 
+A project with its own data entry interface should be able to use the javascript library to enter translations using Leiden+ and following the conventions already extended and public in papyri.info. They should then be able to identify with a TM or IDEs id these translations and infer a URN to push these directly to the Perseids system. Here the translations will be peer-reviewed and then sent both back to the source with an approved status and to the EAGLE Media Wiki. If this database is partner of the  EAGLE project the texts will be harvested separately and the translations linked back from the Media Wiki. From the Media Wiki API they will also be available as such to external users. 
+An independent contributor instead will be able to look up the TM text id or IDest of the inscriptions he wants to translate and enter it to the EAGLE Media Wiki. From here this will be sent to the Perseids system and returned as described above. 
+
+
+The short term goal is therefore to stitch together existing resources already in development, end especially to provide ids and a clear citation syntax for all available inscriptions, which will have counter benefits also for any other digital project with these requirements. 
+
+
+\section{Images}
+Most of the existing images of inscriptions are currently safely stored in private computers. Large collections of images of inscriptions are available at the major databases, and can count up to thousands of photos of inscriptions or drawings. Large collections of images are also on Flickr (e.g. Visible Words) and Wikimedia Commons (CIL and AE categories provide a good overview of what is available).
+
+The major problem preventing publication is that people do not know if they can share the images which they have. The copyright regulations are too complicated and possible contributors opt for doing nothing instead of taking any unknown and unwanted risk. 
+Storage of images of inscriptions in the major databases happens under very strict conditions of reuse and publication and while it is the best possible way to operate for these projects, there can be no mirroring or distribution of the resources available so that the life expectancies of content curated for decades is tied to  the lifetime of these databases. A test has been done with the images of non identified items in the Epigraphic Database Heidelberg, uploaded to Wikimedia Commons and users have contributed to identify a number of those. 
+Uploading photos on Wikimedia Commons requires an open license, which cannot always be guaranteed, whereas on Flickr it is possible to retain rights whilst publishing the photos, so that it makes a nicer tool for this kind of content, although it does not allow community editing and batch upload, which is instead possible via tools developed by Europeana and the Wikimedia Foundation for Commons.\footnote{The GLAM Wiki toolset, \url{https://commons.wikimedia.org/wiki/Commons:GLAMwiki_Toolset_Project}.}
+A unique repository or a connection hub for all these photos would be a solution to keep the content under sight but this would still require control over resources daily published in Flickr and Commons, an involvement into the communities of users online, together with the extension of citation structures to these groups. There is no easy solution for the copyright side of the problem, but a continued encouragement to share will build towards the critical mass needed for a change in perspective on this issues in the coming few years. During this project we will try to list requirements for a tool to ease out the upload of images online, which will match images and metadata provided in various formats, suggesting ids and adding them in a format compliant to the citation scheme agreed. It is in fact true that the amount of time required to use tools which ask for a one to one upload of images is another important factor which reduces the amount of content shared even from those willing to do so.
+
+\section{User involvement and expert sourcing}
+The problems of all digital projects looking at putting together materials from various sources and contributors are on one side to get people involved, on the other to overlook the work done and take care of the administration.  
+The possible user scenarios are eventually many more. Two especially deserve to be mentioned here. Most input has been provided in term of new translations in the EAGLE Media Wiki during Workshops and Secondary Schools class work. Some teachers with a background in epigraphy have been contacted by the Epigraphic Database Rome to start and experiment with a didactic model which would include translating inscriptions. The students worked on a specific corpus of inscriptions, studied the text and the support and produced a translation which they entered in the EAGLE Media Wiki with the supervision of their teacher. This experience has proved successful for the students which have seen their contribution directly where it should be, together with other scholarly content. On the other side, every new translation matters in such a state as the one described above. 
+The second example is the work done in two consecutive workshops, held in Ercolano and at the Centre for Hellenic Studies in Washington DC of the Ancient Graffiti Project,\footnote{\url{http://ancientgraffiti.wlu.edu/}} which has published multiple translations for all the graffiti of Herculaneum. In this context the usability of the Wikibase software has been tested and it proved to be an extremely intuitive and powerful tool. It takes very little explanation, but there are caveats for this simplicity and namely that it is extremely easy to do things in slightly creative ways, as entering statements as source information or typing an id in a slightly different way, which then need to be monitored and fixed.
+
+\section{Conclusions}
+Some of the tasks above have been already carried out, some are under way, but there are some general conclusions which can be summarized. There is a need to unify the resources, agree on standards for reference and citation and provide stable identifiers and citation structures, providing a comprehensive list of epigraphic publications with the relevant abbreviation in use. Although some work has been done, the amount of data makes this task continuously needed together with that of disambiguation. Other efforts need to go in the direction of flexible but harmonized standards for encoding and working on data entry giving priorities probably in a  slightly different way as before, updating the tools to be able to cope. More generally, while tools are abundant and so are guidelines and cookbooks, an agreed venue for coordination of the efforts is still a desideratum, and should include not only scholarly project but also community based efforts such as those of the Wikimedia Commons users and of the Flickr user's groups. These people could be also part of the peer review process, thus contrasting the side effects of an inactive board.\footnote{The last meeting of the project, dealing with images and CTS URN structure still had to take place at the date of submission of the present contribution.}
+
+\section*{Aknowledgements}
+The Andrew W. Mellon Foundation has funded the meetings of the project TIGLIO and the work which will be carried out for Attic Inscriptions Online. We would like to thank also all the Wikimedia users who have contributed to parts of this work in various ways and especially Aubrey, CristianCantoro, Fæ, Laurentius, Magnus Manske, Sannita and Wittylama. Another special aknowledgement goes to all users of the EAGLE Mediawiki and to all the volunteers working on photos of inscriptions online.
+
+
+\bibliographystyle{sapauth-eng}
+\bibliography{../../EAGLE}
+
+\end{document}
