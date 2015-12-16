@@ -1,0 +1,55 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Vel(2007)}]{Velestino2007}
+\emph{Messaggi dalla pietra}, 2007.
+
+\bibitem[{acc(2014)}]{accessibilita}
+\emph{L’accessibilità al patrimonio museale per le persone con minorazione
+  visiva}, 2014.
+
+\bibitem[{\textsc{AA.VV.}(2006)}]{Tioli2006}
+\textsc{AA.VV.}, \emph{L'{Arte} a portata di mano: verso una pedagogia di
+  acceso ai beni culturali senza barriere}, in \emph{Atti del convegno
+  {Portonovo} di {Ancona} 21-23 {Ottobre} 2004}, Roma, 2006,
+  \urlprefix\url{http://dialnet.unirioja.es/servlet/articulo?codigo=1182561}.
+
+\bibitem[{\textsc{Bellini}(2000)}]{Bellini2000}
+\textsc{Bellini, A.}, \emph{Toccare l'arte: {L}'educazione estetica di
+  ipovedenti e non vedenti}, Armando Editore, 2000,
+  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=7zIOvm28Tp0C&oi=fnd&pg=PA7&dq=Toccare+l%E2%80%99Arte.+L%E2%80%99educazione+estetica+di+ipovedenti+e+non+vedenti&ots=gsr-Ao-nht&sig=LT965EJZWK_Zqqc6KsX8NLK5mRA}.
+
+\bibitem[{\textsc{Cetorelli~Schivo and Colcerasa}(2004)}]{Cetorelli2004}
+\textsc{Cetorelli~Schivo, G., Colcerasa, M.}, \emph{Disabilità e museo:
+  percorrenze culturali di emergenza}, Museo e territorio,  (2004), 20--28,
+  \urlprefix\url{http://www.torrossa.it/resources/an/2640264}.
+
+\bibitem[{\textsc{Hersh and Johnson}(2010)}]{Hersh2008}
+\textsc{Hersh, M., Johnson, M.A.}, \emph{Assistive technology for visually
+  impaired and blind people}, Springer Science \& Business Media, 2010,
+  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=HIBPnRAhh-gC&oi=fnd&pg=PR5&dq=Assistive+Technology+for+Visually+Impaired+and+Blind+People&ots=0BF0loPCxF&sig=IHTUsr_iMYbnnlGGYMmQ7pocfQQ}.
+
+\bibitem[{\textsc{Jansson et~al.}(2003)\textsc{Jansson, Bergamasco, and
+  Frisoli}}]{Jansson2003}
+\textsc{Jansson, G., Bergamasco, M., Frisoli, A.}, \emph{A new option for the
+  visually impaired to experience 3d art at museums: {Manual} exploration of
+  virtual copies}, Visual Impairment Research, 5 (2003), 1--12,
+  \urlprefix\url{http://informahealthcare.com/doi/abs/10.1076/vimr.5.1.1.15973}.
+
+\bibitem[{\textsc{Levi}(2015)}]{Levi2015}
+\textsc{Levi, F.}, \emph{L'accessibilità alla cultura per i disabili visivi.
+  {Storia} e orientamenti}, Zamorani, Torino Italy, 1a edizione ed., 2015, ISBN
+  978-88-7158-206-1.
+
+\bibitem[{\textsc{Licordari}(2015)}]{Licordari2015}
+\textsc{Licordari, F.}, \emph{Tituli in artis operibus inscripti: proposta di
+  allestimento di una mostra nei locali della {Fondazione} {Sorgente}}, laurea
+  della {Scuola} di {Specializzazione} in {Beni} {Archeologici}, Roma, 2015.
+
+\end{thebibliography}

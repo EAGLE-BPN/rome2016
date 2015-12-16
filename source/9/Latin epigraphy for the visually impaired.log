@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  15 DEC 2015 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1196,10 +1196,9 @@ LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 48.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ) [2] [3]
-
-Package natbib Warning: Citation `Tioli2006' on page 4 undefined on input line 
-146.
-
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qpl/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
 
 Underfull \vbox (badness 1194) has occurred while \output is active []
 
@@ -1230,48 +1229,64 @@ LaTeX Font Info:    Try loading font information for TS1+qpl on input line 234.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
-) [7]
-
-Package natbib Warning: Citation `Licordari2015' on page 8 undefined on input l
-ine 269.
-
-[8]
+) [7] [8]
 Underfull \vbox (badness 1194) has occurred while \output is active []
 
  [9]
-./Latin epigraphy for the visually impaired.tex:330: Missing \endcsname inserte
-d.
-<to be read again> 
-                   \begingroup 
-l.330 ...h2008,Jansson2003,Levi2015,Velestino2007}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+(./Latin epigraphy for the visually impaired.bbl
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Underfull \hbox (badness 1478) in paragraph at lines 24--27
+[]\T1/qpl/m/sc/10 (+20) Bellini, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20)
+ Toc-care l'arte: L'educazione es-tet-ica di ipove-denti e non
+ []
 
 
-Package natbib Warning: Citation `Bellini2000' undefined on input line 330.
+Underfull \hbox (badness 4254) in paragraph at lines 24--27
+\T1/qpl/m/it/10 (+20) ve-denti\T1/qpl/m/n/10 (+20) , Ar-mando Ed-i-tore, 2000, 
+URL [][]$\T1/lmtt/m/n/10 https : / / books . google .
+ []
 
 
-Package natbib Warning: Citation `Cetorelli2004' undefined on input line 330.
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+\T1/lmtt/m/n/10 de / books ? hl = en & lr = &id = 7zIOvm28Tp0C & oi = fnd & pg 
+= PA7 & dq =
+ []
 
 
-Package natbib Warning: Citation `Hersh2008' undefined on input line 330.
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+\T1/lmtt/m/n/10 Toccare + l % E2 % 80 % 99Arte . +L % E2 % 80 % 99educazione + 
+estetica + di +
+ []
 
 
-Package natbib Warning: Citation `Jansson2003' undefined on input line 330.
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+\T1/lmtt/m/n/10 ipovedenti + e + non + vedenti & ots = gsr-[]Ao-[]nht & sig = L
+T965EJZWK _
+ []
 
 
-Package natbib Warning: Citation `Levi2015' undefined on input line 330.
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+[][]$\T1/lmtt/m/n/10 https : / / books . google . de / books ? hl = en & lr = &
+id = HIBPnRAhh-[]gC &
+ []
 
 
-Package natbib Warning: Citation `Velestino2007' undefined on input line 330.
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+\T1/lmtt/m/n/10 oi = fnd & pg = PR5 & dq = Assistive + Technology + for + Visua
+lly +
+ []
 
-(./Latin epigraphy for the visually impaired.bbl)
 
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+\T1/lmtt/m/n/10 Impaired + and + Blind + People & ots = 0BF0loPCxF & sig = IHTU
+sr _
+ []
 
+[10])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
-[10]
+ [11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
  (./Latin epigraphy for the visually impaired.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
@@ -1281,26 +1296,27 @@ out' has not changed.
 (rerunfilecheck)             Checksum: AEC2E7D2703A72302D61718C4347F076;275.
  ) 
 Here is how much of TeX's memory you used:
- 21212 strings out of 493089
- 400439 string characters out of 6134841
- 461609 words of memory out of 5000000
- 24298 multiletter control sequences out of 15000+600000
- 93709 words of font info for 163 fonts, out of 8000000 for 9000
+ 21744 strings out of 493089
+ 406222 string characters out of 6134841
+ 462929 words of memory out of 5000000
+ 24806 multiletter control sequences out of 15000+600000
+ 97637 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,40p,10441b,796s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,40p,10441b,855s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
 local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/
-2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
-1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/tex-gyre/qplri.pfb>
-Output written on "Latin epigraphy for the visually impaired.pdf" (10 pages, 13
-3150 bytes).
+2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texlive/2015/t
+exmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
+-gyre/qplri.pfb>
+Output written on "Latin epigraphy for the visually impaired.pdf" (11 pages, 15
+6260 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 38953 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 41001 words of extra memory for PDF output out of 42996 (max. 10000000)
 

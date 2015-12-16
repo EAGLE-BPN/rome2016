@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  15 DEC 2015 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 18:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1199,143 +1199,28 @@ Overfull \hbox (1.0054pt too wide) in paragraph at lines 48--48
  []
 
 LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 48.
-
-Package natbib Warning: Citation `ReynoldsRouecheBodard2007' on page 1 undefine
-d on input line 50.
-
-
-Package natbib Warning: Citation `tracy1995' on page 1 undefined on input line 
-65.
-
-
-Package natbib Warning: Citation `susini1973' on page 1 undefined on input line
- 72.
-
-
-Package natbib Warning: Citation `petrucci1993' on page 1 undefined on input li
-ne 72.
-
-
-Package natbib Warning: Citation `Manzella1995' on page 1 undefined on input li
-ne 72.
-
-
-Package natbib Warning: Citation `cooley2012' on page 1 undefined on input line
- 72.
-
-
-Package natbib Warning: Citation `bruun2015' on page 1 undefined on input line 
-72.
-
-
-Package natbib Warning: Citation `harris1989' on page 1 undefined on input line
- 76.
-
-
-Package natbib Warning: Citation `bodel2001' on page 1 undefined on input line 
-76.
-
-
-Package natbib Warning: Citation `Manzella2007' on page 1 undefined on input li
-ne 76.
-
-
-Package natbib Warning: Citation `cooley2012' on page 1 undefined on input line
- 76.
-
-
-Package natbib Warning: Citation `Gordon1957' on page 1 undefined on input line
- 79.
-
-
-Package natbib Warning: Citation `Manzella1987' on page 1 undefined on input li
-ne 79.
-
-
-Package natbib Warning: Citation `tracy1990' on page 1 undefined on input line 
-79.
-
-
-Package natbib Warning: Citation `tracy1995' on page 1 undefined on input line 
-79.
-
-
-Package natbib Warning: Citation `tracy2003' on page 1 undefined on input line 
-79.
-
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qpl/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qpl/m/sc/8'.
+(microtype)             Ignoring protrusion settings for this character.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-
-Package natbib Warning: Citation `woolf1996' on page 3 undefined on input line 
-103.
-
-
-Package natbib Warning: Citation `eck2010' on page 3 undefined on input line 10
-3.
-
-
-Package natbib Warning: Citation `panciera2012' on page 3 undefined on input li
-ne 103.
-
-
-Package natbib Warning: Citation `graham2013' on page 3 undefined on input line
- 103.
-
-
-Package natbib Warning: Citation `Elliot2015' on page 3 undefined on input line
- 103.
-
-
-Package natbib Warning: Citation `susini1973' on page 3 undefined on input line
- 105.
-
-
-Package natbib Warning: Citation `cooley2014' on page 3 undefined on input line
- 105.
-
-
-Package natbib Warning: Citation `hommel1970' on page 3 undefined on input line
- 105.
-
-
-Package natbib Warning: Citation `Gordon1957' on page 3 undefined on input line
- 106.
-
-
-Package natbib Warning: Citation `alfoldy1995' on page 3 undefined on input lin
-e 107.
-
-
-Package natbib Warning: Citation `grasby2002' on page 3 undefined on input line
- 107.
-
-
-Package natbib Warning: Citation `Manzella1987' on page 3 undefined on input li
-ne 108.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
+[2] (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 
 Package natbib Warning: Citation `panciera 2012' on page 3 undefined on input l
 ine 114.
 
+[3]
 
-Package natbib Warning: Citation `mama8' on page 3 undefined on input line 129.
-
-
-
-Package natbib Warning: Citation `ReynoldsRouecheBodard2007' on page 3 undefine
-d on input line 134.
+Package natbib Warning: Citation `mama8' on page 4 undefined on input line 129.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 158.
-
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1352,30 +1237,14 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `default'.
 
 
-Package natbib Warning: Citation `smith1996' on page 4 undefined on input line 
-168.
-
-
-Package natbib Warning: Citation `reynolds1990' on page 4 undefined on input li
-ne 168.
-
-
 Package natbib Warning: Citation `reynolds 1990' on page 4 undefined on input l
 ine 174.
-
-
-Package natbib Warning: Citation `reynolds1999' on page 4 undefined on input li
-ne 177.
-
-
-Package natbib Warning: Citation `graham2013' on page 4 undefined on input line
- 184.
 
 
 Package natbib Warning: Citation `buraselis2001' on page 4 undefined on input l
 ine 184.
 
-[4]
+[4] [5]
 LaTeX Font Info:    Try loading font information for LGR+qpl on input line 199.
 
 LaTeX Font Info:    No file LGRqpl.fd. on input line 199.
@@ -1393,17 +1262,14 @@ File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-31.def
 File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
-) [5]
+)
 Overfull \hbox (4.25224pt too wide) in paragraph at lines 228--230
 \T1/qpl/m/n/10 (-20) Eumachos Dio-genes, son of Athenago-ras, the son of Athena
 go-
  []
 
-[6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-<PaperproposalforEAGLEfinal-img001.png, id=95, 1442.38875pt x 861.2175pt>
+[6] [7]
+<PaperproposalforEAGLEfinal-img001.png, id=185, 1442.38875pt x 861.2175pt>
 File: PaperproposalforEAGLEfinal-img001.png Graphic file (type png)
 
 <use PaperproposalforEAGLEfinal-img001.png>
@@ -1414,45 +1280,28 @@ ne 286.
 ist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-[9] <PaperproposalforEAGLEfinal-img002.jpg, id=106, 252.945pt x 221.7375pt>
+[9] <PaperproposalforEAGLEfinal-img002.jpg, id=196, 252.945pt x 221.7375pt>
 File: PaperproposalforEAGLEfinal-img002.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img002.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img002.jpg used on input li
 ne 353.
 (pdftex.def)             Requested size: 310.13503pt x 271.8761pt.
- [10 <./PaperproposalforEAGLEfinal-img002.jpg>]
-
-Package natbib Warning: Citation `graham2015' on page 11 undefined on input lin
-e 393.
-
-[11] <PaperproposalforEAGLEfinal-img003.jpg, id=117, 276.9255pt x 208.926pt>
+ [10 <./PaperproposalforEAGLEfinal-img002.jpg>] [11]
+<PaperproposalforEAGLEfinal-img003.jpg, id=210, 276.9255pt x 208.926pt>
 File: PaperproposalforEAGLEfinal-img003.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img003.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img003.jpg used on input li
 ne 444.
 (pdftex.def)             Requested size: 310.13503pt x 233.9955pt.
-
-
-Package natbib Warning: Citation `reynolds1982' on page 12 undefined on input l
-ine 459.
-
-[12]
-
-Package natbib Warning: Citation `smith1995' on page 13 undefined on input line
- 480.
-
-
-Package natbib Warning: Citation `doruk1990' on page 13 undefined on input line
- 480.
-
+ [12]
 
 Package natbib Warning: Citation `reynolds1999b' on page 13 undefined on input 
 line 480.
 
 [13 <./PaperproposalforEAGLEfinal-img003.jpg>]
-<PaperproposalforEAGLEfinal-img004.jpg, id=129, 308.4615pt x 116.6175pt>
+<PaperproposalforEAGLEfinal-img004.jpg, id=229, 308.4615pt x 116.6175pt>
 File: PaperproposalforEAGLEfinal-img004.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img004.jpg>
@@ -1470,7 +1319,7 @@ LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              for symbol `textbraceleft' on input line 529.
 
 [15 <./PaperproposalforEAGLEfinal-img004.jpg>]
-<PaperproposalforEAGLEfinal-img005.jpg, id=141, 205.9695pt x 158.0085pt>
+<PaperproposalforEAGLEfinal-img005.jpg, id=243, 205.9695pt x 158.0085pt>
 File: PaperproposalforEAGLEfinal-img005.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img005.jpg>
@@ -1478,80 +1327,169 @@ Package pdftex.def Info: PaperproposalforEAGLEfinal-img005.jpg used on input li
 ne 550.
 (pdftex.def)             Requested size: 310.13503pt x 237.91867pt.
 
-<PaperproposalforEAGLEfinal-img006.jpg, id=142, 177.0615pt x 130.743pt>
+<PaperproposalforEAGLEfinal-img006.jpg, id=244, 177.0615pt x 130.743pt>
 File: PaperproposalforEAGLEfinal-img006.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img006.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img006.jpg used on input li
 ne 551.
 (pdftex.def)             Requested size: 310.13503pt x 229.04303pt.
-
-
-Package natbib Warning: Citation `smith1996' on page 16 undefined on input line
- 562.
-
-
-Package natbib Warning: Citation `thomas1990' on page 16 undefined on input lin
-e 574.
-
-[16] [17 <./PaperproposalforEAGLEfinal-img005.jpg> <./PaperproposalforEAGLEfina
-l-img006.jpg>]
-
-Package natbib Warning: Citation `bruun2015' on page 18 undefined on input line
- 605.
-
-
-Package natbib Warning: Citation `bruun2015' on page 18 undefined on input line
- 605.
-
-
-Package natbib Warning: Citation `bruun2015' on page 18 undefined on input line
- 605.
-
-
-Package natbib Warning: Citation `cooley2012' on page 18 undefined on input lin
-e 605.
-
-
-Package natbib Warning: Citation `woolf1996' on page 18 undefined on input line
- 610.
-
-
-Package natbib Warning: Citation `bodel2001' on page 18 undefined on input line
- 610.
-
-
-Package natbib Warning: Citation `cooley2012' on page 18 undefined on input lin
-e 610.
-
-
-Package natbib Warning: Citation `panciera2012' on page 18 undefined on input l
-ine 610.
-
-
-Package natbib Warning: Citation `buonocore2015' on page 18 undefined on input 
-line 614.
-
-[18]
+ [16] [17 <./PaperproposalforEAGLEfinal-img005.jpg> <./PaperproposalforEAGLEfin
+al-img006.jpg>] [18]
 
 Package natbib Warning: Citation `reynolds1981' on page 19 undefined on input l
 ine 652.
 
+[19] [20] (./Paper proposal for EAGLE final.bbl
 
-Package natbib Warning: Citation `reynolds1982' on page 19 undefined on input l
-ine 652.
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\%'
+(microtype)                in font encoding `T1' in protrusion list 
+(microtype)                `default'.
 
-[19] [20]
-No file "Paper proposal for EAGLE final".bbl.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+\T1/qpl/m/n/10 (+20) 2012, URL [][]$\T1/lmtt/m/n/10 https : / / books . google 
+. de / books ? hl = en & lr = &id =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+\T1/lmtt/m/n/10 MEhehbWzjUYC & oi = fnd & pg = PR3 & dq = Bodel + Epigraphic + 
+Evidence &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[]\T1/qpl/m/sc/10 (+20) Buonocore, M.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+2
+0) Epi-graphic Re-search from its In-cep-tion: the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+\T1/qpl/m/it/10 (+20) Con-tri-bu-tion of Manuscripts\T1/qpl/m/n/10 (+20) , in C
+. Bruun, J. Ed-mond-son
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 26--31
+\T1/qpl/m/n/10 (+20) (ed.), \T1/qpl/m/it/10 (+20) The Ox-ford Hand-book of Ro-m
+an Epig-ra-phy\T1/qpl/m/n/10 (+20) , 21--37, Ox-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+\T1/qpl/m/n/10 (+20) ford Uni-ver-sity Press, 2014, ISBN 978-0-19-533646-7, URL
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][]$\T1/lmtt/m/n/10 http : / / www . oxfordhandbooks . com / view / 10 . 1093 
+/ oxfordhb /
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 37--40
+[]\T1/qpl/m/sc/10 (+20) Cooley, A.E.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
+) The Cam-bridge man-ual of Latin epig-ra-phy\T1/qpl/m/n/10 (+20) , Cam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+\T1/qpl/m/n/10 (+20) bridge Uni-ver-sity Press, 2012, URL [][]$\T1/lmtt/m/n/10 
+https : / / books . google .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+\T1/lmtt/m/n/10 de / books ? hl = en & lr = &id = VlghAwAAQBAJ & oi = fnd & pg 
+= PR9 & dq = +The +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+\T1/lmtt/m/n/10 Cambridge + Manual + of + Latin + Epigraphy & ots = Z0SSuGuc2x 
+& sig =
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 52--56
+[]\T1/qpl/m/sc/10 (+20) DI STE-FANO MANZELLA, I.\T1/qpl/m/n/10 (+20) , \T1/qpl/
+m/it/10 (+20) L'integrazione tra testo e man-u-
+ []
+
+[21]
+Underfull \hbox (badness 2368) in paragraph at lines 70--74
+[]\T1/qpl/m/sc/10 (+20) Elliott, T.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20)
+ Epig-ra-phy and Dig-i-tal Re-sources\T1/qpl/m/n/10 (+20) , in C. Bruun, J. Ed-
+
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 70--74
+\T1/qpl/m/n/10 (+20) Ox-ford Uni-ver-sity Press, 2014, ISBN 978-0-19-533646-7, 
+URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+[][]$\T1/lmtt/m/n/10 http : / / www . oxfordhandbooks . com / view / 10 . 1093 
+/ oxfordhb /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+[][]$\T1/lmtt/m/n/10 https : / / books . google . de / books ? hl = en & lr = &
+id = -[]M _ mu08ZiWoC &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+\T1/lmtt/m/n/10 oi = fnd & pg = PR13 & dq = ncient + Literacy & ots = 14X7YumN5
+k & sig =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
+[]\T1/qpl/m/sc/10 (+20) Panciera, S.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
+) What Is an In-scrip-tion? Prob-lems of Def-i-ni-tion
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 106--109
+\T1/qpl/m/it/10 (+20) and Iden-tity of an His-tor-i-cal Source\T1/qpl/m/n/10 (+
+20) , 183 (2012), 1--10, URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
+[][]$\T1/lmtt/m/n/10 http : / / www . digitalmeetsculture . net / wp-[]content 
+/ uploads /
+ []
+
+[22] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 173--176
+\T1/lmtt/m/n/10 google . de / books ? hl = en & lr = &id = aAJpYgvfm5AC & oi = 
+fnd & pg = PP1 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--176
+\T1/lmtt/m/n/10 dq = Athens + and + Macedon : +Attic + Letter-[]Cutters + of + 
+300-[]229 +
+ []
+
+)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 686.
-[21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 686.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 687.
+[24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 687.
  (./Paper proposal for EAGLE final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 686.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 686.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 687.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 687.
 Package rerunfilecheck Info: File `"Paper proposal for EAGLE final".out' has no
 t changed.
 (rerunfilecheck)             Checksum: 0438975EBBB954F58AEA8F9AF58594EA;1272.
@@ -1561,26 +1499,28 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22988 strings out of 493089
- 421060 string characters out of 6134841
- 467932 words of memory out of 5000000
- 25989 multiletter control sequences out of 15000+600000
- 105367 words of font info for 187 fonts, out of 8000000 for 9000
+ 23171 strings out of 493089
+ 424057 string characters out of 6134841
+ 470468 words of memory out of 5000000
+ 26064 multiletter control sequences out of 15000+600000
+ 116569 words of font info for 224 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,40p,10430b,861s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10430b,896s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
-public/tex-gyre/qplri.pfb>
-Output written on "Paper proposal for EAGLE final.pdf" (21 pages, 1338124 bytes
+texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
+e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
+-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/
+qplri.pfb>
+Output written on "Paper proposal for EAGLE final.pdf" (24 pages, 1399399 bytes
 ).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 40063 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 399 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 44671 words of extra memory for PDF output out of 51595 (max. 10000000)
 
