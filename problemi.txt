@@ -1,3 +1,36 @@
-* bibliografia
-* paper in doc
+
+
+Pietro
+#first round corrections
+
+sections
+images
+lists
+urls
+``''
+cite e biblio ids
+nocite
+noindent
+footnotes
+
+
+#bibliography
+all to be done!
+* controllare che titoli ci sono
+* controllare quali vanno aggiunti e prenderli con zotero oppure inserire bibtex
+
+#second round
+adding links
+emphasis on latin 
+change links to point at photos provided
+aggiornare nocive
+
+#process
+once first, bibliography and second are done, compile all and rename files, then move files to pdf folder and uncomment main.txt
+
+#note
+* paper 10 needs thorough revision as many oddities occur.
 * paper 43: are all images there?
+
+
+# WHY HAVE ALL ENTIRELY IGNORED ANY CONVENTION? EVEN THE MORE BASIC ONES?
