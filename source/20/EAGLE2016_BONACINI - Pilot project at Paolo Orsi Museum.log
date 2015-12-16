@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 21:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -756,40 +756,41 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count166
 )
-No file "EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum".aux.
+(./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.aux)
 \openout1 = `"EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 49.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 49.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 49.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 )
-LaTeX Info: Redefining \microtypecontext on input line 49.
+LaTeX Info: Redefining \microtypecontext on input line 48.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -989,7 +990,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 49.
+Package hyperref Info: Link coloring ON on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -999,16 +1000,19 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count182
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
+
+(./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.out)
+(./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.out)
 \@outlinefile=\write3
 \openout3 = `"EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.out"'.
 
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 49.
+(hyperref)                setting the option has no effect on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
@@ -1022,7 +1026,7 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-LaTeX Info: Redefining \textsubscript on input line 49.
+LaTeX Info: Redefining \textsubscript on input line 48.
 \c@definition=\count183
 \c@condition=\count184
 \c@problem=\count185
@@ -1044,7 +1048,7 @@ LaTeX Info: Redefining \textsubscript on input line 49.
 
 
 Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
-(utf8x.def)                Restoringtoitsutf8x-meaning on input line 49.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -1134,30 +1138,30 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
 \c__siunitx_mathsf_int=\count201
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 48.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 49.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 49.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 49.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1167,7 +1171,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmss.fd
@@ -1178,7 +1182,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 \c__siunitx_mathtt_int=\count202
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
@@ -1188,42 +1192,47 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 51.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 50.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-Overfull \hbox (0.51585pt too wide) in paragraph at lines 51--51
+Overfull \hbox (0.51585pt too wide) in paragraph at lines 50--50
 []\T1/qpl/m/n/14.4 Digital en-hance-ment of the ``Paolo Orsi'' mu-seum:
  []
 
-./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.tex:51: Missing $ ins
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 50.
+./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.tex:50: Missing $ ins
 erted.
 <inserted text> 
                 $
-l.51 \maketitle
+l.50 \maketitle
                
-? 
-./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.tex:51: Missing $ ins
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.tex:50: Missing $ ins
 erted.
 <inserted text> 
                 $
-l.51 \maketitle
+l.50 \maketitle
                
-? 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ) [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qpl/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+ [2]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 110.
 
-Package natbib Warning: Citation `Bonacini2013;Bonacini2014' on page 2 undefine
-d on input line 103.
 
-[2]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 111.
-
- (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -1238,7 +1247,7 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `default'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
 [][][]$\T1/lmtt/m/n/8 https : / / www . google . com / maps / views / streetvie
 w / world-[]wonders-[]project ?
  []
@@ -1250,88 +1259,72 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-
-LaTeX Warning: Reference `fig:1' on page 4 undefined on input line 171.
-
 [4]
-<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img001.jpg, id=44, 836.1639pt x
+<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img001.jpg, id=78, 836.1639pt x
  434.5836pt>
 File: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img001.jpg Graphic file (t
 ype jpg)
  <use EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img001.jpg>
 Package pdftex.def Info: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img001.
-jpg used on input line 188.
+jpg used on input line 187.
 (pdftex.def)             Requested size: 310.13503pt x 161.18465pt.
 
 [5 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img001.jpg>]
-<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img002.jpg, id=51, 834.9594pt x
+<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img002.jpg, id=84, 834.9594pt x
  436.7517pt>
 File: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img002.jpg Graphic file (t
 ype jpg)
  <use EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img002.jpg>
 Package pdftex.def Info: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img002.
-jpg used on input line 226.
+jpg used on input line 225.
 (pdftex.def)             Requested size: 310.13503pt x 162.2287pt.
 
 Underfull \vbox (badness 1931) has occurred while \output is active []
 
  [6]
-<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img003.jpg, id=58, 834.9594pt x
+<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img003.jpg, id=90, 834.9594pt x
  435.7881pt>
 File: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img003.jpg Graphic file (t
 ype jpg)
  <use EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img003.jpg>
 Package pdftex.def Info: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img003.
-jpg used on input line 244.
+jpg used on input line 243.
 (pdftex.def)             Requested size: 310.13503pt x 161.87077pt.
 
 [7 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img002.jpg> <./EAGLE2016BO
 NACINIPilotprojectatPaoloOrsiMuseum-img003.jpg>]
-<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img004.jpg, id=66, 837.1275pt x
+<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img004.jpg, id=98, 837.1275pt x
  434.5836pt>
 File: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img004.jpg Graphic file (t
 ype jpg)
  <use EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img004.jpg>
 Package pdftex.def Info: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img004.
-jpg used on input line 259.
+jpg used on input line 258.
 (pdftex.def)             Requested size: 310.13503pt x 160.99898pt.
 
 
-LaTeX Warning: Reference `fig:4' on page 8 undefined on input line 266.
+LaTeX Warning: Reference `fig:4' on page 8 undefined on input line 265.
 
 [8 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img004.jpg>]
 
-LaTeX Warning: Reference `fig:4' on page 9 undefined on input line 328.
-
-
-Package natbib Warning: Citation `Orsi1895' on page 9 undefined on input line 3
-46.
+LaTeX Warning: Reference `fig:4' on page 9 undefined on input line 327.
 
 [9]
-
-Package natbib Warning: Citation `Sgarlata2013' on page 10 undefined on input l
-ine 352.
-
-
-Package natbib Warning: Citation `Sgarlata2004' on page 10 undefined on input l
-ine 353.
-
-
-<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img005.jpg, id=77, 845.0772pt x
- 440.1243pt>
+<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img005.jpg, id=114, 845.0772pt 
+x 440.1243pt>
 File: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img005.jpg Graphic file (t
 ype jpg)
  <use EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img005.jpg>
 Package pdftex.def Info: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img005.
-jpg used on input line 359.
+jpg used on input line 358.
 (pdftex.def)             Requested size: 310.13503pt x 161.52043pt.
-LaTeX Font Info:    Try loading font information for LGR+qpl on input line 370.
+LaTeX Font Info:    Try loading font information for LGR+qpl on input line 369.
 
-LaTeX Font Info:    No file LGRqpl.fd. on input line 370.
+LaTeX Font Info:    No file LGRqpl.fd. on input line 369.
 
 
 LaTeX Font Warning: Font shape `LGR/qpl/m/n' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 370.
+(Font)              using `LGR/cmr/m/n' instead on input line 369.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1342,81 +1335,85 @@ File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-31.def
 File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
-)
-
-Package natbib Warning: Citation `Sgarlata2013;Scandurra2014' on page 10 undefi
-ned on input line 385.
-
-[10 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img005.jpg>]
-<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg, id=85, 736.25063pt 
-x 732.48656pt>
+) [10 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img005.jpg>]
+<EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg, id=128, 736.25063pt
+ x 732.48656pt>
 File: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg Graphic file (t
 ype jpg)
- <use EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg>
+
+<use EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg>
 Package pdftex.def Info: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.
-jpg used on input line 390.
+jpg used on input line 389.
 (pdftex.def)             Requested size: 310.13503pt x 308.55875pt.
+ [11 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg>] [12]
+(./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.bbl
+Underfull \hbox (badness 2393) in paragraph at lines 16--19
+\T1/qpl/m/n/10 (+20) (2014), 25--40, URL [][]$\T1/lmtt/m/n/10 http : / / caspur
+-[]ciberpublishing . it / index .
+ []
 
-[11 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg>] [12]
 
-Package natbib Warning: Citation `Farman' undefined on input line 460.
+Underfull \hbox (badness 1917) in paragraph at lines 21--24
+[]\T1/qpl/m/sc/10 (+20) Farman, J.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20) 
+Map-ping the dig-i-tal em-pire: Google Earth and the pro-
+ []
 
-No file "EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum".bbl.
 
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 4084) in paragraph at lines 21--24
+\T1/qpl/m/it/10 (+20) cess of post-mod-ern car-tog-ra-phy\T1/qpl/m/n/10 (+20) ,
+ New Me-dia & So-ci-ety, (2010),
+ []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 464.
-[13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 464.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / nms . sagepub . com / 
+content / early / 2010 / 04 / 22 /
+ []
+
+[13])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 463.
+ [14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 463.
  (./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 464.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 464.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 463.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 463.
+Package rerunfilecheck Info: File `"EAGLE2016_BONACINI - Pilot project at Paolo
+ Orsi Museum".out' has not changed.
+(rerunfilecheck)             Checksum: F464662D9AA3FA5982193FF93AC59D26;593.
 
-
-Package rerunfilecheck Warning: File `"EAGLE2016_BONACINI - Pilot project at Pa
-olo Orsi Museum".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"EAGLE2016_BONACINI - Pilot project
- at Paolo Orsi Museum".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  F464662D9AA3FA5982193FF93AC59D26;593.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 22878 strings out of 493089
- 420078 string characters out of 6134841
- 465119 words of memory out of 5000000
- 25926 multiletter control sequences out of 15000+600000
- 94046 words of font info for 158 fonts, out of 8000000 for 9000
+ 22986 strings out of 493089
+ 422431 string characters out of 6134841
+ 466174 words of memory out of 5000000
+ 26000 multiletter control sequences out of 15000+600000
+ 112844 words of font info for 191 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,44p,10455b,862s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/
-2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2015/texmf-dist
-/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
-public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/
-lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texlive/2015/t
+exmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2015/texmf-dist/fonts
+/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/cbfonts/grmn1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt8.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on "EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.pdf"
- (13 pages, 4999505 bytes).
+ (14 pages, 5011300 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 36895 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 45143 words of extra memory for PDF output out of 51595 (max. 10000000)
 
