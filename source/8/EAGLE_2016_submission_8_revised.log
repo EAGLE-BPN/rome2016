@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  15 DEC 2015 17:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1199,7 +1199,9 @@ Type  H <return>  for immediate help.
                                                   
 l.59 \maketitle
                
-? 
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
 
 Overfull \hbox (19.33057pt too wide) in paragraph at lines 59--59
 []\T1/qpl/m/n/14.4 A VIR-TUAL RE-SEARCH EN-VI-RON-MENT TO DOC-
@@ -1236,9 +1238,6 @@ Package natbib Warning: Citation `McEneryWilson2001' on page 2 undefined on inp
 ut line 95.
 
 
-LaTeX Warning: Reference `fig:1' on page 2 undefined on input line 97.
-
-
 Package natbib Warning: Citation `Thompson1962' on page 2 undefined on input li
 ne 111.
 
@@ -1246,7 +1245,7 @@ ne 111.
 Package natbib Warning: Citation `Thompson1962' on page 2 undefined on input li
 ne 112.
 
-[2] <EAGLE2016submission8revisedx-img001.png, id=32, 1253.43282pt x 831.105pt>
+[2] <EAGLE2016submission8revisedx-img001.png, id=89, 1253.43282pt x 831.105pt>
 File: EAGLE2016submission8revisedx-img001.png Graphic file (type png)
 
 <use EAGLE2016submission8revisedx-img001.png>
@@ -1273,48 +1272,10 @@ Overfull \hbox (4.93297pt too wide) in paragraph at lines 152--152
  |[]\T1/qpl/b/n/12 Prerequisites for Mak-ing a Non-Alphabetic Writ-ing Sys-
  []
 
-./EAGLE_2016_submission_8_revised.tex:169: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.169 ... in the same context \citep{Bußmann2002}
-                                                  . This step yields
-? 
-./EAGLE_2016_submission_8_revised.tex:169: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.169 ... in the same context \citep{Bußmann2002}
-                                                  . This step yields
-? 
-./EAGLE_2016_submission_8_revised.tex:169: Improper alphabetic constant.
-<to be read again> 
-                   \begingroup 
-l.169 ... in the same context \citep{Bußmann2002}
-                                                  . This step yields
-? 
-./EAGLE_2016_submission_8_revised.tex:169: Missing = inserted for \ifnum.
-<to be read again> 
-                   \begingroup 
-l.169 ... in the same context \citep{Bußmann2002}
-                                                  . This step yields
-? 
-./EAGLE_2016_submission_8_revised.tex:169: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.169 ... in the same context \citep{Bußmann2002}
-                                                  . This step yields
-? 
-./EAGLE_2016_submission_8_revised.tex:169: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.169 ... in the same context \citep{Bußmann2002}
-                                                  . This step yields
-? 
-./EAGLE_2016_submission_8_revised.tex:169: Missing } inserted.
-<inserted text> 
-                }
-l.169 ... in the same context \citep{Bußmann2002}
-                                                  . This step yields
-? 
+
+Package natbib Warning: Citation `Bussmann2002' on page 4 undefined on input li
+ne 169.
+
 
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
@@ -1346,157 +1307,22 @@ Package natbib Warning: Citation `Lacau1903' on page 6 undefined on input line
 Underfull \vbox (badness 1117) has occurred while \output is active []
 
  [6]
-./EAGLE_2016_submission_8_revised.tex:239: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.239 ...these annotations \citep{SachseDürr2015}
-                                                  . The goal is to create a ...
 
-? 
-./EAGLE_2016_submission_8_revised.tex:239: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.239 ...these annotations \citep{SachseDürr2015}
-                                                  . The goal is to create a ...
+Package natbib Warning: Citation `SachseDurr2015' on page 7 undefined on input 
+line 239.
 
-? 
-./EAGLE_2016_submission_8_revised.tex:239: Improper alphabetic constant.
-<to be read again> 
-                   \begingroup 
-l.239 ...these annotations \citep{SachseDürr2015}
-                                                  . The goal is to create a ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:239: Missing = inserted for \ifnum.
-<to be read again> 
-                   \begingroup 
-l.239 ...these annotations \citep{SachseDürr2015}
-                                                  . The goal is to create a ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:239: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.239 ...these annotations \citep{SachseDürr2015}
-                                                  . The goal is to create a ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:239: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.239 ...these annotations \citep{SachseDürr2015}
-                                                  . The goal is to create a ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:239: Missing } inserted.
-<inserted text> 
-                }
-l.239 ...these annotations \citep{SachseDürr2015}
-                                                  . The goal is to create a ...
-
-? 
 
 Package natbib Warning: Citation `LacadenaWichmann2002' on page 7 undefined on 
 input line 241.
 
-./EAGLE_2016_submission_8_revised.tex:256: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.256 ...ive annotations) \citep{Stührenberg2012}
-                                                  . This strategy can be imp...
 
-? 
-./EAGLE_2016_submission_8_revised.tex:256: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.256 ...ive annotations) \citep{Stührenberg2012}
-                                                  . This strategy can be imp...
+Package natbib Warning: Citation `Stuhrenberg2012' on page 7 undefined on input
+ line 256.
 
-? 
-./EAGLE_2016_submission_8_revised.tex:256: Improper alphabetic constant.
-<to be read again> 
-                   \begingroup 
-l.256 ...ive annotations) \citep{Stührenberg2012}
-                                                  . This strategy can be imp...
 
-? 
-./EAGLE_2016_submission_8_revised.tex:256: Missing = inserted for \ifnum.
-<to be read again> 
-                   \begingroup 
-l.256 ...ive annotations) \citep{Stührenberg2012}
-                                                  . This strategy can be imp...
+Package natbib Warning: Citation `Stuhrenberg2012' on page 7 undefined on input
+ line 258.
 
-? 
-./EAGLE_2016_submission_8_revised.tex:256: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.256 ...ive annotations) \citep{Stührenberg2012}
-                                                  . This strategy can be imp...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:256: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.256 ...ive annotations) \citep{Stührenberg2012}
-                                                  . This strategy can be imp...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:256: Missing } inserted.
-<inserted text> 
-                }
-l.256 ...ive annotations) \citep{Stührenberg2012}
-                                                  . This strategy can be imp...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:258: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.258 data \citep{Stührenberg2012}
-                                   . For example, sign sequences in Classic ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:258: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.258 data \citep{Stührenberg2012}
-                                   . For example, sign sequences in Classic ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:258: Improper alphabetic constant.
-<to be read again> 
-                   \begingroup 
-l.258 data \citep{Stührenberg2012}
-                                   . For example, sign sequences in Classic ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:258: Missing = inserted for \ifnum.
-<to be read again> 
-                   \begingroup 
-l.258 data \citep{Stührenberg2012}
-                                   . For example, sign sequences in Classic ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:258: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.258 data \citep{Stührenberg2012}
-                                   . For example, sign sequences in Classic ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:258: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.258 data \citep{Stührenberg2012}
-                                   . For example, sign sequences in Classic ...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:258: Missing } inserted.
-<inserted text> 
-                }
-l.258 data \citep{Stührenberg2012}
-                                   . For example, sign sequences in Classic ...
-
-? 
 
 Package natbib Warning: Citation `Gronemeyer2014' on page 7 undefined on input 
 line 259.
@@ -1513,170 +1339,32 @@ Underfull \vbox (badness 3780) has occurred while \output is active []
 Package natbib Warning: Citation `Crystal1997' on page 8 undefined on input lin
 e 287.
 
-./EAGLE_2016_submission_8_revised.tex:290: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.290 ...spects, for instance \citep{Bußmann2002}
-                                                  . Similarly, in paleograph...
 
-? 
-./EAGLE_2016_submission_8_revised.tex:290: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.290 ...spects, for instance \citep{Bußmann2002}
-                                                  . Similarly, in paleograph...
+Package natbib Warning: Citation `Bussmann2002' on page 8 undefined on input li
+ne 290.
 
-? 
-./EAGLE_2016_submission_8_revised.tex:290: Improper alphabetic constant.
-<to be read again> 
-                   \begingroup 
-l.290 ...spects, for instance \citep{Bußmann2002}
-                                                  . Similarly, in paleograph...
 
-? 
-./EAGLE_2016_submission_8_revised.tex:290: Missing = inserted for \ifnum.
-<to be read again> 
-                   \begingroup 
-l.290 ...spects, for instance \citep{Bußmann2002}
-                                                  . Similarly, in paleograph...
+Package natbib Warning: Citation `Bussmann2002' on page 8 undefined on input li
+ne 291.
 
-? 
-./EAGLE_2016_submission_8_revised.tex:290: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.290 ...spects, for instance \citep{Bußmann2002}
-                                                  . Similarly, in paleograph...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:290: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.290 ...spects, for instance \citep{Bußmann2002}
-                                                  . Similarly, in paleograph...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:290: Missing } inserted.
-<inserted text> 
-                }
-l.290 ...spects, for instance \citep{Bußmann2002}
-                                                  . Similarly, in paleograph...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:291: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.291 ...raphetic perspective \citep{Bußmann2002}
-                                                  . The arrangement of texts...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:291: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.291 ...raphetic perspective \citep{Bußmann2002}
-                                                  . The arrangement of texts...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:291: Improper alphabetic constant.
-<to be read again> 
-                   \begingroup 
-l.291 ...raphetic perspective \citep{Bußmann2002}
-                                                  . The arrangement of texts...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:291: Missing = inserted for \ifnum.
-<to be read again> 
-                   \begingroup 
-l.291 ...raphetic perspective \citep{Bußmann2002}
-                                                  . The arrangement of texts...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:291: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.291 ...raphetic perspective \citep{Bußmann2002}
-                                                  . The arrangement of texts...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:291: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.291 ...raphetic perspective \citep{Bußmann2002}
-                                                  . The arrangement of texts...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:291: Missing } inserted.
-<inserted text> 
-                }
-l.291 ...raphetic perspective \citep{Bußmann2002}
-                                                  . The arrangement of texts...
-
-? 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-./EAGLE_2016_submission_8_revised.tex:304: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.304 ...ntify distinct units \citep{Bußmann2002}
-                                                  . Graphemics is devoted to...
 
-? 
-./EAGLE_2016_submission_8_revised.tex:304: Missing \endcsname inserted.
-<to be read again> 
-                   \begingroup 
-l.304 ...ntify distinct units \citep{Bußmann2002}
-                                                  . Graphemics is devoted to...
+Package natbib Warning: Citation `Bussmann2002' on page 9 undefined on input li
+ne 304.
 
-? 
-./EAGLE_2016_submission_8_revised.tex:304: Improper alphabetic constant.
-<to be read again> 
-                   \begingroup 
-l.304 ...ntify distinct units \citep{Bußmann2002}
-                                                  . Graphemics is devoted to...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:304: Missing = inserted for \ifnum.
-<to be read again> 
-                   \begingroup 
-l.304 ...ntify distinct units \citep{Bußmann2002}
-                                                  . Graphemics is devoted to...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:304: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.304 ...ntify distinct units \citep{Bußmann2002}
-                                                  . Graphemics is devoted to...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:304: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.304 ...ntify distinct units \citep{Bußmann2002}
-                                                  . Graphemics is devoted to...
-
-? 
-./EAGLE_2016_submission_8_revised.tex:304: Missing } inserted.
-<inserted text> 
-                }
-l.304 ...ntify distinct units \citep{Bußmann2002}
-                                                  . Graphemics is devoted to...
-
-? 
 
 Package natbib Warning: Citation `Crystal1997' on page 9 undefined on input lin
 e 313.
-
-
-LaTeX Warning: Reference `fig:2' on page 9 undefined on input line 337.
 
 
 Package natbib Warning: Citation `Zender1999' on page 9 undefined on input line
  337.
 
 [9]
-<EAGLE2016submission8revisedx-img002.png, id=91, 2077.5216pt x 1354.8216pt>
+<EAGLE2016submission8revisedx-img002.png, id=129, 2077.5216pt x 1354.8216pt>
 File: EAGLE2016submission8revisedx-img002.png Graphic file (type png)
 
 <use EAGLE2016submission8revisedx-img002.png>
@@ -1713,82 +1401,113 @@ Package natbib Warning: Citation `Diederichs2015' on page 12 undefined on input
  line 394.
 
 
-Package natbib Warning: Citation `DFG2014' on page 12 undefined on input line 4
-00.
-
-
 Package natbib Warning: Citation `Diederichs2015' on page 12 undefined on input
  line 404.
 
-(./EAGLE_2016_submission_8_revised.bbl)
+
+Package natbib Warning: Citation `Gronemeyer2014' undefined on input line 425.
+
+(./EAGLE_2016_submission_8_revised.bbl [12]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qpl/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 29.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\%'
+(microtype)                in font encoding `T1' in protrusion list 
+(microtype)                `default'.
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 53--56
+[]\T1/qpl/m/sc/10 (+20) McEnery, T., Wil-son, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/
+m/it/10 (+20) Cor-pus lin-guis-tics: An in-tro-duc-tion\T1/qpl/m/n/10 (+20) , E
+d-
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 53--56
+\T1/qpl/m/n/10 (+20) in-burgh Uni-ver-sity Press, 2001, URL [][]$\T1/lmtt/m/n/1
+0 https : / / books . google .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+\T1/lmtt/m/n/10 de / books ? hl = en & lr = &id = nwmgdvN _ akAC & oi = fnd & p
+g = PP10 & dq =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+\T1/lmtt/m/n/10 Corpus + Linguistics : +An + Introduction & ots = 9N9OklDMRf & 
+sig =
+ []
+
+[13]
+Underfull \hbox (badness 4266) in paragraph at lines 77--80
+[]\T1/qpl/m/sc/10 (+20) St�hrenberg, M.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (
++20) Ausze-ich-nungssprachen f�r lin-guis-tis-che Ko-r-pora:
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 82--85
+\T1/qpl/m/n/10 (+20) ver-sity of Ok-la-homa Press Nor-man, 1962, URL [][]$\T1/l
+mtt/m/n/10 http : / / www .
+ []
+
+)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 429.
-[12] [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 429.
- (./EAGLE_2016_submission_8_revised.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 429.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 429.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 430.
+[14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 430.
+ (./EAGLE_2016_submission_8_revised.aux
 
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
 
-Package rerunfilecheck Warning: File `EAGLE_2016_submission_8_revised.out' has 
-changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `EAGLE_2016_submission_8_revised.out
-':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  9B84C225F0FEAC41399181B849B86EFA;1158.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- )
-(\end occurred inside a group at level 7)
-
-### semi simple group (level 7) entered at line 304 (\begingroup)
-### semi simple group (level 6) entered at line 291 (\begingroup)
-### semi simple group (level 5) entered at line 290 (\begingroup)
-### semi simple group (level 4) entered at line 258 (\begingroup)
-### semi simple group (level 3) entered at line 256 (\begingroup)
-### semi simple group (level 2) entered at line 239 (\begingroup)
-### semi simple group (level 1) entered at line 169 (\begingroup)
-### bottom level 
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 430.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 430.
+Package rerunfilecheck Info: File `EAGLE_2016_submission_8_revised.out' has not
+ changed.
+(rerunfilecheck)             Checksum: 9B84C225F0FEAC41399181B849B86EFA;1158.
+ ) 
 Here is how much of TeX's memory you used:
- 21185 strings out of 493089
- 399853 string characters out of 6134841
- 464086 words of memory out of 5000000
- 24237 multiletter control sequences out of 15000+600000
- 87218 words of font info for 141 fonts, out of 8000000 for 9000
+ 21793 strings out of 493089
+ 406642 string characters out of 6134841
+ 464397 words of memory out of 5000000
+ 24800 multiletter control sequences out of 15000+600000
+ 92388 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,44p,10429b,1205s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{cite.St\\begingroup\040\\let\040\\r
-elax\040\\relax\040\\endgroup\040[Pleaseinsert\\PrerenderUnicode{\303\274}intop
-reamble]hrenberg2012} has been referenced but does not exist, replaced by a fix
-ed one
-
-pdfTeX warning (dest): name{cite.SachseD\\begingroup\040\\let\040\\relax\040\\r
-elax\040\\endgroup\040[Pleaseinsert\\PrerenderUnicode{\303\274}intopreamble]rr2
-015} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bu\\begingroup\040\\let\040\\relax\040\\relax\
-040\\endgroup\040[Pleaseinsert\\PrerenderUnicode{\303\237}intopreamble]mann2002
-} has been referenced but does not exist, replaced by a fixed one
-
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on EAGLE_2016_submission_8_revised.pdf (13 pages, 2483692 bytes)
+ 44i,9n,44p,10429b,866s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
+e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/tex-gyre/qplri.pfb>
+Output written on EAGLE_2016_submission_8_revised.pdf (14 pages, 2532705 bytes)
 .
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 56 named destinations out of 1000 (max. 500000)
- 33291 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 229 PDF objects out of 1000 (max. 8388607)
+ 202 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 35963 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -3,101 +3,105 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: EAGLE2016_Full_Paper_Template.aux
 The style file: ../../sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-You're missing a field name---line 2355 of file ../../EAGLE.bib
+"," immediately follows an entry type---line 177 of file ../../EAGLE.bib
+ : @incollectionLacadenaWichmann2002
+ :                                  ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1624 of file ../../EAGLE.bib
  :  
  :  %%Eventtitle = {{Proceedings of the 5th International Conference, MTSR 2011}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 2374 of file ../../EAGLE.bib
+I was expecting a `,' or a `}'---line 1643 of file ../../EAGLE.bib
  :  
  :  %Volume = {{58}}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 2536 of file ../../EAGLE.bib
+You're missing a field name---line 1805 of file ../../EAGLE.bib
  :  
  :  %%Eventtitle = {S{\'e}minaire Inria, Carnac, 1er - 5 octobre 2012},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 3087 of file ../../EAGLE.bib
+You're missing a field name---line 2356 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{XI Congresso Internazionale di Epigrafia Greca e Latia. Roma, 18-24th September 1997}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 3325 of file ../../EAGLE.bib
+You're missing a field name---line 2594 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Transforming culture in the digital age}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 3858 of file ../../EAGLE.bib
+You're missing a field name---line 3127 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Computers \& Cultural Heritage Proceedings of the XVI International Conference of the Association for History and Computing}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 3934 of file ../../EAGLE.bib
+You're missing a field name---line 3203 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Humanities Computing, Formal Methods, Experimental Practice Symposium}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 4186 of file ../../EAGLE.bib
+You're missing a field name---line 3455 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Actas del Simposio Internacional Ibero-It{\'a}lico sobre Epigrafia Rupestre, Santiago de Compostela Y Norte de Portugal}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 4858 of file ../../EAGLE.bib
+You're missing a field name---line 4127 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Atti del V Workshop Foggia, 5-6 maggio 2010}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 4882 of file ../../EAGLE.bib
+You're missing a field name---line 4151 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{4th ISPRS International Workshop 3D-ARCH 2011. Trento 2-4 March 2011}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 4905 of file ../../EAGLE.bib
+You're missing a field name---line 4174 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{4th International Meeting on Graphic Archaeology and Informatics, Cultural Heritage and Innovation. 20 -- 22 June 2012}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 4954 of file ../../EAGLE.bib
+You're missing a field name---line 4223 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{7th International Joint Conference on Artificial Intelligence (Vancouver, BC, Canada, August 1981)}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 4989 of file ../../EAGLE.bib
+You're missing a field name---line 4258 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {XXIV International CIPA Symposium, 2 – 6 September 2013},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 5214 of file ../../EAGLE.bib
+You're missing a field name---line 4483 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Digital Heritage International Congress (Digital Heritage), IEEE}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 5524 of file ../../EAGLE.bib
+You're missing a field name---line 4793 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Atti del Convegno internazionale di studi, Macerata, 18-20 Maggio 1995}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 5573 of file ../../EAGLE.bib
+You're missing a field name---line 4842 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{Atti del Colloquio internazionale, Bologna, 31 agosto - 2 settembre 1987}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 5664 of file ../../EAGLE.bib
+You're missing a field name---line 4933 of file ../../EAGLE.bib
  :  Editor = {Donati, Angela and Poma, Gabriella}, 
  :                                                 % and Susini, Gian Carlo
 I'm skipping whatever remains of this entry
-You're missing a field name---line 5719 of file ../../EAGLE.bib
+You're missing a field name---line 4988 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{XV Congreso Internacional de Arqueolog{\'\i}a Cristiana (Toledo, 8-12 septiembre 2008)}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 5739 of file ../../EAGLE.bib
+You're missing a field name---line 5008 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{IX Congresso Nazionale di Archeologia Cristiana (Agrigento, 20-25 Novembre 2004)}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 5828 of file ../../EAGLE.bib
+You're missing a field name---line 5097 of file ../../EAGLE.bib
  :  
  :  %Eventtitle = {{35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA, Berlin, Germany, April 2-6, 2007)}},
 (Error may have been on previous line)
@@ -144,4 +148,4 @@ warning$ -- 0
 while$ -- 4
 width$ -- 0
 write$ -- 20
-(There were 20 error messages)
+(There were 21 error messages)
