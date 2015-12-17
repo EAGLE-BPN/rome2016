@@ -1,0 +1,158 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Antonini}(2012)}]{antonini_osservazioni_2012}
+\textsc{Antonini, A.}, \emph{Osservazioni sul graffito all’esterno della
+  scodella dai regna {Maricae} ({Minturno} {LT})}, Quaderni Coldragonesi, 3
+  (2012), 11--22.
+
+\bibitem[{\textsc{Baldi}(2002)}]{baldi_foundations_2002}
+\textsc{Baldi, P.}, \emph{The foundations of {Latin}}, Mouton de Gruyter,
+  Berlin [u.a.], 2002, ISBN 3-11-017208-9 3-11-016294-6 978-3-11-016294-3
+  978-3-11-017208-9.
+
+\bibitem[{\textsc{Bodard}(2009)}]{bodard_epidoc:_2009}
+\textsc{Bodard, G.}, \emph{{EpiDoc}: {Epigraphic} documents in {XML} for
+  publication and interchange}, in F.~Feraudi-Gruenais (ed.), \emph{Latin on
+  {Stone}: {Epigraphic} {Research} and {Electronic} {Archives}}, 1--17, 2009.
+
+\bibitem[{\textsc{Colonna}(2007)}]{colonna_iscrizioni_2007}
+\textsc{Colonna, G.}, \emph{Le iscrizioni di {Satricum}}, Satricum. Trenta anni
+  di scavi olandesi,  (2007), 98--99 and 194--197.
+
+\bibitem[{\textsc{Consortium et~al.}(2008)\textsc{Consortium, Burnard, Bauman,
+  and {others}}}]{consortium_tei_2008}
+\textsc{Consortium, T.E.I., Burnard, L., Bauman, S., {others}}, \emph{{TEI}
+  {P}5: {Guidelines} for electronic text encoding and interchange}, TEI
+  Consortium, 2008.
+
+\bibitem[{\textsc{Cuzzolin and Haverling}(2009)}]{cuzzolin_syntax_2009}
+\textsc{Cuzzolin, P., Haverling, G.}, \emph{Syntax, sociolinguistics, and
+  literary genres}, in P.~Cuzzolin, P.~Baldi (ed.), \emph{New {Perspectives} on
+  {Historical} {Latin} {Syntax}: {Syntax} of the sentence}, vol.~1, 19,
+  Berlino, 2009,
+  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=LJ2WkJOs3R4C&oi=fnd&pg=PA19&dq=Syntax,+sociolinguistics,+and+literary+genres&ots=jOkODvJz81&sig=sZbUJZpkPinI5VPj1UXadZhz1Ls}.
+
+\bibitem[{\textsc{Elliot}(2007)}]{elliot_conformance_2007}
+\textsc{Elliot, T.}, \emph{Conformance and {Interoperability}: {What} it means
+  to be {EpiDoc}}, 2007,
+  \urlprefix\url{http://rae2007.cch.kcl.ac.uk/epidoc/www.stoa.org/epidoc/gl/5/conformance.html}.
+
+\bibitem[{\textsc{Elliott et~al.}(2007-2015)\textsc{Elliott, Bodard, Milonas,
+  Stoyanova, Tupman, and Vanderbilt}}]{elliott_epidoc_2007}
+\textsc{Elliott, T., Bodard, G., Milonas, E., Stoyanova, S., Tupman, C.,
+  Vanderbilt, S.}, \emph{{EpiDoc} {Guidelines}: {Ancient} documents in {TEI}
+  {XML}}, url: http://www. stoa. org/epidoc/gl/latest/,  (2007-2015).
+
+\bibitem[{\textsc{Felle}(2012)}]{felle_esperienze_2012}
+\textsc{Felle, A.}, \emph{Esperienze diverse e complementari nel trattamento
+  digitale delle fonti epigrafiche: il caso di {EAGLE} ed {EpiDoc}}, in
+  \emph{Diritto romano e scienze antichistiche nell'era digitale. {Convegno} di
+  studio ({Firenze}, 12-13 settembre 2011)}, Collectanea {Graeco}-{Romana}.
+  {Studi} e strumenti per la ricerca storico-giuridica, 117--130, Torino, 2012.
+
+\bibitem[{\textsc{Gamurrini}(1899)}]{gamurrini_paleografia_1899}
+\textsc{Gamurrini, G.}, \emph{Paleografia del monumento}, in G.~Boni (ed.),
+  \emph{Stele con iscrizione latina arcaica}, 11--21, Roma, 1899.
+
+\bibitem[{\textsc{Goidanich}(1943)}]{goidanich_rapporti_1943}
+\textsc{Goidanich, P.G.}, \emph{Rapporti culturali e linguistici tra {Roma} e
+  gli {Italici}: origine antica della cultura in {Roma}; l'iscrizione arcaica
+  del {Foro} {Romano} e il suo ambiente archeologico, suo valore giuridico},
+  Reale Accademia d'Italia, 1943.
+
+\bibitem[{\textsc{Hartmann}(2005)}]{hartmann_fruhlateinischen_2005}
+\textsc{Hartmann, M.}, \emph{Die frühlateinischen {Inschriften} und ihre
+  {Datierung}: eine linguistisch-archäologisch-paläographische
+  {Untersuchung}}, vol.~3, Hempen Verlag, 2005.
+
+\bibitem[{\textsc{Hülsen}(1899)}]{hulsen_neue_1899}
+\textsc{Hülsen, C.C.}, \emph{Neue {Funde} dem {Forum} {Romanum}}, Berliner
+  Philologische Wochenschrift, 19 (1899), 31--32 col. 1002, separat-Abdruck
+  aus: Berliner philologische Wochenschrift ; 1899, No. 31/2.
+
+\bibitem[{\textsc{Krummrey and Panciera}(1980)}]{krummrey_criteri_1980}
+\textsc{Krummrey, H., Panciera, S.}, \emph{Criteri di edizione e segni
+  diacritici}, Tituli, 2 (1980), 205--215.
+
+\bibitem[{\textsc{Mahoney}(2006)}]{burnard_electronic_2006}
+\textsc{Mahoney, A.}, \emph{Electronic textual editing}, Modern Language
+  Association of America, New York, 2006, ISBN 0-87352-970-7 0-87352-971-5
+  978-0-87352-970-9 978-0-87352-971-6, includes bibliographical references and
+  index.
+
+\bibitem[{\textsc{Maras}(2015)}]{maras_storie_2015}
+\textsc{Maras, D.}, \emph{Storie di dono: l’oggetto parlante si racconta}, in
+  M.L. Haack (ed.), \emph{L’écriture et l’espace de la mort. Épigraphie
+  et nécropoles à l’époque pré-romaine}, Rome, 2015,
+  \urlprefix\url{http://books.openedition.org/efr/2730}.
+
+\bibitem[{\textsc{Panciera}(2006{\natexlab{a}})}]{panciera_i_2006}
+\textsc{Panciera, S.}, \emph{I segni diacritici: dieci anni dopo}, in
+  S.~Panciera (ed.), \emph{Epigrafi, epigrafia, epigrafisti: scritti vari editi
+  e inediti (1956-2005) con note complementari e indici}, vol.~2, 1717--1726,
+  Quasar, 2006{\natexlab{a}}.
+
+\bibitem[{\textsc{Panciera}(2006{\natexlab{b}})}]{panciera_segni_2006}
+\textsc{Panciera, S.}, \emph{Segni diacritici: riflessioni e proposte}, in
+  S.~Panciera (ed.), \emph{Epigrafi, epigrafia, epigrafisti: scritti vari editi
+  e inediti (1956-2005) con note complementari e indici}, vol.~1, 1711--1717,
+  Quasar, 2006{\natexlab{b}}.
+
+\bibitem[{\textsc{Poccetti}(2009)}]{poccetti_paradigmi_2009}
+\textsc{Poccetti, P.}, \emph{Paradigmi formulari votivi nelle tradizioni
+  epicoriche dell’{Italia} antica.”}, in J.~Bodel, M.~Kajava (ed.),
+  \emph{Dediche sacre nel mondo greco-romano: {Diffusione}, funzioni,
+  tipologie}, 43--93, Roma, 2009.
+
+\bibitem[{\textsc{Prosdocimi}(2010)}]{prosdocimi_roma_2010}
+\textsc{Prosdocimi, A.}, \emph{La {Roma} ‘{Tarquinia}’ nella lingua: forme
+  e contenuti tra il prima e il dopo}, in G.~Della~Fina (ed.), \emph{La grande
+  {Roma} dei {Tarquini}. {Atti} del {XVII} {Convegno} {Internazionale} di
+  {Studi} sulla {Storia} e l’{Archeologia} dell’{Etruria} (2009), {Annali}
+  per la fondazione del {Museo} {Claudio} {Faina} 17}, 367--489, Roma, 2010.
+
+\bibitem[{\textsc{Rocca}(1995)}]{rocca_i_1995}
+\textsc{Rocca, G.}, \emph{I rapporti del latino con le varieta italiche, il
+  caso di {Satricum}}, Evtopia. Commentarii novi de antiquitatibus totius
+  Evropae. Atti del Convegno internazionale 'Nomen Latinum'. Latini e Romani
+  prima di Annibale (Roma, Accademia di S. Luca, 24-26 Ottobre 1995), 4 (1995),
+  189--198.
+
+\bibitem[{\textsc{Sarullo}(2011)}]{sarullo_ledizione_2011}
+\textsc{Sarullo, G.}, \emph{L’edizione digitale dei testi epigrafici come
+  strumento di ricerca. {III} {The} {Encoding} of the {Archaic} {Latin}
+  {Inscriptions}}, in P.~Cotticelli~Kurras (ed.), \emph{Linguistica e
+  {Filologia} digitale. {Aspetti} e progetti}, 157--169, Alessandria, 2011.
+
+\bibitem[{\textsc{Stibbe}(1980)}]{stibbe_lapis_1980}
+\textsc{Stibbe, C.M.}, \emph{Lapis {Satricanus}, archeological, epigraphical,
+  linguistic and historical aspects of the new inscription of {Satricum}}, The
+  Hague, 1980.
+
+\bibitem[{\textsc{Susini}(1982)}]{susini_epigrafia_1982}
+\textsc{Susini, G.C.}, \emph{Epigrafia romana}, no.~9 in Guide allo studio
+  della civiltà romana, Jouvence, 1982, ISBN 978-88-7801-018-5.
+
+\bibitem[{\textsc{Tissoni}(2008)}]{tissoni_epidoc_2008}
+\textsc{Tissoni, F.}, \emph{{EpiDoc} e l’epigrafia latina sul web. {Il}
+  progetto {Iscrizioni} {Latine} {Arcaiche}},  (2008),
+  \urlprefix\url{http://philpapers.org/rec/TISEEL}.
+
+\bibitem[{\textsc{Vine}(1993)}]{_studies_1993}
+\textsc{Vine, B.}, \emph{Studies in {Archaic} {Latin} {Inscriptions}},
+  Innsbrücker Beiträge zur Sprachwissenschaft, 75 (1993).
+
+\bibitem[{\textsc{Wachter}(1987)}]{wachter_altlateinische_1987}
+\textsc{Wachter, R.}, \emph{Altlateinische {Inschriften}}, Sprachliche und
+  epigraphische Untersuchungen zu den Dokumenten bis etwa, 150 (1987),
+  121--123,
+  \urlprefix\url{http://secure.peterlang.com/download/datasheet/6766/datasheet_03722.pdf}.
+
+\end{thebibliography}
