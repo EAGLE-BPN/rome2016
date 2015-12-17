@@ -1,0 +1,127 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Algee et~al.}(2012)\textsc{Algee, Bailey, and
+  Owens}}]{algee_viewshare_2012}
+\textsc{Algee, L., Bailey, J., Owens, T.}, \emph{Viewshare and the {Kress}
+  {Collection}: {Creating}, sharing, and rapidly prototyping visual interfaces
+  to cultural heritage collection data}, D-Lib Magazine, 18 (2012), 3,
+  \urlprefix\url{http://dialnet.unirioja.es/servlet/articulo?codigo=4117343&orden=373032&info=link}.
+
+\bibitem[{\textsc{Bergstrom and Atkinson}(2009)}]{augmenting_2009}
+\textsc{Bergstrom, P., Atkinson, D.C.}, \emph{Augmenting the exploration of
+  digital libraries with web-based visualizations}, in \emph{Fourth
+  {International} {Conference} on {Digital} {Information} {Management}},
+  vol.~1, 1--7, IEEE, 2009, \doi{10.1109/ICDIM.2009.5356798},
+  \urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5356798}.
+
+\bibitem[{\textsc{Bernard et~al.}(2012)\textsc{Bernard, Ruppert, Scherer,
+  Kohlhammer, and Schreck}}]{bernard_content-based_2012}
+\textsc{Bernard, J., Ruppert, T., Scherer, M., Kohlhammer, J., Schreck, T.},
+  \emph{Content-based layouts for exploratory metadata search in scientific
+  research data}, in \emph{Proceedings of the 12th {ACM}/{IEEE}-{CS} joint
+  conference on {Digital} {Libraries}}, 139--148, ACM, 2012,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=2232844}.
+
+\bibitem[{\textsc{Buchel and Sedig}(2014)}]{buchel_making_2014}
+\textsc{Buchel, O., Sedig, K.}, \emph{Making sense of document collections with
+  map-based visualisations: the role of interaction with representations.},
+  Information Research, 19 (2014),
+  \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13681613&AN=100304913&h=Ri7xCY3N%2BTBQyIgpmv9yNDWPgMqpNsoBH8VQozhpf7fzFEse947irGD0UXQMsUgB9Ka%2BQ9Yywf%2FfTk6%2Bx0vy2A%3D%3D&crl=c}.
+
+\bibitem[{\textsc{Cao et~al.}(2012)\textsc{Cao, Lin, Sun, Lazer, Liu, and
+  Qu}}]{cao_whisper:_2012}
+\textsc{Cao, N., Lin, Y.R., Sun, X., Lazer, D., Liu, S., Qu, H.},
+  \emph{Whisper: {Tracing} the spatiotemporal process of information diffusion
+  in real time}, Visualization and Computer Graphics, IEEE Transactions on, 18
+  (2012), 2649--2658,
+  \urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6327271}.
+
+\bibitem[{\textsc{Fast and Sedig}(2010)}]{fast_interaction_2010}
+\textsc{Fast, K.V., Sedig, K.}, \emph{Interaction and the epistemic potential
+  of digital libraries}, International Journal on Digital Libraries, 11 (2010),
+  169--207,
+  \urlprefix\url{http://link.springer.com/article/10.1007/s00799-011-0066-8}.
+
+\bibitem[{\textsc{Ferreira et~al.}(2011)\textsc{Ferreira, Lins, Fink, Kelling,
+  Wood, Freire, and Silva}}]{ferreira_birdvis:_2011}
+\textsc{Ferreira, N., Lins, L., Fink, D., Kelling, S., Wood, C., Freire, J.,
+  Silva, C.}, \emph{Birdvis: {Visualizing} and understanding bird populations},
+  Visualization and Computer Graphics, IEEE Transactions on, 17 (2011),
+  2374--2383,
+  \urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6065004}.
+
+\bibitem[{\textsc{Hienert et~al.}(2012)\textsc{Hienert, Sawitzki, Schaer, and
+  Mayr}}]{hienert_integrating_2012}
+\textsc{Hienert, D., Sawitzki, F., Schaer, P., Mayr, P.}, \emph{Integrating
+  interactive visualizations in the search process of digital libraries and
+  {IR} systems}, in \emph{Advances in {Information} {Retrieval}}, 447--450,
+  Springer, 2012,
+  \urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-642-28997-2_38}.
+
+\bibitem[{\textsc{Liuzzo et~al.}(2014)\textsc{Liuzzo, Ruiz, and
+  Vassallo}}]{liuzzo_networking_2014}
+\textsc{Liuzzo, P.M., Ruiz, E.R., Vassallo, V.}, \emph{Networking {EAGLE} with
+  {CIDOC} and {TEI}},  (2014),
+  \urlprefix\url{http://www.cidoc2014.de/images/sampledata/cidoc/papers/J-2_Vassallo_Ruiz_Liuzzo_paper.pdf}.
+
+\bibitem[{\textsc{Nasar et~al.}(2011)\textsc{Nasar, Mohd, and
+  Ali}}]{nasar_conceptual_2011}
+\textsc{Nasar, M.R.A., Mohd, M., Ali, N.M.}, \emph{A conceptual framework for
+  an interactive personal information management system}, in \emph{User
+  {Science} and {Engineering} (i-{USEr}), 2011 {International} {Conference}
+  on}, 100--105, IEEE, 2011,
+  \urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6150545}.
+
+\bibitem[{\textsc{Pitzalis et~al.}(2012)\textsc{Pitzalis, Christophorou,
+  Kyriakou, Georgiadou, and Niccolucci}}]{pitzalis_building_2012}
+\textsc{Pitzalis, D., Christophorou, E., Kyriakou, N., Georgiadou, A.,
+  Niccolucci, F.}, \emph{Building scholar e-communities using a semantically
+  aware framework: {Archaia} {Kypriaki} {Grammateia} {Digital} {Corpus}}, in
+  \emph{{VAST}12: {The} 13th {International} {Symposium} on {Virtual}
+  {Reality}, {Archaeology} and {Intelligent} {Cultural} {Heritage}}, 89--95,
+  2012, \urlprefix\url{https://hal.archives-ouvertes.fr/hal-00840006/}.
+
+\bibitem[{\textsc{Ren et~al.}(2010)\textsc{Ren, Tian, Zhang, and
+  Dai}}]{ren_daisyviz:_2010}
+\textsc{Ren, L., Tian, F., Zhang, L., Dai, G.}, \emph{{DaisyViz}: {A}
+  {Model}-based {User} {Interfaces} {Toolkit} for {Development} of
+  {Interactive} {Information} {Visualization}}, in \emph{Visual {Information}
+  {Communication}}, 209--229, Springer, 2010,
+  \urlprefix\url{http://link.springer.com/chapter/10.1007/978-1-4419-0312-9_14}.
+
+\bibitem[{\textsc{Ronzino et~al.}(2012)\textsc{Ronzino, Hermon, and
+  Niccolucci}}]{ronzino_metadata_2012}
+\textsc{Ronzino, P., Hermon, S., Niccolucci, F.}, \emph{A metadata schema for
+  cultural heritage documentation}, V., CApellini (ed.), Electronic Imaging \&
+  the Visual Arts: EVA,  (2012), 36--41,
+  \urlprefix\url{http://www.researchgate.net/profile/Paola_Ronzino/publication/259786414_A_METADATA_SCHEMA_FOR_CULTURAL_HERITAGE_DOCUMENTATION/links/0f31752de7b57302f9000000.pdf}.
+
+\bibitem[{\textsc{Vassallo et~al.}(2013)\textsc{Vassallo, Christophorou,
+  Hermon, and Niccolucci}}]{vassallo_revealing_2013}
+\textsc{Vassallo, V., Christophorou, E., Hermon, S., Niccolucci, F.},
+  \emph{Revealing cross-disciplinary information through formal knowledge
+  representation—{A} proposed {Metadata} for ancient {Cypriot} inscriptions},
+  in \emph{2013 {Digital} {Heritage} {International} {Congress}
+  ({DigitalHeritage})}, 2013,
+  \urlprefix\url{https://www.infona.pl/resource/bwmeta1.element.ieee-art-000006744732}.
+
+\bibitem[{\textsc{Voskos}(1997)}]{voskos__1997}
+\textsc{Voskos, A.}, \emph{\begin{otherlanguage*}{greek}Ἀρχαία
+  Κυπριακὴ Γραμματεία\end{otherlanguage*}}, Nicosia, 1997.
+
+\bibitem[{\textsc{Wong et~al.}(2011)\textsc{Wong, Chen, Kodagoda, Rooney, and
+  Xu}}]{wong_invisque:_2011}
+\textsc{Wong, W., Chen, R., Kodagoda, N., Rooney, C., Xu, K.},
+  \emph{{INVISQUE}: intuitive information exploration through interactive
+  visualization}, in \emph{{CHI}'11 {Extended} {Abstracts} on {Human} {Factors}
+  in {Computing} {Systems}}, 311--316, ACM, 2011,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=1979720}.
+
+\end{thebibliography}
