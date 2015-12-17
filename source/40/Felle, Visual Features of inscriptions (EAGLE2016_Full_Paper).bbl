@@ -1,0 +1,61 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Carletti}(2008)}]{carletti_epigrafia_2008}
+\textsc{Carletti, C.}, \emph{Epigrafia dei cristiani in {Occidente} dal {III}
+  al {VII} secolo: ideologia e prassi}, vol.~6, Edipuglia, 2008.
+
+\bibitem[{\textsc{Felle}(2016)}]{pesce_documenti_2016}
+\textsc{Felle, A.}, \emph{Documenti epigrafici di committenza ebraica.
+  {Omologazione} e alterità}, in M.~Pesce, A.~Desrto (ed.), \emph{Texts,
+  {Practices}, and {Groups}. {Multidisciplinary} approaches to the istory of
+  {Jesus} {Followers} in the first two centuries. {First} {Annual} {Meeting} of
+  {Bertinoro} (2-4 {October} 2014)}, Turnhout, 2016.
+
+\bibitem[{\textsc{Felle}(2006)}]{felle_biblia_2006}
+\textsc{Felle, A.E.}, \emph{Biblia epigraphica: la sacra scrittura nella
+  documentazione epigrafica dell'{Orbis} {Christianvs} {Antiqvvs} ({III} -
+  {VIII} secolo)}, no.~5 in Inscriptiones {Christianae} {Italiae} : {Subsidia}
+  ; 5 ; {Inscriptiones} {Christianae} {Italiae} / {Subsidia}, Edipuglia, Bari,
+  2006, ISBN 88-7228-471-6 978-88-7228-471-1.
+
+\bibitem[{\textsc{Felle}(2007)}]{felle_judaism_2007}
+\textsc{Felle, A.E.}, \emph{Judaism and {Christianity} in {Light} of
+  {Epigraphic} {Evidence} (3rd-7th cent. {CE})}, Jews in the Greco-Roman World:
+  Historical and Literary Aspects= Henoch: Studi su giudaismo e cristianesimo
+  dal secondo tempio alla tarda antichità, 29 (2007), 354--77.
+
+\bibitem[{\textsc{Felle}(2015)}]{felle_esporre_2015}
+\textsc{Felle, A.E.}, \emph{Esporre la {Scrittura}. {L}'uso di testi biblici in
+  epigrafi d'ambito pubblico fra tarda antichità e prima età bizantina (sec.
+  {IV}-{VIII})}, Antiquité Tardive, 23 (2015), 311--328.
+
+\bibitem[{\textsc{Felle et~al.}(2013)\textsc{Felle, Bisconti, and
+  Braconi}}]{felle_apporto_2013}
+\textsc{Felle, A.E., Bisconti, F., Braconi, M.}, \emph{L'apporto
+  dell'{Epigraphic} {Database} {Bari} ({EDB}) all'analisi dell'apparato
+  figurativo delle iscrizioni dei cristiani di {Roma}}, in \emph{Incisioni
+  figurate della {Tarda} antichità. {Atti} del {Convegno} di {Studi} ({Roma},
+  22-23 marzo 2012)}, 99--112, Città del Vaticano, 2013.
+
+\bibitem[{\textsc{Kähler and Mango}(1967)}]{kahler_hagia_1967}
+\textsc{Kähler, H., Mango, C.}, \emph{Die {Hagia} {Sophia}}, Mann, Berlin,
+  1967.
+
+\bibitem[{\textsc{Zimmermann and Felle}(2014)}]{zimmermann_epigraphy_2014}
+\textsc{Zimmermann, N., Felle, A.}, \emph{Epigraphy, {Art} {History},
+  {Archaeology}. {A} {Case} of {Interaction} between {Research} {Projects}:
+  {The} {Epigraphic} {Database} {Bari} ({UniBa}, {Italy}) and the {Domitilla}
+  {Projekt} (Ö{AW}, {Austria} - {DAI}, {Deutschland})}, in S.~Orlandi,
+  R.~Santucci, V.~Casarosa, P.M. Liuzzo (ed.), \emph{Information {Technologies}
+  for {Epigraphy} and {Cultural} {Heritage}. {Proceedings} of the {First}
+  {EAGLE} {International} {Conference} ({Paris}, {September} 29-30 - {October},
+  1, 2014)}, 75--96, Roma, 2014.
+
+\end{thebibliography}
