@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 17:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1311,12 +1311,6 @@ g (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-Overfull \hbox (0.133pt too wide) in paragraph at lines 260--266
-[]\T1/qpl/m/n/10 (-20) Materials and shape of the writ-ten ob-jects com-mu-ni-c
-ate im-mediately,
- []
-
-
 <FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img008.jpg, id=136, 689.45
 58pt x 334.6101pt>
 File: FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img008.jpg Graphic fi
@@ -1401,32 +1395,32 @@ le (type jpg)
 
 <use FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img013.jpg>
 Package pdftex.def Info: FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-im
-g013.jpg used on input line 373.
+g013.jpg used on input line 372.
 (pdftex.def)             Requested size: 310.13503pt x 514.36082pt.
 
 
-LaTeX Warning: Float too large for page by 532.56459pt on input line 377.
+LaTeX Warning: Float too large for page by 532.56459pt on input line 376.
 
 [14] [15 <./FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img012.jpg> <./
 FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img013.jpg>]
-<FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img014.jpg, id=190, 1284.8
+<FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img014.jpg, id=189, 1284.8
 pt x 963.6pt>
 File: FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img014.jpg Graphic fi
 le (type jpg)
 
 <use FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img014.jpg>
 Package pdftex.def Info: FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-im
-g014.jpg used on input line 418.
+g014.jpg used on input line 417.
 (pdftex.def)             Requested size: 310.13503pt x 232.59203pt.
  [16 <./FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img014.jpg>]
 (./Felle, Visual Features of inscriptions (EAGLE2016_Full_Paper).bbl [17])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 443.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 442.
 
 [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 443.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 442.
  (./Felle, Visual Features of inscriptions (EAGLE2016_Full_Paper).aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 443.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 443.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 442.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 442.
 Package rerunfilecheck Info: File `"Felle, Visual Features of inscriptions (EAG
 LE2016_Full_Paper)".out' has not changed.
 (rerunfilecheck)             Checksum: 3719DADC8EA390028748B14C584E8897;477.
@@ -1434,16 +1428,13 @@ LE2016_Full_Paper)".out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 23020 strings out of 493089
- 425271 string characters out of 6134841
- 469404 words of memory out of 5000000
+ 23024 strings out of 493089
+ 425307 string characters out of 6134841
+ 468406 words of memory out of 5000000
  26003 multiletter control sequences out of 15000+600000
- 108853 words of font info for 190 fonts, out of 8000000 for 9000
+ 109132 words of font info for 192 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,40p,10461b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1456,10 +1447,10 @@ dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts
 /public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
 c/tex-gyre/qplri.pfb>
 Output written on "Felle, Visual Features of inscriptions (EAGLE2016_Full_Paper
-).pdf" (18 pages, 42894122 bytes).
+).pdf" (18 pages, 42894106 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
+ 241 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
  47 named destinations out of 1000 (max. 500000)
  42111 words of extra memory for PDF output out of 42996 (max. 10000000)
 
