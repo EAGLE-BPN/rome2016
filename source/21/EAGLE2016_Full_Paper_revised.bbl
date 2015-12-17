@@ -1,0 +1,34 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Guarducci}(1987)}]{guarducci_epigrafia_1987}
+\textsc{Guarducci, M.}, \emph{L'epigrafia greca dalle origini al tardo impero},
+  Ist. Poligrafico dello Stato, 1987.
+
+\bibitem[{\textsc{Hansen}(2006)}]{hansen_polis:_2006}
+\textsc{Hansen, M.H.}, \emph{Polis: an introduction to the ancient {Greek}
+  city-state}, Oxford Univ. Press, Oxford ; New York, NY [u.a.], 1. publ. ed.,
+  2006, ISBN 978-0-19-920850-0 0-19-920850-6 978-0-19-920849-4 0-19-920849-2,
+  includes bibliographical references and indexes.
+
+\bibitem[{\textsc{Jeffery}(1990)}]{jeffery_local_1990}
+\textsc{Jeffery, L.H.}, \emph{The {Local} {Scripts} of {Archaic} {Greece}.
+  {Revised} edition with a supplement by {AW} {Johnston}}, Oxford, 340 (1990),
+  345.
+
+\bibitem[{\textsc{Nielsen and Hansen}(2004)}]{nielsen_inventory_2004}
+\textsc{Nielsen, T.H., Hansen, M.H.}, \emph{An inventory of archaic and
+  classical poleis}, Oxford University Press, 2004.
+
+\bibitem[{\textsc{Robert and Robert}(1954)}]{robert_carie:_1954}
+\textsc{Robert, L., Robert, J.}, \emph{La {Carie}: histoire et géographie
+  historique avec le recueil des inscriptions antiques}, vol.~2,
+  Adrien-Maisonneuve, 1954.
+
+\end{thebibliography}
