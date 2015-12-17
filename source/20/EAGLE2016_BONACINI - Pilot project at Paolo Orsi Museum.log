@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 15:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1345,8 +1345,13 @@ ype jpg)
 Package pdftex.def Info: EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.
 jpg used on input line 389.
 (pdftex.def)             Requested size: 310.13503pt x 308.55875pt.
- [11 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg>] [12]
-(./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.bbl
+ [11 <./EAGLE2016BONACINIPilotprojectatPaoloOrsiMuseum-img006.jpg>]
+Overfull \hbox (1.47519pt too wide) in paragraph at lines 431--433
+\T1/qpl/m/n/10 (-20) To Mr. Gi-an-franco Guc-cione ([][]$\T1/lmtt/m/n/10 http :
+ / / www . airworks . it/$[][]\T1/qpl/m/n/10 (-20) ) goes my heart-
+ []
+
+[12] (./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.bbl
 Underfull \hbox (badness 2393) in paragraph at lines 16--19
 \T1/qpl/m/n/10 (+20) (2014), 25--40, URL [][]$\T1/lmtt/m/n/10 http : / / caspur
 -[]ciberpublishing . it / index .
@@ -1390,7 +1395,7 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  22986 strings out of 493089
- 422431 string characters out of 6134841
+ 422433 string characters out of 6134841
  466174 words of memory out of 5000000
  26000 multiletter control sequences out of 15000+600000
  112844 words of font info for 191 fonts, out of 8000000 for 9000
@@ -1410,7 +1415,7 @@ cal/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb></usr/local/t
 exlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on "EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.pdf"
- (14 pages, 5011300 bytes).
+ (14 pages, 5011337 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  174 compressed objects within 2 object streams

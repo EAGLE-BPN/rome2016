@@ -1,0 +1,14 @@
+% EAGLE2016_camera_ready.top
+\unprotect
+\def\MPOSTformatswitch{-progname=metafun -mem=}
+\setupsystem[\c!n=1,\c!m=1]
+\setupsystem[\c!method=2]
+\setupsystem[\c!type=macosx]
+\setupsystem[\c!random=1422]
+\setupsystem[inputfile=EAGLE2016_camera_ready.tex]
+\startsetups *runtime:options
+\setupoutput[pdftex]
+\stopsetups
+\startsetups *runtime:modules
+\stopsetups
+\protect \endinput

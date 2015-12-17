@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 15:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1250,12 +1250,8 @@ File: uni-30.def 2013/05/13 UCS: Unicode data U+1E00..U+1EFF
                        I
 l.167 Ỉ
          sytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-2.def
 File: uni-2.def 2013/05/13 UCS: Unicode data U+0200..U+02FF
 )
@@ -1278,11 +1274,7 @@ Type  H <return>  for immediate help.
 l.167 Ỉsytrs, ȝ
                   ysydwrs or ⲓⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 541 = U+021D:
-LATIN SMALL LETTER YOGH
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-44.def
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
@@ -1305,11 +1297,7 @@ Type  H <return>  for immediate help.
 l.167 Ỉsytrs, ȝysydwrs or ⲓ
                                 ⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11411 = U+2C93:
-COPTIC SMALL LETTER IAUDA
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1329,11 +1317,7 @@ Type  H <return>  for immediate help.
 l.167 Ỉsytrs, ȝysydwrs or ⲓⲥ
                                    ⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11429 = U+2CA5:
-COPTIC SMALL LETTER SIMA
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 
 Package ucs Warning: Unknown character 11411 = 0x2C93 appeared again. on input 
 line 167.
@@ -1357,11 +1341,7 @@ Type  H <return>  for immediate help.
 l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇ
                                          ⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11399 = U+2C87:
-COPTIC SMALL LETTER DALDA
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1381,11 +1361,7 @@ Type  H <return>  for immediate help.
 l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱ
                                             ⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11441 = U+2CB1:
-COPTIC SMALL LETTER OOU
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1405,11 +1381,7 @@ Type  H <return>  for immediate help.
 l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣ
                                                ⲉ in Egyptian and Coptic. I...
 
-Unicode character 11427 = U+2CA3:
-COPTIC SMALL LETTER RO
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1429,11 +1401,7 @@ Type  H <return>  for immediate help.
 l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ
                                                    in Egyptian and Coptic. I...
 
-Unicode character 11401 = U+2C89:
-COPTIC SMALL LETTER EIE
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 
 Package natbib Warning: Citation `Depauw2009' on page 4 undefined on input line
  172.
@@ -1505,10 +1473,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textalpha unavailabl
 e in encoding T1.
@@ -1520,10 +1485,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-31.def
 File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
 )
@@ -1538,10 +1500,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textomega unavailabl
 e in encoding T1.
@@ -1553,10 +1512,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textvarsigma unavail
 able in encoding T1.
@@ -1568,10 +1524,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textchi unavailable 
 in encoding T1.
@@ -1583,10 +1536,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textrho unavailable 
 in encoding T1.
@@ -1598,10 +1548,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \texteta unavailable 
 in encoding T1.
@@ -1613,10 +1560,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 LaTeX Font Info:    Try loading font information for TS1+qpl on input line 41.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
@@ -1632,10 +1576,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \texttau unavailable 
 in encoding T1.
@@ -1647,10 +1588,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
@@ -1665,10 +1603,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textepsilon unavaila
 ble in encoding T1.
@@ -1680,10 +1615,7 @@ Type  H <return>  for immediate help.
 l.41   of {Naming} in {Roman} {Egypt}}
                                       , Zeitschrift für Papyrologie und Epi...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 [9]
 Underfull \hbox (badness 10000) in paragraph at lines 76--79
 \T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . researchgate . n
@@ -1739,7 +1671,7 @@ lic/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
 re/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qpl
 r.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb
 >
-Output written on EAGLE2016_Full_Paper_Broux.pdf (10 pages, 328701 bytes).
+Output written on EAGLE2016_Full_Paper_Broux.pdf (10 pages, 328669 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  185 compressed objects within 2 object streams
