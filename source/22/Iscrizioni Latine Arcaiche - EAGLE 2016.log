@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 13:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 13:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -759,38 +759,38 @@ LaTeX Info: Redefining \cite on input line 694.
 (./Iscrizioni Latine Arcaiche - EAGLE 2016.aux)
 \openout1 = `"Iscrizioni Latine Arcaiche - EAGLE 2016.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 50.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 50.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 51.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 50.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 51.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 )
-LaTeX Info: Redefining \microtypecontext on input line 50.
+LaTeX Info: Redefining \microtypecontext on input line 51.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -990,7 +990,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 50.
+Package hyperref Info: Link coloring ON on input line 51.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1000,9 +1000,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count182
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
 
 (./Iscrizioni Latine Arcaiche - EAGLE 2016.out)
 (./Iscrizioni Latine Arcaiche - EAGLE 2016.out)
@@ -1012,7 +1012,7 @@ LaTeX Info: Redefining \nameref on input line 50.
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 50.
+(hyperref)                setting the option has no effect on input line 51.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
@@ -1023,7 +1023,7 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-LaTeX Info: Redefining \textsubscript on input line 50.
+LaTeX Info: Redefining \textsubscript on input line 51.
 \c@definition=\count183
 \c@condition=\count184
 \c@problem=\count185
@@ -1045,7 +1045,7 @@ LaTeX Info: Redefining \textsubscript on input line 50.
 
 
 Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
-(utf8x.def)                Restoringtoitsutf8x-meaning on input line 50.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 51.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -1135,30 +1135,30 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
 \c__siunitx_mathsf_int=\count201
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 51.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 51.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 51.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 51.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 51.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1168,7 +1168,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 51.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmss.fd
@@ -1179,7 +1179,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 \c__siunitx_mathtt_int=\count202
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 51.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
@@ -1189,6 +1189,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 54.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
@@ -1205,18 +1206,18 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-<IscrizioniLatineArcaicheEAGLE2016-img001.png, id=45, 624.4128pt x 932.7648pt>
+<IscrizioniLatineArcaicheEAGLE2016-img001.png, id=47, 624.4128pt x 932.7648pt>
 File: IscrizioniLatineArcaicheEAGLE2016-img001.png Graphic file (type png)
 
 <use IscrizioniLatineArcaicheEAGLE2016-img001.png>
 Package pdftex.def Info: IscrizioniLatineArcaicheEAGLE2016-img001.png used on i
-nput line 163.
+nput line 164.
 (pdftex.def)             Requested size: 310.13503pt x 463.2785pt.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (27.77759pt too wide) in paragraph at lines 172--178
+Overfull \hbox (27.77759pt too wide) in paragraph at lines 173--179
 \T1/qpl/m/n/10 (-20) loi{u}quiod ([][]\T1/qpl/m/sc/10 (-20) Vine[][]\T1/qpl/m/n
 /10 (-20) , [][]1993[][]), LOIUQUIOD[QO] ([][]\T1/qpl/m/sc/10 (-20) Baldi[][]\T
 1/qpl/m/n/10 (-20) , [][]2002[][]), LOIUQUIOD,QO///
@@ -1224,7 +1225,7 @@ Overfull \hbox (27.77759pt too wide) in paragraph at lines 172--178
 
 [4] [5 <./IscrizioniLatineArcaicheEAGLE2016-img001.png (PNG copy)>] [6]
 [7] [8] [9]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 301.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 302.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1272,37 +1273,38 @@ om / download / datasheet / 6766 /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 372.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 373.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 372.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 373.
  (./Iscrizioni Latine Arcaiche - EAGLE 2016.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 372.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 372.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 373.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 373.
 Package rerunfilecheck Info: File `"Iscrizioni Latine Arcaiche - EAGLE 2016".ou
 t' has not changed.
 (rerunfilecheck)             Checksum: 835D0BFA6B223182BB0ADFBB03885A35;247.
  ) 
 Here is how much of TeX's memory you used:
- 21825 strings out of 493089
- 408121 string characters out of 6134841
- 465764 words of memory out of 5000000
- 24808 multiletter control sequences out of 15000+600000
- 92053 words of font info for 175 fonts, out of 8000000 for 9000
+ 21878 strings out of 493089
+ 409262 string characters out of 6134841
+ 465859 words of memory out of 5000000
+ 24854 multiletter control sequences out of 15000+600000
+ 107837 words of font info for 203 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,8n,45p,10439b,876s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10439b,876s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
 e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/te
-xmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
-public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-g
-yre/qplri.pfb>
-Output written on "Iscrizioni Latine Arcaiche - EAGLE 2016.pdf" (15 pages, 1286
-7660 bytes).
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
+re/qplri.pfb>
+Output written on "Iscrizioni Latine Arcaiche - EAGLE 2016.pdf" (15 pages, 1287
+4995 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
- 37414 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 43558 words of extra memory for PDF output out of 51595 (max. 10000000)
 

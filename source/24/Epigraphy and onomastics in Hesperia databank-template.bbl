@@ -1,0 +1,45 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Moncunill}()}]{moncunill_ochocientos_????}
+\textsc{Moncunill, E.}, \emph{Ochocientos antropónimos ibéricos}, in
+  \emph{Actas del {XIV} {Congreso} de {Estudios} {Clásicos}}, ????,
+  forthcoming.
+
+\bibitem[{\textsc{Orduña and Luján}()}]{orduna_philology_????}
+\textsc{Orduña, E., Luján, E.}, \emph{Philology and technology in the
+  {Hesperia} databank}, Journal of History, Literature, Science and Technology,
+   (????), forthcoming.
+
+\bibitem[{\textsc{Orduña}()}]{orduna_implementing_????}
+\textsc{Orduña, E.R.L.E.}, \emph{Implementing a database for the analysis of
+  ancient inscriptions: new developments in the {Hesperia} electronic corpus of
+  {Palaeohispanic} inscriptions},  (????),
+  \urlprefix\url{http://hesperia.ucm.es/LUJANandORDUNA_editTCREVISEDfinal.pdf}.
+
+\bibitem[{\textsc{Untermann and Wodtko}(1975)}]{untermann_monumenta_1975}
+\textsc{Untermann, J., Wodtko, D.}, \emph{Monumenta linguarum hispanicarum},
+  vol.~1, L. Reichert, 1975.
+
+\bibitem[{\textsc{Vallejo}()}]{vallejo_antroponimia_????}
+\textsc{Vallejo, J.}, \emph{Antroponimia antigua de la península ibérica:
+  sistemas de derivación}, in \emph{Actas del {XIV} {Congreso} de {Estudios}
+  {Clásicos}}, ????, forthcoming.
+
+\bibitem[{\textsc{Velaza}(2009)}]{velaza_epigrafiy_2009}
+\textsc{Velaza, J.}, \emph{Epigrafía y literacy paleohispánica en territorio
+  vascón: notas para un balance provisional}, Palaeohispanica, 9 (2009),
+  611--622,
+  \urlprefix\url{http://ifc.dpz.es/recursos/publicaciones/29/54/40velaza.pdf}.
+
+\bibitem[{\textsc{Velaza}(2014)}]{velaza_hesperia:_2014}
+\textsc{Velaza, J.}, \emph{Hesperia: un nou concepte de corpus epigràfic
+  online}, Auriga, 73 (2014), 44--45.
+
+\end{thebibliography}

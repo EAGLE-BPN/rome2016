@@ -39,77 +39,49 @@
 %%%%%%%%
 %TITLE:%
 %%%%%%%%
-\title{}
-\author{Noemí Moncunill Martí}
+\title{Epigraphy and onomastics in the Hesperia databank}
+\author[barc]{Noemí Moncunill Martí \corref{first}}
+\author[sorb]{Javier Velaza}
+\address[sorb]{Université de Paris-Sorbonne (Paris IV)}
+\address[barc]{University of Barcelona2}
+\cortext[first]{Corresponding author. Email: nmoncunill@gmail.com}
 \date{2015-11-15}
 \begin{document}
-Abstract
 
-\begin{figure}
-\centering
-\begin{minipage}{10.901cm}
-1.\ \ Epigraphy and onomastics in the Hesperia databank\newline
-\newline
-
-
-Noemí Moncunill1, Javier Velaza2
-
-Université de Paris-Sorbonne (Paris IV)1, University of Barcelona2
-
-Email(s): velaza@ub.edu 
-
-nmoncunill@gmail.com
-
-velaza@ub.edu
-
-
-\bigskip
-\end{minipage}
-\end{figure}
+\maketitle
+\begin{abstract}
 The first part of this work provides a general overview of the features and advantages of the digital epigraphic corpora
 on the basis of the experience gained in the last years within the Hesperia project. The second part of the paper
 provides a detailed presentation of the new sections available in the Hesperia databank devoted to indigenous personal
 names and divinity names.
+\end{abstract}
+\keywords{Hispania, epigraphy, onomastics, digital corpora, Palaeohispanic languages and writings}
 
 
-\bigskip
+\section{Introduction}
 
-Keywords
-
-Hispania, epigraphy, onomastics, digital corpora, Palaeohispanic languages and writings
-
-
-\bigskip
-
-
-\bigskip
-
-
-\bigskip
-
-1. Introduction.\footnote{ This paper is an output from the FFI2012-25113 project and the Senior Research Team LITTERA
-(2014SGR63), on the one hand, and 655938 — ZEPHYROS — H2020-MSCA-IF-2014 project, on the other.}
 
 The aim of this work is to do a general overview of the computer-based epigraphic corpora, to think about their features
-and advantages, taking the experience gained in the last years within the Hesperia project as a starting point.
+and advantages, taking the experience gained in the last years within the Hesperia project as a starting point.\footnote{ This paper is an output from the FFI2012-25113 project and the Senior Research Team LITTERA
+(2014SGR63), on the one hand, and 655938 — ZEPHYROS — H2020-MSCA-IF-2014 project, on the other.}
 
 The first thing that necessarily needs to be highlighted is that traditional epigraphic corpora have certain limits that
 are imposed by their morphology and format. If summarizing, there are three main and most evident limitations: 
-
-a) One-dimensional format. The monument's description, the textual edition, the critical apparatus and remarks are
+\begin{description}
+\item[a] One-dimensional format. The monument's description, the textual edition, the critical apparatus and remarks are
 displayed one after another, with no wider possibility to link one to another than through some indices, which by the
 way are rarely detailed enough. Not even in the most extended indices, as those in CIL, the connexions between
 inscriptions through such relevant data as their date, palaeography or onomastics are set clear. Obviously, those
 connexions can be set by the users in their mind, but when the corpus displays thousands or tens of thousands of
 inscriptions, it looks too optimistic to take for granted that most readers will have the aptitude such work takes.
 
-b) Ephemeral usefulness. It looks also obvious that a traditional corpus will necessarily be always ephemeral for many
+\item[b] Ephemeral usefulness. It looks also obvious that a traditional corpus will necessarily be always ephemeral for many
 reasons: new inscriptions cannot be added, mistakes cannot be corrected, text editions cannot be improved and
 modifications based on new evidence or knowledge cannot be introduced, among other limitations. Of course some of these
 problems have hardly been solved by publishing some supplements, but it is widely known that these are partial
 solutions only.
 
-c) Authoritative work. In a traditional corpus, editors impose their knowledge in a large range of features, and thus
+\item[c] Authoritative work. In a traditional corpus, editors impose their knowledge in a large range of features, and thus
 they interfere in the utility of other views, to the extend of depreciating them too much. When it comes to an
 epigraphic corpus that is written in a wide-known language, such as Latin, this auctoritas becomes particularly
 powerful regarding the reading of the epigraphic text, its checking being not possible all the time for users,
@@ -117,6 +89,8 @@ particularly for those who are not experts on the subject. But when it comes to 
 even no language deciphering at all, and with many doubts on decoding, the truth is that the influence of the editor is
 extremely high and involves some risks that they do not always come to terms with successfully.
 
+
+\end{description}
 In our opinion, these limitations can be solved or, at least, diminished by a proper and efficient use of the tools IT
 puts to our disposal. Although this is no longer anything of new, any attempt to use them so far has brought to an
 output too close to the traditional, non-innovative epigraphic corpora, considering the features of such new tools. To
@@ -138,20 +112,25 @@ require a constant dialogue between epigraphists and technicians since the very 
 the fact that they do not always come to understand each other. Those projects that had any of these groups prevailing
 at the start of the project have proved to have insuperable lacks through their stages. 
 
-2. The Hesperia project
+\section{The Hesperia project}
+
 
 All above-mentioned principles have been taken into account in Hesperia project, its main goal being to gather all
 linguistic evidences from Palaeohispanic languages, that is, pre-Roman languages in the Iberian Peninsula\footnote{
-General presentations of the project can be found in Luján - Orduña (forthcoming), Orduña - Luján (forthcoming) and
-Velaza 2014.}. First of all, we need to recall these are very different materials as for their quantity, quality and
+General presentations of the project can be found in \citet{orduna_implementing_????}, \citet{orduna_philology_????} and
+\citet{velaza_hesperia:_2014}.}. First of all, we need to recall these are very different materials as for their quantity, quality and
 reliability. Ancient Hispania left us epigraphic texts in at least four languages: Tartessian, Iberian, Celtiberian and
 Lusitanian -{}-the possibility there are also some texts in Palaeobasque language is still sub iudice\footnote{
-Concerning this subject, see Velaza 2009.}{}-{}-, mainly written in four epichoric scripts -{}-Tartessian,
+Concerning this subject, see \citet{velaza_epigrafiy_2009}.}{}-{}-, mainly written in four epichoric scripts -{}-Tartessian,
 southeastern-Iberian, northeastern-Iberian and Greek-Iberian script. 
 
- \includegraphics[width=10.987cm,height=7.835cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img001.jpg} 
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img001.jpg}
+\caption{ Map of the Palaeohispanic inscriptions attested in the Iberian Peninsula.}
+\label{fig:1}
+\end{figure}
 
-Fig. 1: Map of the Palaeohispanic inscriptions attested in the Iberian Peninsula.
 
 The current knowledge of each of these scripts is in very different stages, just as when it comes to their languages
 deciphering. Along with the epigraphic texts there are also other evidences, as those from onomastics -{}-anthroponymy
@@ -163,28 +142,34 @@ Monumenta linguarum Hispanicarum, published between 1975 and 2001 by Jürgen Unt
 Javier de Hoz and its digital platform has mainly been developed by Eduardo Orduña. Nowadays it is coordinated by an
 interdisciplinary and interuniversity team with researchers from the Universidad Complutense de Madrid, the Universidad
 del País Vasco, the Universidad de Zaragoza and the Universidad de Barcelona. There are currently several sections open
-for searching (http://hesperia.ucm.es/).
+for searching (\url{http://hesperia.ucm.es/}).
 
- \includegraphics[width=10.896cm,height=7.669cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img002.png} 
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img002.png}
+\caption{Dispersal areas of Palaeohispanic inscriptions and sections available in Hesperia databank}
+\label{fig:2}
+\end{figure}
 
-Fig. 2. Dispersal areas of Palaeohispanic inscriptions and sections available in Hesperia databank
-
-i) Partial epigraphic corpora from B zone (Iberian inscriptions from the south of France), K zone (Celtiberian
+\begin{description}
+\item[i] Partial epigraphic corpora from B zone (Iberian inscriptions from the south of France), K zone (Celtiberian
 inscriptions) and L zone (Lusitanian inscriptions). All of them follow the same data form made of six tabs
-corresponding to {\textquotedbl}general features{\textquotedbl}, {\textquotedbl}text{\textquotedbl},
-{\textquotedbl}epigraphy and paleography{\textquotedbl}, {\textquotedbl}pictures{\textquotedbl},
-{\textquotedbl}arqueological context{\textquotedbl} and {\textquotedbl}bibliography{\textquotedbl}. The databases are
+corresponding to ``general features'', ``text'',
+``epigraphy and paleography'', ``pictures'',
+``arqueological context'' and ``bibliography''. The databases are
 linked between them through a powerful engine for simple and complex searches, and pdf documents as well as maps can be
 created with the resulting outcomes. Work is currently being focused on C and D zones (Iberian inscriptions in
 Catalonia), which is scheduled to be open for search by the end of 2015.
 
-ii) A numismatic database with its specific four-tab structure: {\textquotedbl}general features{\textquotedbl},
-{\textquotedbl}inscription{\textquotedbl}, {\textquotedbl}language and writing{\textquotedbl} and
-{\textquotedbl}bibliography{\textquotedbl}, where all Paleohispanic mints are gathered, no matter their scripts or
+\item[ii] A numismatic database with its specific four-tab structure: ``general features'',
+``inscription'', ``language and writing'' and
+``bibliography'', where all Paleohispanic mints are gathered, no matter their scripts or
 languages.
 
-iii) An onomastic database, with a specific search engine allowing combined searches with any of the elements typical
+\item[iii] An onomastic database, with a specific search engine allowing combined searches with any of the elements typical
 from the identified onomastic formulae. 
+
+\end{description}
 
 Beyond finishing, checking and updating the already-open sections, the team currently works on transversal fields, such
 as lexicon, as well as on creating several kinds of tools, as the possibility of displaying the corpus according to
@@ -197,7 +182,8 @@ and Writings), with the participation of researchers from ten different countrie
 program in order to build in future a single corpus with the evidences from all fragmentary languages documented in the
 western Mediterranean for the Ancient times.
 
-3. The new sections on onomastics.
+\section{The new sections on onomastics}
+
 
 The Hesperia databank has been recently extended with a new resource on indigenous onomastics. More specifically, the
 new sections now available are devoted to the anthroponymy and theonymy, leaving for the near future the data referring
@@ -238,35 +224,53 @@ indigenous divinity, Betatun. Thus, a single table records an indigenous persona
 The lower part is reserved for the bibliographical references, the geographic information and, last but not least, the
 map.
 
- \includegraphics[width=11.749cm,height=6.712cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img003.png} 
-
-Fig. 3. Personal-names and divinity-names record in Hesperia databank.
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img003.png}
+\caption{Personal-names and divinity-names record in Hesperia databank.}
+\label{fig:3}
+\end{figure}
 
 A slightly different kind of record is conceived to compile the personal names attested in literary sources. As shown
 below, in these cases the bibliographical field is merely used to mention the ancient passages in which the name is
 attested; there is no geographical information, and the “observations” field is often used just to report the different
 graphical variants of the name.
 
- \includegraphics[width=11.883cm,height=5.66cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png} 
-
-Fig. 4. Personal-names and divinity-names record in Hesperia databank.
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png}
+\caption{Personal-names and divinity-names record in Hesperia databank.}
+\label{fig:4}
+\end{figure}
 
 The goal of Hesperia is to provide, in the first place, an exhaustive repertory of all the Palaeohispanic names. Thus,
 with the information available a map can be easily generated with all the spots where at least an indigenous name is
 attested (in green); or a divinity name (in blue); or, finally, combine those maps in a single interactive map (in
 green and blue), where each point is directly linked with the corresponding records.
 
- \includegraphics[width=7.031cm,height=5.359cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img005.png} 
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img005.png}
+\caption{Dispersal area of indigenous personal names.}
+\label{fig:5}
+\end{figure}
 
-Fig. 5: Dispersal area of indigenous personal names.
 
- \includegraphics[width=6.98cm,height=5.262cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img006.png} 
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img006.png}
+\caption{Dispersal area of indigenous divinity names}
+\label{fig:}
+\end{figure}
 
-Fig. 6: Dispersal area of indigenous divinity names
 
- \includegraphics[width=6.32cm,height=6.045cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img007.png} 
-
-Fig. 7: Disperal areas of indigenous divinity names and personal names
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img007.png}
+\caption{Disperal areas of indigenous divinity names and personal names}
+\label{fig:7}
+\end{figure}
+ 
 
 Thanks to the search engine, all these points can then be redistributed into smaller groups to draw linguistic areas or
 isoglosses, on the basis, for instance, of the attestation of a well-known anthroponymic element or the dispersal area
@@ -275,13 +279,21 @@ names containing the element biur, which clearly corresponds to the Iberian area
 of the Iberian peninsula; and, in the second place, it is displayed the dispersal area of the name Tancinus, which
 clearly corresponds to the indo-European part.
 
- \includegraphics[width=6.491cm,height=4.833cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img008.jpg} 
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img008.jpg}
+\caption{Dispersal area of the anthroponymic element biur}
+\label{fig:}
+\end{figure}
 
-Fig. 8: Dispersal area of the anthroponymic element biur.
 
- \includegraphics[width=6.092cm,height=4.583cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img009.jpg} 
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img009.jpg}
+\caption{Dispersal area of the name Tancinuse}
+\label{fig:9}
+\end{figure}
 
-Fig. 9: Dispersal area of the name Tancinus.
 
 It must be pointed out that the Hesperia project is, in general terms, following the main standards for epigraphic
 databanks and text editing, and we are now exploring ways to interact with the linked open data ecosystem (tagging
@@ -301,9 +313,16 @@ of Nicaea XXX 1; Ovid, Ibis 434), as well as record as a personal name in open-a
 (V5a-20577) or Trismegistos (Per 222620). Therefore, in this particular case, the linking between open-access data
 could be helpful for the linguistic analysis itself.
 
- \includegraphics[width=10.862cm,height=6.325cm]{EpigraphyandonomasticsinHesperiadatabanktemplate-img010.png} 
 
-Fig. 10: record of a possible Greek name attested in an Iberian inscription.
+\begin{figure}[!bp]
+\centering
+ \includegraphics[width=\columnwidth]{EpigraphyandonomasticsinHesperiadatabanktemplate-img010.png}
+\caption{Fig. 10: record of a possible Greek name attested in an Iberian inscription.}
+\label{fig:10}
+\end{figure}
+ 
+
+
 
 A similar consideration might also apply, for instance, to another important document in the Palaeohispanic epigraphic
 landscape, namely the III Botorrita Bronze plaque, written in Celtiberian language and script but containing a
@@ -327,18 +346,22 @@ project the results automatically on a map, which makes this a powerful resource
 
 CTS = Canonical Text Services (protocol to cite digitally-available texts in a canonical way).
 
-EAGLE = The Europeana network of Ancient Greek and Latin Epigraphy: \ http://www.eagle-network.eu/
+EAGLE = The Europeana network of Ancient Greek and Latin Epigraphy:  \url{http://www.eagle-network.eu/}
 
-IEs = Integrating Digital Epigraphies project.
+IDEs = Integrating Digital Epigraphies project.
 
-LGPN = The Lexicon of Greek Personal Names: http://www.lgpn.ox.ac.uk/
+LGPN = The Lexicon of Greek Personal Names: \url{http://www.lgpn.ox.ac.uk/}
 
-Pleiades = A community-built gazetteer and graph of ancient places: \ http://pleiades.stoa.org/
+Pleiades = A community-built gazetteer and graph of ancient places: \url{http://pleiades.stoa.org/}
 
-SNAP = Standards for Networking Ancient Prosopographies project: http://snapdrgn.net/
+SNAP = Standards for Networking Ancient Prosopographies project: \url{http://snapdrgn.net/}
 
 Trismegistos = Interdisciplinary portal of papyrological and epigraphical resources formerly Egypt and the Nile valley
-(800 BC-AD 800): http://www.trismegistos.org/
+(800 BC-AD 800): \url{http://www.trismegistos.org/}
+
+\nocite{moncunill_ochocientos_????}
+\nocite{untermann_monumenta_1975}
+\nocite{vallejo_antroponimia_????}
 
 \bibliographystyle{sapauth-eng}
 \bibliography{../../EAGLE}
