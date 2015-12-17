@@ -39,53 +39,47 @@
 %%%%%%%%
 %TITLE:%
 %%%%%%%%
-\title{}
-\author{Marion Lamé}
+\title{Teaching (Digital) Epigraphy}
+\author[ilc]{Marion Lamé\corref{first}}
+\author[zag]{Ivan Radman-Livaja}
+\author[mau]{Bruce Robertson}
+\author[isti]{Federico Ponchio}
+\address[ilc]{Istituto di Linguistica Computazionale}
+\address[isti]{Visual Computing Laboratory, ISTI-CNR}
+\address[zag]{Archaeological Museum in Zagreb}
+\address[mau]{Mount Allison University}
+\cortext[first]{Corresponding author. Email: federico.ponchio@isti.cnr.it}
+
 \date{2015-12-02}
 \begin{document}
-Teaching (Digital) Epigraphy
 
-Marion Lamé, Ivan Radman-Livaja, Bruce Robertson and Federico Ponchio
-
-Abstract
-
+\maketitle
+\begin{abstract}
 Although having the experience of directly manipulating an ancient text-bearing artifact is important for developing the
 skills of an epigrapher – an experience that books and photo cannot replace – such access to primary sources is often
 problematic. In this article we present our experience with teaching students to transcribe and interpret Roman
 inscribed lead tags, using a Digital Autoptic Process (DAP) in a web environment, so to develop basic competences in
-epigraphy and digital epigraphy.\footnote{\par \ \  We wish to acknowledge the research assistance of T. M. Crandall,
-History student at Mount Allison University \ (Sackville, Canada), and C. Le Borgne, a Roman epigrapher and student of
-\ M. Smith, who is Professor of Paleography at the École Nationale des Chartes and at the École Pratique des Hautes
-Études (PSL Research University). His current seminar, for the Academic Year 2015/16, at the EPHE is entitled
-{\textquotedbl}La lettre romaine, entre inscriptions monumentales et écritures communes{\textquotedbl}. The following
-students at Mount Allison University participated in this experiment as part of their course work: D. Atkinson, E.
-Beaton, M. Gillard, T. Hall and K. Wallace. We warmly thank M. Vazzana and C. Tanca, students of the Laurea
-Specialistica in Informatica Umanistica at the University of Pisa, who prepared part of the great pedagogical material
-as well as some useful didactic videos for the Laboratorio di Cultura Digitale. We are grateful to the Deutsches
-Archäologisches Institut, and especially to Prof. R. Förtsch and to M. Romanello for offering us the opportunity to
-present the DAP to the students of the Digital Classicist Berlin Seminar the 8th of December 2015.}
+epigraphy and digital epigraphy.
+\end{abstract}
+\keywords{Educational project, digital epigraphy, epigraphy, open access, primary sources}
 
-Keywords
+\section{Introduction}
 
-Educational project, digital epigraphy, epigraphy, open access, primary sources
-
-\begin{enumerate}
-\item Introduction
-\end{enumerate}
 Although undergraduate students are naturally attracted to inscriptions and epigraphy affords them an important window
 on the past, they are seldom given the opportunity to study inscriptions directly. This is because epigraphical work is
 seen as the specialist’s domain: the analysis of such material generally requires a rather high level of expertise,
 normally acquired during graduate studies and beyond. Lacking sufficient skills and knowledge to comprehensively
 understand often complex epigraphic data, undergraduate students are simply unable to offer the expert opinions
 sometimes sought by a project manager. Thus, offering undergraduate students the opportunity to tackle tasks usually
-reserved to their senior colleagues is certainly not a common occurrence. In our small project \ “Pedagogical,
+reserved to their senior colleagues is certainly not a common occurrence. In our small project ``Pedagogical,
 Scientific \& Technical Experiment in Digital Epigraphy: the Study Case of the Tesserarum Sisciae Sylloge (TSS) through
-a Digital Autoptic Process (DAP)” we aimed to challenge this state of affairs. Using digital methods and a
+a Digital Autoptic Process (DAP)'' we aimed to challenge this state of affairs. Using digital methods and a
 custom-designed course of rapid study, we offered undergraduates the opportunity to tackle epigraphic tasks usually
 reserved to their senior colleagues. We made use of newly-digitized epigraphic material: Roman commercial lead tags
 from the ancient city of Siscia.
 
-2. Epigraphic Primary Sources of Information
+\section{Epigraphic Primary Sources of Information}
+
 
 The Roman Department of the Archaeological Museum in Zagreb (AMZ) contains close to 1200 of these inscribed lead tags
 found in Sisak (Siscia), one of the largest urban centers in south-western Pannonia. Most of them were found during the
@@ -121,14 +115,10 @@ information: they indicated the value of the goods or the cost of a given servic
 would also appear that they were used by fullers and dyers as ownership tags. By noting the name of the client as well
 as the type of cloth or service and the price on the tag which was subsequently attached to the item to be processed
 (i.e. cleaned or dyed), shop owners could easily return their property to the clients as well as charge them the
-correct fee\footnote{\par \ \  Radman-Livaja 2007/11/13/14 and 2013b, 165-172 for analogous tags with Mócsy 1956,
-97-104; Egger 1967, 195-210; Frei-Stolba 1984, 127-138; Schwinden 1985 121-137/93, 215-222; Römer-Martijnse 1990/97,
-5-48; Feugère 1993, 301-305; Weiss 1991, 211-220; Paci 1995: 29-40; Bassi 1996, 207-216; Bizzarini 2005, 121-135; Buchi
-\& Buonopane 2005, 43-51; Cresci \& Pettenò 2010: 42-110; Jacques \& Hoët-Cauwenberghe 2010, 295-317; Wedenig 2013,
-237-246.}. 
+correct fee\footnote{\citep{radman_livaja_segestica..._2008}, \citep{radman-livaja_roetiquettes_2010}, \citep{radman-livaja_5._2013}, \citep[165-172]{radman-livaja_two_2013}, \citep{radman-livaja_plombs_2014},  for analogous tags with \citep[97-104]{mocsy_olom_1956}; \citep[195-210]{egger_funf_1968}; \citep[127-138]{frei-stolba_les_2011}; \citep[121-137/93, 215-222]{schwinden_romerzeitliche_1985}; \citep{romer-martijnse_romerzeitliche_1990}; \citep[5-48]{romer-martijnse_fruhkaiserzeitliche_1997}; \citep[301-305]{feugere_etiquette_1993}; \citep[211-220]{weiss_bleietiketten_1991}; \citep[29-40]{paci_etichette_1995}; \citep[207-216]{bassi_tre_1996}; \citep[121-135]{bizzarini_quattro_2005}; \citep[43-51]{buchi_etichette_2005}; \citep[42-110]{cresci_supellex_2010}; \citep[295-317]{jacques_artisanat_2010}; \citep[237-246]{wedenig_bleietikett_2013}.}. 
 
 Some of the genuine difficulties of the autoptic process are already solved by a static picture in a print publication.
-The tag has a given position, \ it is illuminated from one direction only and therefore it already suggests a reading
+The tag has a given position, it is illuminated from one direction only and therefore it already suggests a reading
 direction. A DAP should be able to confront the students to some of those difficulties and to overcome them alone.
 
 In order to consider the value and usefulness of the DAP in this particular case study, the fact that some of the
@@ -138,7 +128,8 @@ under supervision of specialists (Digital Epigraphy, Ancient History, Archaeolog
 Digital Humanities) then the whole concept would appear as convenient and appropriate for similar case studies and
 research. 
 
-3. Digital Epigraphy
+\section{Digital Epigraphy}
+
 
 In fact, the transcription and interpretation of Roman inscribed lead tags are often challenging, and so we ignored how
 far we could go with these students if useable results would ensue. First we made a selection of fourty tags to be
@@ -153,12 +144,12 @@ This experiment showed that their contribution can be useful, because technology
 knowledge although the final conclusions have to remain in the domain of scholars familiar with the subject. In any
 case, this experiment shows how the digital edition may allow both scholars and students to have an open access to what
 is basically a primary source of information for humanities (presented as a digital facsimile)\footnote{\ Terras, 2015
-writes about some of the OA issues: “While digitisation is not a pre-requisite to gaining access to material (...), and
+writes about some of the OA issues: ``While digitisation is not a pre-requisite to gaining access to material (...), and
 while digital surrogates of cultural heritage objects do not have to be openly shared once created, just as the
 sciences are calling for publication of source data as part of the Open Access movement, opening up access to primary
 sources in the cultural heritage sector and encouraging them to be published in a way which is as accessible as
 possible has the potential to change the nature of research outputs in the Humanities and Social Sciences, as well as
-the nature of research itself in these areas.”}. Of course, learners could train themselves on the drawing of the tag,
+the nature of research itself in these areas.''}. Of course, learners could train themselves on the drawing of the tag,
 but they would not confront the difficulty of interpreting the numerous ambiguities and the responsibility of deciding
 what is on the tag. 
 
@@ -215,8 +206,8 @@ U+004C with L (L1 or L5).
 \includegraphics[width=4.941cm,height=2.281cm]{EAGLE16lameetalteaching-img004.png}
 \end{figure}
 Students were involved for a very short period of time: on average two hours per day over a couple of days only (in
-Spring 2014 and in Fall 2015). This training was delivered in three steps (“Readings”, “Writings”, “Test \& Taste a
-DAP”) during which there were given some academic documentation about the lead tags, and basic knowledge about digital
+Spring 2014 and in Fall 2015). This training was delivered in three steps (``Readings'', ``Writings'', ``Test \& Taste a
+DAP'') during which there were given some academic documentation about the lead tags, and basic knowledge about digital
 epigraphy (epigraphic message in a computer, dispositive analysis, existing projects, digital tools, XML and Unicode
 encoding, DAP, and issues regarding digital representation of artifacts).
 
@@ -276,14 +267,17 @@ further development of such teaching methods aiming to improve the formation of 
 \centering
 \includegraphics[width=2.965cm,height=1.79cm]{EAGLE16lameetalteaching-img006.png}
 \end{figure}
-4. Practicing Epigraphy
+
+\section{Practicing Epigraphy}
+
 
 Once alone, students were asked to ignore the monetary symbols then to decipher (with or without the help of
 transcription and drawings) and to classify the written signs according to the following chart. Such preliminary
 classification gives a first idea of the main general shapes one can find on a lead tag. It is not a paleographical
 study, which has yet to be done, but it is efficient enough to train students at a first level of deciphering.
 
-4.1 Drawing With Help (No. 12563)
+\subsection{Drawing With Help (No. 12563)}
+
 
 \begin{figure}
 \centering
@@ -480,7 +474,9 @@ I1 &
 S5\\\hline
 \end{supertabular}
 \end{flushleft}
-4.2 Drawing \& Deciphering Without Help (obv. No. 13053)
+
+\subsection{Drawing \& Deciphering Without Help (obv. No. 13053)}
+
 
 No. 13053 is an irregularly shaped rectangular lead tag with a damaged surface as well which makes the reading rather
 uncertain. Besides the last, most recent inscription, one still discerns traces of older inscriptions. The reverse is
@@ -569,11 +565,11 @@ I1 &
 A2\\\hline
 \end{supertabular}
 \end{flushleft}
-\begin{enumerate}
-\item \begin{enumerate}
-\item Palimpsest (obv. No. 13053)
-\end{enumerate}
-\end{enumerate}
+
+\subsection{Palimpsest (obv. No. 13053)}
+
+
+
 The older, erased layers, drawn with dashed lies on the drawings of the academic edition, are more difficult to read. No
 g/t relationship between wSystem and tSystem was asked to students.
 
@@ -581,7 +577,10 @@ g/t relationship between wSystem and tSystem was asked to students.
 \centering
 \includegraphics[width=6.313cm,height=2.207cm]{EAGLE16lameetalteaching-img012.png}
 \end{figure}
-5. Pedagogical Considerations
+
+
+\section{Pedagogical Considerations}
+
 
 From the educational standpoint, this pilot project succeeded tremendously. The students who undertook this
 transcription in place of the usual research essay were, on average, far more motivated than their peers, and took
@@ -602,7 +601,8 @@ before a large number of students can undertake this work. To unilingual Angloph
 the tags are daunting because little of it is available in English. Our volunteers were mostly bilingual Canadians who
 could read French as well as English.
 
-6. Conclusion
+\section{Conclusion}
+
 
 Gaining expertise with material remains requires time. When a museum trains students, this time is often limited due to
 constrained facilities and personnel. In addition, the epigraphic material may be fragile and delicate: the less these
@@ -613,6 +613,19 @@ adding such a step will require us to renew, in some regards, the way we train l
 what and how. The benefits of this renewal, though, would be many: it would ensure the transmission of epigraphic
 tradition and the acquisition of good digital skills, whether to train eminent specialists or to allow access to the
 roots of societies to the greatest number.
+
+\section*{Aknowledgment}
+We wish to acknowledge the research assistance of T. M. Crandall,
+History student at Mount Allison University (Sackville, Canada), and C. Le Borgne, a Roman epigrapher and student of
+M. Smith, who is Professor of Paleography at the École Nationale des Chartes and at the École Pratique des Hautes
+Études (PSL Research University). His current seminar, for the Academic Year 2015/16, at the EPHE is entitled
+``La lettre romaine, entre inscriptions monumentales et écritures communes''. The following
+students at Mount Allison University participated in this experiment as part of their course work: D. Atkinson, E.
+Beaton, M. Gillard, T. Hall and K. Wallace. We warmly thank M. Vazzana and C. Tanca, students of the Laurea
+Specialistica in Informatica Umanistica at the University of Pisa, who prepared part of the great pedagogical material
+as well as some useful didactic videos for the Laboratorio di Cultura Digitale. We are grateful to the Deutsches
+Archäologisches Institut, and especially to Prof. R. Förtsch and to M. Romanello for offering us the opportunity to
+present the DAP to the students of the Digital Classicist Berlin Seminar the 8th of December 2015.
 
 \bibliographystyle{sapauth-eng}
 \bibliography{../../EAGLE}
