@@ -1,0 +1,166 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Abate and Fanti}(2014)}]{abate_valorizzazione_2014}
+\textsc{Abate, D., Fanti, F.}, \emph{La valorizzazione digitale del {Museo}
+  {Geologico} {Giovanni} {Capellini} di {Bologna}}, Archeomatica, 5 (2014),
+  \urlprefix\url{http://mediageo.it/ojs/index.php/archeomatica/article/view/319}.
+
+\bibitem[{\textsc{Aswatha et~al.}(2014)\textsc{Aswatha, Talla, Mukhopadhyay,
+  and Bhowmick}}]{aswatha_method_2014}
+\textsc{Aswatha, S.M., Talla, A.N., Mukhopadhyay, J., Bhowmick, P.}, \emph{A
+  {Method} for {Extracting} {Text} from {Stone} {Inscriptions} {Using}
+  {Character} {Spotting}}, in \emph{Computer {Vision}-{ACCV} 2014 {Workshops}},
+  598--611, Springer, 2014,
+  \urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-319-16631-5_44}.
+
+\bibitem[{\textsc{Babeu}(2011)}]{babeu__2011}
+\textsc{Babeu, A.}, \emph{" {Rome} {Wasn}'t {Digitized} in a {Day}": {Building}
+  a {Cyberinfrastructure} for {Digital} {Classics}}, Council on Library and
+  Information Resources, 2011,
+  \urlprefix\url{http://it-zentrum-antike.dainst.org/attachments/339/Babeu_Rome-Wasnt-Digitized-in-a-Day_2011.pdf}.
+
+\bibitem[{\textsc{Barmpoutis et~al.}(2015)\textsc{Barmpoutis, Bozia, and
+  Fortuna}}]{barmpoutis_interactive_2015}
+\textsc{Barmpoutis, A., Bozia, E., Fortuna, D.}, \emph{Interactive 3d
+  {Digitization}, {Retrieval}, and {Analysis} of {Ancient} {Sculptures},
+  {Using} {Infrared} {Depth} {Sensors} for {Mobile} {Devices}}, in
+  \emph{Universal {Access} in {Human}-{Computer} {Interaction}. {Access} to the
+  {Human} {Environment} and {Culture}}, 3--11, Springer, 2015,
+  \urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-319-20687-5_1}.
+
+\bibitem[{\textsc{Bozia et~al.}(2014)\textsc{Bozia, Barmpoutis, and
+  Wagman}}]{bozia_open-access_2014}
+\textsc{Bozia, E., Barmpoutis, A., Wagman, R.}, \emph{Open-{Access}
+  {Epigraphy}: {Electronic} {Dissemination} of 3d-digitized {Archaeological}
+  {Material}}, in \emph{Proceedings of the {International} {Conference} on
+  {Information} {Technologies} for {Epigraphy} and {Digital} {Cultural}
+  {Heritage} in the {Ancient} {World}}, 2014,
+  \urlprefix\url{http://f.hypotheses.org/wp-content/blogs.dir/31/files/2014/09/Open-Access-Epigraphy.pdf}.
+
+\bibitem[{\textsc{Böhler and Marbs}(2004)}]{bohler_3d_2004}
+\textsc{Böhler, W., Marbs, A.}, \emph{3d scanning and photogrammetry for
+  heritage recording: a comparison}, in \emph{Proceedings of the 12th
+  {International} {Conference} on {Geoinformatics}}, 291--298, Citeseer, 2004,
+  \urlprefix\url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.3508&rep=rep1&type=pdf}.
+
+\bibitem[{\textsc{Cooper et~al.}(2007)\textsc{Cooper, La~Pensée, and
+  Bryan}}]{cooper_chiswick_2007}
+\textsc{Cooper, M., La~Pensée, A., Bryan, P.}, \emph{Chiswick {House},
+  {London}: {Laser} scanning tests on a gilded 18th century table}, English
+  Heritage Research Department Series Report, 19 (2007).
+
+\bibitem[{\textsc{Esteban and Schmitt}(2004)}]{esteban_silhouette_2004}
+\textsc{Esteban, C.H., Schmitt, F.}, \emph{Silhouette and stereo fusion for 3d
+  object modeling}, Computer Vision and Image Understanding, 96 (2004),
+  367--392,
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1077314204000542}.
+
+\bibitem[{\textsc{Gonizzi~Barsanti and Guidi}(2013)}]{barsanti_3d_2013}
+\textsc{Gonizzi~Barsanti, S., Guidi, G.}, \emph{3d digitization of museum
+  content within the 3d-{ICONS} project}, ISPRS Ann. Photogramm. Remote Sens.
+  Spatial Inf. Sci, II-5 W, 1 (2013), 151--156,
+  \urlprefix\url{http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5-W1/151/2013/isprsannals-II-5-W1-151-2013.pdf}.
+
+\bibitem[{\textsc{Ikei et~al.}(2015)\textsc{Ikei, Shimabukuro, Kato, Komase,
+  Hirota, Amemiya, and Kitazaki}}]{ikei_experience_2015}
+\textsc{Ikei, Y., Shimabukuro, S., Kato, S., Komase, K., Hirota, K., Amemiya,
+  T., Kitazaki, M.}, \emph{Experience {Simulator} for the {Digital} {Museum}},
+  in \emph{Human {Interface} and the {Management} of {Information}.
+  {Information} and {Knowledge} in {Context}}, 436--446, Springer, 2015,
+  \urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-319-20618-9_44}.
+
+\bibitem[{\textsc{Landon and Seales}(2006)}]{landon_petroglyph_2006}
+\textsc{Landon, G.V., Seales, W.B.}, \emph{Petroglyph digitization: enabling
+  cultural heritage scholarship}, Machine Vision and Applications, 17 (2006),
+  361--371,
+  \urlprefix\url{http://link.springer.com/article/10.1007/s00138-006-0044-0}.
+
+\bibitem[{\textsc{Levoy et~al.}(2000)}]{levoy_digital_2000}
+\textsc{Levoy, M., et~al.}, \emph{The digital {Michelangelo} project: 3d
+  scanning of large statues}, in \emph{Proceedings of the 27th annual
+  conference on {Computer} graphics and interactive techniques}, 131--144, ACM
+  Press/Addison-Wesley Publishing Co., 2000,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=344849}.
+
+\bibitem[{\textsc{Malzbender et~al.}(2001)\textsc{Malzbender, Gelb, and
+  Wolters}}]{malzbender_polynomial_2001}
+\textsc{Malzbender, T., Gelb, D., Wolters, H.}, \emph{Polynomial texture maps},
+  in \emph{Proceedings of the 28th annual conference on {Computer} graphics and
+  interactive techniques}, 519--528, ACM, 2001,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=383320}.
+
+\bibitem[{\textsc{Papadaki et~al.}(2015)\textsc{Papadaki, Agrafiotis,
+  Georgopoulos, and Prignitz}}]{papadaki_accurate_2015}
+\textsc{Papadaki, A.I., Agrafiotis, P., Georgopoulos, A., Prignitz, S.},
+  \emph{{ACCURATE} 3d {SCANNING} {OF} {DAMAGED} {ANCIENT} {GREEK}
+  {INSCRIPTIONS} {FOR} {REVEALING} {WEATHERED} {LETTERS}.}, ISPRS-International
+  Archives of the Photogrammetry, Remote Sensing and Spatial Information
+  Sciences, 1 (2015), 237--243,
+  \urlprefix\url{http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W4/237/2015/isprsarchives-XL-5-W4-237-2015.pdf}.
+
+\bibitem[{\textsc{Pavlidis et~al.}(2007)\textsc{Pavlidis, Koutsoudis,
+  Arnaoutoglou, Tsioukas, and Chamzas}}]{pavlidis_methods_2007}
+\textsc{Pavlidis, G., Koutsoudis, A., Arnaoutoglou, F., Tsioukas, V., Chamzas,
+  C.}, \emph{Methods for 3d digitization of cultural heritage}, Journal of
+  cultural heritage, 8 (2007), 93--98,
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S129620740600121X}.
+
+\bibitem[{\textsc{Pollefeys et~al.}(2001)\textsc{Pollefeys, Van~Gool,
+  Vergauwen, Cornelis, Verbiest, and Tops}}]{pollefeys_image-based_2001}
+\textsc{Pollefeys, M., Van~Gool, L., Vergauwen, M., Cornelis, K., Verbiest, F.,
+  Tops, J.}, \emph{Image-based 3d acquisition of archaeological heritage and
+  applications}, in \emph{Proceedings of the 2001 conference on {Virtual}
+  reality, archeology, and cultural heritage}, 255--262, ACM, 2001,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=585033}.
+
+\bibitem[{\textsc{Preece et~al.}(2015)\textsc{Preece, Sharp, and
+  Rogers}}]{preece_interaction_2015}
+\textsc{Preece, J., Sharp, H., Rogers, Y.}, \emph{Interaction {Design}-beyond
+  human-computer interaction}, John Wiley \& Sons, 2015,
+  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=n0h9CAAAQBAJ&oi=fnd&pg=PA350&dq=Interaction+Design+beyond+human-computer+interaction&ots=23BJAagycR&sig=rSD8m8p3muiPCMOOFsXBzYiowY8}.
+
+\bibitem[{\textsc{Ramírez-Sánchez et~al.}(2014)\textsc{Ramírez-Sánchez,
+  Suárez-Rivero, and
+  Castellano-Hernández}}]{ramirez-sanchez_epigrafidigital:_2014}
+\textsc{Ramírez-Sánchez, M., Suárez-Rivero, J.P., Castellano-Hernández,
+  M.�.}, \emph{Epigrafía digital: tecnología 3d de bajo coste para la
+  digitalziación de inscripciones y su acceso desde ordenadores y dispositivos
+  móviles}, El profesional de la información, 23 (2014), 467--474,
+  \urlprefix\url{http://eprints.rclis.org/23920/}.
+
+\bibitem[{\textsc{Soile et~al.}(2013)\textsc{Soile, Adam, Ioannidis, and
+  Georgopoulos}}]{soile_accurate_2013}
+\textsc{Soile, S., Adam, K., Ioannidis, C., Georgopoulos, A.}, \emph{Accurate
+  3d {Textured} {Models} of {Vessels} for the {Improvement} of the
+  {Educational} {Tools} of a {Museum}}, ISPRS-International Archives of the
+  Photogrammetry, Remote Sensing and Spatial Information Sciences, 1 (2013),
+  211--217,
+  \urlprefix\url{http://www.researchgate.net/profile/Sofia_Soile/publication/265140086_ACCURATE_3D_TEXTURED_MODELS_OF_VESSELS_FOR_THE_IMPROVEMENT_OF_THE_EDUCATIONAL_TOOLS_OF_A_MUSEUM/links/54005cf00cf2194bc29ac7ab.pdf}.
+
+\bibitem[{\textsc{Sullivan}(2011)}]{sullivan_analytical_2011}
+\textsc{Sullivan, S.M.}, \emph{Analytical methods for the extraction of content
+  from high resolution 3D data sets: {Epigraphical} applications to the
+  {Drakon} {Stele}}, Tesi di dottorato, University of Arkansas, 2011,
+  \urlprefix\url{http://www.academia.edu/download/30431666/Sullivan_2011_DrakonThesis.pdf}.
+
+\bibitem[{\textsc{Ujitoko and Hirota}(2015)}]{ujitoko_application_2015}
+\textsc{Ujitoko, Y., Hirota, K.}, \emph{Application of the {Locomotion}
+  {Interface} using {Anthropomorphic} {Finger} {Motion}}, in \emph{Human
+  {Interface} and the {Management} of {Information}. {Information} and
+  {Knowledge} in {Context}}, 666--674, Springer, 2015,
+  \urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-319-20618-9_65}.
+
+\bibitem[{\textsc{Wachowiak and Karas}(2009)}]{wachowiak_3d_2009}
+\textsc{Wachowiak, M.J., Karas, B.V.}, \emph{3d scanning and replication for
+  museum and cultural heritage applications}, Journal of the American Institute
+  for Conservation, 48 (2009), 141--158,
+  \urlprefix\url{http://www.maneyonline.com/doi/abs/10.1179/019713609804516992}.
+
+\end{thebibliography}
