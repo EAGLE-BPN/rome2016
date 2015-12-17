@@ -17,7 +17,6 @@
 \usepackage[utf8x]{inputenc}
 % if you write in english and in greek
 \usepackage{ucs}
-\usepackage{supertabular}
 \usepackage[greek,english]{babel}
 \languageattribute{greek}{polutoniko}
 
@@ -36,19 +35,20 @@
 \usepackage[authoryear]{natbib}
 % custom commands
 \newcommand{\bs}{\textbackslash}
-
+\usepackage{xtab}
 %%%%%%%%
 %TITLE:%
 %%%%%%%%
 
 \title{Romans 1 by 1. Documenting a population database for the Roman world}
 
-\author[VARGA]{Rada Varga}
+\author[CLUJ]{Rada Varga\corref{first}}
 
-\address{Babeș-Bolyai University, Cluj-Napoca}
+\address[CLUJ]{Babeș-Bolyai University, Cluj-Napoca}
 
 \cortext[first]{Corresponding author. Email: radavarga@gmail.com}
 
+%\usepackage{longtable}
 \begin{document}
 
 \maketitle
@@ -80,9 +80,7 @@ etc.). A complete, aggregate database will allow a longitudinal (diachronic) vie
 a certain area and ideally from the whole Empire, while also opening transversal (a section in time) perspectives.
 
 The database in itself would have three components (see below Fig.~\ref{fig:schemadatabase}), following the best practices in the field
-(\citet{doi:10.3200/HMTS.37.1.34-38}): the sources database (with ``facsimile'' transcription of the sources’ text), the central
-database (the complete, corrected, integrated, standardized and coded form of the sources database) and the data
-releases (destined for on-line usage, allowing easy extraction of data in view of analyses). 
+(\citet{doi:10.3200/HMTS.37.1.34-38}): the \emph{sources database} (with ``facsimile'' transcription of the sources’ text), the \emph{central database} (the complete, corrected, integrated, standardized and coded form of the sources database) and the \emph{data releases} (destined for on-line usage, allowing easy extraction of data in view of analyses). 
 
 Alongside these components, which actually represent various steps in the data preparation process, a population
 database for the Roman Empire should be built on three pillars, which we might call units or divisions of the database:
@@ -114,7 +112,7 @@ social history.
 \noindent Within this theoretical frame, whose amplitude implies a gradual and long-term approach, we have chosen to start by
 building the epigraphical division of the database. Thus, we began developing a project on the middle classes of the
 Low Danube provinces and their epigraphic attestations. The database created in this context together with the platform
-www.romans1by1.com represent the skeleton of the future population database of the Roman Empire.
+\url{www.romans1by1.com} represent the skeleton of the future population database of the Roman Empire.
 
 For now, we are solely focusing on characters attested epigraphically – thus on inscriptions as sources. As constructing
 a metadata suitable for all social and professional categories of the provincial world is very complex, our database is
@@ -133,30 +131,29 @@ procedures would otherwise be overwhelmingly time-consuming in relation with the
 \section{Database architecture}
 
 \noindent The core of the database’s epigraphical division is formed by a table used for recording personal
-individual data (labelled Personal data), around which the entire network of components needed to ensure proper
+individual data (labelled \emph{Personal data}), around which the entire network of components needed to ensure proper
 information recording is built. However, when starting data entry, one must begin by recording information about the
 source in use.
 
-The first table to be filled in is the file of the source – Inscriptions. First of all, each inscription gets a source
+The first table to be filled in is the file of the source – \emph{Inscriptions}. First of all, each inscription gets a source
 code, formed of 5 digits and a symbol/acronym of the province’s name (D for Dacia, MS for Moesia Superior, DAL for
-Dalmatia, etc.) – so we have, for example 00001MS. The Inscriptions table has text fields, as well as value lists.
-Then, we have text strings for: Relevant expressions, Stylistic details, Atypical features, Observations, Place of
-discovery, Place of provenience, Ancient name provenience, Timestamp/Timeframe and External links. Although we are
-aware that some of the data (Timestamp/Timeframe) could have benefitted from a standardized form, at this point we
+Dalmatia, etc.) – so we have, for example 00001MS. The \emph{Inscriptions} table has text fields, as well as value lists.
+Then, we have text strings for: \emph{Relevant expressions}, \emph{Stylistic details}, \emph{Atypical features}, \emph{Observations}, \emph{Place of discovery}, \emph{Place of provenience}, \emph{Ancient name provenience}, \emph{Timestamp/Timeframe} and \emph{External links}. Although we are
+aware that some of the data (\emph{Timestamp/Timeframe}) could have benefitted from a standardized form, at this point we
 opted for vaster possibilities of expression and adaptation. Other information will be filled using value lists, as
-standardization is more suited: Type of inscription, Language, Material. For these we will use the Eagle
+standardization is more suited: \emph{Type of inscription}, \emph{Language}, \emph{Material}. For these we will use the Eagle
 vocabularies,\footnote{\url{http://www.eagle-network.eu/resources/vocabularies}} because they offer an already
 standardized language.
 
-The Coordinates table links each inscription with the latitude and longitude of its place of provenience, in order to
+The \emph{Coordinates} table links each inscription with the latitude and longitude of its place of provenience, in order to
 place it on a map. 
 
-The Inscription bibliography was conceived so that extracting complete or selective bibliographical lists would be
+The \emph{Inscription bibliography} was conceived so that extracting complete or selective bibliographical lists would be
 possible. Thus, a normalization table includes all bibliographical titles referred to and from it; through a value
-list, one can select the Bibliography abbreviation. The exact reference is presented and detailed in the Details and
-Comments text strings. Of course, all data are linked to the Inscription code, selected as well from a value list.
+list, one can select the \emph{Bibliography abbreviation}. The exact reference is presented and detailed in the \emph{Details} and
+\emph{Comments} text strings. Of course, all data are linked to the \emph{Inscription code}, selected as well from a value list.
 
-Only after properly documenting the source one can access the main and most complex table, Personal data, where
+Only after properly documenting the source one can access the main and most complex table, \emph{Personal data}, where
 basically the individual file of each person is created. At this point, each new entry represents a singular epigraphic
 attestation of an individual, and a unique ID is generated, which will help link the respective character throughout
 the various components of the database and with other database entries. The person is also manually linked to the
@@ -164,181 +161,185 @@ source using a value list of the inscriptions’ codes. In the event of one pers
 multiple epigraphs, each attestation will represent a new entry, and it will be assigned a new unique ID, which will be
 doubled, during linkage procedures, by a common ID for all instances of the same person. 
 
-The Personal data table was built to host a large variety of information offered by epigraphs, and its structure has
+The \emph{Personal data} table was built to host a large variety of information offered by epigraphs, and its structure has
 proved, up to this day, rather stable. However, if need be, it can always be extended in order to accommodate any new
-kind of information. A first set of its variables are name-connected: Praenomen, Nomen, Cognomen/Personal name,
-Father/Master name, Agnomen, Signum, where each also has a drop-down associated for Ethnicity and the Agnomen and
-Signum an Observations string. While we believe the possibilities of actually identifying signa for members of the
+kind of information. A first set of its variables are name-connected: \emph{Praenomen}, \emph{Nomen}, \emph{Cognomen/Personal name},
+\emph{Father/Master} name, \emph{Agnomen}, \emph{Signum}, where each also has a drop-down associated for \emph{Ethnicity} and the \emph{Agnomen} and
+\emph{Signum} an \emph{Observations} string. While we believe the possibilities of actually identifying \emph{signa} for members of the
 middle classes, during the Principate period, is rather reduced, we opted for facilitating their correct registration,
-in case they are discovered. Other data regard Natione, Ethnicity, Origo and Domus – if and how they are mentioned in
+in case they are discovered. Other data regard \emph{Natione}, \emph{Ethnicity}, \emph{Origo} and \emph{Domus} – if and how they are mentioned in
 the inscription. As acknowledged above, some information will be recorded, even if they are deductive and not literally
-written in the source: Gender and Juridical status (though the servile one often is literally recorded). For the
+written in the source: \emph{Gender} and \emph{Juridical status} (though the servile one often is literally recorded). For the
 latter, we have opted for a check box, which, if checked, opens all the available possibilities. The rest of the fields
-accommodate supplementary information, when and how there is the case: Occupation, Collegium, Deities, Age (at death),
-Details of life/death and Observations. 
+accommodate supplementary information, when and how there is the case: \emph{Occupation}, \emph{Collegium}, \emph{Deities}, \underline{Age} (at death),
+\emph{Details of life/death} and \emph{Observations}. 
 
-The Occupation field requires some special attention, as it has the Occupation code associated with it; as we are trying
+The \emph{Occupation} field requires some special attention, as it has the \emph{Occupation code} associated with it; as we are trying
 to propose a codification of Roman occupations/professions, based on and adapting the HISCO classification
 model\footnote{\url{http://historyofwork.iisg.nl/} }. While a raw classification and codification based on HISCO might only
 be a slight challenge, finding a theoretical model might prove to be a more elaborated task. What we aim at is
-constructing the “metadata” for the codification of Roman professions attested on stone and analyse how deep the
+constructing the ``metadata'' for the codification of Roman professions attested on stone and analyse how deep the
 classification can realistically go. Much alike other normalization fields present in the sources component of the
-database, Occupation code was implemented because it helps dealing faster with small and medium size samples (up to
+database, \emph{Occupation code} was implemented because it helps dealing faster with small and medium size samples (up to
 hundreds of people) in view of publishing preliminary results which are vital for dissemination and further financial
 support of the project. 
 
-Two important variables, for statistics and working with the data, are Dedicated by and Dedicated for, which state the
+Two important variables, for statistics and working with the data, are \emph{Dedicated by} and \emph{Dedicated for}, which state the
 relation of the recorded individual with the epigraph and with other persons mentioned by it. Both appear in the simple
 form of check boxes. 
 
 Another particular check box, in need of supplementary explanations, is Later. The database was conceived for attested
 civilians from the middle classes, but sometimes they are associated in inscriptions with militaries or representatives
 of the elites. In this case, we have to register a minimum of data on the later as well, in order to build a wider
-image of the characters that we focus on. When checking Later, it opens Status, which at its turn opens the following
-options in the form of check boxes: Senator, Knight, Local magistrate, Decurion, Imperial priest, Imperial slave,
-Imperial freedman, Military personnel. If checked, each of these boxes opens a Details text box; additionally, Local
-magistrate and Decurion open a City/Town value list, while Military personnel, opens Rank and Unit value lists. While
+image of the characters that we focus on. When checking \emph{Later}, it opens \emph{Status}, which at its turn opens the following
+options in the form of check boxes: \emph{Senator}, \emph{Knight}, \emph{Local magistrate}, \emph{Decurion}, \emph{Imperial priest}, \emph{Imperial slave},
+\emph{Imperial freedman}, \emph{Military personnel}. If checked, each of these boxes opens a Details text box; additionally, \emph{Local
+magistrate} and \emph{Decurion} open a \emph{City/Town} value list, while \emph{Military personnel}, opens \emph{Rank} and \emph{Unit} value lists. While
 elite members and military personnel will at some point be added to the database, for the currently running project
 purposes, their social and professional status, together with a minimum of relevant details and relation with the
 recorded individuals represent enough information. 
+\vspace{20pt}
+
+%\begin{table}[!h]
+\tablefirsthead{\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline }
+\bottomcaption{Metadata of the Personal data table}
+
+%\tablehead{\multicolumn{3}{c}%
+%{{\captionsize\bfseries \tablename\ \thetable{} --
+%continued from previous page}} \\
+%\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline }
+
+\tablehead{\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline}
+
+\tabletail{\hline \multicolumn{3}{|r|}{{\textit{Continued on next page}}} \\ \hline}
+\tablelasttail{\hline}
 
 
-\begin{center}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{|m{3.711cm}|m{2.941cm}|m{4.046cm}|}
-\hline
-Field label &
-Field id &
-Data type\\\hline
+
+{\small
+\addtolength{\tabcolsep}{-0.5mm}
+%\begin{supertabular*}{\textwidth}{p{3.5cm}lp{3cm}}
+\begin{xtabular}{|p{.30\textwidth}|p{.30\textwidth}|p{.30\textwidth}|}
+%\begin{tabular*}{p{.30\textwidth}p{.29\textwidth}p{.31\textwidth}}
+%\toprule
+%\textbf{Field label} & \textbf{Field id} & \textbf{Data type}\\\midrule
 Praenomen &
 rperson\_praenomen &
-Text\\\hline
+Text\\ \hline
 Ethnicity praenomen &
 rperson\_eth\_praen &
-Value list\\\hline
+Value list\\ \hline
 Nomen &
 rperson\_nomen &
-Text\\\hline
+Text\\ \hline
 Ethnicity nomen &
 rperson\_eth\_nom &
-Value list\\\hline
+Value list\\ \hline
 Cognomen/Personal name &
 rperson\_cognomen &
-Text\\\hline
+Text\\ \hline
 Ethnicity cognomen/personal name &
 rperson\_eth\_cogn &
-Value list\\\hline
+Value list\\ \hline
 Father/Master name &
 rperson\_father &
-Text\\\hline
+Text\\ \hline
 Ethnicity father/master name &
 rperson\_eth\_fth &
-Value list\\\hline
+Value list\\ \hline
 Agnomen &
 rperson\_agnomen &
-Text\\\hline
+Text\\ \hline
 Ethnicity agnomen &
 rperson\_eth\_agn &
-Value list\\\hline
+Value list\\ \hline
 Observations agnomen &
 rperson\_remark\_agn &
-Text\\\hline
+Text\\ \hline
 Signum &
 rperson\_signum &
-Text\\\hline
+Text\\ \hline
 Ethnicity signum &
 rperson\_eth\_sign &
-Value list\\\hline
+Value list\\ \hline
 Observations signum &
 rperson\_remark\_sign &
-Text\\\hline
+Text\\ \hline
 Natione &
 rperson\_nation &
-Text\\\hline
+Text\\ \hline
 Ethnicity &
 rperson\_nat\_ethnicity &
-Text\\\hline
+Text\\ \hline
 Gender &
 rperson\_rgender\_id &
-Value list\\\hline
+Value list\\ \hline
 Juridical status &
 rperson\_jstatus &
 Checkbox. \ Opens checkboxes: 
 
-Citizen/Libertus/Peregrine/Slave/
-
-Veteranus (opens Unit/Rank - valuelists)\\\hline
+Citizen, Libertus, Peregrine, Slave 
+Veteranus (opens Unit/Rank - valuelists)\\ \hline
 Tribus &
 rperson\_rtribus\_id &
-Text\\\hline
+Text\\ \hline
 Origo &
 rperson\_origo &
-Text\\\hline
+Text\\ \hline
 Domus &
 rperson\_domus &
-Text\\\hline
+Text\\ \hline
 Collegium &
 rperson\_collegium &
-Text\\\hline
+Text\\ \hline
 Occupation &
 rperson\_occupation &
-Text\\\hline
+Text\\ \hline
 Occupation code &
 rperson\_occ\_code &
-Text\\\hline
+Text\\ \hline
 Deities &
 rperson\_deity &
-Text\\\hline
+Text\\ \hline
 Age &
 rperson\_age &
-Text\\\hline
+Text\\ \hline
 Details of life/death &
 rperson\_death\_details &
-Text\\\hline
-Dedicated for &
-rperson\_dedicated\_for &
-Checkbox\\\hline
-Dedicated by &
-rperson\_dedicated\_by &
-Checkbox\\\hline
-Inscription code &
-rperson\_rinscription\_ids &
-Value list\\\hline
+Text\\ \hline
+Dedicated for & rperson\_dedicated\_for & Checkbox\\ \hline
+Inscription code & rperson\_rinscription\_ids & Value list\\ \hline
 Later &
-rperson\_now\_stat &
-Checkbox. Opens checkbox: Status\\\hline
-Status &
-rperson\_status &
-Checkbox. Opens checkboxes: 
-
-Senator (opens Details – text)/
-
-Knight (opens Details – text)/
-
-Local Magistrate (opens Details – text, City – value list)/
-
-Decurion (opens Details – text, City – value list)/
-
-Imperial priest (opens Details – text)/
-
-Imperial slave (opens Details – text)/
-
-Imperial freedman (opens Details – text)/
-
-Military personnel (opens Details – text, Unit/Rank – value lists)\\\hline
+rperson\_now\_stat & Checkbox. Opens checkbox:
+Status\\ \hline
+Status & rperson\_status & Checkbox. Opens checkboxes: 
+Senator (opens Details – text),
+Knight (opens Details – text) 
+Local Magistrate (opens Details – text, City – value list), 
+Decurion (opens Details – text, City – value list), 
+Imperial priest (opens Details – text), 
+Imperial slave (opens Details – text), 
+Imperial freedman (opens Details – text), 
+Military personnel (opens Details – text, Unit/Rank – value lists)\\ \hline
 Observations &
 rperson\_observation &
-Text\\\hline
+Text\\ \hline
+%\bottomrule
+
+\end{xtabular}}
+%\caption{This is a wide table where we have used the \texttt{tabular*} environment. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.}
+%\label{tab:personaldata}
+%\end{table}
+
+
+
 %\caption{Metadata of the Personal data table}
-\end{supertabular}
-\label{tab:personaldata}
-\end{center}
+%\end{supertabular}
+%\label{tab:personaldata}
+%\end{center}
 
 
-Based on the personal ID given to each individual, the Relationship table will solely name the relationship between
+Based on the personal ID given to each individual, the \emph{Relationship} table will solely name the relationship between
 individuals (A to B and B to A), choosing from a drop-down menu. The relationships have been encoded from the start, in
 order to make processing quicker; thus first-degree relationships have 10-codes (101-Husband, 102-Wife), second and
 third degree relations 20- and respectively 30-codes, non-family relations were given 40- codes and 50-s for the
@@ -346,7 +347,7 @@ unspecified/unreadable relations. Male relations were given odd numbers and fema
 
 \section{Conclusions}
 
-\noindent Romans 1 by 1 is a first step towards a comprehensive and exhaustive electronic resource for the attested population of
+\noindent \emph{Romans 1 by 1} is a first step towards a comprehensive and exhaustive electronic resource for the attested population of
 the Roman Empire. The following normal steps for expanding and enriching the database is elaborating the fitted
 metadata for provincial elites and military personnel epigraphically attested.
 

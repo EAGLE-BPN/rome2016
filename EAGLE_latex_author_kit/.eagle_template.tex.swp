@@ -1,0 +1,313 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX program = pdflatex
+% !TEX spellcheck = en_US
+
+
+% In order to correctly compile this document,
+% execute the following commands:
+% 1. pdflatex
+% 2. pdflatex
+% 3. pdflatex
+
+
+
+\documentclass[amsthm,ebook]{saparticle}
+
+% IF YOU USE PDFLATEX
+\usepackage[utf8x]{inputenc}
+% if you write in english and in greek
+\usepackage{ucs}
+\usepackage[greek,english]{babel}
+\languageattribute{greek}{polutoniko}
+
+% IF YOU USE XELATEX
+%\usepackage{polyglossia}
+% if you write in italian
+%\setmainlanguage{italian}
+% If you want put some ancient greek:
+%\setotherlanguage[variant=polytonic]{greek}
+%\newfontfamily{\greekfont}[Ligatures=TeX]{Palatino Linotype}
+
+% dummy text (remove in a normal thesis)
+% remove if not necessary
+\usepackage{siunitx}
+%Natbib for bibliography management
+\usepackage[authoryear]{natbib}
+% custom commands
+\newcommand{\bs}{\textbackslash}
+
+%%%%%%%%
+%TITLE:%
+%%%%%%%%
+\title{This is a very long title for an article. Try to write brief and, at the same time, explanatory titles}
+
+%%%%%%%%
+%AUTHORS:%
+%%%%%%%%
+\author[FENWAY]{First Author\corref{first}}
+% put the label for the address (like FENWAY here) in the square brackets; change the addresses below to match the labelled authors
+% mark the corresponding author with the \corref command and fill out the complete address in the \cortext command below
+
+\author[DAI]{Francesco Mambrini}
+%\author[ENEA]{Francesco Biccari}
+
+%Additional information about corresponding author, addresses and affiliations:
+\cortext[first]{Corresponding author. Email: first.author@cardinal.org; Tel.: +01\,80\,00\,AUTH; Fax: +01\,00\,00\,0000.}
+
+\address[FENWAY]{Fenway Park, 4 Yawkey Way, Boston, MA 02215, United States}
+
+%\address[ENEA]{ENEA, Casaccia Research Center, via anguillarese 301, 00123 Roma, Italy}
+
+\address[DAI]{Deutsches Archäologisches Institut, 69-71 Podbielskiallee, 14195 Berlin, Germany}
+
+%%%%%%%%%%%%
+%PAPER CONTENT %
+%start your paper here%
+%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This document is a template for authors who wish to contribute to the EAGLE international conference. It also provides very minimal documentation on how to use the bundle. Write your short abstract here. Typically, a good abstract ranges between 100 and 500 words. Don't forget to add some informative keywords for your paper (max 5). Keywords are separated by commas.
+\end{abstract}
+
+\keywords{EAGLE, Epigraphy, LaTeX, Sapienza University Press, Space for another keyword}
+
+\section{Introduction}\label{sec:intro}
+
+Welcome! This is a short template to write your contribution for the EAGLE international conference with \LaTeX. It also provides a few supplementary recommendations for authors. It is entirely based on the article template of Sapienza University Press \citep{Biccari:2012aa}. Also, some passages (sections~\ref{sub:notes}, and Appendix \ref{sec:app1} in particular) are taken word by word from the example article created by F. Biccari, C. Malerba, M. Valentini, R. Chierchia, E. Esposito, and A. Mittiga to illustrate the Sapienza template. Please refer to the documentation of \texttt{saparticle} (which is also included in the bundle under \href{run:doc/saparticle-doc.pdf}{doc/saparticle-doc.pdf}) if you want more comprehensive information on the package.
+
+And remember that \LaTeX{} is pronounced \textit{La-te-kh}; the last letter is not a Latin \textit{x}; it's a Greek $\chi$ \citep[1]{Knuth:1986aa}!
+
+\section{Installation and usage}\label{sec:install}
+
+By far, the easiest thing to do is to unzip the author toolkit in whatever destination folder you want, open the source file of this template (\texttt{eagle\_template.tex}), and start editing it by replacing the content with your own text.
+
+The zip archive should already contain all the files that you need. It may be, however, that some of the packages that are invoked by the template are missing from your \LaTeX{} installation. See a reference manual on how to install extra packages in your distribution\footnote{E.g. \url{http://en.wikibooks.org/wiki/LaTeX/Installing_Extra_Packages}}. The same instructions apply also if you feel inclined to install the Sapienza class and bibliography style systemwide.
+
+\section{Special formatting, commands and floats}
+
+\subsection{Title and authors}\label{sub:title}
+
+Please fill out the information about the authors of your paper following the example reported in this template. Pay attention on how to link authors, affiliations, and contact info for the corresponding author. It should be straightforward. In any case, you'll find some extra instructions in the comments to the relevant code.
+
+\subsection{Cross-references}\label{sub:crossref}
+
+As usual in \LaTeX{}, use \verb!\ref{your-label}! for cross-referencing within your document. E.g. for the right way to pronounce \LaTeX, see section~\ref{sec:intro}. References to specific pages are generated with the following command:
+
+\begin{verbatim}
+\pageref{your-label}
+\end{verbatim}
+
+The previous reference, for example, is at pag.~\pageref{sec:intro}.
+
+Do remember that:
+\begin{enumerate}
+\item you have to label the item you're cross-referencing with the \texttt{label} command
+\item labels must be unique!
+\end{enumerate}
+
+You can use whatever string your want as label (well, sort of). But it's recommended that you use a consistent labeling technique that makes it easier to find the right reference whenever you need (e.g. I like prefacing labels for sections and subsections with \texttt{sec:}, or \texttt{sub:}). Figures and tables can be labelled and cross-referenced too (see fig.~\ref{fig:eagle-logo})!
+
+Keep in mind that \LaTeX{} needs a couple of runs in order to process your cross-references. Double-check that all cross-references are formatted correctly and if you see a pair question marks in your output in place of the correct reference (\texttt{??}), don't panic: most likely, you need only to recompile your file\footnote{Otherwise, you probably have a wrong label somewhere: look for errors in the log.}.
+
+\subsection{Citations}\label{sub:citations}
+
+Insert citations using the \texttt{quoting} environment. 
+
+\begin{quoting}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo dui a mi molestie vestibulum. Nam dapibus, odio eu bibendum malesuada, metus nisi pellentesque mauris, a ultrices ligula felis vel magna. Pellentesque odio lorem, consectetur sit amet scelerisque ullamcorper, dignissim sit amet nisi. Praesent velit ex, egestas vitae ex a, auctor ornare libero. Sed euismod tristique tempor.
+\end{quoting}
+
+\subsection{Greek text}\label{sub:greek}
+
+See the following example from Aristotle, \emph{Eth. Nic.} 1178b.
+\begin{quoting}
+\begin{otherlanguage*}{greek}
+Δεήσει δὲ καὶ τῆς ἐκτὸς εὐημερίας ἀνθρώπῳ ὄντι· οὐ γὰρ αὐτάρκης ἡ φύσις πρὸς τὸ θεωρεῖν, ἀλλὰ δεῖ καὶ τὸ σῶμα ὑγιαίνειν καὶ τροφὴν καὶ τὴν λοιπὴν θεραπείαν ὑπάρχειν.
+\end{otherlanguage*}
+\end{quoting}
+
+To enter some text in Greek, switch your Unicode keyboard to polytonic Greek and enter the text normally into the file. But don't forget to encapsulate your text in a special command that instructs \LaTeX{} to set the document language to Greek (and to revert it to English, once the citation is over)! You can do this by using:
+\begin{itemize}
+\item \begin{verbatim}\selectlanguage{greek}YOUR GREEK TXT\selectlanguage{english}\end{verbatim}
+\item \begin{verbatim}\begin{otherlanguage*}{greek}YOUR GREEK TXT\end{otherlanguage*}\end{verbatim}
+\item \begin{verbatim}\textgreek{YOUR GREEK WORD}\end{verbatim}
+\end{itemize}
+
+The last method is very handy if you only need to quote one single Greek word in the text (i.e. if you're not falling victim to \textgreek{ὕβρις}).
+
+\subsection{Footnotes and margin notes}\label{sub:notes}
+
+The margin note are disabled in \textsf{saparticle}. On the other hand you can put footnotes\footnote{This a short footnote} wherever you want.\footnote{However do not exaggerate!} For example at the end of this phrase there is a very long footnote.\footnote{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo dui a mi molestie vestibulum. Nam dapibus, odio eu bibendum malesuada, metus nisi pellentesque mauris, a ultrices ligula felis vel magna. Pellentesque odio lorem, consectetur sit amet scelerisque ullamcorper, dignissim sit amet nisi. Praesent velit ex, egestas vitae ex a, auctor ornare libero. Sed euismod tristique tempor.  Nunc in metus ante. Phasellus ut sodales mi, in accumsan nibh. Praesent tempor ipsum ut nulla venenatis venenatis. Nullam porta at enim dictum cursus. Sed est eros, lobortis in quam eu, mattis gravida dui. Nulla volutpat efficitur purus quis commodo.}
+
+\subsection{Figures}
+
+As regards the image formats, please use vector images as much as possible! Use jpg images only for photographs! In Fig.~\ref{fig:eagle-logo} you can see the EAGLE logo (and a nice violation to the rules I just set!).
+
+\begin{figure}[!bp]
+\centering
+\includegraphics[scale=0.50]{img/egl-logo.png}
+\caption{This is the landscape logo of the EAGLE project.}
+\label{fig:eagle-logo}
+\end{figure}
+
+Please put every image in the \texttt{img} folder, so as to keep the source code more organized.
+
+\subsection{Tables}
+
+A very simple and narrow table is show in Tab.~\ref{tab:letters}. Remember to typeset always the table caption below the table. Do not use vertical lines.
+
+\begin{table}
+{\small
+\begin{tabular}{lcc}
+\toprule
+Letter & Test & Test \\
+\midrule
+A & C & E \\
+B & D & F \\
+\bottomrule
+\end{tabular}}
+\caption{This is a simple and narrow table. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.}
+\label{tab:letters}
+\end{table}
+
+\begin{table}
+{\small
+\addtolength{\tabcolsep}{-0.5mm}
+\begin{tabular*}{\textwidth}{lllllll}
+\toprule
+Letter & Names & Objects & Cities & Songs & Soccer player\\
+\midrule
+B & Barbara & Botte & Bologna & Born this way & Baggio \\
+M & Michele & Manico & Milano & Message in a bottle & Maradona \\
+\bottomrule
+\end{tabular*}}
+\caption{This is a wide table where we have used the \texttt{tabular*} environment. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.}
+\label{tab:widetable}
+\end{table}
+
+Memorize these three simple rules and all should be fine:
+\begin{enumerate}
+\item do not use vertical lines: they are evil;
+\item do not use double rules;
+\item DO NOT USE VERTICAL LINES!
+\end{enumerate}
+
+
+
+\section{References and bibliography}
+
+We recommend authors to stick to the following rules:
+\begin{enumerate}
+\item use author-year style for citations (it comes preloaded with the template)
+\item store your reference in an external bib file
+\item use the \texttt{sapauth-eng} bibliography style (preloaded and included in the bundle)
+\end{enumerate}
+
+The example file \texttt{EAGLE.bib} in the bundle comes populated with a few items that should be used as quick reference. Again, the easiest thing for your is to edit this file and populate it with your own content. Alternatively, if you want to load your bib file, search for the command \verb!\bibliography{EAGLE}! and replace ``EAGLE'' with your file's name (without the extension \texttt{.bib}).
+
+Plenty of online tutorials and popular bibliography software can be used to generate a nice and working bib file with the data you need.
+
+To manage the citations, we use the wonderful \texttt{natbib} package (preloaded in the template). Natbib provides a few useful citation commands that come handy when you're inserting references in your text:
+\begin{itemize}
+\item \texttt{citep}: for parenthetical citations  \citep[e.g.][1-100]{bringhurst:2002};
+\item \texttt{citet}: for in-text citations, e.g. see \citet[1-100]{bringhurst:2002};
+\item \texttt{citealp}: for no parentheses, as in \citealp[1-100]{bringhurst:2002};
+\end{itemize}
+
+In general, use either \texttt{citep} or \texttt{citet}.
+
+Please (and I mean: \emph{Pleeeeeeeeeeaze!}) don't take any initiative and abstain from any creative interpretation of these rules.
+
+%Yes, you may use \nocite to include entries in the bibliography that were not cited in the text!
+\nocite{Ruiz,bodard2008,bringhurst:2002,Doerr2003,Gernet:1932lr,Goldhill:1997dn,Knuth:1986aa,Lloyd-Jones:1997fk,Sbisa:1978gb,Denniston:1954lr,Longo:1990or}
+
+\section*{Acknowledgements}
+
+Used a starred version of \texttt{section} to insert acknowledges:
+
+\begin{verbatim}
+\section*{Acknowledgements}
+\end{verbatim}
+
+See sec~\ref{sec:app1} on how to add appendixes to your paper and how to typeset math in the template.
+
+\appendix
+\section{An appendix}\label{sec:app1}
+If for any reason you need appendixes, put them here.
+\subsection{Mathematics}
+
+In general, we don't expect authors submitting for the EAGLE conference to need very complicated math formulae. However, some examples on how to typeset math in the template are given below.
+
+A very simple equation.
+\begin{equation}
+x_{1,2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+\end{equation}
+Other equations
+\begin{subequations}
+\begin{gather}
+N\rb{c}(T)=2\left( \frac{2\pi m\rb{e} kT}{h^2}\right)^{3/2}=\num{4.76e15}\,\,T^{3/2}\,\,\si{cm^{-3}}\\
+N\rb{v}(T)=2\left( \frac{2\pi m\rb{h}\rp{LH} kT}{h^2}\right)^{3/2}=\num{2.13e15}\,\,T^{3/2}\,\,\si{cm^{-3}}
+\end{gather}
+\end{subequations}
+%
+Again
+%
+\begin{subequations}
+\begin{gather}
+N\rb{c}(300\un{K})=\SI{2.47e19}{cm^{-3}}\\
+N\rb{v}(300\un{K})=\SI{1.11e19}{cm^{-3}}
+\end{gather}
+\end{subequations}
+%
+A very long expression
+%
+\begin{equation}
+\begin{split}
+\alpha(\omega)&= 
+C\rb{abs}\,[\hbar\omega - (E\rb{g}-E\rb{bx}-E\rb{phonon})]^{1/2} + \\
+&+ C\rb{em}\,[\hbar\omega - (E\rb{g}-E\rb{bx}+E\rb{phonon})]^{1/2} + \\
+&+ C\rb{cont}\,\hbar\omega [\hbar\omega-(E\rb{g}-Ry\rb{x})] + \\
+&+ C\rb{df}\,(\hbar \omega)^{-1}(\hbar \omega - E\rb{g})^{3/2}
+\end{split}
+\end{equation}
+%
+Some integrals
+%
+\begin{equation}
+\int_a^{a+T} f(x) \di x = \int_0^T f(x) \di x
+\end{equation}
+\begin{equation}
+\iint_D f(x,y) \di x \di y \qquad \iiint g \di x \di y \di z
+\end{equation}
+
+
+\subsection{Theorems, proof, and co.}
+
+In \textsf{saparticle}, if the \texttt{amsthm} class option is used, several theorem--like environments are automatically defined. The environments \texttt{theorem}, \texttt{lemma}, \texttt{corollary},\texttt{proposition}, \texttt{conjecture}, \texttt{criterion} and \texttt{axiom} have the following style (the \texttt{proof} environment is shown below):
+\begin{theorem}[Pythagorean theorem]
+In any right triangle, the area of the square whose side is the hypotenuse is equal to the sum of the areas of the squares whose sides are the two legs.
+\end{theorem}
+\begin{proof}
+There is not enough space on this page for the proof of the Pythago\-rean theorem.
+\end{proof}
+
+\noindent
+On the other hand, the environments \texttt{definition}, \texttt{condition}, \texttt{problem}, \texttt{example} and \texttt{exercise} have the following style:
+\begin{definition}
+A mathematician is a device for turning coffee into theorems.
+\end{definition}
+
+\noindent
+Finally the environments \texttt{remark}, \texttt{note}, \texttt{notation}, \texttt{summary}, \texttt{case}, \texttt{con\-clusion} and \texttt{claim} have
+this style:
+\begin{remark}
+Remember to use a coherent style throughout your book!
+\end{remark}
+
+\bibliographystyle{sapauth-eng}
+\bibliography{EAGLE}
+
+\end{document}
