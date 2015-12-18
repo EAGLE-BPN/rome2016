@@ -1,0 +1,38 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Amato et~al.}(2015)\textsc{Amato, Bollettieri, Falchi,
+  Manghi, and Mannocci}}]{amato_second_2015}
+\textsc{Amato, G., Bollettieri, P., Falchi, F., Manghi, P., Mannocci, A.},
+  \emph{Second {Release} of the {AIM} {Infrastructure} {Specification}},
+  Deliverable {D}4.2, {EAGLE}, 2015.
+
+\bibitem[{\textsc{Amato et~al.}(2013)\textsc{Amato, Bollettieri, Gennaro,
+  Manghi, and Mannocci}}]{amato_aim_2013}
+\textsc{Amato, G., Bollettieri, P., Gennaro, C., Manghi, P., Mannocci, A.},
+  \emph{{AIM} {Infrastructure} {Specification}}, Deliverable {D}4.1, {EAGLE},
+  2013.
+
+\bibitem[{\textsc{Fresa and Justrell}(2014)}]{fresa_roadmap_2015}
+\textsc{Fresa, A., Justrell, B.}, \emph{The {Roadmap}}, 2014,
+  \urlprefix\url{http://www.civic-epistemologies.eu/wp-content/uploads/2014/08/CE_Roadmap-Handbook.pdf}.
+
+\bibitem[{\textsc{Prandoni et~al.}(2014)\textsc{Prandoni, Casarosa, and
+  Alfarano}}]{prandoni_eagle_2014}
+\textsc{Prandoni, C., Casarosa, V., Alfarano, N.}, \emph{{EAGLE} {Portal}},
+  Deliverable {D}5.2, {EAGLE}, 2014.
+
+\bibitem[{\textsc{Sicilia et~al.}(2015)\textsc{Sicilia, Gomez~Pantoja,
+  Rubiro~Fuentes, Rivero~Ruiz, Manghi, Mannocci, and
+  Zoppi}}]{sicilia_eagle_2015}
+\textsc{Sicilia, M., Gomez~Pantoja, J., Rubiro~Fuentes, J., Rivero~Ruiz, E.,
+  Manghi, P., Mannocci, A., Zoppi, F.}, \emph{{EAGLE} metadata model
+  specification – {Second} {Release}}, Deliverable {D}3.1.2, {EAGLE}, 2015.
+
+\end{thebibliography}
