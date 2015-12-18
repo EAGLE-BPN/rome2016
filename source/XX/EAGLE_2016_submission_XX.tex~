@@ -390,8 +390,7 @@ cross-disciplinary research.
 In this framework, the CIVIC EPISTEMOLOGIES\footnote{\url{http://www.civic-epistemologies.eu}} project developed a Roadmap
 for the use of e-Infrastructures to support the participation of European citizens in CH practices and humanities
 research, where such engagement has a twofold benefit for culture: to be enriched by the citizens’ contributions and to
-become more widely used and exploited (also, for example, with the participation of creative industries) [Fresa \&
-Justrell, 2015]. The future development of the EAGLE initiative will refer to the CIVIC EPISTEMOLOGIES Roadmap for
+become more widely used and exploited (also, for example, with the participation of creative industries) \citep{fresa_roadmap_2015}. The future development of the EAGLE initiative will refer to the CIVIC EPISTEMOLOGIES Roadmap for
 investigating how to put in place more advanced services supporting citizen science in epigraphic research.
 
 The EAGLE Portal is only an example of application that makes use of the APIs provided by the Aggregator to access the
