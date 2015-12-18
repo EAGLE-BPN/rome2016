@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.12.16)  18 DEC 2015 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.12.16)  18 DEC 2015 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1189,20 +1189,25 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 83.
 
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 104.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 106.
 
 
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
-)
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 110.
+) [1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 112.
 
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -1219,59 +1224,58 @@ Package microtype Warning: Unknown slot number of character
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-[1
+[2] [3] [4]
+Underfull \vbox (badness 4416) has occurred while \output is active []
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [3] [4] [5]
-<EAGLE2016submissionXX-img001.png, id=88, 604.50844pt x 715.92468pt>
+ [5]
+[6] <EAGLE2016submissionXX-img001.png, id=102, 604.50844pt x 715.92468pt>
 File: EAGLE2016submissionXX-img001.png Graphic file (type png)
 
 <use EAGLE2016submissionXX-img001.png>
 Package pdftex.def Info: EAGLE2016submissionXX-img001.png used on input line 25
-3.
+5.
 (pdftex.def)             Requested size: 309.39288pt x 366.61336pt.
- [6] [7 <./EAGLE2016submissionXX-img001.png>] <EAGLE2016submissionXX-img002.png
-, id=103, 834.86906pt x 803.25093pt>
+
+Underfull \vbox (badness 4048) has occurred while \output is active []
+
+ [7 <./EAGLE2016submissionXX-img001.png>]
+<EAGLE2016submissionXX-img002.png, id=111, 834.86906pt x 803.25093pt>
 File: EAGLE2016submissionXX-img002.png Graphic file (type png)
 
 <use EAGLE2016submissionXX-img002.png>
 Package pdftex.def Info: EAGLE2016submissionXX-img002.png used on input line 27
-1.
+3.
 (pdftex.def)             Requested size: 308.65468pt x 297.36978pt.
  [8 <./EAGLE2016submissionXX-img002.png>] <EAGLE2016submissionXX-img003.png, id
-=108, 610.53094pt x 684.30656pt>
+=116, 610.53094pt x 684.30656pt>
 File: EAGLE2016submissionXX-img003.png Graphic file (type png)
 
 <use EAGLE2016submissionXX-img003.png>
-Package pdftex.def Info: EAGLE2016submissionXX-img003.png used on input line 28
-9.
+Package pdftex.def Info: EAGLE2016submissionXX-img003.png used on input line 29
+1.
 (pdftex.def)             Requested size: 309.401pt x 347.04958pt.
-
-Underfull \vbox (badness 2189) has occurred while \output is active []
-
- [9 <./EAGLE2016submissionXX-img003.png>]
-<EAGLE2016submissionXX-img004.png, id=116, 759.58781pt x 619.56468pt>
-File: EAGLE2016submissionXX-img004.png Graphic file (type png)
-
-<use EAGLE2016submissionXX-img004.png>
-Package pdftex.def Info: EAGLE2016submissionXX-img004.png used on input line 30
-8.
-(pdftex.def)             Requested size: 309.39311pt x 252.19858pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <./EAGLE2016submissionXX-img004.png>] [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 404--404
+ [9 <./EAGLE2016submissionXX-img003.png>]
+<EAGLE2016submissionXX-img004.png, id=124, 759.58781pt x 619.56468pt>
+File: EAGLE2016submissionXX-img004.png Graphic file (type png)
+
+<use EAGLE2016submissionXX-img004.png>
+Package pdftex.def Info: EAGLE2016submissionXX-img004.png used on input line 31
+0.
+(pdftex.def)             Requested size: 309.39311pt x 252.19858pt.
+ [10 <./EAGLE2016submissionXX-img004.png>]
+Underfull \vbox (badness 8038) has occurred while \output is active []
+
+ [11]
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 406--406
 []\T1/qpl/m/n/8 (+20) For fur-ther in-for-ma-tion see [][]$\T1/lmtt/m/n/8 http 
 : / / wiki . apache . org / solr / #Search _ and _
  []
 
-(./EAGLE_2016_submission_XX.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
+[13] (./EAGLE_2016_submission_XX.bbl
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `\%'
@@ -1292,35 +1296,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 411.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 413.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 411.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 413.
  (./EAGLE_2016_submission_XX.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 411.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 411.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 413.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 413.
 Package rerunfilecheck Info: File `EAGLE_2016_submission_XX.out' has not change
 d.
 (rerunfilecheck)             Checksum: 514537DB562601060974D26334C63743;450.
  ) 
 Here is how much of TeX's memory you used:
- 21734 strings out of 494327
- 404958 string characters out of 6168653
- 460517 words of memory out of 5000000
- 24580 multiletter control sequences out of 15000+600000
- 82077 words of font info for 143 fonts, out of 8000000 for 9000
+ 21811 strings out of 494327
+ 406343 string characters out of 6168653
+ 460537 words of memory out of 5000000
+ 24640 multiletter control sequences out of 15000+600000
+ 106881 words of font info for 176 fonts, out of 8000000 for 9000
  497 hyphenation exceptions out of 8191
- 44i,8n,40p,10422b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,40p,10422b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/tex-gyre/q-ec-sc.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{
-/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texmf/fonts/type
-1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/
-share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/
-public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pf
-b>
-Output written on EAGLE_2016_submission_XX.pdf (14 pages, 1771310 bytes).
+/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/
+texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public
+/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
+Output written on EAGLE_2016_submission_XX.pdf (14 pages, 1785087 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 33869 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 43085 words of extra memory for PDF output out of 51595 (max. 10000000)
 
