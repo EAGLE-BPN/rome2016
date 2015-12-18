@@ -39,14 +39,49 @@
 %%%%%%%%
 %TITLE:%
 %%%%%%%%
+\title{Searching inscriptions through the EAGLE Portal}
 
-\title{}
-\author{claudio prandoni}
-\date{2015-11-09}
+%%%%%%%%
+%AUTHORS:%
+%%%%%%%%
+\author[PROMOTER]{Claudio Prandoni\corref{first}}
+% put the label for the address (like FENWAY here) in the square brackets; change the addresses below to match the labelled authors
+% mark the corresponding author with the \corref command and fill out the complete address in the \cortext command below
+
+\author[PROMOTER]{Antonella Fresa}
+\author[Gogate]{Nicola Alfarano}
+\author[ISTI]{Giuseppe Amato}
+\author[ISTI]{Franco Zoppi}
+\author[ISTI]{Andrea Mannocci}
+\author[HEI]{Pietro Liuzzo}
+\author[DAI]{Francesco Mambrini}
+\author[ROME]{Silvia Orlandi}
+\author[ROME]{Raffaella Santucci}
+%Promoter Srl1, Gogate Srl2, CNR-ISTI3, Heidelberg University4, German Archeological Institute5, Sapienza University of Rome6
+
+
+%\author[ENEA]{Francesco Biccari}
+
+%Additional information about corresponding author, addresses and affiliations:
+\cortext[first]{Corresponding author. Email:  prandoni@promoter.it}
+
+\address[PROMOTER]{Promoter Srl, Via Boccioni 2, 56037 Peccioli, Italy}
+\address[Googate]{Gogate Srl, Via Malasoma 24, 56121 Ospedaletto, Italy}
+\address[ISTI]{CNR-ISTI, Via G. Moruzzi 1, 56124 Pisa, Italy }
+\address[HEI]{Ruprecht-Karls-Universität Heidelberg, Marstallstraße 6, 69117, Heidelberg (DE)}
+%\address[ENEA]{ENEA, Casaccia Research Center, via anguillarese 301, 00123 Roma, Italy}
+\address[DAI]{Deutsches Archäologisches Institut, 69-71 Podbielskiallee, 14195 Berlin, Germany}
+\address[ROME]{La Sapienza University of Rome, Piazzale Aldo Moro 5, 00185 Roma }
+
+%%%%%%%%%%%%
+%PAPER CONTENT %
+%start your paper here%
+%%%%%%%%%%%%
+
 \begin{document}
-[Warning: Draw object ignored]Abstract
 
-\ \ \ \ \ \ This paper describes the functionalities and the technical infrastructure of the EAGLE Portal, the main
+\begin{abstract}
+This paper describes the functionalities and the technical infrastructure of the EAGLE Portal, the main
 gateway into the EAGLE’s massive epigraphic database. The portal can be accessed both by a human through a web browser
 and by external applications through a set of APIs. It is possible to perform full-text searches using a simple
 interface, or to launch more advanced queries, including the possibility to upload an image and search for inscriptions
@@ -55,15 +90,14 @@ the multilingual metadata of the inscriptions from the different content provide
 search engine as well as all the translations the are available on the EAGLE MediaWiki. All this makes of the EAGLE
 Portal a very useful tool for the epigraphic community but also for single users and enthusiasts willing to contribute
 to the research in this field.
+\end{abstract}
 
-Keywords
+\keywords{Search engine, API, image recognition, controlled vocabulary, multilingual translations, advanced search, citizen
+participation}
 
-Search engine, API, image recognition, controlled vocabulary, multilingual translations, advanced search, citizen
-participation.
+\section{Introduction}
 
-1.1. Introduction
-
-The EAGLE Portal is the place where the content provided by the epigraphers’ community is aggregated and stored and
+\noindent The EAGLE Portal is the place where the content provided by the epigraphers' community is aggregated and stored and
 where it is made accessible to the users. It is composed by:
 
 \begin{itemize}
@@ -73,17 +107,16 @@ stored and indexed.
 with it.
 \end{itemize}
 The Aggregator relies on the D-NET software toolkit, developed within the DRIVER project and extended within the
-OpenAIRE, OpenAIREplus\footnote{http://www.openaire.eu/}, EFG, EFG1914\footnote{http://www.europeanfilmgateway.eu/it}
-and HOPE\footnote{http://www.peoplesheritage.eu/} projects. D-NET is an open source, general-purpose software conceived
+OpenAIRE, OpenAIREplus\footnote{\url{http://www.openaire.eu/}}, EFG, EFG1914\footnote{\url{http://www.europeanfilmgateway.eu/it}}
+and HOPE\footnote{\url{http://www.peoplesheritage.eu/}} projects. D-NET is an open source, general-purpose software conceived
 to enable the realization and operation of Aggregative Data Infrastructures (ADIs) and to facilitate their evolution
 and maintenance over time. D-NET implements a service-oriented framework based on standards, namely Web Services with
 SOAP and REST APIs, where ADIs can be constructed in a LEGO-like approach, by selecting, customizing, and properly
 combining D-NET services as building blocks. The resulting ADIs are systems, which can be customized, further extended
 (e.g. by the integration of new services), and scaled (e.g. storage and index replicas can be maintained and deployed
-on remote nodes to tackle multiple concurrent accesses or very-large data size) at run-time [Amato et al., 2013].
+on remote nodes to tackle multiple concurrent accesses or very-large data size) at run-time \citep{amato_aim_2013}.
 
-The GUI exposes all the content stored in the Aggregator providing to the users the following functionalities [Prandoni
-et al., 2014].
+The GUI exposes all the content stored in the Aggregator providing to the users the following functionalities \citep{prandoni_eagle_2014}.
 
 \begin{itemize}
 \item Search and browse the rich set of data made available by EAGLE content providers by using either a free text
@@ -100,11 +133,11 @@ a new story.
 \end{itemize}
 The ingestion and curation of data is performed through a separate dedicated interface made available by the Aggregator.
 This interface includes a series of functionalities to support data ingestion and storage as well as for importing,
-indexing, enriching and managing the harvested metadata [Amato et al., 2015].
+indexing, enriching and managing the harvested metadata \citep{amato_second_2015}.
 
-1.2. The EAGLE Collections
+\section{The EAGLE Collections}
 
-Classical Greek and Latin culture is at the very foundation of modern European identity. From philosophy to
+\noindent Classical Greek and Latin culture is at the very foundation of modern European identity. From philosophy to
 architecture, geometry to law, a variety of contemporary subjects and disciplines have their roots in the classical
 world. Only a small fraction of the total production of Greco-Roman texts has survived to the present day, leaving wide
 gaps in the historiographical record of an epoch that is immensely relevant to our modern day lives. 
@@ -118,7 +151,7 @@ and geographically dispersed inscriptions.
 The EAGLE collections come from a wide range of digital repositories of epigraphic content. The following paragraphs
 illustrate these repositories.
 
-Arachne\footnote{ http://arachne.uni-koeln.de } is the central object-database of the German Archaeological Institute
+Arachne\footnote{\url{http://arachne.uni-koeln.de}} is the central object-database of the German Archaeological Institute
 (DAI). Since 2001, Arachne has been integrating negative archives of ancient sculpture that went beyond the specialised
 documentation retained in Cologne itself, such as the negatives of ancient sculpture of the German Archaeological
 Institute in Rome and the historic glass plate negative collections. Besides this larger project, many additional
@@ -130,19 +163,19 @@ Kypriaki Grammateia (Ancient Cypriot Literature), published by the A. G. Leventi
 AKGDC/ STARC collection of Cypriot inscriptions are dated from the 5th century BC to the 5th century AD and are mostly
 funerary or dedicatory epigrams in elegiac couplet or hexameter.
 
-Epigraphic Database Bari (EDB)\footnote{ http://www.edb.uniba.it } is a project specialized in epigraphic documents of
-Christian patronage (third to eighth centuries, AD), including those contained in the Inscriptiones Christianae Vrbis
-Romae, nova series, voll. I-X, in civitate Vaticana 1922-1992 (= ICVR), and those edited in other bibliographical seats
+Epigraphic Database Bari (EDB)\footnote{\url{http://www.edb.uniba.it}} is a project specialized in epigraphic documents of
+Christian patronage (third to eighth centuries, AD), including those contained in the \emph{Inscriptiones Christianae Vrbis
+Romae, nova series}, voll. I-X, in civitate Vaticana 1922-1992 (= ICVR), and those edited in other bibliographical seats
 and/or not contained in the ICVR. Currently the inscriptions present in the EDB (counting those already online and
 those awaiting definitive approval) amount to 40,000 items ca, though this number is obviously increasing continually. 
 
-The task of the Epigraphic Database Heidelberg (EDH)\footnote{ http://edh-www.adw.uni-heidelberg.de } is the systematic
+The task of the Epigraphic Database Heidelberg (EDH)\footnote{\url{http://edh-www.adw.uni-heidelberg.de}} is the systematic
 entry of ancient Latin and bilingual (usually Latin and Greek) inscriptions into a complex database. The Epigraphic
 Text Database is the heart of EDH and contains 65,000 inscriptions at present. Almost all of the records present texts,
 which have already either been edited in the monumental Inscription corpora or published, revised and discussed in
 thousands of scholarly articles.
 
-Epigraphic Database Rome (EDR)\footnote{ http://edr-edr.it } was launched in 1999 as an experimental project aimed at
+Epigraphic Database Rome (EDR)\footnote{\url{http://edr-edr.it}} was launched in 1999 as an experimental project aimed at
 creating a unified database for ancient epigraphy. EDR is part of the international federation of Epigraphic Databases
 called Electronic Archive of Greek and Latin Epigraphy. The federation’s purpose is to collect all published Greek and
 Latin inscriptions up to the 7th century A.D. considering their best existing editions, also enclosing, when possible,
@@ -150,105 +183,95 @@ a number of additional important data and/or images. As part of the federation, 
 epigraphy of Rome and of the Italian peninsula including Sardinia and Sicily, with the exception of Christian
 inscriptions (under EDB jurisdiction).
 
-Hispania Epigraphica Online\footnote{ http://eda-bea.es} was created in 2002 when an EU grant enabled a joint research
+Hispania Epigraphica Online\footnote{\url{http://eda-bea.es}} was created in 2002 when an EU grant enabled a joint research
 project between the Archivo Epigráfico de Hispania and Mag. K. Schaller, who was developing computing applications for
 archaeological purposes. The focus of the collection is the rich epigraphic patrimony of Portugal and Spain, mainly
 written in Latin, but with some small pockets of Greek, Semitic and Iberian inscriptions.
 
-Petrae database\footnote{ http://petrae.tge-adonis.fr} is a system for the recording of Latin and Greek inscriptions
+Petrae database\footnote{\url{http://petrae.tge-adonis.fr}} is a system for the recording of Latin and Greek inscriptions
 developed at the Institut Ausonius, which collects epigraphic texts from the various regions in which its researchers
 and collaborators are active. Each record produced has the text of an inscription in both an uppercase and lowercase
 version, accompanied by metadata on all aspects of the monument, including support, fragments, epigraphic fields and
 text elements (dating, paleography, critical apparatus, translation, notes).
 
-The Last Statues of Antiquity\footnote{ http://laststatues.classics.ox.ac.uk } is a project funded in 2009 by the ‘Arts
+The Last Statues of Antiquity\footnote{\url{http://laststatues.classics.ox.ac.uk}} is a project funded in 2009 by the ‘Arts
 and Humanities Research Council’ in Oxford. The project collects and analyses all the evidence for new, newly
-dedicated, or newly re-worked statuary in the period circa 284–650. The two main results of the project are a major
+dedicated, or newly re-worked statuary in the period \textit{circa} 284–650. The two main results of the project are a major
 database, with over 2600 individual entries, and a book, published in late 2012, discussing in print the entire
 phenomenon of the late-antique statue habit.
 
-The picture database VBI ERAT LUPA\footnote{ http://www.ubi-erat-lupa.org } contains stone monuments (sculptures,
+The picture database VBI ERAT LUPA\footnote{\url{http://www.ubi-erat-lupa.org}} contains stone monuments (sculptures,
 reliefs, inscriptions, architectural pieces etc.). The project’s scope ranges from prehistoric stone monuments to
 around the time of Justinian (500 AD). Due to its inception in Vienna, most project data at the moment is from the mid-
 and south-eastern European region.
 
 Finally, thanks to the great effort in the networking activities, many other partners joined the EAGLE Best Practice
 Network and made available their collections that are currently being uploaded in the EAGLE Portal\footnote{ For a full
-list of the EAGLE Associated Partners see http://www.eagle-network.eu/about/partners/ }. 
+list of the EAGLE Associated Partners see \url{http://www.eagle-network.eu/about/partners/}}. 
 
-1.3. The EAGLE inscription search engine
+\section{The EAGLE inscription search engine}
 
-The EAGLE Inscriptions Search Engine is accessible through the main horizontal navigation bar of the EAGLE
-Portal\footnote{ http://www.eagle-network.eu/basic-search/ }. It represents the core functionality of the portal,
+\noindent The EAGLE Inscriptions Search Engine is accessible through the main horizontal navigation bar of the EAGLE
+Portal\footnote{\url{http://www.eagle-network.eu/basic-search/}}. It represents the core functionality of the portal,
 through which the entry of keywords and phrases produce matches from EAGLE’s massive epigraphic database.
 
-The EAGLE Portal makes available a “simple search”, an “advanced search” where the user can specify the values of a
-number of fields in order to make a more accurate search, and an “image search” where the user can upload an image and
-search for inscriptions that look similar to the provided one [Prandoni et al., 2014]. 
+The EAGLE Portal makes available a ``simple search'', an ``advanced search'' where the user can specify the values of a
+number of fields in order to make a more accurate search, and an ``image search'' where the user can upload an image and
+search for inscriptions that look similar to the provided one \citep{prandoni_eagle_2014}. 
 
 The objects that a user can search in the EAGLE Portal belong to three different categories, in accordance with the
-EAGLE conceptual model [Sicila et al., 2015]:
+EAGLE conceptual model \citep{sicilia_eagle_2015}:
 
 \begin{itemize}
-\item “Artefacts”, which contain all the information that is somehow related to the physical carrier of the inscription.
-\item “Texts”, which contain all the information that is textual in nature.
-\item “Images”, which contain all the information that is visual in nature.
+\item ``Artefacts'', which contain all the information that is somehow related to the physical carrier of the inscription.
+\item ``Texts'', which contain all the information that is textual in nature.
+\item ``Images'', which contain all the information that is visual in nature.
 \end{itemize}
 
-\bigskip
+\subsection{How to search inscriptions}
 
-1.3.1. How to search inscriptions
-
-
-\bigskip
-
-The simple search user interface is very straightforward. The text entered in the query box is used to make a full text
+\noindent The simple search user interface is very straightforward. The text entered in the query box is used to make a full text
 search in all the fields of all the EAGLE objects in the category determined when making the query. By default, the
-search will be done on all the objects in the “Artefact” category. Two more tabs on the result list (labelled “Texts”
-and “Images”) allow the user to perform the same query choosing a different category.
+search will be done on all the objects in the ``Artefact'' category. Two more tabs on the result list (labelled ``Texts''
+and ``Images'') allow the user to perform the same query choosing a different category.
 
 Using the advanced search interface, a user can specify values for a number of fields, in order to have more accurate
 results: findspot, bibliography, text of the inscription, type of inscription, decoration, object type, material, type
-of writing, state of preservation (Fig. 1).
+of writing, state of preservation (Fig. \ref{fig:figure1}).
 
 In the fields having a controlled vocabulary, the user is allowed to enter only values coming from the vocabulary. For
-this purpose, those fields have a “drop-down menu” which displays all the defined values for that field in the
-“preferred label”, i.e. the text string that has been indicated in the vocabulary as the preferred one for display,
+this purpose, those fields have a ``drop-down menu'' which displays all the defined values for that field in the
+``preferred label'', i.e. the text string that has been indicated in the vocabulary as the preferred one for display,
 regardless of the language in which the string is defined. 
 
 Finally, by choosing the Image Search option, a user can exploit the image recognition algorithm that has been
 integrated in the EAGLE Portal and that allows to search for images that are similar to the one a user has uploaded,
-ranked in decreasing order of similarity (Fig. 2).
+ranked in decreasing order of similarity (Fig. \ref{figure2}).
 
-
-\bigskip
-
+\begin{figure}[!bp]
+\centering
  \includegraphics[width=10.874cm,height=12.885cm]{EAGLE2016submissionXX-img001.png} 
-
-Fig. 1. Search for inscriptions in the EAGLE Portal
-
-
-\bigskip
+\caption{Search for inscriptions in the EAGLE Portal}
+\label{fig:figure1}
+\end{figure}
 
 Content Based Image Retrieval (CBIR) is becoming an effective way for searching digital libraries, as the amount of
 available image data is constantly increasing. CBIR applications are increasingly becoming useful in accessing cultural
 heritage information, as a complement to metadata based search. In fact, in some cases metadata associated with images
 do not describe the content with sufficient details to satisfy the user queries, or metadata are completely missing.
 For example, images containing reproductions of works of art contain a lot of implicit information that is not
-generally captured in manually or automatically generated metadata [Amato et al., 2013].
+generally captured in manually or automatically generated metadata \citep{amato_aim_2013}.
 
 The EAGLE Image Retrieval System (IRS) receives in input the image of an epigraph and provides effective and efficient
 image similarity search and image content recognition of epigraphs.
 
 
-\bigskip
-
+\begin{figure}[!bp]
+\centering
  \includegraphics[width=10.848cm,height=10.451cm]{EAGLE2016submissionXX-img002.png} 
-
-Fig. 2. Image search in EAGLE
-
-
-\bigskip
+\caption{Image search in EAGLE}
+\label{figure2}
+\end{figure}
 
 The images provided by the EAGLE content providers and collected in the Aggregator have been processed by a set of IRS
 components (Image Feature Extractor, Image Indexer, CBIR Index) to build the index that allows a fast and efficient
@@ -261,23 +284,16 @@ query phase) can be classified as belonging to one of the existing sets or not. 
 recognizer is able to properly recognize the content of a query image even if the image given in the query was never
 stored in the database.
 
-
-\bigskip
-
+\begin{figure}[!bp]
+\centering
  \includegraphics[width=10.874cm,height=12.197cm]{EAGLE2016submissionXX-img003.png} 
+\caption{Results list - Artefacts}
+\label{figure3}
+\end{figure}
 
-Fig. 3. Results list - Artefacts
+\subsection{Filtering and browsing results}
 
-
-\bigskip
-
-1.3.2. Filtering and browsing results
-
-
-\bigskip
-
-After having submitted a query, the user is presented with a paginated list of results containing some basic information
-(Fig. 3). 
+\noindent After having submitted a query, the user is presented with a paginated list of results containing some basic information (Fig. \ref{figure3}). 
 
 By using the facets displayed on the left side panel, the user has the possibility to refine the query by applying some
 filters based on the fields that are associated with a controlled vocabulary or based on the fact whether the
@@ -285,17 +301,14 @@ inscription has an image and/or a translation.
 
 Regardless of the type of query performed by the user and of the category in which the query was done, clicking on one
 of the items in the result page will display a summary of all the information available for that item, with links to
-get further details (Fig. 4).
+get further details (Fig. \ref{figure4}).
 
-
-\bigskip
-
- \includegraphics[width=10.874cm,height=8.864cm]{EAGLE2016submissionXX-img004.png} 
-
-Fig. 4. Object details
-
-
-\bigskip
+\begin{figure}[!bp]
+\centering
+\includegraphics[width=10.874cm,height=8.864cm]{EAGLE2016submissionXX-img004.png}
+\caption{Object details}
+\label{figure4}
+\end{figure}
 
 The text in big characters on top of the page is the Title of the object. Below the title there is the local ID of the
 object and after that there is a line collecting all the clickable items of the summary page: Bibliography, which opens
@@ -305,13 +318,13 @@ Content Provider who provided it; Save, which allows to save the object in the u
 allows to download locally the EpiDoc document describing the object. Finally, all available pictures are displayed,
 together with the remaining descriptive metadata.
 
-Duplicates identification has been performed through the Trismegistos platform\footnote{ http://www.trismegistos.org/ }.
+Duplicates identification has been performed through the Trismegistos platform\footnote{\url{http://www.trismegistos.org/}}.
 By standardizing publication references, collection information, material, provenance and date, the overlap of the
 various databases has been mapped to identify records describing the same inscription. Afterwards a unique numeric
 identifier, the Trismegistos ID, has been assigned to each document and spread across the partner databases for
 inclusion in the metadata record to be uploaded in the EAGLE Portal.
 
-If more than one instance of an object is available, the other instances appear on the summary page as clickable “tabs”,
+If more than one instance of an object is available, the other instances appear on the summary page as clickable ``tabs'',
 each tab being labelled with the local ID of the other instances of the same object.
 
 The seven controlled multilingual vocabularies that have been created (Type of Inscription, Object Type, Material,
@@ -319,22 +332,15 @@ Execution, Decoration, State of Preservation, Dating Criteria) to help aligning 
 inscriptions from the different content providers, have been also integrated in the EAGLE search engine. Every time
 that a term which belongs to one of the vocabularies is displayed, it is automatically linked to the specific page
 describing the term, where further connections, synonyms and translations can be explored. The EAGLE vocabularies are
-accessible also as Linked Open Data\footnote{ http://www.eagle-network.eu/resources/vocabularies/}.
+accessible also as Linked Open Data\footnote{\url{http://www.eagle-network.eu/resources/vocabularies/}}.
 
 Finally, all the peer-reviewed translations in several European languages that are available, have been integrated in
-the EAGLE Portal too through a RESTful API native of Wikibase, the MediaWiki extension used for this purpose\footnote{
-http://www.eagle-network.eu/wiki/api.php }. For each inscription it is possible to view the existing translation, to
-request a new one and to contribute by connecting to the EAGLE MediaWiki\footnote{ http://www.eagle-network.eu/wiki }.
+the EAGLE Portal too through a RESTful API native of Wikibase, the MediaWiki extension used for this purpose\footnote{\url{http://www.eagle-network.eu/wiki/api.php}}. For each inscription it is possible to view the existing translation, to
+request a new one and to contribute by connecting to the EAGLE MediaWiki\footnote{\url{http://www.eagle-network.eu/wiki}}.
 
+\subsection{Annotating and saving objects}
 
-\bigskip
-
-\ 1.3.3. Annotating and saving objects
-
-
-\bigskip
-
-A registered user, during a “web” or a “mobile” session, has the capability of annotating and saving (some of) the
+A registered user, during a ``web'' or a ``mobile'' session, has the capability of annotating and saving (some of) the
 information that is being provided by the EAGLE system.
 
 Depending on the information the user is looking at, hitting the save button will save two types of data in the personal
@@ -360,7 +366,7 @@ The saved data might be different from the data that can be retrieved by issuing
 due to changes in the data stored in the EAGLE database. This allows the user to make comparisons between the
 information that was available when he/she first saved the object and what has been added afterwards.
 
-1.4. Conclusion
+\section{Conclusion}
 
 This paper presented the main functionalities of the EAGLE Portal, giving some highlights of the content that is
 available and of the technical infrastructure that allows to search and browse them.
@@ -381,23 +387,21 @@ participation of citizens in the research on CH and humanities has the potential
 development of the European Research Area, and can take the lead in the discovery of new directions of
 cross-disciplinary research.
 
-In this framework, the CIVIC EPISTEMOLOGIES\footnote{ http://www.civic-epistemologies.eu } project developed a Roadmap
+In this framework, the CIVIC EPISTEMOLOGIES\footnote{\url{http://www.civic-epistemologies.eu}} project developed a Roadmap
 for the use of e-Infrastructures to support the participation of European citizens in CH practices and humanities
 research, where such engagement has a twofold benefit for culture: to be enriched by the citizens’ contributions and to
-become more widely used and exploited (also, for example, with the participation of creative industries) [Fresa \&
-Justrell, 2015]. The future development of the EAGLE initiative will refer to the CIVIC EPISTEMOLOGIES Roadmap for
+become more widely used and exploited (also, for example, with the participation of creative industries) \citep{fresa_roadmap_2015}. The future development of the EAGLE initiative will refer to the CIVIC EPISTEMOLOGIES Roadmap for
 investigating how to put in place more advanced services supporting citizen science in epigraphic research.
 
 The EAGLE Portal is only an example of application that makes use of the APIs provided by the Aggregator to access the
-EAGLE collections. Other examples are the Flagship Mobile Application\footnote{
-http://www.eagle-network.eu/resources/flagship-mobile-app/ }, that allows to access the inscriptions’ database through
+EAGLE collections. Other examples are the Flagship Mobile Application\footnote{\url{http://www.eagle-network.eu/resources/flagship-mobile-app/}}, that allows to access the inscriptions’ database through
 a mobile device and to fully exploit the image recognition features integrated in the EAGLE Portal, and the Flagship
-Storytelling Application\footnote{ http://www.eagle-network.eu/stories/ }, that allows a user to create stories
+Storytelling Application\footnote{\url{http://www.eagle-network.eu/stories/}}, that allows a user to create stories
 starting from the content available in EAGLE, Europeana and many other data sources.
 
 Other applications may be created based on the APIs provided by the Aggregator, which uses a SOLR-base search engine
 through which it is possible to search and browse the full set of content\footnote{ For further information see
-http://wiki.apache.org/solr/\#Search\_and\_Indexing }. Furthermore, APIs are provided to register a new user, login and
+\url{http://wiki.apache.org/solr/\#Search\_and\_Indexing}}. Furthermore, APIs are provided to register a new user, login and
 perform an image-based search using the EAGLE image recognition algorithm.
 
 
