@@ -15,10 +15,15 @@
 
 % IF YOU USE PDFLATEX
 \usepackage[utf8x]{inputenc}
+
+\usepackage[normalem]{ulem}
 % if you write in english and in greek
 \usepackage{ucs}
 \usepackage[greek,english]{babel}
+\usepackage{teubner}
 \languageattribute{greek}{polutoniko}
+
+
 
 % IF YOU USE XELATEX
 %\usepackage{polyglossia}
@@ -30,7 +35,7 @@
 
 % dummy text (remove in a normal thesis)
 % remove if not necessary
-\usepackage{siunitx}
+%\usepackage{siunitx}
 %Natbib for bibliography management
 \usepackage[authoryear]{natbib}
 % custom commands
@@ -40,10 +45,10 @@
 %TITLE:%
 %%%%%%%%
 \title{Teaching (Digital) Epigraphy}
-\author[ilc]{Marion Lamé\corref{first}}
+\author[ilc]{Marion Lamé}
 \author[zag]{Ivan Radman-Livaja}
 \author[mau]{Bruce Robertson}
-\author[isti]{Federico Ponchio}
+\author[isti]{Federico Ponchio\corref{first}}
 \address[ilc]{Istituto di Linguistica Computazionale}
 \address[isti]{Visual Computing Laboratory, ISTI-CNR}
 \address[zag]{Archaeological Museum in Zagreb}
@@ -72,7 +77,7 @@ normally acquired during graduate studies and beyond. Lacking sufficient skills 
 understand often complex epigraphic data, undergraduate students are simply unable to offer the expert opinions
 sometimes sought by a project manager. Thus, offering undergraduate students the opportunity to tackle tasks usually
 reserved to their senior colleagues is certainly not a common occurrence. In our small project ``Pedagogical,
-Scientific \& Technical Experiment in Digital Epigraphy: the Study Case of the Tesserarum Sisciae Sylloge (TSS) through
+Scientific \& Technical Experiment in Digital Epigraphy: the Study Case of the \emph{Tesserarum Sisciae Sylloge} (TSS) through
 a Digital Autoptic Process (DAP)'' we aimed to challenge this state of affairs. Using digital methods and a
 custom-designed course of rapid study, we offered undergraduates the opportunity to tackle epigraphic tasks usually
 reserved to their senior colleagues. We made use of newly-digitized epigraphic material: Roman commercial lead tags
@@ -91,8 +96,16 @@ inscription, most of the time on both sides. Those inscriptions are always, up t
 the older Roman cursive, sometimes even in a mixture of both. Most of the tags were reused several times and thus they
 carry traces of older inscriptions (palimpsests). Those inscriptions usually follow the same model: one side of the tag
 carries personal names, the other side carries an inscription mentioning the merchandise, most of the time in an
-abbreviated form, as well as a price - normally expressed in denarii or fractions of the denarius - and quite often an
+abbreviated form, as well as a price - normally expressed in \emph{denarii} or fractions of the \emph{denarius} - and quite often an
 indication of quantity or weight.
+
+\begin{figure}[!h]
+\centering
+\includegraphics[scale=0.25]{EAGLE16lameetalteaching-img001.jpg}
+\includegraphics[scale=0.25]{EAGLE16lameetalteaching-img002.jpg}
+\caption{No. 12582.}
+\label{fig:12582}
+\end{figure}
 
 A traditional print photograph, such as this one (No. 12582) drawn from the archives of the AMZ, limits the student’s
 opportunity to learn to decipher these tags. Even if a professional photographer took this picture with a good quality
@@ -101,21 +114,16 @@ researcher would have to check the tag de visu in order to offer a plausible tra
 
 \begin{figure}
 \centering
-\includegraphics[width=2.944cm,height=2.752cm]{EAGLE16lameetalteaching-img001.jpg}
+
 \end{figure}
-\begin{figure}
-\centering
-\includegraphics[width=2.944cm,height=2.82cm]{EAGLE16lameetalteaching-img002.jpg}
-\end{figure}
-Most of the tags, if not all, are linked to the wool trade and the textile industry. Words like lana, pan(n)um, tvnica,
-sagvm, p(a)envla, pal(l)a, palliolum, lodix, banata, and abolla, appear regularly enough without being abbreviated and
-thus the interpretation of common abbreviations like l, la, lan, pan, t, sag, paenv, pal, lo, lod, lodi, bana, ab is
+Most of the tags, if not all, are linked to the wool trade and the textile industry. Words like \emph{LANA, PAN(N)UM, TVNICA, SAGVM, P(A)ENVLA, PAL(L)A, PALLIOLUM, LODIX, BANATA}, and \emph{ABOLLA}, appear regularly enough without being abbreviated and
+thus the interpretation of common abbreviations like \emph{l, la, lan, pan, t, sag, paenv, pal, lo, lod, lodi, bana, ab} is
 not in doubt. The other abbreviations are mostly related to terms of colour. The prices on those tags are an important
 information: they indicated the value of the goods or the cost of a given service (e.g. cleaning, fulling, dyeing). It
 would also appear that they were used by fullers and dyers as ownership tags. By noting the name of the client as well
 as the type of cloth or service and the price on the tag which was subsequently attached to the item to be processed
 (i.e. cleaned or dyed), shop owners could easily return their property to the clients as well as charge them the
-correct fee\footnote{\citep{radman_livaja_segestica..._2008}, \citep{radman-livaja_roetiquettes_2010}, \citep{radman-livaja_5._2013}, \citep[165-172]{radman-livaja_two_2013}, \citep{radman-livaja_plombs_2014},  for analogous tags with \citep[97-104]{mocsy_olom_1956}; \citep[195-210]{egger_funf_1968}; \citep[127-138]{frei-stolba_les_2011}; \citep[121-137/93, 215-222]{schwinden_romerzeitliche_1985}; \citep{romer-martijnse_romerzeitliche_1990}; \citep[5-48]{romer-martijnse_fruhkaiserzeitliche_1997}; \citep[301-305]{feugere_etiquette_1993}; \citep[211-220]{weiss_bleietiketten_1991}; \citep[29-40]{paci_etichette_1995}; \citep[207-216]{bassi_tre_1996}; \citep[121-135]{bizzarini_quattro_2005}; \citep[43-51]{buchi_etichette_2005}; \citep[42-110]{cresci_supellex_2010}; \citep[295-317]{jacques_artisanat_2010}; \citep[237-246]{wedenig_bleietikett_2013}.}. 
+correct fee\footnote{\citet{radman_livaja_segestica_2008}, \citet{radman-livaja_roetiquettes_2010}, \citet{radman-livaja_5_2013}, \citet[165-172]{radman-livaja_two_2013}, \citet{radman-livaja_plombs_2014},  for analogous tags with \citet[97-104]{mocsy_olom_1956}; \citet[195-210]{egger_funf_1968}; \citet[127-138]{frei-stolba_les_2011}; \citet[121-137/93, 215-222]{schwinden_romerzeitliche_1985}; \citet{romer-martijnse_romerzeitliche_1990}; \citet[5-48]{romer-martijnse_fruhkaiserzeitliche_1997}; \citet[301-305]{feugere_etiquette_1993}; \citet[211-220]{weiss_bleietiketten_1991}; \citet[29-40]{paci_etichette_1995}; \citet[207-216]{bassi_tre_1996}; \citet[121-135]{bizzarini_quattro_2005}; \citet[43-51]{buchi_etichette_2005}; \citet[42-110]{cresci_supellex_2010}; \citet[295-317]{jacques_artisanat_2010}; \citet[237-246]{wedenig_bleietikett_2013}.}. 
 
 Some of the genuine difficulties of the autoptic process are already solved by a static picture in a print publication.
 The tag has a given position, it is illuminated from one direction only and therefore it already suggests a reading
@@ -139,11 +147,11 @@ inscriptions, including both easily readable specimens and more challenging graf
 profit from the assistance of undergraduate and graduate students, which could not often be the case
 before\footnote{\ The Laboratorio di Cultura Digitale, lead by Prof. Salvatori, at the University of Pisa applies the
 didactic model DIGICRAFT. This means that undergraduate students might share their skills, especially the digital one,
-in order to allow an entire team to reach its goal. For more information see: http://www.labcd.unipi.it/laboratorio .}.
+in order to allow an entire team to reach its goal. For more information see: \url{http://www.labcd.unipi.it/laboratorio}.}.
 This experiment showed that their contribution can be useful, because technology may compensate for their lack of
 knowledge although the final conclusions have to remain in the domain of scholars familiar with the subject. In any
 case, this experiment shows how the digital edition may allow both scholars and students to have an open access to what
-is basically a primary source of information for humanities (presented as a digital facsimile)\footnote{\citep{gorman_opening_2015}
+is basically a primary source of information for humanities (presented as a digital facsimile)\footnote{\citet{gorman_opening_2015}
 writes about some of the OA issues: ``While digitisation is not a pre-requisite to gaining access to material (...), and
 while digital surrogates of cultural heritage objects do not have to be openly shared once created, just as the
 sciences are calling for publication of source data as part of the Open Access movement, opening up access to primary
@@ -184,34 +192,35 @@ wSystem of the inscription, is assigned to some textual information such as a le
 encoding), that represents a textual phenomenon of the tSystem of the inscription. This assignation creates inside the
 MarkOut the g/t relationship used for query processing. The final result is an SVG file that can be easily parsed to
 recover the linking information between wSystem and tSystem (e.g. browsing by glyph's shape and interpretation,
-identifying glyph's position), and easily shared with anyone with a browser (e.g.: fig. 3.1). The linking tool MarkOut
+identifying glyph's position), and easily shared with anyone with a browser (e.g.: fig. \ref{fig:markout}). The linking tool MarkOut
 is one of the editing components of the modular DAP. They fit into communication workflows\footnote{This raises, of
 course, questions, most of them outside the purview of this article, about the relationship that evolves between
-research and our modern societies. We invite the reader to peruse various initiatives such as Sabattini, 2006 on the «
-valeur d'ancienneté » of cultural heritage, that participates to social well-being, the \ Civic Epistemologies
-http://www.civic-epistemologies.eu and its Berlin charter, as well as Public History approaches
-http://public-history-weekly.oldenbourg-verlag.de.} such as crowdsourcing, editing inscriptions, dialoguing with
-experts, preserving and promoting cultural heritage and, \ as here, teaching some skills in epigraphy.
+research and our modern societies. We invite the reader to peruse various initiatives such as \citet{bertocci_documenter_2006} on the «
+valeur d'ancienneté » of cultural heritage, that participates to social well-being, the Civic Epistemologies
+\url{http://www.civic-epistemologies.eu} and its Berlin charter, as well as Public History approaches
+\url{http://public-history-weekly.oldenbourg-verlag.de}.} such as crowdsourcing, editing inscriptions, dialoguing with
+experts, preserving and promoting cultural heritage and, as here, teaching some skills in epigraphy.
 
-Fig. 3.1. MarkOut screenshots (detailed part of tag no. 12563) showing the association, expressed in red, of the Unicode
+Fig. \ref{fig:markout} 
+
+
+\begin{figure}[!bp]
+\centering
+\includegraphics[scale=0.10]{EAGLE16lameetalteaching-img003.png}
+\includegraphics[scale=0.10]{EAGLE16lameetalteaching-img004.png}
+\caption{MarkOut screenshots (detailed part of tag no. 12563) showing the association, expressed in red, of the Unicode
 Latin characters with the position and the shape of the writing: U+0045 with II (identified as E2 by students) and
-U+004C with L (L1 or L5).
+U+004C with L (L1 or L5).}
+\label{fig:markout}
+\end{figure}
 
-\begin{figure}
-\centering
-\includegraphics[width=4.941cm,height=2.281cm]{EAGLE16lameetalteaching-img003.png}
-\end{figure}
-\begin{figure}
-\centering
-\includegraphics[width=4.941cm,height=2.281cm]{EAGLE16lameetalteaching-img004.png}
-\end{figure}
 Students were involved for a very short period of time: on average two hours per day over a couple of days only (in
 Spring 2014 and in Fall 2015). This training was delivered in three steps (``Readings'', ``Writings'', ``Test \& Taste a
 DAP'') during which there were given some academic documentation about the lead tags, and basic knowledge about digital
 epigraphy (epigraphic message in a computer, dispositive analysis, existing projects, digital tools, XML and Unicode
 encoding, DAP, and issues regarding digital representation of artifacts).
 
-Students encountered their first epigraphic challenges with tag no. 12582 (Radman-Livaja 2014: cat 03.13, 347), found in
+Students encountered their first epigraphic challenges with tag no. 12582 \citep[cat 03.13, 347]{radman-livaja_plombs_2014}, found in
 the Kupa river in Sisak and offered by Andrija Colussi to the Archaeological Museum in 1898. It is a rather typical
 lead tag of an irregular rectangular form, pierced with a hole. Its size (22.7x22.8x2.4 mm) corresponds fairly well to
 the average size of other specimens found in Siscia. Although its surface is rather damaged and shows clear traces of
@@ -219,21 +228,43 @@ erasure, the most recent inscription remains quite readable. However, many trace
 records?), complicate significantly the transcription and the interpretation. The last inscription can be read,
 nevertheless, but it demands a certain effort and quite a lot of experience in Latin palaeography:
 
-Obverse (palimpsest)\ \ \ \ Reverse\ \  \ \ \ \ \ \ \ \ \ \ \ \ (palimpsest)
+\begin{minipage}[t]{0.25\textwidth}
+\textbf{Obverse}\\
+At\d{e}\d{r}\\
+ivs
+\end{minipage}
+\begin{minipage}[t]{0.25\textwidth}
+(palimpsest)\\
+\d{S}\d{i}\d{i}\d{x}\d{t}\d{i}\\
+i onis n\\
+i . n i 
+\end{minipage}
+\begin{minipage}[c]{0.30\textwidth}
+%\begin{figure}
+%\centering
+\includegraphics[width=2.965cm,height=1.79cm]{EAGLE16lameetalteaching-img005a.png}
+%\end{figure}
+\end{minipage}
 
-\begin{figure}
-\centering
-\includegraphics[width=2.044cm,height=1.794cm]{EAGLE16lameetalteaching-img005.png}
-\end{figure}
-\begin{figure}
-\centering
-\includegraphics[width=2.044cm,height=1.794cm]{EAGLE16lameetalteaching-img005.png}
-\end{figure}
-Ate[323?]r[323?]\ \  \ S[323?]i[323?]i[323?]x[323?]t[323?]i[323?]\ \  \ \ \ \ \ la(na) p(ondo) i\ \ . . . s
+\begin{minipage}[t]{0.25\textwidth}
+\textbf{Reverse}\\
+la(na) p(ondo) i\\
+cor(ticea)\\
+\sout{X} =-\pounds\\
+\end{minipage}
+\begin{minipage}[t]{0.25\textwidth}
+(palimpsest)\\
+. . . s\\
+. . v\\
+  iir 
+\end{minipage}
+\begin{minipage}[c]{0.30\textwidth}
+%\begin{figure}
+%\centering
+\includegraphics[width=2.845cm,height=1.896cm]{EAGLE16lameetalteaching-img005b.png}
+%\end{figure}
+\end{minipage}
 
-ivs\ \  \ i \ \ onis \ n\ \ \ \ cor(ticea)\ \ \ \ . . v\ \ 
-
-\ \  \ i . n i\ \ \ \ \ \ [4FE?] =$-$ £\ \ \ \  \ iir
 
 The inscriptions on the obverse and reverse may not be contemporaneous and we may not affirm with confidence that the
 individual named Aterius has something to do with the small quantity of wool mentioned on the obverse. The price is
@@ -263,10 +294,7 @@ Canada, France, and Italy. We therefore believe that digital epigraphy has a rol
 that one needs to establish right protocols and rigorous methods in order to warrant access to documents and ensure
 further development of such teaching methods aiming to improve the formation of future specialists.
 
-\begin{figure}
-\centering
-\includegraphics[width=2.965cm,height=1.79cm]{EAGLE16lameetalteaching-img006.png}
-\end{figure}
+
 
 \section{Practicing Epigraphy}
 
@@ -278,172 +306,88 @@ study, which has yet to be done, but it is efficient enough to train students at
 
 \subsection{Drawing With Help (No. 12563)}
 
+\begin{minipage}[t]{0.18\textwidth}
+\textbf{Obverse}\\
+Aeli(i)\\
+Tasti
+\end{minipage}
+\begin{minipage}[c]{0.27\textwidth}
+%\begin{figure}
+%\centering
+\includegraphics[width=2.965cm,height=1.79cm]{EAGLE16lameetalteaching-img006.png}
+%\end{figure}
+\end{minipage}
+\begin{minipage}[t]{0.18\textwidth}
+\textbf{Reverse}\\
+\d{l}odicem\\
+murtiola\d{m}\\
+pondo vi s\\
+\sout{X} vi s\\
+\end{minipage}
+\begin{minipage}[c]{0.25\textwidth}
+%\begin{figure}
+%\centering
+\includegraphics[width=2.845cm,height=1.896cm]{EAGLE16lameetalteaching-img007.png}
+%\end{figure}
+\end{minipage}
 
-\begin{figure}
-\centering
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=7.329cm,height=4.404cm]{https://lh3.googleusercontent.com/HwLa5or_paTAyMS3Mu5XB3NucZXrDws6Jvc5WCC2ONHqBnBugWRtTF-YaKTLhJLhg6fShq3n_nG_37csBdKiKoSFA2tqVqhA0ovfyyT27h6KvGa-4slEmeURVSu_QG2AzjqTevFycw}
 
-\end{figure}
+
 No. 12563 is a rectangular lead tag of irregular form with a badly damaged and scratched surface. Nevertheless, the most
 recent inscription is clearly readable while one may still discern traces of older inscriptions. An older inscription
 might be visible on the obverse, perhaps series of numbers but its meaning remains unclear. Students have
 transcriptions and drawings.
 
-\begin{figure}
+
+\begin{table}
+{\small
+\addtolength{\tabcolsep}{-0.7mm}
+\begin{tabular*}{\textwidth}{llllllllll}
+\toprule
+\textbf{12563 (obv)} & \textbf{A} & \textbf{E} & \textbf{L} & \textbf{I} & \textbf{T} & \textbf{A} & \textbf{S} & \textbf{T} & \textbf{I}\\
+\midrule
+\textbf{Stud. 1} & \textit{A10} & \textit{E2} & \textit{L11} & \textit{I1} & \textit{T1} & \textit{A10} & \textit{S3} & \textit{T2} & \textit{I1} \\
+\textbf{Stud. 2} & \textit{A10} & \textit{E2} & \textit{L5} & \textit{I1} & \textit{T2} & \textit{A10} & \textit{S4?} & \textit{T2} & \textit{I1}  \\
+\bottomrule
+\end{tabular*}
+
+\begin{tabular*}{\textwidth}{llllllllllllll}
+ & & & & & & & & & & & & & \\
+\toprule
+\textbf{12563 (rev)} & \textbf{L} & \textbf{O} & \textbf{D} & \textbf{I} & \textbf{C} & \textbf{E} & \textbf{M} & & & & & &\\
+\midrule
+\textbf{Stud. 1} & \textit{L2} & \textit{O3} & \textit{D3} & \textit{I1} & \textit{C2} & \textit{E2} & \textit{M5} &  &  & & & & \\
+\textbf{Stud. 2} & \textit{?} & \textit{O3} & \textit{D5} & \textit{I2?} & \textit{C2} & \textit{E3} & \textit{M5} & & & & & &  \\
+%\bottomrule
+%\toprule
+%& & & & & & & & & & & & & \\
+\midrule
+ & \textbf{M} & \textbf{U} & \textbf{R} & \textbf{T} & \textbf{I} & \textbf{O} & \textbf{L} & \textbf{A} & \textbf{M} & \textbf{P} & \textbf{V} & \textbf{I} & \textbf{S}\\
+ \midrule
+\textbf{Stud. 1}& \textit{M3} & \textit{V3} & \textit{R7} & \textit{T2} & \textit{I1} & \textit{O3} & \textit{L2} & \textit{A10} & \textit{M2} & \textit{P1} & \textit{V3} & \textit{I1} & \textit{S5} \\
+\textbf{Stud. 2} & \textit{M3?} & \textit{V4} & \textit{R6} & \textit{T2} & \textit{I1} & \textit{O3} & \textit{L5} & \textit{A10} & \textit{M5} & \textit{P2} & \textit{V4} & \textit{I1} & \textit{S5} \\
+\bottomrule
+\end{tabular*}}
+
+\caption{No. 12563.}
+\label{tab:table1}
+\end{table}
+
+\begin{figure}[!bp]
 \centering
-\includegraphics[width=2.845cm,height=1.896cm]{EAGLE16lameetalteaching-img007.png}
+\includegraphics[scale=0.25]{EAGLE16lameetalteaching-img009.png}
+\caption{12563 Obverse. The two students' reconstructions}
+\label{fig:1}
 \end{figure}
-Obverse\ \ \ \ \ \ Reverse
 
-Aeli(i)\ \ \ \ \ \ \ \ l[323?]odicem
-
-Tasti\ \ \ \ \ \ \ \ murtiolam[323?]
-
-\ \ \ \ \ \ \ \ p(ondo) vi s
-
-\ \ \ \ \ \ \ \ [4FE?] vi s
-
-\begin{flushleft}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{|m{1.4399999cm}|m{0.518cm}|m{0.37700003cm}|m{0.361cm}|m{0.297cm}|m{0.361cm}|m{0.518cm}|m{0.486cm}|m{0.361cm}|m{0.30300003cm}|}
-\hline
-\centering 12563 (obv) &
-A &
-E &
-L &
-I &
-T &
-A &
-S &
-T &
-I\\\hline
-\centering Stud.1 &
-A10 &
-E2 &
-L1 &
-I1 &
-T1 &
-A10 &
-S3 &
-T2 &
-I1\centering
-\includegraphics[width=2.563cm,height=2.579cm]{EAGLE16lameetalteaching-img008.png}
-\\\hline
-\centering Stud. 2 &
-A10 &
-E2 &
-L5 &
-I1 &
-T2 &
-A10 &
-S4? &
-T2 &
-I1\\\hline
-\end{supertabular}
-\end{flushleft}
-
-
-\begin{figure}
+\begin{figure}[!bp]
 \centering
-\includegraphics[width=2.461cm,height=2.104cm]{EAGLE16lameetalteaching-img009.png}
-\end{figure}
-\begin{figure}
-\centering
-\includegraphics[width=2.268cm,height=2.104cm]{EAGLE16lameetalteaching-img009.png}
+\includegraphics[scale=0.25]{EAGLE16lameetalteaching-img008.png}
+\caption{12563 Reverse. The two students' reconstructions}
+\label{fig:2}
 \end{figure}
 
 
-
-\begin{flushleft}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{|m{1.393cm}|m{0.361cm}|m{0.40900004cm}|m{0.40900004cm}|m{0.439cm}|m{0.393cm}|m{0.37700003cm}|m{0.444cm}|}
-\hline
-\centering 12563 (rev)\centering
-\includegraphics[width=2.898cm,height=2.656cm]{EAGLE16lameetalteaching-img008.png}
- &
-\centering L &
-\centering O &
-\centering D &
-\centering I &
-\centering C &
-\centering E &
-\centering\arraybslash M\\\hline
-\centering Stud. 1 &
-L2 &
-O3 &
-D3 &
-I1 &
-C2 &
-E2 &
-M5\\\hline
-\centering Stud. 2 &
-? &
-O3 &
-D5 &
-I2? &
-C2 &
-E3 &
-M5\\\hline
-\end{supertabular}
-\end{flushleft}
-
-
-
-\begin{flushleft}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{|m{0.58cm}|m{0.37700003cm}|m{0.37700003cm}|m{0.361cm}|m{0.297cm}|m{0.40900004cm}|m{0.361cm}|m{0.518cm}|m{0.439cm}|m{0.37700003cm}|m{0.37700003cm}|m{0.297cm}|m{0.34900004cm}|}
-\hline
-\centering M &
-\centering V &
-\centering R &
-\centering T &
-\centering I &
-\centering O &
-\centering L &
-\centering A &
-\centering M &
-\centering P &
-\centering V &
-\centering I &
-\centering\arraybslash S\\\hline
-M3 &
-V3 &
-R7 &
-T2 &
-I1 &
-O3 &
-L2 &
-A10 &
-M2 &
-P1 &
-V3 &
-I1 &
-S5\\\hline
-M3? &
-V4 &
-R6 &
-T2 &
-I1 &
-O3 &
-L5 &
-A10 &
-M5 &
-P2 &
-V4 &
-I1 &
-S5\\\hline
-\end{supertabular}
-\end{flushleft}
 
 \subsection{Drawing \& Deciphering Without Help (obv. No. 13053)}
 
@@ -452,27 +396,41 @@ No. 13053 is an irregularly shaped rectangular lead tag with a damaged surface a
 uncertain. Besides the last, most recent inscription, one still discerns traces of older inscriptions. The reverse is
 ignored. Students do not have neither transcriptions nor drawings.
 
+%\begin{figure}
+%\centering
+%\includegraphics[width=2.009cm,height=1.96cm]{EAGLE16lameetalteaching-img010.png}
+%\end{figure}
+%\begin{figure}
+%\centering
+%\includegraphics[width=2.103cm,height=1.961cm]{EAGLE16lameetalteaching-img010.png}
+%\end{figure}
+%\begin{figure}
+%\centering
+%\includegraphics[width=2.044cm,height=1.794cm]{EAGLE16lameetalteaching-img011.png}
+%\end{figure}
+
+\begin{minipage}[t]{0.3\textwidth}
+\textbf{Vale}\\
+rius lis\\
+Martia\\
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
+(palimpsest)\\
+\sout{X} \d{v}i\\
+tiir \d{r} i\\
+\end{minipage}
+\begin{minipage}[c]{0.3\textwidth}
+\includegraphics[scale=0.25]{EAGLE16lameetalteaching-img011a.png}
+\end{minipage}
 
 
-\begin{figure}
+
+\begin{figure}[!bp]
 \centering
-\includegraphics[width=2.009cm,height=1.96cm]{EAGLE16lameetalteaching-img010.png}
+\includegraphics[scale=0.25]{EAGLE16lameetalteaching-img010.png}
+\caption{13053 Obverse. Students' reconstructions}
+\label{fig:3}
 \end{figure}
-\begin{figure}
-\centering
-\includegraphics[width=2.103cm,height=1.961cm]{EAGLE16lameetalteaching-img010.png}
-\end{figure}
-\begin{figure}
-\centering
-\includegraphics[width=2.044cm,height=1.794cm]{EAGLE16lameetalteaching-img011.png}
-\end{figure}
-Obverse \ \ \ (palimpsest)
-
-Vale\ \  \ \ \ [4FE?] v[323?]i\ \ 
-
-rius \ lis\ \  \ \ \ \ tiir \ r[323?] i
-
-Martia\ \  \ \ \ \ 
 
 The RTI file was presented to the students in an unusual reading position in order to reproduce the epigrapher’s initial
 challenge of determining the proper orientation in which to read the lead tag. Students overcome this difficulty quite
@@ -481,60 +439,86 @@ quickly ({\textless}5 mn).
 The last line, MARTIA, gave the student a hard time. Particularly the tail of the damaged S (end of the second line)
 generates noise on the last letters.
 
-\begin{flushleft}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{|m{1.513cm}|m{0.37700003cm}|m{0.518cm}|m{0.361cm}|m{0.37700003cm}|m{0.37700003cm}|m{0.283cm}|m{0.37700003cm}|m{0.46900004cm}|m{0.439cm}|m{0.518cm}|m{0.518cm}|m{0.50200003cm}|m{0.297cm}|m{0.961cm}|}
-\hline
-\centering 13053 (obv.) &
-\centering V &
-\centering A &
-\centering L &
-\centering E &
-\centering R &
-\centering I &
-\centering V &
-\centering S &
-\centering M &
-\centering A &
-\centering R &
-\centering T &
-\centering I &
-\centering\arraybslash A\\\hline
-\centering Stud. 1 &
-V2 &
-A10 &
-L3 &
-E3 &
-R7 &
-I2 &
-V1 &
-S6 &
-M5 &
-? &
-R7 &
-T3 &
-? &
-Ignored\\\hline
-\centering Stud. 2 &
-V2 &
-A10 &
-L3 &
-E2 &
-R7 &
-I1 &
-V1 &
-S6? &
-M5 &
-A10 &
-R6? &
-T3? &
-I1 &
-A2\\\hline
-\end{supertabular}
-\end{flushleft}
+\begin{table}
+{\small
+\addtolength{\tabcolsep}{-0.8mm}
+
+\begin{tabular*}{\textwidth}{lllllllllllllll}
+ & & & & & & & & & & & & & \\
+\toprule
+%\textbf{12563 (rev)} & \textbf{L} & \textbf{O} & \textbf{D} & \textbf{I} & \textbf{C} & \textbf{E} & \textbf{M} & & & & & &\\
+%\midrule
+%\textbf{Stud. 1} & \textit{L2} & \textit{O3} & \textit{D3} & \textit{I1} & \textit{C2} & \textit{E2} & \textit{M5} &  &  & & & & \\
+%\textbf{Stud. 2} & \textit{?} & \textit{O3} & \textit{D5} & \textit{I2?} & \textit{C2} & \textit{E3} & \textit{M5} & & & & & &  \\
+%\bottomrule
+%\toprule
+%& & & & & & & & & & & & & \\
+%\midrule
+\textbf{13053} & \textbf{V} & \textbf{A} & \textbf{L} & \textbf{E} & \textbf{R} & \textbf{I} & \textbf{U} & \textbf{S} & \textbf{M} & \textbf{A} & \textbf{R} & \textbf{T} & \textbf{I} & \textbf{A}\\ \midrule
+\textbf{St. 1}& \textit{V2} & \textit{A10} & \textit{L3} & \textit{E3} & \textit{R7} & \textit{I2} & \textit{V1} & \textit{S6} & \textit{M5} & \textit{?} & \textit{R7} & \textit{T3} & \textit{?} & \textit{Ignored} \\
+\textbf{St. 2}& \textit{V2} & \textit{A10} & \textit{L3} & \textit{E2} & \textit{R7} & \textit{I1} & \textit{V1} & \textit{S6?} & \textit{M5} & \textit{A10} & \textit{R6?} & \textit{T3?} & \textit{?I1} & \textit{A2} \\
+\bottomrule
+\end{tabular*}}
+
+\caption{No. 13053 (obv).}
+\label{tab:table2}
+\end{table}
+
+
+%begin{flushleft}
+%tablefirsthead{}
+%tablehead{}
+%tabletail{}
+%tablelasttail{}
+%begin{supertabular}{|m{1.513cm}|m{0.37700003cm}|m{0.518cm}|m{0.361cm}|m{0.37700003cm}|m{0.37700003cm}|m{0.283cm}|m{0.37700003cm}|m{0.46900004cm}|m{0.439cm}|m{0.518cm}|m{0.518cm}|m{0.50200003cm}|m{0.297cm}|m{0.961cm}|}
+%hline
+%centering 13053 (obv.) &
+%centering V &
+%centering A &
+%centering L &
+%centering E &
+%centering R &
+%centering I &
+%centering V &
+%centering S &
+%centering M &
+%centering A &
+%centering R &
+%centering T &
+%centering I &
+%centering\arraybslash A\\\hline
+%centering Stud. 1 &
+%2 &
+%10 &
+%3 &
+%3 &
+%7 &
+%2 &
+%1 &
+%6 &
+%5 &
+% &
+%7 &
+%3 &
+% &
+%gnored\\\hline
+%centering Stud. 2 &
+%2 &
+%10 &
+%3 &
+%2 &
+%7 &
+%1 &
+%1 &
+%6? &
+%5 &
+%10 &
+%6? &
+%3? &
+%1 &
+%2\\\hline
+%\end{supertabular}
+%\end{flushleft}
 
 \subsection{Palimpsest (obv. No. 13053)}
 
@@ -543,9 +527,11 @@ A2\\\hline
 The older, erased layers, drawn with dashed lies on the drawings of the academic edition, are more difficult to read. No
 g/t relationship between wSystem and tSystem was asked to students.
 
-\begin{figure}
+\begin{figure}[!bp]
 \centering
-\includegraphics[width=6.313cm,height=2.207cm]{EAGLE16lameetalteaching-img012.png}
+\includegraphics[scale=0.25]{EAGLE16lameetalteaching-img012.png}
+\caption{12563 Obverse (palimpsest). The two students' reconstructions}
+\label{fig:4}
 \end{figure}
 
 

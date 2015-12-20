@@ -785,7 +785,7 @@ author = {AA.VV.},
 	isbn = {978-88-395-2626-7},
 	language = {Italiano},
 	publisher = {Paravia},
-	author = {Domenici},
+	author = {Domenici, Ilaria},
 	year = {2012}
 }
 
@@ -2412,10 +2412,21 @@ pager={69-75}
 	pages = {42--60}
 }
 
+@article{Bing1995,
+title ={Ergänzungsspiel in the epigrams of Callimachus},
+journal ={A\&A},
+author={Bing, P},
+year={1995},
+volume ={41},
+pages={115--131}
+
+}
+
 @book{felson_poetics_2004,
 	title = {The {Poetics} of {Deixis} in {Alcman}, {Pindar}, and {Other} {Lyric}},
 	publisher = {Johns Hopkins University Press},
 	author = {Felson, Nancy},
+	journal = {Arethusa},
 	year = {2004}
 }
 
@@ -2835,13 +2846,16 @@ pager={69-75}
 %48
 
 
-@article{moreau_easy_2005,
+@inproceedings{moreau_easy_2005,
 	title = {Easy and cost-effective cuneiform digitizing},
-	url = {http://www.researchgate.net/profile/Hendrik_Hameeuw/publication/263128756_Easy_and_cost-effective_cuneiform_digitizing/links/00b7d539ff089d438b000000.pdf},
-	urldate = {2015-12-17},
-	author = {Moreau, Geert Willems1 Frank Verbiest1 Wim and Van Lerberghe, Hendrik Hameeuw2 Karel and Van Gool, Luc},
+	booktitle = {The 6th International Symposium on Virtual Reality Archaeology and Cultural Heritage, VAST2005},
+	OPTurl = {http://www.researchgate.net/profile/Hendrik_Hameeuw/publication/263128756_Easy_and_cost-effective_cuneiform_digitizing/links/00b7d539ff089d438b000000.pdf},
+	OPTurldate = {2015-12-17},
+	author = {Geert, Willems and Verbiest, Frank and Moreau, Wim and Hameeuw, Hendrik and Van Lerberghe, Karel and Van Gool, Luc},
 	year = {2005},
-	file = {[PDF] from researchgate.net:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/22RCI2K6/Moreau et al. - 2005 - Easy and cost-effective cuneiform digitizing.pdf:application/pdf}
+	pages = {73-80},
+	editor = {Mudge, M. and Ryan, N. and Scopigno, R.},
+	OPTfile = {[PDF] from researchgate.net:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/22RCI2K6/Moreau et al. - 2005 - Easy and cost-effective cuneiform digitizing.pdf:application/pdf}
 }
 
 @article{weiss_bleietiketten_1991,
@@ -2853,8 +2867,9 @@ pager={69-75}
 	pages = {211--220}
 }
 
-@incollection{wedenig_bleietikett_2013,
+@inproceedings{wedenig_bleietikett_2013,
 	address = {Graz},
+	publisher = {Grazer Universitätsverlag},
 	series = {Nummi et {Literae}},
 	title = {Ein {Bleietikett} mit {Farbbezeichnung} vom {Residenzplatz} in {Salzburg}-{Iuvavum}},
 	number = {7},
@@ -2865,19 +2880,19 @@ pager={69-75}
 	pages = {237--250}
 }
 
-@article{gorman_opening_2015,
+@inproceedings{gorman_opening_2015,
 	title = {Opening {Access} to collections: the making and using of open digitised cultural content},
-	volume = {39},
-	howpublished = {Opening {Access} to collections},
-	url = {http://www.emeraldinsight.com/doi/abs/10.1108/OIR-06-2015-0193},
-	number = {5},
-	urldate = {2015-12-17},
-	journal = {Open Access: Redrawing the Landscape of Scholarly Communication. Online Information Review, special issue},
-	author = {Gorman, G. E. and Terras, Melissa},
-	editor = {Rowley, Jennifer},
+	OPTvolume = {39},
+	OPThowpublished = {Opening {Access} to collections},
+	OPTurl = {http://www.emeraldinsight.com/doi/abs/10.1108/OIR-06-2015-0193},
+	OPTnumber = {5},
+	OPTurldate = {2015-12-17},
+	booktitle = {Open Access: Redrawing the Landscape of Scholarly Communication. Online Information Review, special issue},
+	author = {Terras, Melissa},
+	editor = {Gorman, G. E. and Rowley, Jennifer},
 	year = {2015},
 	pages = {733--752},
-	file = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/NK8GHRS2/OIR-06-2015-0193.html:text/html}
+	OPTfile = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/NK8GHRS2/OIR-06-2015-0193.html:text/html}
 }
 
 @article{schwinden_zwei_1993,
@@ -2890,14 +2905,15 @@ pager={69-75}
 }
 
 @article{schwinden_romerzeitliche_1985,
-	title = {Römerzeitliche {Bleietiketten} aus {Trier}},
-	journal = {Zum Handel mit Pfeffer, Arznei und Kork},
+	title = {Römerzeitliche {Bleietiketten} aus {Trier}. Zum Handel mit Pfeffer, Arznei und Kork},
+	journal = {Trierer Zeitschrift für Geschichte und Kunst des Trierer Landes und seiner Nachbargebiete},
 	author = {Schwinden, L.},
+	volume = {48},
 	year = {1985},
 	pages = {121--137}
 }
 
-@incollection{bertocci_documenter_2006,
+@inproceedings{bertocci_documenter_2006,
 	title = {Documenter le présent pour assurer l'avenir},
 	url = {https://www.academia.edu/15853068},
 	booktitle = {Documentation for {Conservation} and {Development}: {New} {Heritage} {Strategy} for the {Future}; 11th {International} {Seminar}, {Florence} 11-15 {September}},
@@ -2907,12 +2923,11 @@ pager={69-75}
 	year = {2006}
 }
 
-@incollection{romer-martijnse_fruhkaiserzeitliche_1997,
-	series = {Jahrbuch des {Historischen} {Vereins} {Alt} {Füssen}},
-	title = {Eine frühkaiserzeitliche {Handelsstation} an der {Via} {Claudia} {Augusta} im {Forggensee} bei {Dietringen}, {Lkr}. {Ostallgäu}, {Alt} {Füssen}},
-	booktitle = {Teil {II}, {Die} beschrifteten {Bleietiketten}},
+@article{romer-martijnse_fruhkaiserzeitliche_1997,
+	journal = {Jahrbuch des {Historischen} {Vereins} {Alt} {Füssen}},
+	title = {Eine frühkaiserzeitliche {Handelsstation} an der {Via} {Claudia} {Augusta} im {Forggensee} bei {Dietringen}, {Lkr}. {Ostallgäu}, {Alt} {Füssen}, {Teil} {II} - {Die} beschrifteten {Bleietiketten}},
 	author = {Römer-Martijnse, E},
-	editor = {Czysz},
+	OPTeditor = {Czysz},
 	year = {1997},
 	pages = {5--48}
 }
@@ -2920,6 +2935,7 @@ pager={69-75}
 @book{romer-martijnse_romerzeitliche_1990,
 	title = {Römerzeitliche {Bleietiketten} aus {Kalsdorf}, {Steiermark}},
 	publisher = {Verlag d. Österr. Akad. d. Wiss.},
+	address = {Wien},
 	author = {Römer-Martijnse, Elizabeth},
 	year = {1990}
 }
@@ -2928,6 +2944,7 @@ pager={69-75}
 	title = {Römerzeitliche {Bleietiketten} aus {Kalsdorf}, {Steiermark}},
 	booktitle = {Akten des 3. Österreichischen {Archäologentages} {Innsbruck}},
 	publisher = {Verlag d. Österr. Akad. d. Wiss.},
+	address = {Wien},
 	author = {Römer-Martijnse, Elizabeth},
 	year = {1989}
 }
@@ -2942,7 +2959,9 @@ pager={69-75}
 
 @book{reuter_geritzt_2004,
 	title = {Geritzt und entziffert: {Schriftzeugnisse} der römischen {Informationsgesellschaft}},
-	howpublished = {Geritzt und entziffert},
+	address = {Stuttgart},
+	series = {Schriften des Limesmuseums Aalen},
+	volume = {57},
 	publisher = {Theiss},
 	author = {Reuter, Marcus and Scholz, Markus},
 	year = {2004}
@@ -2950,7 +2969,9 @@ pager={69-75}
 
 @book{radman-livaja_plombs_2014,
 	address = {Zagreb},
-	title = {Plombs de {Siscia}, {Musei} {Archaeologici} {Zagrabiensis}},
+	title = {Plombs de {Siscia}},
+	series = {{Musei} {Archaeologici} {Zagrabiensis}},
+	volume = {9},
 	author = {Radman-Livaja, Ivan},
 	year = {2014}
 }
@@ -2958,47 +2979,53 @@ pager={69-75}
 @article{radman-livaja_two_2013,
 	title = {Two lead tags from Štrbinci ({Certissia}?)},
 	volume = {17},
-	howpublished = {Two lead tags from Štrbinci ({Certissia}?},
-	url = {http://bib.irb.hr/prikazi-rad?lang=en&rad=666781},
-	urldate = {2015-12-16},
+	OPThowpublished = {Two lead tags from Štrbinci ({Certissia}?},
+	OPTurl = {http://bib.irb.hr/prikazi-rad?lang=en&rad=666781},
+	OPTurldate = {2015-12-16},
 	journal = {Arheološki radovi i rasprave},
 	author = {Radman-Livaja, Ivan},
 	year = {2013},
 	pages = {165--180},
-	file = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/4KV4V8NE/prikazi-rad.html:text/html}
+	OPTfile = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/4KV4V8NE/prikazi-rad.html:text/html}
 }
 
-@article{radman-livaja_5._2013,
-	title = {5. {Craftspeople}, {Merchants} or {Clients}? {The} {Evidence} of {Personal} {Names} on the {Commercial} {Lead} {Tags} from {Siscia}},
+@inproceedings{radman-livaja_5_2013,
+	title = {{Craftspeople}, {Merchants} or {Clients}? {The} {Evidence} of {Personal} {Names} on the {Commercial} {Lead} {Tags} from {Siscia}},
 	volume = {13},
-	howpublished = {5. {Craftspeople}, {Merchants} or {Clients}?},
-	url = {https://books.google.de/books?hl=en&lr=&id=vR5vBQAAQBAJ&oi=fnd&pg=PA87&dq=Craftspeople,+Merchants+or+Clients%3F+The+Evidence+of+Personal+Names+&ots=QaA7QctMXI&sig=yK_K3wWOxN150N-8xayt6MiiviI},
-	urldate = {2015-12-16},
-	journal = {Making Textiles in pre-Roman and Roman Times: People, Places, Identities},
+	OPThowpublished = {5. {Craftspeople}, {Merchants} or {Clients}?},
+	OPTurl = {https://books.google.de/books?hl=en&lr=&id=vR5vBQAAQBAJ&oi=fnd&pg=PA87&dq=Craftspeople,+Merchants+or+Clients%3F+The+Evidence+of+Personal+Names+&ots=QaA7QctMXI&sig=yK_K3wWOxN150N-8xayt6MiiviI},
+	OPTurldate = {2015-12-16},
+	booktitle = {Making Textiles in pre-Roman and Roman Times: People, Places, Identities},
 	author = {Radman-Livaja, Ivan},
+	editor = {Gleba, M. and Pásztókai-Szeőke, J.},
 	year = {2013},
-	pages = {87},
-	file = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/72MVPANK/books.html:text/html}
+	series = {Ancient Textiles Series},
+	pages = {87--108},
+	OPTfile = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/72MVPANK/books.html:text/html}
 }
 
-@article{radman-livaja_roetiquettes_2010,
+@inproceedings{radman-livaja_roetiquettes_2010,
 	title = {Le rôle des étiquettes de plomb dans le travail du textile à {Siscia}},
-	journal = {prensa en la serie monográfica Purpureae Vestes III, Valencia},
+	booktitle = {Purpureae Vestes, III Symposium Internacional sobre Textiles y Tintes del Mediterráneo en el mundo antiguo},
+	address = {Valencia, Napoli},
+	pages = {181--196},
 	author = {Radman-Livaja, Ivan},
-	year = {2010}
+	editor = {Alfaro, C. and Brun, J.-P. and Borgard, Ph. and Pierobon Benoit, R.},
+	publisher = {Universidad de Valencia},
+	year = {2011}
 }
 
-@article{radman_livaja_segestica..._2008,
+@article{radman_livaja_segestica_2008,
 	title = {In {Segestica}...},
 	volume = {24},
-	url = {http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=40528},
+	OPTurl = {http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=40528},
 	number = {1},
-	urldate = {2015-12-16},
+	OPTurldate = {2015-12-16},
 	journal = {Prilozi Instituta za arheologiju u Zagrebu},
 	author = {Radman Livaja, Ivan},
 	year = {2008},
 	pages = {153--172},
-	file = {[PDF] from srce.hr:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/XRVUIZ6E/Radman Livaja - 2008 - In Segestica....pdf:application/pdf;Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/8W3GTQZS/index.html:text/html}
+	OPTfile = {[PDF] from srce.hr:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/XRVUIZ6E/Radman Livaja - 2008 - In Segestica....pdf:application/pdf;Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/8W3GTQZS/index.html:text/html}
 }
 
 @incollection{cherry_storytelling_2014,
@@ -3013,6 +3040,8 @@ pager={69-75}
 	title = {Etichette plumbee iscritte},
 	booktitle = {Acta {Colloquii} {Epigraphici} {Latini} {Helsingiae} 3.-6. sept.1991 habiti},
 	author = {Paci, G},
+	series =  {Commentationes Humanarum Litterarum},% 104 (1995), 29-40
+	volume = {104},
 	year = {1995},
 	pages = {29--40}
 }
@@ -3020,7 +3049,7 @@ pager={69-75}
 @article{mocsy_olom_1956,
 	title = {Olom árucímkék {Sisciából}  ({Bolli} {Romani} da {Sciscia})},
 	volume = {8},
-	journal = {FA},
+	journal = {Folia Archaeologica},
 	author = {Mócsy, A},
 	year = {1956},
 	pages = {97--104}
@@ -3028,76 +3057,80 @@ pager={69-75}
 
 @inproceedings{lame_primary_2014,
 	title = {Primary {Sources} of {Information}, {Digitization} {Processes} and {Dispositive} {Analysis}},
-	url = {http://dl.acm.org/citation.cfm?id=2802645},
-	urldate = {2015-12-16},
+	OPTurl = {http://dl.acm.org/citation.cfm?id=2802645},
+	OPTurldate = {2015-12-16},
 	booktitle = {Proceedings of the {Third} {AIUCD} {Annual} {Conference} on {Humanities} and {Their} {Methods} in the {Digital} {Ecosystem}},
 	publisher = {ACM},
 	author = {Lamé, Marion},
 	year = {2014},
 	pages = {18},
-	file = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/XK5DE9T2/citation.html:text/html}
+	OPTfile = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/XK5DE9T2/citation.html:text/html}
 }
 
 @article{jacques_artisanat_2010,
-	title = {{ARTISANAT} {ET} {COMMERCE}: {LES} É{TIQUETTES} {DE} {PLOMB} {INSCRITES} {DÉCOUVERTES} À {ARRAS} ({NEMETACUM})},
+	title = {{Artisanat} {Et} {Commerce}: {Les} {Étiquettes} {De} {Plomb} {Inscrites} {Découvertes} À {Arras} ({Nemetacum})},
 	volume = {112},
-	howpublished = {{ARTISANAT} {ET} {COMMERCE}},
-	url = {http://cat.inist.fr/?aModele=afficheN&cpsidt=23799321},
+	OPThowpublished = {{ARTISANAT} {ET} {COMMERCE}},
+	OPTurl = {http://cat.inist.fr/?aModele=afficheN&cpsidt=23799321},
 	number = {2},
-	urldate = {2015-12-16},
-	journal = {Revue des études anciennes},
-	author = {JACQUES, Alain and HOËT-VAN CAUWENBERGHE, Christine},
+	OPTurldate = {2015-12-16},
+	journal = {Revue des Études Anciennes},
+	author = {Jaques, Alain and Hoët-Van Cauwenberghe, Christine},
 	year = {2010},
 	pages = {295--317},
-	file = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/NNWRBK8I/cat.inist.fr.html:text/html}
+	OPTfile = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/NNWRBK8I/cat.inist.fr.html:text/html}
 }
 
-@incollection{frei-stolba_les_2011,
+@inproceedings{frei-stolba_les_2011,
 	address = {Paris},
 	title = {Les étiquettes en plomb: des documents de l’écriture au quotidien},
 	booktitle = {L’écriture dans la maison romaine},
-	author = {Frei-Stolba, R and Corbier, M and Guilhembert, J.P.},
-	year = {2011},
+	publisher = {De Boccard},
+	author = {Frei-Stolba, R},
+	editor = {Corbier, M and Guilhembert, J.P.},
+	year = {2012},
 	pages = {331--344}
 }
 
 @article{feugere_etiquette_1993,
 	title = {Une étiquette inscrite en plomb, {Les} fouilles de la {Z}.{A}.{C}. des {Halles} à {Nîmes} ({Gard})},
-	journal = {Bulletin de l’École Antique de Nîmes},
+	journal = {Bulletin de l’École Antique de Nîmes. Suppl.},
+	volume = {1},
 	author = {Feugère, M},
 	year = {1993},
 	pages = {301--305}
 }
 
-@book{egger_funf_1968,
-	title = {Fünf {Bleietiketten} und eine {Gu}{\textbackslash}s sform: die neuesten {Magdalensbergfunde}},
-	howpublished = {Fünf {Bleietiketten} und eine {Gu}{\textbackslash}s sform},
+@article{egger_funf_1968,
+	title = {Fünf {Bleietiketten} und eine {Gussform}: die neuesten {Magdalensbergfunde}},
+	journal = {Anzeiger der philologisch-historische Klasse der Österreichischen Akademie der Wissenschaften},
 	publisher = {Österreichische Akademie der Wissenschaften Kommissionsverlag},
-	author = {Egger, Rudolf and der Wissenschaften, Österreichische Akademie},
-	year = {1968}
+	author = {Egger, Rudolf},
+	pages = {195-210},
+	year = {1967},
+	volume = {104}
 }
-
-
 
 @article{cresci_supellex_2010,
 	title = {Supellex ex plumbo. {Laminae} {Concordienses}. {Le} laminette commerciali da {Iulia} {Concordia}},
 	volume = {168},
-	issn = {0392-1336},
-	url = {https://iris.unive.it/handle/10278/3694},
-	abstract = {reserved},
-	language = {ita},
-	urldate = {2015-12-16},
-	journal = {ATTI - ISTITUTO VENETO DI SCIENZE, LETTERE ED ARTI. CLASSE DI SCIENZE MORALI, LETTERE ED ARTI},
-	author = {Cresci, G. and E, Petteno'},
+	OPTissn = {0392-1336},
+	OPTurl = {https://iris.unive.it/handle/10278/3694},
+	OPTabstract = {reserved},
+	OPTlanguage = {ita},
+	OPTurldate = {2015-12-16},
+	journal = {Atti dell'Istituto Veneto Di Scienze, Lettere Ed Arti},
+	author = {Cresci, G. and E, Pettenò},
 	year = {2010},
 	pages = {43--110},
-	file = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/ZN7G2IMS/3694.html:text/html}
+	OPTfile = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/ZN7G2IMS/3694.html:text/html}
 }
 
-@article{buchi_etichette_2005,
+@inproceedings{buchi_etichette_2005,
 	title = {Le etichette plumbee rinvenute a {Feltre}: aspetti onomastici, lessicali, economici e tecnici},
-	howpublished = {Le etichette plumbee rinvenute a {Feltre}},
-	journal = {I territori della},
+	editor = {Ciurletti, G. and Pisu, R.},
+	address = {Trento},
+    booktitle = {I territori della Via Claudia Augusta: incontri di archeologia. Atti del Convegno Internazionale},
 	author = {Buchi, E. and Buonopane, A.},
 	year = {2005},
 	pages = {43--51}
@@ -3106,25 +3139,25 @@ pager={69-75}
 @article{bizzarini_quattro_2005,
 	title = {Quattro laminette plumbee da {Altino}},
 	volume = {21},
-	url = {http://www.agiati.it/UploadDocs/462_art05_bizzarrini.pdf},
-	urldate = {2015-12-16},
+	OPTurl = {http://www.agiati.it/UploadDocs/462_art05_bizzarrini.pdf},
+	OPTurldate = {2015-12-16},
 	journal = {Annali del Museo civico di Rovereto},
-	author = {BIZZARINI, LAVINIA},
+	author = {Bizzarini, Lavinia},
 	year = {2005},
 	pages = {121--135},
-	file = {[PDF] from agiati.it:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/MVCT6M26/BIZZARINI - 2005 - Quattro laminette plumbee da Altino.pdf:application/pdf}
+	OPTfile = {[PDF] from agiati.it:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/MVCT6M26/BIZZARINI - 2005 - Quattro laminette plumbee da Altino.pdf:application/pdf}
 }
 
 @article{bassi_tre_1996,
-	title = {Tre" lamellae perforatae" da {Savazzona}-{Quistello} ({Mantova})},
-	url = {http://dialnet.unirioja.es/servlet/articulo?codigo=2783108},
+	title = {Tre lamellae perforatae da {Savazzona}-{Quistello} ({Mantova})},
+	OPTurl = {http://dialnet.unirioja.es/servlet/articulo?codigo=2783108},
 	number = {58},
-	urldate = {2015-12-16},
+	OPTurldate = {2015-12-16},
 	journal = {Epigraphica: periodico internazionale di epigrafia},
 	author = {Bassi, Cristina},
 	year = {1996},
 	pages = {207--216},
-	file = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/888NR8HJ/articulo.html:text/html}
+   OPTfile = {Snapshot:/Users/pietro/Library/Application Support/Zotero/Profiles/blzwtlr1.default/zotero/storage/888NR8HJ/articulo.html:text/html}
 }
 
 
@@ -3202,6 +3235,7 @@ pager={69-75}
 
 @misc{fresa_roadmap_2015,
 	title = {The {Roadmap}},
+	year = 2014,
 	publisher = {CIVIC EPISTEMOLOGIES},
 	author = {Fresa, A and Justrell, B},
 	url = {http://www.civic-epistemologies.eu/wp-content/uploads/2014/08/CE_Roadmap-Handbook.pdf}
