@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  13 JAN 2016 22:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  13 JAN 2016 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6674,1263 +6674,1355 @@ Package pdftex.def Info: pdfs/EAGLE_2016_submission_9.pdf, page11 used on input
  [265 <./pdfs/EAGLE_2016_submission_9.pdf>] [266
 
 ]
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1845, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<pdfs/EAGLE_2016_submission_48.pdf, id=1845, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf used on input lin
-e 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf used on input line 1
+88.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf used on input lin
-e 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<use pdfs/EAGLE_2016_submission_48.pdf>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf used on input line 1
+88.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1848, page=1, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<pdfs/EAGLE_2016_submission_48.pdf, id=1848, page=1, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page1 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page1 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page1 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page1 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page1 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page1 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<pdfs/EAGLE_2016_submission_48.pdf, id=1849, page=2, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 2>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page2 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1849, page=2, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 2>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page2 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 2>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page2 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page1 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [267 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1866, page=3, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 3>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page3 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 2>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page2 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 3>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page3 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page1 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [267 <./pdfs/EAGLE_2016_submission_48old.pdf
+<use pdfs/EAGLE_2016_submission_48.pdf, page 2>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page2 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [268 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1870, page=4, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 4>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page4 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->]
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1879, page=3, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 4>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page4 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 3>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page3 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 3>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page3 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [269 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1879, page=5, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 5>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page5 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 3>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page3 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 5>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page5 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 2>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page2 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [268 <./pdfs/EAGLE_2016_submission_48old.pdf
+<use pdfs/EAGLE_2016_submission_48.pdf, page 4>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page4 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [270 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1886, page=6, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 6>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page6 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->]
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1895, page=4, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 6>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page6 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 4>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page4 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 5>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page5 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [271 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1891, page=7, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 7>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page7 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 4>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page4 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 7>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page7 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 3>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page3 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [269 <./pdfs/EAGLE_2016_submission_48old.pdf
+<use pdfs/EAGLE_2016_submission_48.pdf, page 6>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page6 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [272 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1895, page=8, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 8>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page8 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->]
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1904, page=5, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 8>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page8 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 5>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page5 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 7>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page7 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [273 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1906, page=9, 455.24379pt x 597.50829pt>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 9>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page9 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 5>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page5 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 9>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page9 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 4>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page4 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [270 <./pdfs/EAGLE_2016_submission_48old.pdf
+<use pdfs/EAGLE_2016_submission_48.pdf, page 8>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page8 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [274 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1910, page=10, 455.24379pt x 597.50829pt
+>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+ <use pdfs/EAGLE_2016_submission_48.pdf, page 10>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page10 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->]
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1909, page=6, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 10>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page10 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 6>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page6 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 9>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page9 used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [275 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1916, page=11, 455.24379pt x 597.50829pt
+>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+ <use pdfs/EAGLE_2016_submission_48.pdf, page 11>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page11 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 6>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page6 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 11>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page11 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 5>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page5 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [271 <./pdfs/EAGLE_2016_submission_48old.pdf
+<use pdfs/EAGLE_2016_submission_48.pdf, page 10>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page10 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [276 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1926, page=12, 455.24379pt x 597.50829pt
+>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+ <use pdfs/EAGLE_2016_submission_48.pdf, page 12>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page12 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->]
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1914, page=7, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 12>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page12 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 7>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page7 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 11>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page11 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [277 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1936, page=13, 455.24379pt x 597.50829pt
+>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+ <use pdfs/EAGLE_2016_submission_48.pdf, page 13>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page13 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 7>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page7 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 13>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page13 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 6>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page6 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [272 <./pdfs/EAGLE_2016_submission_48old.pdf
+<use pdfs/EAGLE_2016_submission_48.pdf, page 12>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page12 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [278 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1940, page=14, 455.24379pt x 597.50829pt
+>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+ <use pdfs/EAGLE_2016_submission_48.pdf, page 14>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page14 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->]
-<pdfs/EAGLE_2016_submission_48old.pdf, id=1919, page=8, 614.295pt x 794.97pt>
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 14>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page14 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 8>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page8 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 13>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page13 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [279 <./pdfs/EAGLE_2016_submission_48.pdf>]
+<pdfs/EAGLE_2016_submission_48.pdf, id=1944, page=15, 455.24379pt x 597.50829pt
+>
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+ <use pdfs/EAGLE_2016_submission_48.pdf, page 15>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page15 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 8>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page8 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
+<use pdfs/EAGLE_2016_submission_48.pdf, page 15>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page15 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
 
-<use pdfs/EAGLE_2016_submission_48old.pdf, page 7>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page7 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [273 <./pdfs/EAGLE_2016_submission_48old.pdf
+<use pdfs/EAGLE_2016_submission_48.pdf, page 14>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page14 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [280 <./pdfs/EAGLE_2016_submission_48.pdf>]
+File: pdfs/EAGLE_2016_submission_48.pdf Graphic file (type pdf)
+ <use pdfs/EAGLE_2016_submission_48.pdf, page 15>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_48.pdf, page15 used on inpu
+t line 188.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+ [281 <./pdfs/EAGLE_2016_submission_48.pdf>] [282
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->]
-File: pdfs/EAGLE_2016_submission_48old.pdf Graphic file (type pdf)
- <use pdfs/EAGLE_2016_submission_48old.pdf, page 8>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_48old.pdf, page8 used on in
-put line 188.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [274 <./pdfs/EAGLE_2016_submission_48old.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pdfs/EAGLE_2016_submission
-_48old.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
-ets', type <array>); ignored.
->] <pdfs/EAGLE_2016_submission_17.pdf, id=1926, 455.24379pt x 597.50829pt>
+]
+<pdfs/EAGLE_2016_submission_17.pdf, id=1958, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf used on input line 1
-93.
+94.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf used on input line 1
-93.
+94.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_17.pdf, id=1929, page=1, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_17.pdf, id=1961, page=1, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page1 used on input
- line 193.
-(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
-File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
-
-<use pdfs/EAGLE_2016_submission_17.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page1 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page1 used on input
- line 193.
+ line 194.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
+
+<use pdfs/EAGLE_2016_submission_17.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page1 used on input
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_17.pdf, id=1930, page=2, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_17.pdf, id=1962, page=2, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page2 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page2 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page1 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [275
-
- <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1948, page=3, 455.24379pt x 597.50829pt>
+ [283 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=1980, page=3, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page3 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page3 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page2 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [276 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1955, page=4, 455.24379pt x 597.50829pt>
+ [284 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=1987, page=4, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page4 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page4 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page3 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [277 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1966, page=5, 455.24379pt x 597.50829pt>
+ [285 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=1997, page=5, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page5 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page5 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page4 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [278 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1970, page=6, 455.24379pt x 597.50829pt>
+ [286 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2001, page=6, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page6 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page6 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page5 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [279 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1974, page=7, 455.24379pt x 597.50829pt>
+ [287 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2005, page=7, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page7 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page7 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page6 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [280 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1978, page=8, 455.24379pt x 597.50829pt>
+ [288 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2009, page=8, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page8 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page8 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page7 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [281 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1982, page=9, 455.24379pt x 597.50829pt>
+ [289 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2014, page=9, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_17.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page9 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page9 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page8 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [282 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1986, page=10, 455.24379pt x 597.50829pt
+ [290 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2018, page=10, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_17.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page10 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page10 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page9 used on input
- line 193.
+ line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [283 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1991, page=11, 455.24379pt x 597.50829pt
+ [291 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2022, page=11, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_17.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page11 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page11 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page10 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [284 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1995, page=12, 455.24379pt x 597.50829pt
+ [292 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2026, page=12, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_17.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page12 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page12 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page11 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [285 <./pdfs/EAGLE_2016_submission_17.pdf>]
-<pdfs/EAGLE_2016_submission_17.pdf, id=1999, page=13, 455.24379pt x 597.50829pt
+ [293 <./pdfs/EAGLE_2016_submission_17.pdf>]
+<pdfs/EAGLE_2016_submission_17.pdf, id=2030, page=13, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_17.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page13 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page13 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_17.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page12 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [286 <./pdfs/EAGLE_2016_submission_17.pdf>]
+ [294 <./pdfs/EAGLE_2016_submission_17.pdf>]
 File: pdfs/EAGLE_2016_submission_17.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_17.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_17.pdf, page13 used on inpu
-t line 193.
+t line 194.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [287 <./pdfs/EAGLE_2016_submission_17.pdf>] [288
+ [295 <./pdfs/EAGLE_2016_submission_17.pdf>] [296
 
-] [289] [290]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2019, 455.24379pt x 597.50829pt>
+] [297] [298]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2050, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf used on input line 1
-99.
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf used on input line 2
+00.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf used on input line 1
-99.
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf used on input line 2
+00.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2022, page=1, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2053, page=1, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page1 used on input
- line 199.
-(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
-File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
-
-<use pdfs/EAGLE_2016_submission_3n.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page1 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page1 used on input
- line 199.
+ line 200.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
+
+<use pdfs/EAGLE_2016_submission_3n.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page1 used on input
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2023, page=2, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2054, page=2, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page2 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page2 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page1 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [291
+ [299
 
  <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2043, page=3, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2074, page=3, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page3 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page3 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page2 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [292 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2050, page=4, 455.24379pt x 597.50829pt>
+ [300 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2081, page=4, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page4 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page4 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page3 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [293 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2057, page=5, 455.24379pt x 597.50829pt>
+ [301 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2089, page=5, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page5 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page5 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page4 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [294 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2061, page=6, 455.24379pt x 597.50829pt>
+ [302 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2093, page=6, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page6 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page6 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page5 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [295 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2069, page=7, 455.24379pt x 597.50829pt>
+ [303 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2100, page=7, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page7 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page7 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page6 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [296 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2073, page=8, 455.24379pt x 597.50829pt>
+ [304 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2104, page=8, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page8 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page8 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page7 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [297 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2077, page=9, 455.24379pt x 597.50829pt>
+ [305 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2109, page=9, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page9 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page9 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page8 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [298 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_3n.pdf, id=2081, page=10, 455.24379pt x 597.50829pt
+ [306 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_3n.pdf, id=2113, page=10, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_3n.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page10 used on inpu
-t line 199.
+t line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page10 used on inpu
-t line 199.
+t line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_3n.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page9 used on input
- line 199.
+ line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [299 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+ [307 <./pdfs/EAGLE_2016_submission_3n.pdf>]
 File: pdfs/EAGLE_2016_submission_3n.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_3n.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_3n.pdf, page10 used on inpu
-t line 199.
+t line 200.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [300 <./pdfs/EAGLE_2016_submission_3n.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2088, 455.24379pt x 597.50829pt>
+ [308 <./pdfs/EAGLE_2016_submission_3n.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2121, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf used on input line 2
-04.
+05.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf used on input line 2
-04.
+05.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_18.pdf, id=2091, page=1, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_18.pdf, id=2124, page=1, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page1 used on input
- line 204.
-(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
-File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
-
-<use pdfs/EAGLE_2016_submission_18.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page1 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page1 used on input
- line 204.
+ line 205.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
+
+<use pdfs/EAGLE_2016_submission_18.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page1 used on input
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_18.pdf, id=2092, page=2, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_18.pdf, id=2125, page=2, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page2 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page2 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page1 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [301
+ [309
 
  <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2111, page=3, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_18.pdf, id=2142, page=3, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page3 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page3 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page2 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [302 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2118, page=4, 455.24379pt x 597.50829pt>
+ [310 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2149, page=4, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page4 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page4 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page3 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [303 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2125, page=5, 455.24379pt x 597.50829pt>
+ [311 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2156, page=5, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page5 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page5 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page4 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [304 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2132, page=6, 455.24379pt x 597.50829pt>
+ [312 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2163, page=6, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page6 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page6 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page5 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [305 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2139, page=7, 455.24379pt x 597.50829pt>
+ [313 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2171, page=7, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page7 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page7 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page6 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [306 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2143, page=8, 455.24379pt x 597.50829pt>
+ [314 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2175, page=8, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page8 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page8 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page7 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [307 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2149, page=9, 455.24379pt x 597.50829pt>
+ [315 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2180, page=9, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_18.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page9 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page9 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page8 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [308 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_18.pdf, id=2153, page=10, 455.24379pt x 597.50829pt
+ [316 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_18.pdf, id=2184, page=10, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_18.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page10 used on inpu
-t line 204.
+t line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page10 used on inpu
-t line 204.
+t line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_18.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page9 used on input
- line 204.
+ line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [309 <./pdfs/EAGLE_2016_submission_18.pdf>]
+ [317 <./pdfs/EAGLE_2016_submission_18.pdf>]
 File: pdfs/EAGLE_2016_submission_18.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_18.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_18.pdf, page10 used on inpu
-t line 204.
+t line 205.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [310 <./pdfs/EAGLE_2016_submission_18.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2163, 455.24379pt x 597.50829pt>
+ [318 <./pdfs/EAGLE_2016_submission_18.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2194, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf used on input line 2
-10.
+11.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf used on input line 2
-10.
+11.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_24.pdf, id=2166, page=1, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_24.pdf, id=2197, page=1, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page1 used on input
- line 210.
-(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
-File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
-
-<use pdfs/EAGLE_2016_submission_24.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page1 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page1 used on input
- line 210.
+ line 211.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
+
+<use pdfs/EAGLE_2016_submission_24.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page1 used on input
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_24.pdf, id=2167, page=2, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_24.pdf, id=2198, page=2, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page2 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page2 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page1 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [311
+ [319
 
  <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2184, page=3, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_24.pdf, id=2216, page=3, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page3 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page3 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page2 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [312 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2188, page=4, 455.24379pt x 597.50829pt>
+ [320 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2220, page=4, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page4 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page4 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page3 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [313 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2196, page=5, 455.24379pt x 597.50829pt>
+ [321 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2227, page=5, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page5 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page5 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page4 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [314 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2204, page=6, 455.24379pt x 597.50829pt>
+ [322 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2235, page=6, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page6 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page6 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page5 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [315 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2211, page=7, 455.24379pt x 597.50829pt>
+ [323 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2242, page=7, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page7 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page7 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page6 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [316 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2218, page=8, 455.24379pt x 597.50829pt>
+ [324 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2249, page=8, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page8 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page8 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page7 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [317 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2222, page=9, 455.24379pt x 597.50829pt>
+ [325 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2254, page=9, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_24.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page9 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page9 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page8 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [318 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2228, page=10, 455.24379pt x 597.50829pt
+ [326 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2260, page=10, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_24.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page10 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page10 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page9 used on input
- line 210.
+ line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [319 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2237, page=11, 455.24379pt x 597.50829pt
+ [327 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2268, page=11, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_24.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page11 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page11 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page10 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [320 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2242, page=12, 455.24379pt x 597.50829pt
+ [328 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2273, page=12, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_24.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page12 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page12 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page11 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [321 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2248, page=13, 455.24379pt x 597.50829pt
+ [329 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2279, page=13, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_24.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page13 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page13 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page12 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [322 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_24.pdf, id=2253, page=14, 455.24379pt x 597.50829pt
+ [330 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_24.pdf, id=2285, page=14, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_24.pdf, page 14>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page14 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 14>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page14 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_24.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page13 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [323 <./pdfs/EAGLE_2016_submission_24.pdf>]
+ [331 <./pdfs/EAGLE_2016_submission_24.pdf>]
 File: pdfs/EAGLE_2016_submission_24.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_24.pdf, page 14>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_24.pdf, page14 used on inpu
-t line 210.
+t line 211.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [324 <./pdfs/EAGLE_2016_submission_24.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2260, 455.24379pt x 597.50829pt>
+ [332 <./pdfs/EAGLE_2016_submission_24.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2293, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf used on input line 2
-15.
+16.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf used on input line 2
-15.
+16.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_10.pdf, id=2263, page=1, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_10.pdf, id=2296, page=1, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page1 used on input
- line 215.
-(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
-File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
-
-<use pdfs/EAGLE_2016_submission_10.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page1 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page1 used on input
- line 215.
+ line 216.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
+
+<use pdfs/EAGLE_2016_submission_10.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page1 used on input
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_10.pdf, id=2264, page=2, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_10.pdf, id=2297, page=2, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page2 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page2 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -7942,41 +8034,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page1 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [325
+ [333
 
  <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2286, page=3, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_10.pdf, id=2317, page=3, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page3 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page3 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page2 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [326 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2290, page=4, 455.24379pt x 597.50829pt>
+ [334 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2321, page=4, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page4 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page4 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -7988,39 +8080,39 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page3 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [327 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2294, page=5, 455.24379pt x 597.50829pt>
+ [335 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2325, page=5, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page5 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page5 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page4 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [328 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2301, page=6, 455.24379pt x 597.50829pt>
+ [336 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2332, page=6, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page6 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page6 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8032,39 +8124,39 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page5 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [329 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2305, page=7, 455.24379pt x 597.50829pt>
+ [337 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2337, page=7, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page7 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page7 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page6 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [330 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2312, page=8, 455.24379pt x 597.50829pt>
+ [338 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2344, page=8, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page8 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page8 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8076,40 +8168,40 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page7 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [331 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2317, page=9, 455.24379pt x 597.50829pt>
+ [339 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2348, page=9, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page9 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page9 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page8 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [332 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2322, page=10, 455.24379pt x 597.50829pt
+ [340 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2353, page=10, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page10 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page10 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8121,41 +8213,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page9 used on input
- line 215.
+ line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [333 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2326, page=11, 455.24379pt x 597.50829pt
+ [341 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2357, page=11, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page11 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page11 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page10 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [334 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2331, page=12, 455.24379pt x 597.50829pt
+ [342 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2362, page=12, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page12 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page12 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8167,41 +8259,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page11 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [335 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2335, page=13, 455.24379pt x 597.50829pt
+ [343 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2367, page=13, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page13 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page13 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page12 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [336 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2339, page=14, 455.24379pt x 597.50829pt
+ [344 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2371, page=14, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 14>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page14 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 14>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page14 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8213,41 +8305,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 13>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page13 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [337 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2345, page=15, 455.24379pt x 597.50829pt
+ [345 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2376, page=15, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 15>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page15 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 15>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page15 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 14>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page14 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [338 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2349, page=16, 455.24379pt x 597.50829pt
+ [346 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2380, page=16, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 16>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page16 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 16>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page16 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8259,41 +8351,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 15>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page15 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [339 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2354, page=17, 455.24379pt x 597.50829pt
+ [347 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2385, page=17, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 17>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page17 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 17>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page17 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 16>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page16 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [340 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2358, page=18, 455.24379pt x 597.50829pt
+ [348 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2389, page=18, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 18>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page18 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 18>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page18 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8305,41 +8397,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 17>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page17 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [341 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2364, page=19, 455.24379pt x 597.50829pt
+ [349 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2396, page=19, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 19>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page19 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 19>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page19 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 18>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page18 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [342 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2368, page=20, 455.24379pt x 597.50829pt
+ [350 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2400, page=20, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 20>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page20 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 20>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page20 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8351,41 +8443,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 19>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page19 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [343 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2373, page=21, 455.24379pt x 597.50829pt
+ [351 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2404, page=21, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 21>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page21 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 21>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page21 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 20>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page20 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [344 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2377, page=22, 455.24379pt x 597.50829pt
+ [352 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2408, page=22, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 22>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page22 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 22>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page22 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8397,41 +8489,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 21>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page21 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [345 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2384, page=23, 455.24379pt x 597.50829pt
+ [353 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2415, page=23, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 23>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page23 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 23>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page23 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 22>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page22 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [346 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_10.pdf, id=2388, page=24, 455.24379pt x 597.50829pt
+ [354 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_10.pdf, id=2419, page=24, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 24>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page24 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_10.pdf, page 24>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page24 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
 
@@ -8443,272 +8535,272 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_10.pdf, page 23>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page23 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [347 <./pdfs/EAGLE_2016_submission_10.pdf>]
+ [355 <./pdfs/EAGLE_2016_submission_10.pdf>]
 File: pdfs/EAGLE_2016_submission_10.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_10.pdf, page 24>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_10.pdf, page24 used on inpu
-t line 215.
+t line 216.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [348 <./pdfs/EAGLE_2016_submission_10.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2395, 455.24379pt x 597.50829pt>
+ [356 <./pdfs/EAGLE_2016_submission_10.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2427, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf used on input line 2
-20.
+21.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf used on input line 2
-20.
+21.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_42.pdf, id=2398, page=1, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_42.pdf, id=2430, page=1, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page1 used on input
- line 220.
-(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
-File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
-
-<use pdfs/EAGLE_2016_submission_42.pdf, page 1>
-Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page1 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page1 used on input
- line 220.
+ line 221.
+(pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
+File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
+
+<use pdfs/EAGLE_2016_submission_42.pdf, page 1>
+Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page1 used on input
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 
-<pdfs/EAGLE_2016_submission_42.pdf, id=2399, page=2, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_42.pdf, id=2431, page=2, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page2 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page2 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 1>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page1 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [349
+ [357
 
  <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2420, page=3, 455.24379pt x 597.50829pt>
+<pdfs/EAGLE_2016_submission_42.pdf, id=2451, page=3, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page3 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page3 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 2>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page2 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [350 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2424, page=4, 455.24379pt x 597.50829pt>
+ [358 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2455, page=4, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page4 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page4 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 3>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page3 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [351 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2431, page=5, 455.24379pt x 597.50829pt>
+ [359 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2463, page=5, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page5 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page5 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 4>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page4 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [352 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2435, page=6, 455.24379pt x 597.50829pt>
+ [360 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2467, page=6, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page6 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page6 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 5>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page5 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [353 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2439, page=7, 455.24379pt x 597.50829pt>
+ [361 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2472, page=7, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page7 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page7 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 6>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page6 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [354 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2446, page=8, 455.24379pt x 597.50829pt>
+ [362 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2479, page=8, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page8 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page8 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 7>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page7 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [355 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2455, page=9, 455.24379pt x 597.50829pt>
+ [363 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2486, page=9, 455.24379pt x 597.50829pt>
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 <use pdfs/EAGLE_2016_submission_42.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page9 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page9 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 8>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page8 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [356 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2462, page=10, 455.24379pt x 597.50829pt
+ [364 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2493, page=10, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_42.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page10 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page10 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 9>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page9 used on input
- line 220.
+ line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [357 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2466, page=11, 455.24379pt x 597.50829pt
+ [365 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2497, page=11, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_42.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page11 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page11 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 10>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page10 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [358 <./pdfs/EAGLE_2016_submission_42.pdf>]
-<pdfs/EAGLE_2016_submission_42.pdf, id=2473, page=12, 455.24379pt x 597.50829pt
+ [366 <./pdfs/EAGLE_2016_submission_42.pdf>]
+<pdfs/EAGLE_2016_submission_42.pdf, id=2504, page=12, 455.24379pt x 597.50829pt
 >
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_42.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page12 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page12 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
 
 <use pdfs/EAGLE_2016_submission_42.pdf, page 11>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page11 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [359 <./pdfs/EAGLE_2016_submission_42.pdf>]
+ [367 <./pdfs/EAGLE_2016_submission_42.pdf>]
 File: pdfs/EAGLE_2016_submission_42.pdf Graphic file (type pdf)
  <use pdfs/EAGLE_2016_submission_42.pdf, page 12>
 Package pdftex.def Info: pdfs/EAGLE_2016_submission_42.pdf, page12 used on inpu
-t line 220.
+t line 221.
 (pdftex.def)             Requested size: 455.24268pt x 597.50682pt.
- [360 <./pdfs/EAGLE_2016_submission_42.pdf>] [361
+ [368 <./pdfs/EAGLE_2016_submission_42.pdf>] [369
 
-] [362] [363
+] [370] [371
 
-] [364]
+] [372]
 \openout2 = `Posters.aux'.
 
  (./Posters.tex
@@ -8786,44 +8878,48 @@ Overfull \hbox (3.51404pt too wide) in alignment at lines 16--58
 [][]
  []
 
-) [365
+) [373
 
 
-] [366]
+] [374]
 runsystem(makeindex main.idx)...executed safely (allowed).
 
- (./main.ind [367
+ (./main.ind [375
 
 
 
-]) [368] (./main.aux (./committee.aux)
-(./Posters.aux)) ) 
+]) [376] (./main.aux (./committee.aux)
+(./Posters.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 16052 strings out of 493089
- 308373 string characters out of 6134841
- 442840 words of memory out of 5000000
- 19185 multiletter control sequences out of 15000+600000
+ 16073 strings out of 493089
+ 309190 string characters out of 6134841
+ 443116 words of memory out of 5000000
+ 19206 multiletter control sequences out of 15000+600000
  75892 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,18n,77p,10516b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.
-enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/
-usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local
-/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/cbfonts/grmn0800.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/lm/lmtcsc10.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
-re/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qpl
-ri.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (380 pages, 96866849 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
+e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2015/te
+xmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/cbfonts/grmn0800.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/lm/lmtcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lm
+tt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (388 pages, 101689454 bytes).
 PDF statistics:
- 2544 PDF objects out of 2984 (max. 8388607)
- 1550 compressed objects within 16 object streams
+ 2575 PDF objects out of 2984 (max. 8388607)
+ 1566 compressed objects within 16 object streams
  0 named destinations out of 1000 (max. 500000)
- 30808 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 30843 words of extra memory for PDF output out of 35830 (max. 10000000)
 
