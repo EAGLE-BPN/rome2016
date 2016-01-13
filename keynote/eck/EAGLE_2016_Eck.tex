@@ -1,0 +1,53 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX program = pdflatex
+% !TEX spellcheck = en_US
+
+
+% In order to correctly compile this document,
+% execute the following commands:
+% 1. pdflatex
+% 2. pdflatex
+% 3. pdflatex
+
+
+
+\documentclass[amsthm,ebook]{saparticle}
+
+% IF YOU USE PDFLATEX
+\usepackage[utf8x]{inputenc}
+% if you write in english and in greek
+\usepackage{ucs}
+\usepackage[greek,english]{babel}
+\languageattribute{greek}{polutoniko}
+
+% IF YOU USE XELATEX
+%\usepackage{polyglossia}
+% if you write in italian
+%\setmainlanguage{italian}
+% If you want put some ancient greek:
+%\setotherlanguage[variant=polytonic]{greek}
+%\newfontfamily{\greekfont}[Ligatures=TeX]{Palatino Linotype}
+
+% dummy text (remove in a normal thesis)
+% remove if not necessary
+\usepackage{siunitx}
+%Natbib for bibliography management
+\usepackage[authoryear]{natbib}
+% custom commands
+\newcommand{\bs}{\textbackslash}
+
+%%%%%%%%
+%TITLE:%
+%%%%%%%%
+\title{Keynote Speech}
+\author[]{Werner Eck\corref{first}}
+\begin{document}
+\maketitle
+%\begin{abstract}
+%\end{abstract}
+
+Werner Eck is an internationally renowned historian of the Roman Empire and of Roman epigraphy. From February 1979 until his retirement in February 2007, he worked as Professor of Ancient History at the University of Cologne. From 1997 till 2002 he was president of the Association of Greek and Latin Epigraphy. At the Accademy of Sciences in Berlin he is responsible for the CIL and the PIR. With his colleagues of the Berlin-Brandenburgische Akademie der Wissenschaften he organised the 13th International Congress of Greek and Latin Epigraphy. In Cologne he is one of the editors of the Zeitschrift für Papyrology und Epigraphik. Together with German and Israeli colleagues he is editing the multilingual Corpus Inscriptionum Iudaea/Palaestinae. He has published about very many topics of the Imperial period, about the administration of Rome, Italy and the provinces, the social and military history, prosopography and the history of early Christianity. For his bibliography see \url{http://histinst.phil-fak.uni-koeln.de/index.php?id=309}
+
+\end{document}
+
+
