@@ -7,28 +7,26 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{\textsc{Guarducci}(1987)}]{guarducci_epigrafia_1987}
-\textsc{Guarducci, M.}, \emph{L'epigrafia greca dalle origini al tardo impero},
-  Ist. Poligrafico dello Stato, 1987.
+\bibitem[{\textsc{Guarducci}(1967-1980)}]{Guarducci:1967aa}
+\textsc{Guarducci, M.}, \emph{Epigrafia greca}, vol. I-IV, Istituto Poligrafico
+  dello Stato, Roma, 1967-1980.
 
 \bibitem[{\textsc{Hansen}(2006)}]{hansen_polis:_2006}
 \textsc{Hansen, M.H.}, \emph{Polis: an introduction to the ancient {Greek}
-  city-state}, Oxford Univ. Press, Oxford ; New York, NY [u.a.], 1. publ. ed.,
-  2006, ISBN 978-0-19-920850-0 0-19-920850-6 978-0-19-920849-4 0-19-920849-2,
-  includes bibliographical references and indexes.
+  city-state}, Oxford University Press, Oxford, 2006.
+
+\bibitem[{\textsc{Hansen and Nielsen}(2004)}]{nielsen_inventory_2004}
+\textsc{Hansen, M.H., Nielsen, T.H.} (ed.), \emph{An inventory of archaic and
+  classical poleis}, Oxford University Press, Oxford, 2004.
 
 \bibitem[{\textsc{Jeffery}(1990)}]{jeffery_local_1990}
 \textsc{Jeffery, L.H.}, \emph{The {Local} {Scripts} of {Archaic} {Greece}.
-  {Revised} edition with a supplement by {AW} {Johnston}}, Oxford, 340 (1990),
-  345.
-
-\bibitem[{\textsc{Nielsen and Hansen}(2004)}]{nielsen_inventory_2004}
-\textsc{Nielsen, T.H., Hansen, M.H.}, \emph{An inventory of archaic and
-  classical poleis}, Oxford University Press, 2004.
+  {Revised} edition with a supplement by {AW} {Johnston}}, {Oxford University
+  Press}, Oxford, 1990.
 
 \bibitem[{\textsc{Robert and Robert}(1954)}]{robert_carie:_1954}
-\textsc{Robert, L., Robert, J.}, \emph{La {Carie}: histoire et géographie
-  historique avec le recueil des inscriptions antiques}, vol.~2,
-  Adrien-Maisonneuve, 1954.
+\textsc{Robert, L., Robert, J.}, \emph{La {Carie}: histoire et g{\'e}ographie
+  historique avec le recueil des inscriptions antiques}, Adrien-Maisonneuve,
+  Paris, 1954.
 
 \end{thebibliography}
