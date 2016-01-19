@@ -88,10 +88,10 @@ idea remained the tagging of all words starting with a capital, but this time De
 completely imbedded within Filemaker. Since the Roman 'tria nomina' hardly occur in the Greek papyri, also a new
 onomastical structure had to be devised for the automatic recognition. As a test case we choose the full text corpus of
 the EDCS. All these texts were 'cut up' in capital clusters, i.e. strings of consecutive words all starting with a
-capital. Words as filius, nepos and libertus were added to the string so that in most cases the full identification of
-a person could be grouped together, e.g. Quintus Caecilius Quinti filius Quirina Mustacus (TM 332260), Caio Annioleno
-Cai filio Arnensi Karthaginiensi Galliano (TM 349961) or Maesiaes Cai libertae Chrysidis (TM 244384). A minor
-disadvantage of this corpus was the capitalisation of the first word of every inscription (which is not done in the
+capital. Words as \emph{filius}, \emph{nepos} and \emph{libertus} were added to the string so that in most cases the full identification of
+a person could be grouped together, e.g. \emph{Quintus Caecilius Quinti filius Quirina Mustacus} (TM 332260), \emph{Caio Annioleno
+Cai filio Arnensi Karthaginiensi Galliano} (TM 349961) or \emph{Maesiaes Cai libertae Chrysidis} (TM 244384). A minor
+disadvantage of this corpus was the capitalization of the first word of every inscription (which is not done in the
 PN), which yields quite a significant number of mere nouns in the group of expected personal names and toponyms. Also
 other words starting with a capital were not our prime goal: names of gods, religious festivals, months, army units,
 ships, animals, mythological persons and Roman numbers. Excluded (for the moment) are also the names of the emperors
@@ -110,10 +110,10 @@ dat & dat & gen & filius & tribus & origo & dat\\
 \label{Example}
 \end{table}%
 
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016FullPaperVerreth-img001.png}
-\caption{default}
+\caption{Named Entity Recognition with FileMaker Pro 14}
 \label{fig:1}
 \end{figure}
  
@@ -128,15 +128,15 @@ labels have been added, e.g. army [23.201], god [15.663], emperor [41.944], whic
 
 This is also the phase where the toponyms come in (which can occur both in the first and in the second group).
 Within the EAGLE project we created already a fairly large reference corpus for toponyms from the Roman empire, but
-this corpus was enlarged by entering the toponyms occurring in the Itinerarium provinciarum Antonini Augusti [3.434]
-and the Tabula Peutingeriana [3.287]. The TM Geo file now contains 46.277 toponyms from all over Egypt and the Roman
+this corpus was enlarged by entering the toponyms occurring in the \emph{Itinerarium provinciarum Antonini Augusti} [3.434]
+and the \emph{Tabula Peutingeriana} [3.287]. The TM Geo file now contains 46.277 toponyms from all over Egypt and the Roman
 empire, both ancient and modern, which cover most of the places where ancient texts have been found, and most of the
 toponyms mentioned in Egyptian papyrological and Latin epigraphical sources.\footnote{ For more information on TM Geo,
 \citep{verreth2013}.} We played with the idea of automatic matching, like we did for the personal
 names, but except for the case of the relatively straightforward tribus names, this yielded no satisfactory results. A
-lot of toponyms resemble personal names (e.g. Florentia, Venusia, (Fundus) Bassianus), and the automated identification
-of strings such as Colonia Ulpia Traiana Augusta Fidelis Lepcis Magna (TM 198383) or Municipium Augustum Hipponiensium
-Regiorum (TM 200133) seemed too cumbersome. In the end, we settled for plan B, which shows that in `Digital
+lot of toponyms resemble personal names (e.g. \emph{Florentia}, \emph{Venusia}, \emph{(Fundus) Bassianus}), and the automated identification
+of strings such as \emph{Colonia Ulpia Traiana Augusta Fidelis Lepcis Magna }(TM 198383) or \emph{Municipium Augustum Hipponiensium
+Regiorum} (TM 200133) seemed too cumbersome. In the end, we settled for plan B, which shows that in `Digital
 Humanities', the human component is still essential: we had to go through all 900.000 capital cluster cards manually,
 identifying the toponyms in every cluster, adding the corresponding TM Geo number and - whenever necessary - correcting
 the indications for yes/no and the automatic identification of the cases of the personal names. It was six months of
@@ -155,9 +155,9 @@ and we have now entered phase 2, the incorporation of the capital cluster file i
 every place listed in TM Geo we try to list all the ancient text references where that place is attested. The file of
 these geographical references (TM Georef) is directly linked with the main TM Text file, so that every reference
 automatically receives a chronological and a geographical context. Every toponym found in the capital cluster file is
-exported to a separate Georef card. When a toponym exists out of several consecutive elements, like the colonia and
-municipium examples mentioned before, they are automatically grouped on one card. Twofold toponyms such as `Bythina et
-Ponthus', which cannot belong to the same capital cluster string because of the intermediary `et', are exported double
+exported to a separate Georef card. When a toponym exists out of several consecutive elements, like the \emph{colonia} and
+\emph{municipium} examples mentioned before, they are automatically grouped on one card. Twofold toponyms such as `\emph{Bythina et
+Ponthus'}, which cannot belong to the same capital cluster string because of the intermediary `\emph{et}', are exported double
 and then afterwards joined manually. For the moment TM Georef lists 67.820 geographical references attested in Latin
 documentary texts and 10.474 references attested in Latin literary texts (but except for Egypt the latter have not yet
 systematically been entered). The Latin references make out almost 40 \% of the total of 196.794 Georef cards.
@@ -165,10 +165,10 @@ systematically been entered). The Latin references make out almost 40 \% of the 
 
 
 
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016FullPaperVerreth-img002.png}
-\caption{default}
+\caption{The Georef Card}
 \label{fig:2}
 \end{figure}
 
@@ -191,16 +191,15 @@ possible to put a direct link on the Georef page to every partner that has the t
 
 Since the users of TM must be able to look for specific spelling variants of each toponyms, all these references are
 presented the way they are on the stone, with as little additions or emendations as possible, except of course for any
-abbreviations at the end of the word; e.g. T(h)ra[c(um)] becomes Tra[c(um)], and Rom(a)e becomes Rome. In another field
-the standardized nominative case is given, without brackets or uncertainty dots; e.g. Trax and Roma.
+abbreviations at the end of the word; e.g. \emph{T(h)ra[c(um)]} becomes \emph{Tra[c(um)]}, and Rom(a)e becomes \emph{Rome}. In another field the standardized nominative case is given, without brackets or uncertainty dots; e.g. \emph{Trax} and \emph{Roma}.
 
 
 
 
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016FullPaperVerreth-img003.png}
-\caption{default}
+\caption{Philadelphia}
 \label{fig:3}
 \end{figure}
  
@@ -220,13 +219,13 @@ refined in the future.
 
 The third and final phase involves the context of the toponym. In the field Detail we give a plain translation of
 the immediate phrase to which the toponym belongs. The translation should be a standardised as possible, with termini
-technici preferably added in Latin, so that the users can easily search for them in the database; e.g. `Tiberius Iulius
-Martialis son of Tiberius of (the tribus) Claudia from Savaria, soldier (miles) of legio XV Apollinaris', `praefectus
-Aegypti', `cohors I Tungrorum'. If the place is explicitly ascribed to a provincia or a region, this provincia is
-listed in the field 'Administrative situation'. If a town is explicitly called an oppidum, a vicus or a civitas, this
+technici preferably added in Latin, so that the users can easily search for them in the database; e.g. `\emph{Tiberius Iulius
+Martialis son of Tiberius of (the tribus) Claudia from Savaria, soldier (miles) of legio XV Apollinaris}', `\emph{praefectus
+Aegypti}', `\emph{cohors I Tungrorum}'. If the place is explicitly ascribed to a \emph{provincia} or a region, this \emph{provincia} is
+listed in the field 'Administrative situation'. If a town is explicitly called an \emph{oppidum}, a \emph{vicus} or a \emph{civitas}, this
 information is listed in the field Status. By adding this information in searchable fields we hope that the user can
 start asking quite specific questions; e.g. the first and last attestation of a place in the sources; the periods in
-which a town was called a colonia or a municipium; the places in which the `ala I Thracum Mauretana' has been attested.
+which a town was called a \emph{colonia} or a \emph{municipium}; the places in which the `\emph{ala I Thracum Mauretana}' has been attested.
 
  TM is a relational database, which implies that is possible to get to the information from different angles. If
 someone is studying a certain text, he can get a list of all toponyms mentioned in that text. On the other hand, if

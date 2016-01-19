@@ -39,7 +39,7 @@
 %%%%%%%%
 %TITLE:%
 %%%%%%%%
-\title{AUGMENTING THE WORKSPACE OF EPIGRAPHISTS
+\title{Augmenting the Workspace of Epigraphists.
 An interaction design study}
 
 \author[1]{Angelos Barmpoutis\corref{first}}
@@ -72,23 +72,23 @@ through the internet, but also offer interfaces for natural user interaction tha
 populations to use computers intuitively.
 
 In the fields of epigraphy and archaeology, the areas of digital epigraphy and computational archaeology have benefit
-from the use of several of the sensors available in hand-held devices. Crowd-sourcing of photographic data and
+from the use of several of the sensors available in handheld devices. Crowd-sourcing of photographic data and
 geo-spatial information, augmented-reality navigation in archaeological spaces and museums, and 3D scanning of
-historical artifacts, using smart phones and tablet computers,, are few of the exemplar applications of hand-held
+historical artifacts, using smart phones and tablet computers, are few of the exemplar applications of handheld
 sensors in epigraphy and archaeology. One common component in all the aforementioned applications is the ability to
 record tridimensional data either in the form of geo-spatial coordinates, or in the form of local 3D point coordinates
 needed for augmented-reality interaction, or for the construction of triangular meshes of 3D models. 
 
 There are several examples in literature that present 3D digitization projects that have been undertaken by museums
-including the Epigraphical Museum of Athens (\citet{sullivan_analytical_2011}, \citet{papadaki_accurate_2015}), Museo Arqueológico Nacional de
+including the Epigraphical Museum of Athens \citep{sullivan_analytical_2011, papadaki_accurate_2015}, Museo Arqueológico Nacional de
 Madrid \citep{ramirez-sanchez_epigrafidigital:_2014}, Museo Nazionale Romano di Palazzo Altemps \citep{barmpoutis_interactive_2015}, Museo
 Geologico Giovanni Capellini di Bologna \citep{abate_valorizzazione_2014}, National Museums Liverpool \citep{cooper_chiswick_2007},
-Smithsonian Institution \citep{wachowiak_3d_2009}, and several other museums and institutes (\citet{barsanti_3d_2013}, \citet{landon_petroglyph_2006}, \citet{levoy_digital_2000}).
+Smithsonian Institution \citep{wachowiak_3d_2009}, and several other museums and institutes \citep{barsanti_3d_2013, landon_petroglyph_2006, levoy_digital_2000}.
 
 Several novel methods for scanning, processing, and analyzing 3D models of inscriptions have been developed, including
-methods for text extraction from inscriptions (\citet{aswatha_method_2014}, \citet{sullivan_analytical_2011}), accurate 3D scanning of
+methods for text extraction from inscriptions \citep{aswatha_method_2014, sullivan_analytical_2011}, accurate 3D scanning of
 inscriptions \citep{papadaki_accurate_2015}, visualization of inscriptions \citep{bozia_open-access_2014}, as well as 3D applications for
-other archaeological artifacts (\citet{babeu__2011}, \citet{pollefeys_image-based_2001}, \citet{malzbender_polynomial_2001}, \citet{esteban_silhouette_2004}).
+other archaeological artifacts \citep{babeu__2011, pollefeys_image-based_2001, malzbender_polynomial_2001, esteban_silhouette_2004}.
 Comparative studies of 3D scanning methods for cultural herirage can be found in \citep{pavlidis_methods_2007} and \citep{bohler_3d_2004}. 
 
 The aforementioned examples show that the use of 3D technologies in epigraphy and archaeology has been a
@@ -101,7 +101,7 @@ significantly advantageous compared to a set of 2D photographs.
 The recent advances on Natural User Interfaces (NUI) along with their marketing as low-cost general-purpose devices
 (smart phones and tablets) have created a nurturing environment for integrating them in cultural heritage applications.
 Popular low-cost NUIs, such as touch screens, marker-less position trackers, motion sensors, and head-mounted displays
-have been recently studied and employed by museums as mechanisms for multi-sensory virtual experiences (\citet{ujitoko_application_2015}, \citet{soile_accurate_2013}, \citet{ikei_experience_2015}).
+have been recently studied and employed by museums as mechanisms for multi-sensory virtual experiences \citep{ujitoko_application_2015, soile_accurate_2013, ikei_experience_2015}.
 
 This paper tries to fill the gap between the 3D technologies and their actual professional application in the field of
 epigraphy by proposing innovative uses of NUIs specially designed to serve epigraphists. This is, to the best of our
@@ -170,17 +170,7 @@ without the use of external sensors as it is described in details in the followi
 
 \subsection{Natural interactive relighting of 3D models}
 
-
-\noindent In order to achieve natural interactive relighting of an inscription, the system should imitate the process of
-relighting a handheld physical object (such as a paper cast of inscription) by reorienting the object with respect to
-the light of the environment. Without loss of generality, we can assume that the default virtual lighting source is
-located on the ceiling, right above the device, which is also very intuitive choice as it is the most probable
-real-world lighting condition. Under this assumption, a gyroscope, a sensor that tracks the orientation of the device
-with respect to the gravitational vector, is enough to track the slope of the device with respect to the virtual light.
-The top row of Fig.~\ref{fig:1} shows the approximated real-world orientation of a tablet computer as it was estimated using
-the gyroscope of the device. The orientation is updated in real-time as the user moves the device.
-
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016cameraready-img001.png}
  \includegraphics[width=\columnwidth]{EAGLE2016cameraready-img002.png}
@@ -190,6 +180,16 @@ row: Demonstration of interactive relighting of a 3D digitized inscription. Diff
 different inscribed details. }
 \label{fig:1}
 \end{figure}
+
+
+\noindent In order to achieve natural interactive relighting of an inscription, the system should imitate the process of
+relighting a handheld physical object (such as a paper cast of inscription) by reorienting the object with respect to
+the light of the environment. Without loss of generality, we can assume that the default virtual lighting source is
+located on the ceiling, right above the device, which is also very intuitive choice as it is the most probable
+real-world lighting condition. Under this assumption, a gyroscope, a sensor that tracks the orientation of the device
+with respect to the gravitational vector, is enough to track the slope of the device with respect to the virtual light.
+The top row of Fig.~\ref{fig:1} shows the approximated real-world orientation of a tablet computer as it was estimated using
+the gyroscope of the device. The orientation is updated in real-time as the user moves the device.
 
  
 
@@ -206,6 +206,15 @@ in the real world (see Fig.~\ref{fig:3}).
 \subsection{Natural interactive manipulation of 3D models }
 
 
+\begin{figure}[!hbp]
+\centering
+ \includegraphics[width=\columnwidth]{EAGLE2016cameraready-img003.png}
+\caption{Visualization of same-size boxes using 15 different perspective projections with the same FOV angle and
+different cropping parameters. None of the boxes is rotated in the space. }
+\label{fig:2}
+\end{figure}
+
+
 \noindent Another important form of interaction in the epigraphic routine is the change of the point of view in order to
 understand better the structural details of the inscribed letterforms. Assuming that the model of the inscription is
 parallel to the screen of the device, the change of point of view involves only change of the perspective projection of
@@ -215,21 +224,6 @@ rotation of the device without any virtual rotation of the object.
 Fig.~\ref{fig:2} shows 15 different projections of the same virtual cube that correspond to the change of perspective caused
 by moving the observer's head parallel to the screen. Note that all cubes are parallel to each other.
 
-
-
-
-\begin{figure}[!bp]
-\centering
- \includegraphics[width=\columnwidth]{EAGLE2016cameraready-img003.png}
-\caption{Visualization of same-size boxes using 15 different perspective projections with the same FOV angle and
-different cropping parameters. None of the boxes is rotated in the space. }
-\label{fig:2}
-\end{figure}
-
-
-
-
-
 In the case of a tablet computer, the change of perspective can be implemented using the accelerometer of the device,
 which senses non-gravitational accelerations in the 3D space. With the logical assumptions that: a) the tablet is
 initially facing the user, and b) the user's eyes remain in a relatively fixed position in the 3D space (otherwise an
@@ -237,17 +231,8 @@ eye-tracker should be required), the change of perspective can be realistically 
 tablet as shown in the top row of Fig.~\ref{fig:3}. The superimposed boxes in this figure were estimated, using the
 accelerometer reading of the device for three different orientations of the tablet. 
 
-Interactive manipulation of a 3D digitized inscription bearer is shown in the bottom row of Fig.~\ref{fig:3}. Different sides of
-the bearer can be observed by reorienting the tablet naturally. In this example a large inscription model with its
-bearer was chosen in order to demonstrate that the proposed interaction design remains intuitive independently of the
-scale. It should also be noted that the interactive manipulation of the perspective can be optionally performed
-simultaneously with the interactive relighting as shown in Fig.~\ref{fig:1} (bottom) in order to perform a more realistic
-interaction that causes relighting and change of point of view at the same time. 
 
-
-
-
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016cameraready-img004.png}
  \includegraphics[width=\columnwidth]{EAGLE2016cameraready-img005.png}
@@ -258,6 +243,14 @@ using natural motions.}
 \label{fig:3}
 \end{figure}
 
+
+
+Interactive manipulation of a 3D digitized inscription bearer is shown in the bottom row of Fig.~\ref{fig:3}. Different sides of
+the bearer can be observed by reorienting the tablet naturally. In this example a large inscription model with its
+bearer was chosen in order to demonstrate that the proposed interaction design remains intuitive independently of the
+scale. It should also be noted that the interactive manipulation of the perspective can be optionally performed
+simultaneously with the interactive relighting as shown in Fig.~\ref{fig:1} (bottom) in order to perform a more realistic
+interaction that causes relighting and change of point of view at the same time. 
 
 
 \subsection{``Touching'' the metadata: Interacting with multi-modal data}
@@ -275,7 +268,7 @@ several parts of the epigraphic workflow.
 
 
 
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016cameraready-img006.png}
 \caption{Screenshot of our interactive environment. The user interacts with the 3D object, using touch gestures and
@@ -296,7 +289,7 @@ reorienting it as a tangible object, observe it from different perspectives, and
 by following a set of 2D touch gestures. The prototype system was developed as part of the Digital Epigraphy and
 Archaeology (DEA) project using the open-source library VisiNeat for 3D visualization and interaction and is compatible
 with iOS, Android, and Microsoft RT tablet and smart phone devices. The interface is available through the web-site of
-the project: http://www.digitalepigraphy.org
+the project: \url{http://www.digitalepigraphy.org}
 
 In the future we plan to quantitatively evaluate the designed interface by tracking the user activities and analyze
 their motion patterns in the 3D space while they are interacting with their handheld device. 

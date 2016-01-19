@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  19 JAN 2016 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1200,13 +1200,10 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \vbox (badness 1194) has occurred while \output is active []
+[4]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 197.
 
- [4]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 194.
-
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -1224,13 +1221,13 @@ Package microtype Warning: Unknown slot number of character
 Underfull \vbox (badness 2334) has occurred while \output is active []
 
  [6]
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 234.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 237.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 ) [7] [8]
-Underfull \vbox (badness 1194) has occurred while \output is active []
+Underfull \vbox (badness 2334) has occurred while \output is active []
 
  [9]
 (./Latin epigraphy for the visually impaired.bbl
@@ -1285,24 +1282,24 @@ sr _
  []
 
 [10])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
  [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
  (./Latin epigraphy for the visually impaired.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 336.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
 Package rerunfilecheck Info: File `"Latin epigraphy for the visually impaired".
 out' has not changed.
 (rerunfilecheck)             Checksum: AEC2E7D2703A72302D61718C4347F076;275.
  ) 
 Here is how much of TeX's memory you used:
- 21744 strings out of 493089
- 406222 string characters out of 6134841
+ 21742 strings out of 493089
+ 406202 string characters out of 6134841
  462929 words of memory out of 5000000
  24806 multiletter control sequences out of 15000+600000
- 97637 words of font info for 169 fonts, out of 8000000 for 9000
+ 97504 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,40p,10441b,855s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,40p,10441b,862s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
 local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/
 2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texlive/2015/t
@@ -1313,7 +1310,7 @@ fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 ic/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
 -gyre/qplri.pfb>
 Output written on "Latin epigraphy for the visually impaired.pdf" (11 pages, 15
-6260 bytes).
+6379 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  121 compressed objects within 2 object streams

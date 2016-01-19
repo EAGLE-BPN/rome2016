@@ -1,4 +1,4 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{16}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -12,10 +12,8 @@
   “{Digitalisierung}”}, Tech. rep., Bonn, 2013.
 
 \bibitem[{\textsc{Bußmann}(2002)}]{Bussmann2002}
-\textsc{Bußmann, H.H.} (ed.), \emph{Lexikon der {Sprachwissenschaft}},
-  Kröner, Stuttgart, 3., aktualisierte u. erw. aufl. ed., 2002, ISBN
-  3-520-45203-0 978-3-520-45203-0, bis 2. Aufl. als Kröners Taschenausgabe ;
-  452.
+\textsc{Bußmann, H.} (ed.), \emph{Lexikon der {Sprachwissenschaft}}, Kröner,
+  Stuttgart, 2002, ISBN 3-520-45203-0 978-3-520-45203-0.
 
 \bibitem[{\textsc{Crystal}(1997)}]{Crystal1997}
 \textsc{Crystal, D.}, \emph{The {Cambridge} encyclopedia of language},
@@ -44,6 +42,11 @@
   {Understanding} of {Maya} {Writing} {Using} {Comparative} {Graphematics}}, in
   H.~Kettunen, C.~Helmke (ed.), \emph{Proceedings of the 17th {European} {Maya}
   {Conference}}, Markt Schwaben, 2015.
+
+\bibitem[{\textsc{Lacadena and Wichmann}(2015)}]{LacadenaWichmann2002}
+\textsc{Lacadena, A., Wichmann, S.}, \emph{The distribution of {Lowland} {Maya}
+  languages in the {Classic} period}, in V.~Tiesler~Blos, M.~Greene~Robertson,
+  R.~Cobos (ed.), \emph{La organización social entre los mayas}, 2015.
 
 \bibitem[{\textsc{Lacau}(1903)}]{Lacau1903}
 \textsc{Lacau, P.}, \emph{Métathèses apparentes en égyptien}, E. Bouillon,

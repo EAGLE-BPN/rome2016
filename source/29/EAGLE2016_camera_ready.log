@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 15:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  19 JAN 2016 12:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1188,13 +1188,8 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (42.76051pt too wide) in paragraph at lines 53--53
-[]\T1/qpl/m/n/14.4 AUGMENTING THE WORKSPACE OF EPIGRAPHISTS
- []
-
 LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 53.
-[1
+ [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package microtype Info: Character `029' is missing
@@ -1204,60 +1199,55 @@ Package microtype Info: Character `029' is missing
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 ) [2] [3]
-[4] <EAGLE2016cameraready-img001.png, id=135, 1445.4pt x 361.35pt>
+[4] <EAGLE2016cameraready-img001.png, id=134, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img001.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img001.png>
-Package pdftex.def Info: EAGLE2016cameraready-img001.png used on input line 185
+Package pdftex.def Info: EAGLE2016cameraready-img001.png used on input line 175
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
 
-<EAGLE2016cameraready-img002.png, id=136, 1445.4pt x 361.35pt>
+<EAGLE2016cameraready-img002.png, id=135, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img002.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img002.png>
-Package pdftex.def Info: EAGLE2016cameraready-img002.png used on input line 186
+Package pdftex.def Info: EAGLE2016cameraready-img002.png used on input line 176
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
-
-Underfull \vbox (badness 3780) has occurred while \output is active []
-
- [5]
-<EAGLE2016cameraready-img003.png, id=145, 901.3675pt x 464.73625pt>
+ [5 <./EAGLE2016cameraready-img001.png> <./EAGLE2016cameraready-img002.png>]
+<EAGLE2016cameraready-img003.png, id=144, 901.3675pt x 464.73625pt>
 File: EAGLE2016cameraready-img003.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img003.png>
-Package pdftex.def Info: EAGLE2016cameraready-img003.png used on input line 223
+Package pdftex.def Info: EAGLE2016cameraready-img003.png used on input line 211
 .
 (pdftex.def)             Requested size: 310.13503pt x 159.9016pt.
- [6 <./EAGLE2016cameraready-img001.png> <./EAGLE2016cameraready-img002.png>]
-<EAGLE2016cameraready-img004.png, id=157, 1445.4pt x 361.35pt>
+ [6 <./EAGLE2016cameraready-img003.png>]
+<EAGLE2016cameraready-img004.png, id=156, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img004.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img004.png>
-Package pdftex.def Info: EAGLE2016cameraready-img004.png used on input line 252
+Package pdftex.def Info: EAGLE2016cameraready-img004.png used on input line 237
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
 
-<EAGLE2016cameraready-img005.png, id=158, 1445.4pt x 361.35pt>
+<EAGLE2016cameraready-img005.png, id=157, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img005.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img005.png>
-Package pdftex.def Info: EAGLE2016cameraready-img005.png used on input line 253
+Package pdftex.def Info: EAGLE2016cameraready-img005.png used on input line 238
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
- [7 <./EAGLE2016cameraready-img003.png>]
+ [7 <./EAGLE2016cameraready-img004.png> <./EAGLE2016cameraready-img005.png>]
 <EAGLE2016cameraready-img006.png, id=166, 1150.2975pt x 608.2725pt>
 File: EAGLE2016cameraready-img006.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img006.png>
-Package pdftex.def Info: EAGLE2016cameraready-img006.png used on input line 280
+Package pdftex.def Info: EAGLE2016cameraready-img006.png used on input line 273
 .
 (pdftex.def)             Requested size: 310.13503pt x 163.99445pt.
- [8 <./EAGLE2016cameraready-img004.png> <./EAGLE2016cameraready-img005.png> <./
-EAGLE2016cameraready-img006.png>]
-(./EAGLE2016_camera_ready.bbl
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 13.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 292.
+
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1273,7 +1263,7 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-
+[8 <./EAGLE2016cameraready-img006.png>] (./EAGLE2016_camera_ready.bbl
 Underfull \hbox (badness 3942) in paragraph at lines 17--22
 []\T1/qpl/m/sc/10 (+20) Aswatha, S.M., Talla, A.N., Mukhopad-hyay, J., Bhowmick
 , P.\T1/qpl/m/n/10 (+20) ,
@@ -1380,38 +1370,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--128
 & ots =
  []
 
-
-./EAGLE2016_camera_ready.bbl:133: Package utf8x Error: MalformedUTF-8sequence.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.133   M.�.}
-             , \emph{Epigrafía digital: tecnología 3d de bajo coste para la
-? 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-255.def
-File: uni-255.def 2013/05/13 UCS: Unicode data U+FF00..U+FFFF
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
-File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-255.def
-File: uni-255.def 2013/05/13 UCS: Unicode data U+FF00..U+FFFF
-)
-
-./EAGLE2016_camera_ready.bbl:133: Package ucs Error: Unknown Unicode character 
-65533 = U+FFFD,
-(ucs)                possibly declared in uni-255.def.
-(ucs)                Type H to see if it is available with options.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.133   M.�.}
-             , \emph{Epigrafía digital: tecnología 3d de bajo coste para la
-? 
 [11]
 Underfull \hbox (badness 10000) in paragraph at lines 140--146
 \T1/qpl/m/n/10 (+20) 211--217, URL [][]$\T1/lmtt/m/n/10 http : / / www . resear
@@ -1437,42 +1395,36 @@ Underfull \hbox (badness 1072) in paragraph at lines 154--159
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
  [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 315.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
  (./EAGLE2016_camera_ready.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 315.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 315.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 308.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 308.
 Package rerunfilecheck Info: File `EAGLE2016_camera_ready.out' has not changed.
 
 (rerunfilecheck)             Checksum: 9C59E035E17AB5A087020EBCD11821A9;566.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 21767 strings out of 493089
- 408403 string characters out of 6134841
- 467237 words of memory out of 5000000
- 24738 multiletter control sequences out of 15000+600000
- 109899 words of font info for 201 fonts, out of 8000000 for 9000
+ 21655 strings out of 493089
+ 406770 string characters out of 6134841
+ 467239 words of memory out of 5000000
+ 24631 multiletter control sequences out of 15000+600000
+ 109863 words of font info for 202 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,40p,10420b,867s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/loca
-l/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2015
-/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texlive/2015/texmf
--dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/public/lm/lmtcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
-public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
--gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/
-qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.
-pfb>
-Output written on EAGLE2016_camera_ready.pdf (12 pages, 4650520 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
+e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/tex-gyre/qplri.pfb>
+Output written on EAGLE2016_camera_ready.pdf (12 pages, 4634603 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
+ 275 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
  52 named destinations out of 1000 (max. 500000)
- 42583 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 42071 words of extra memory for PDF output out of 42996 (max. 10000000)
 

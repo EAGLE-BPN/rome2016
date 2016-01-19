@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  19 JAN 2016 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -759,38 +759,38 @@ LaTeX Info: Redefining \cite on input line 694.
 (./EAGLE2016_Final_Paper Modolo.aux)
 \openout1 = `"EAGLE2016_Final_Paper Modolo.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 )
-LaTeX Info: Redefining \microtypecontext on input line 47.
+LaTeX Info: Redefining \microtypecontext on input line 48.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -990,7 +990,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 47.
+Package hyperref Info: Link coloring ON on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1000,9 +1000,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count182
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (./EAGLE2016_Final_Paper Modolo.out) (./EAGLE2016_Final_Paper Modolo.out)
 \@outlinefile=\write3
@@ -1011,7 +1011,7 @@ LaTeX Info: Redefining \nameref on input line 47.
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 47.
+(hyperref)                setting the option has no effect on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
@@ -1022,7 +1022,7 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-LaTeX Info: Redefining \textsubscript on input line 47.
+LaTeX Info: Redefining \textsubscript on input line 48.
 \c@definition=\count183
 \c@condition=\count184
 \c@problem=\count185
@@ -1044,7 +1044,7 @@ LaTeX Info: Redefining \textsubscript on input line 47.
 
 
 Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
-(utf8x.def)                Restoringtoitsutf8x-meaning on input line 47.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -1134,30 +1134,30 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
 \c__siunitx_mathsf_int=\count201
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 48.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1167,7 +1167,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmss.fd
@@ -1178,7 +1178,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 \c__siunitx_mathtt_int=\count202
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
@@ -1189,16 +1189,16 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (22.85968pt too wide) in paragraph at lines 49--49
-[]\T1/qpl/m/n/14.4 FREE RE-PRO-DUC-TION OF CUL-TURAL HER-ITAGE
+Overfull \hbox (15.20372pt too wide) in paragraph at lines 50--50
+[]\T1/qpl/m/n/14.4 Free Re-pro-duc-tion of Cul-tural Her-itage for Re-search
  []
 
 
-Overfull \hbox (1.39046pt too wide) in paragraph at lines 49--49
-\T1/qpl/m/n/14.4 FOR RE-SEARCH PUR-POSES: REG-U-LA-TORY AS-
+Overfull \hbox (2.72609pt too wide) in paragraph at lines 50--50
+\T1/qpl/m/n/14.4 Pur-poses: Reg-u-la-tory As-pects and New Prospects
  []
 
-LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 49.
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 50.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
@@ -1210,15 +1210,16 @@ Package microtype Info: Character `029' is missing
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [2]
+)
 Overfull \hbox (3.78098pt too wide) in paragraph at lines 103--103
  |[]\T1/qpl/b/n/12 Traditional ob-jec-tions to lib-er-al-i-sa-tion of re-pro-du
 c-tions| 
  []
 
+[2]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 114.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -1245,19 +1246,6 @@ Overfull \hbox (178.84134pt too wide) in paragraph at lines 141--141
 li/$[][]| 
  []
 
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\%'
-(microtype)                in font encoding `T1' in protrusion list 
-(microtype)                `default'.
-
-
-Overfull \hbox (62.40033pt too wide) in paragraph at lines 161--165
-\T1/qpl/m/n/10 (-20) itage ([][]$\T1/lmtt/m/n/10 https : / / fotoliberebbcc . w
-ordpress . com / category / la-[]nostra-[]proposta/$[][]\T1/qpl/m/n/10 (-20) ),
-
- []
-
 [4] [5]
 Overfull \hbox (0.22896pt too wide) in paragraph at lines 221--221
  |[]\T1/qpl/b/n/12 Encouraging first re-sults and Eu-ro-pean per-spec-tives for
@@ -1276,6 +1264,13 @@ Package natbib Warning: Citation `stella_biblioteche_2015' undefined on input l
 ine 268.
 
 (./EAGLE2016_Final_Paper Modolo.bbl
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\%'
+(microtype)                in font encoding `T1' in protrusion list 
+(microtype)                `default'.
+
+
 Underfull \hbox (badness 4316) in paragraph at lines 12--14
 []\T1/qpl/m/it/10 (+20) Appello delle So-ci-età Sci-en-tifiche al Min-istro Bra
 y per la fo-tografia
@@ -1285,30 +1280,13 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+Underfull \hbox (badness 3568) in paragraph at lines 26--29
 []\T1/qpl/m/sc/10 (+20) Brugnoli, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
-) Ripro-duzione di beni cul-tur-ali: ap-pello al Min-
- []
+) An-cora sulla ripro-duzione dei beni cul-tur-ali\T1/qpl/m/n/10 (+20) , Ripro-
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
-\T1/qpl/m/it/10 (+20) istro Bray\T1/qpl/m/n/10 (+20) , 2013, URL [][]$\T1/lmtt/
-m/n/10 http : / / www . roars . it / online /
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 26--29
-[]\T1/qpl/m/sc/10 (+20) Brugnoli, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
-) An-cora sulla ripro-duzione dei beni cul-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--29
-\T1/qpl/m/it/10 (+20) tur-ali\T1/qpl/m/n/10 (+20) , 2014, URL [][]$\T1/lmtt/m/n
-/10 http : / / www . roars . it / online /
- []
-
-
 Underfull \hbox (badness 6995) in paragraph at lines 42--45
 []\T1/qpl/m/sc/10 (+20) Ciociola, C.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
 ) Libere ripro-duzioni negli archivi e nelle bib-lioteche\T1/qpl/m/n/10 (+20) ,
@@ -1369,13 +1347,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
 Package rerunfilecheck Info: File `"EAGLE2016_Final_Paper Modolo".out' has not 
 changed.
-(rerunfilecheck)             Checksum: FD723BA90E1A3FE2F4D98896BDBD789B;473.
+(rerunfilecheck)             Checksum: DD549AAC0AC724B1A72691F8A58B0BF0;536.
  ) 
 Here is how much of TeX's memory you used:
- 21788 strings out of 493089
- 407411 string characters out of 6134841
- 465214 words of memory out of 5000000
- 24828 multiletter control sequences out of 15000+600000
+ 21789 strings out of 493089
+ 407425 string characters out of 6134841
+ 464214 words of memory out of 5000000
+ 24829 multiletter control sequences out of 15000+600000
  101611 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,45p,10428b,870s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1388,10 +1366,10 @@ nts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
 re/qplri.pfb>
-Output written on "EAGLE2016_Final_Paper Modolo.pdf" (9 pages, 176802 bytes).
+Output written on "EAGLE2016_Final_Paper Modolo.pdf" (9 pages, 176857 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
+ 187 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
  41 named destinations out of 1000 (max. 500000)
- 43049 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 43057 words of extra memory for PDF output out of 51595 (max. 10000000)
 

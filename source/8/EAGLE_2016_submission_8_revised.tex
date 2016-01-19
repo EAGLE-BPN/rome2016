@@ -28,9 +28,6 @@
 %\setotherlanguage[variant=polytonic]{greek}
 %\newfontfamily{\greekfont}[Ligatures=TeX]{Palatino Linotype}
 
-% dummy text (remove in a normal thesis)
-% remove if not necessary
-\usepackage{siunitx}
 %Natbib for bibliography management
 \usepackage[authoryear]{natbib}
 % custom commands
@@ -41,21 +38,24 @@
 %%%%%%%%
 
 %all title info missing!
-\title{A VIRTUAL RESEARCH ENVIRONMENT TO DOCUMENT AND ANALYZE NON-ALPHABETIC WRITING SYSTEMS. A Case Study for Maya Writing.}
-\author[bonn]{Katja Diederichs\corref{first}}
-\author[bonn]{Sven Gronemeyer}
-\author[bonn]{Christian Prager}
-\author[bonn]{Elisabeth Wagner}
-\author[bonn]{Franziska Diehr}
-\author[bonn]{Brodhun Maximilian}
-\author[bonn]{Nikolai Grube}
-
-\address[bonn]{missing}
-
-\cortext[bonn]{missing} 
+\title{A Virtual Research Environment to 
+Document and Analyze Non-alphabetic Writing Systems. 
+A Case Study for Maya Writing}
+\author[BONN]{Katja Diederichs\corref{first}}
+\author[BONN,MEL]{Sven Gronemeyer}
+\author[BONN]{Christian Prager}
+\author[BONN]{Elisabeth Wagner}
+\author[GOT]{Franziska Diehr}
+\author[GOT]{Maximilian Brodhun}
+\author[BONN]{Nikolai Grube}
+%
+\address[GOT]{Niedersächsische Staats- und Universitätsbibliothek Göttingen}
+\address[MEL]{La Trobe University Melbourne}
+\address[BONN]{Rheinische Friedrich-Wilhelms-Universität Bonn}
+%
+\cortext[first]{Corresponding author. Email: diederichs@uni-bonn.de} 
 
 \begin{document}
-
 \maketitle
 
 \begin{abstract}
@@ -126,7 +126,7 @@ researching texts composed in other hieroglyphic, cuneiform, or linear writing s
 
 
 
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016submission8revisedx-img001.png}
 \caption{Visualization of the important steps in the workflow of epigraphic analysis, drawings by \citet{Prager2015}}
@@ -141,9 +141,9 @@ researching texts composed in other hieroglyphic, cuneiform, or linear writing s
 When developing and technically implementing the digital epigraphic research environment, the major focus is on pursuing
 the following objectives: 
 \begin{enumerate}
-\item creation of a markup schema to represent these steps (which in practice are interconnected
+\item Creation of a markup schema to represent these steps (which in practice are interconnected
 and may also occur parallel to each other in the form of alternative interpretations); 
-\item defining of the precise requirements that a data structure must fulfill in order to sufficiently represent complex
+\item Defining of the precise requirements that a data structure must fulfill in order to sufficiently represent complex
 i.e. non-alphabetic textual data for epigraphic analysis and research. 
 \end{enumerate}
 
@@ -306,8 +306,8 @@ of research, and consequently to exploring the meaningfully distinct features of
 
 
 
-
-\subsubsection[1. Allography of Graphemes ]{1. Allography of Graphemes }
+\vspace{0.5cm}
+\noindent\textbf{Allography of Graphemes }\\
 % THESE ARE SUBSUB*SUB*SECTIONS...
 A very important example of a subject of graphemic research is provided by allography, a phenomenon which describes a
 1:n relationship between a grapheme and its various graph representations \citep{Crystal1997}. 
@@ -328,8 +328,8 @@ or vice versa.
 
 
 
-\subsubsection[2. Graphotactic Strategies of a Writing System ]{2. Graphotactic Strategies of a Writing System
-}
+\vspace{0.5cm}
+\noindent\textbf{Graphotactic Strategies of a Writing System}\\
 For analysis, it is important to convey the graphemics of a writing system, which are lost in an alphabetic
 transliteration. Graphemics concerns sign function, or graphotactic strategies for constituting a meaningful unit or
 word. Representing the reading order of signs in the text and in each block is similarly imperative. To
@@ -341,7 +341,7 @@ have very diverse graphotactical manifestations in different writing systems, wh
 and communicated in a digital structure in order that researchers may thus take note of various interpretations under
 discussion. 
 
-\begin{figure}[!bp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016submission8revisedx-img002.png}
 \caption[Some possible sign combinations in Classical Mayan hieroglyphs after \citet{Zender1999}, drawings by
