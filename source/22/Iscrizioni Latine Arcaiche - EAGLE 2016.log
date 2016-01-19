@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.23)  18 JAN 2016 17:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.23)  19 JAN 2016 12:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1261,18 +1261,12 @@ nput line 164.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/8'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Overfull \hbox (27.77759pt too wide) in paragraph at lines 173--179
-\T1/qpl/m/n/10 (-20) loi{u}quiod ([][]\T1/qpl/m/sc/10 (-20) Vine[][]\T1/qpl/m/n
-/10 (-20) , [][]1993[][]), LOIUQUIOD[QO] ([][]\T1/qpl/m/sc/10 (-20) Baldi[][]\T
-1/qpl/m/n/10 (-20) , [][]2002[][]), LOIUQUIOD,QO///
- []
-
-[4] [5 <./IscrizioniLatineArcaicheEAGLE2016-img001.png (PNG copy)>] [6]
-[7] [8] [9]
+ [4] [5 <./IscrizioniLatineArcaicheEAGLE2016-img001.png (PNG copy)>] [6] [7] [8
+] [9]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 302.
 
- (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmtt.fd
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -1286,50 +1280,31 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-[10] [11] [12] (./Iscrizioni Latine Arcaiche - EAGLE 2016.bbl
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\%'
-(microtype)                in font encoding `T1' in protrusion list 
-(microtype)                `default'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--41
-\T1/lmtt/m/n/10 / / books . google . de / books ? hl = en&lr = &id = LJ2WkJOs3R
-4C&oi =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--41
-\T1/lmtt/m/n/10 fnd&pg = PA19&dq = Syntax ,[] +sociolinguistics ,[] +and + lite
-rary +
- []
-
-[13] [14]
-Underfull \hbox (badness 5345) in paragraph at lines 153--157
+[10] [11] (./Iscrizioni Latine Arcaiche - EAGLE 2016.bbl [12] [13] [14]
+Underfull \hbox (badness 5345) in paragraph at lines 157--161
 \T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / secure . peterlang . c
 om / download / datasheet / 6766 /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 373.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 372.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 373.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 372.
  (./Iscrizioni Latine Arcaiche - EAGLE 2016.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 373.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 373.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 372.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 372.
 Package rerunfilecheck Info: File `"Iscrizioni Latine Arcaiche - EAGLE 2016".ou
 t' has not changed.
 (rerunfilecheck)             Checksum: 835D0BFA6B223182BB0ADFBB03885A35;247.
  ) 
 Here is how much of TeX's memory you used:
- 21796 strings out of 493315
- 409068 string characters out of 6137904
- 453263 words of memory out of 5000000
+ 21842 strings out of 493315
+ 409538 string characters out of 6137904
+ 454294 words of memory out of 5000000
  24674 multiletter control sequences out of 15000+600000
- 110564 words of font info for 207 fonts, out of 8000000 for 9000
+ 113691 words of font info for 230 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,9n,45p,933b,877s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,933b,881s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2013/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
 e/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2013/texmf-di
@@ -1342,10 +1317,10 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
 Output written on "Iscrizioni Latine Arcaiche - EAGLE 2016.pdf" (15 pages, 1290
-4519 bytes).
+4023 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
+ 263 PDF objects out of 1000 (max. 8388607)
+ 234 compressed objects within 3 object streams
  51 named destinations out of 1000 (max. 500000)
  44070 words of extra memory for PDF output out of 51595 (max. 10000000)
 
