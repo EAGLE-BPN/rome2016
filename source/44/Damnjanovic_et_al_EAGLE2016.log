@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  19 JAN 2016 19:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1312,68 +1312,66 @@ Overfull \hbox (20.1116pt too wide) in paragraph at lines 33--37
 \T1/lmtt/m/n/10 2BTBQyIgpmv9yNDWPgMqpNsoBH8VQozhpf7fzFEse947irGD0UXQMsUgB9Ka %
  []
 
-[12]
-Underfull \hbox (badness 7522) in paragraph at lines 47--51
+
+Underfull \hbox (badness 7522) in paragraph at lines 39--43
 []\T1/qpl/m/sc/10 (+20) Fast, K.V., Sedig, K.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/i
 t/10 (+20) In-ter-ac-tion and the epis-temic po-ten-tial of
  []
 
 
-Underfull \hbox (badness 4582) in paragraph at lines 47--51
+Underfull \hbox (badness 4582) in paragraph at lines 39--43
 \T1/qpl/m/it/10 (+20) dig-i-tal li-braries\T1/qpl/m/n/10 (+20) , In-ter-na-tion
 al Jour-nal on Dig-i-tal Li-braries, 11
  []
 
 
-Underfull \hbox (badness 7759) in paragraph at lines 47--51
+Underfull \hbox (badness 7759) in paragraph at lines 39--43
 \T1/qpl/m/n/10 (+20) (2010), 169--207, URL [][]$\T1/lmtt/m/n/10 http : / / link
  . springer . com / article / 10 .
  []
 
+[12]
+Underfull \hbox (badness 3148) in paragraph at lines 62--66
+[]\T1/qpl/m/sc/10 (+20) Liuzzo, P.M., Ruiz, E.R., Vas-sallo, V.\T1/qpl/m/n/10 (
++20) , \T1/qpl/m/it/10 (+20) Net-work-ing EA-GLE with
+ []
 
-Underfull \hbox (badness 1881) in paragraph at lines 85--90
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+\T1/qpl/m/it/10 (+20) CIDOC and TEI\T1/qpl/m/n/10 (+20) , in \T1/qpl/m/it/10 (+
+20) CIDOC 2014: Ac-cess and Un-der-stand-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+\T1/qpl/m/it/10 (+20) ing ^^U Net-work-ing in the Dig-i-tal Era\T1/qpl/m/n/10 (
++20) , Dres-den, 2014, URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+[][]$\T1/lmtt/m/n/10 http : / / www . cidoc2014 . de / images / sampledata / ci
+doc / papers /
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 86--91
 \T1/qpl/m/it/10 (+20) The 13th In-ter-na-tional Sym-po-sium on Vir-tual Re-al-i
 ty, Ar-chae-ol-ogy
  []
 
-
-Underfull \hbox (badness 2409) in paragraph at lines 101--105
-[]\T1/qpl/m/sc/10 (+20) Ronzino, P., Her-mon, S., Nic-colucci, F.\T1/qpl/m/n/10
- (+20) , \T1/qpl/m/it/10 (+20) A meta-data schema for
- []
-
-
-Underfull \hbox (badness 5970) in paragraph at lines 101--105
-\T1/qpl/m/it/10 (+20) cul-tural her-itage doc-u-men-ta-tion\T1/qpl/m/n/10 (+20)
- , V., CApellini (ed.), Elec-tronic
- []
-
-
-Underfull \hbox (badness 3098) in paragraph at lines 101--105
-\T1/qpl/m/n/10 (+20) Imag-ing & the Vi-sual Arts: EVA, (2012), 36--41, URL [][]
-$\T1/lmtt/m/n/10 http :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--105
-\T1/lmtt/m/n/10 / / www . researchgate . net / profile / Paola _ Ronzino / publ
-ication /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--105
-\T1/lmtt/m/n/10 259786414 _ A _ METADATA _ SCHEMA _ FOR _ CULTURAL _ HERITAGE _
-
- []
-
 [13]
-LaTeX Font Info:    Try loading font information for LGR+qpl on input line 117.
+Underfull \hbox (badness 1354) in paragraph at lines 108--115
+\T1/qpl/m/it/10 (+20) A pro-posed Meta-data for an-cient Cypriot in-scrip-tions
+\T1/qpl/m/n/10 (+20) , in A. Ad-di-
+ []
 
-LaTeX Font Info:    No file LGRqpl.fd. on input line 117.
+LaTeX Font Info:    Try loading font information for LGR+qpl on input line 118.
 
+LaTeX Font Info:    No file LGRqpl.fd. on input line 118.
 
 LaTeX Font Warning: Font shape `LGR/qpl/m/it' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 117.
+(Font)              using `LGR/cmr/m/n' instead on input line 118.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1401,11 +1399,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22538 strings out of 493089
- 417333 string characters out of 6134841
- 466989 words of memory out of 5000000
+ 22532 strings out of 493089
+ 417271 string characters out of 6134841
+ 466002 words of memory out of 5000000
  25517 multiletter control sequences out of 15000+600000
- 107353 words of font info for 198 fonts, out of 8000000 for 9000
+ 106955 words of font info for 195 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,40p,10425b,948s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
@@ -1418,10 +1416,10 @@ ts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
 re/qplri.pfb>
-Output written on Damnjanovic_et_al_EAGLE2016.pdf (14 pages, 904589 bytes).
+Output written on Damnjanovic_et_al_EAGLE2016.pdf (14 pages, 904523 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
+ 249 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
  43 named destinations out of 1000 (max. 500000)
  42058 words of extra memory for PDF output out of 42996 (max. 10000000)
 
