@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 17:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1293,13 +1293,13 @@ inal)".out' has not changed.
 (rerunfilecheck)             Checksum: 4FE703E20CC8968F852EDDF5EC7B9924;352.
  ) 
 Here is how much of TeX's memory you used:
- 21689 strings out of 493089
- 406095 string characters out of 6134841
+ 21693 strings out of 493089
+ 406143 string characters out of 6134841
  462912 words of memory out of 5000000
  24697 multiletter control sequences out of 15000+600000
- 110104 words of font info for 196 fonts, out of 8000000 for 9000
+ 110363 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,45p,10448b,864s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10448b,866s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
 e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2015/t
@@ -1311,7 +1311,7 @@ x-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre
 /qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri
 .pfb>
 Output written on "Zuddas Epigraphy in Italian High Schools (final).pdf" (13 pa
-ges, 186355 bytes).
+ges, 186127 bytes).
 PDF statistics:
  182 PDF objects out of 1000 (max. 8388607)
  159 compressed objects within 2 object streams
