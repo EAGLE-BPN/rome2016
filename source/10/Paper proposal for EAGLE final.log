@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 23:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -759,38 +759,38 @@ LaTeX Info: Redefining \cite on input line 694.
 (./Paper proposal for EAGLE final.aux)
 \openout1 = `"Paper proposal for EAGLE final.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 )
-LaTeX Info: Redefining \microtypecontext on input line 47.
+LaTeX Info: Redefining \microtypecontext on input line 48.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -990,7 +990,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 47.
+Package hyperref Info: Link coloring ON on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1000,9 +1000,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count182
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (./Paper proposal for EAGLE final.out) (./Paper proposal for EAGLE final.out)
 \@outlinefile=\write3
@@ -1011,7 +1011,7 @@ LaTeX Info: Redefining \nameref on input line 47.
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 47.
+(hyperref)                setting the option has no effect on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
@@ -1022,7 +1022,7 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-LaTeX Info: Redefining \textsubscript on input line 47.
+LaTeX Info: Redefining \textsubscript on input line 48.
 \c@definition=\count183
 \c@condition=\count184
 \c@problem=\count185
@@ -1044,7 +1044,7 @@ LaTeX Info: Redefining \textsubscript on input line 47.
 
 
 Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
-(utf8x.def)                Restoringtoitsutf8x-meaning on input line 47.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 48.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -1134,30 +1134,30 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
 \c__siunitx_mathsf_int=\count201
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 48.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1167,7 +1167,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmss.fd
@@ -1178,7 +1178,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 \c__siunitx_mathtt_int=\count202
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 48.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
@@ -1188,41 +1188,31 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (24.67181pt too wide) in paragraph at lines 48--48
-[]\T1/qpl/m/n/14.4 FACE VALUE: THE POWER OF IM-AGES AT APHRO-
- []
-
-
-Overfull \hbox (1.0054pt too wide) in paragraph at lines 48--48
-\T1/qpl/m/n/14.4 our use of Palaeog-ra-phy in un-der-stand-ing In-scrip-
- []
-
-LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 48.
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 49.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/8'.
 (microtype)             Ignoring protrusion settings for this character.
-[1
+ [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 
 Package natbib Warning: Citation `panciera 2012' on page 3 undefined on input l
-ine 114.
+ine 115.
+
+
+Package natbib Warning: Citation `mama8' on page 3 undefined on input line 130.
+
 
 [3]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 159.
 
-Package natbib Warning: Citation `mama8' on page 4 undefined on input line 129.
-
-
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 158.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -1238,20 +1228,20 @@ Package microtype Warning: Unknown slot number of character
 
 
 Package natbib Warning: Citation `reynolds 1990' on page 4 undefined on input l
-ine 174.
+ine 175.
 
 
 Package natbib Warning: Citation `buraselis2001' on page 4 undefined on input l
-ine 184.
+ine 185.
 
 [4] [5]
-LaTeX Font Info:    Try loading font information for LGR+qpl on input line 199.
+LaTeX Font Info:    Try loading font information for LGR+qpl on input line 200.
 
-LaTeX Font Info:    No file LGRqpl.fd. on input line 199.
+LaTeX Font Info:    No file LGRqpl.fd. on input line 200.
 
 
 LaTeX Font Warning: Font shape `LGR/qpl/m/n' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 199.
+(Font)              using `LGR/cmr/m/n' instead on input line 200.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1263,18 +1253,21 @@ File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-31.def
 File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
 )
-Overfull \hbox (4.25224pt too wide) in paragraph at lines 228--230
+Overfull \hbox (4.25224pt too wide) in paragraph at lines 229--231
 \T1/qpl/m/n/10 (-20) Eumachos Dio-genes, son of Athenago-ras, the son of Athena
 go-
  []
 
-[6] [7]
+[6]
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
+ [7]
 <PaperproposalforEAGLEfinal-img001.png, id=188, 1442.38875pt x 861.2175pt>
 File: PaperproposalforEAGLEfinal-img001.png Graphic file (type png)
 
 <use PaperproposalforEAGLEfinal-img001.png>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img001.png used on input li
-ne 286.
+ne 287.
 (pdftex.def)             Requested size: 310.13503pt x 185.1713pt.
  [8 <./PaperproposalforEAGLEfinal-img001.png>] (/usr/local/texlive/2015/texmf-d
 ist/tex/latex/ucs/data/uni-0.def
@@ -1285,7 +1278,7 @@ File: PaperproposalforEAGLEfinal-img002.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img002.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img002.jpg used on input li
-ne 353.
+ne 354.
 (pdftex.def)             Requested size: 310.13503pt x 271.8761pt.
  [10 <./PaperproposalforEAGLEfinal-img002.jpg>] [11]
 <PaperproposalforEAGLEfinal-img003.jpg, id=213, 276.9255pt x 208.926pt>
@@ -1293,29 +1286,29 @@ File: PaperproposalforEAGLEfinal-img003.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img003.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img003.jpg used on input li
-ne 444.
+ne 445.
 (pdftex.def)             Requested size: 310.13503pt x 233.9955pt.
  [12] [13 <./PaperproposalforEAGLEfinal-img003.jpg>]
 
 Package natbib Warning: Citation `reynolds1999b' on page 14 undefined on input 
-line 480.
+line 481.
 
 <PaperproposalforEAGLEfinal-img004.jpg, id=232, 308.4615pt x 116.6175pt>
 File: PaperproposalforEAGLEfinal-img004.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img004.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img004.jpg used on input li
-ne 500.
+ne 501.
 (pdftex.def)             Requested size: 310.13503pt x 117.25778pt.
  [14]
-LaTeX Font Info:    Try loading font information for OMS+qpl on input line 529.
+LaTeX Font Info:    Try loading font information for OMS+qpl on input line 530.
 
-LaTeX Font Info:    No file OMSqpl.fd. on input line 529.
+LaTeX Font Info:    No file OMSqpl.fd. on input line 530.
 
 
 LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 529.
+(Font)              for symbol `textbraceleft' on input line 530.
 
 [15 <./PaperproposalforEAGLEfinal-img004.jpg>]
 <PaperproposalforEAGLEfinal-img005.jpg, id=246, 205.9695pt x 158.0085pt>
@@ -1323,7 +1316,7 @@ File: PaperproposalforEAGLEfinal-img005.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img005.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img005.jpg used on input li
-ne 550.
+ne 551.
 (pdftex.def)             Requested size: 310.13503pt x 237.91867pt.
 
 <PaperproposalforEAGLEfinal-img006.jpg, id=247, 177.0615pt x 130.743pt>
@@ -1331,13 +1324,13 @@ File: PaperproposalforEAGLEfinal-img006.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img006.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img006.jpg used on input li
-ne 551.
+ne 552.
 (pdftex.def)             Requested size: 310.13503pt x 229.04303pt.
  [16] [17 <./PaperproposalforEAGLEfinal-img005.jpg> <./PaperproposalforEAGLEfin
 al-img006.jpg>] [18]
 
 Package natbib Warning: Citation `reynolds1981' on page 19 undefined on input l
-ine 652.
+ine 653.
 
 [19] [20] (./Paper proposal for EAGLE final.bbl
 
@@ -1393,12 +1386,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 693.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 694.
 [24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 693.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 694.
  (./Paper proposal for EAGLE final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 693.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 693.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 694.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 694.
 Package rerunfilecheck Info: File `"Paper proposal for EAGLE final".out' has no
 t changed.
 (rerunfilecheck)             Checksum: 0438975EBBB954F58AEA8F9AF58594EA;1272.
@@ -1425,7 +1418,7 @@ dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts
 ic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
 -gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/
 qplri.pfb>
-Output written on "Paper proposal for EAGLE final.pdf" (24 pages, 1394867 bytes
+Output written on "Paper proposal for EAGLE final.pdf" (24 pages, 1394835 bytes
 ).
 PDF statistics:
  400 PDF objects out of 1000 (max. 8388607)
