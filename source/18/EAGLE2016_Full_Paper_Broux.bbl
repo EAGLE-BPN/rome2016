@@ -1,0 +1,89 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Broux}(2013{\natexlab{a}})}]{Broux2013b}
+\textsc{Broux, Y.}, \emph{Creating a {New} {Local} {Elite}: {The}
+  {Establishment} of the {Metropolitan} {Orders} of {Roman} {Egypt}}, Archiv
+  f{\"u}r Papyrusforschung und verwandte Gebiete, 59 (2013{\natexlab{a}}),
+  143--153,
+  \urlprefix\url{http://www.degruyter.com/view/j/apf.2013.59.issue-1/apf.2013.59.1.143/apf.2013.59.1.143.xml}.
+
+\bibitem[{\textsc{Broux}(2013{\natexlab{b}})}]{Broux2013a}
+\textsc{Broux, Y.}, \emph{Explicit {Name} {Change} in {Roman} {Egypt}},
+  Chronique d'Egypte, 88 (2013{\natexlab{b}}), 313--336,
+  \urlprefix\url{http://brepols.metapress.com/index/E1527L34221J1431.pdf}.
+
+\bibitem[{\textsc{Broux}(2015{\natexlab{a}})}]{Broux2015a}
+\textsc{Broux, Y.}, \emph{Double {Names} and {Elite} {Strategy} in {Roman}
+  {Egypt}}, vol.~54 of \emph{Studia Hellenistica}, Peeters, Leuven,
+  2015{\natexlab{a}}.
+
+\bibitem[{\textsc{Broux}(2015{\natexlab{b}})}]{Broux2015c}
+\textsc{Broux, Y.}, \emph{Graeco-{Egyptian} {Naming} {Practices}: {A} {Network}
+  {Perspective}}, Greek, Roman and Byzantine Studies, 55 (2015{\natexlab{b}}),
+  706--720, \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/485372}.
+
+\bibitem[{\textsc{Broux}(2015{\natexlab{c}})}]{Broux2015b}
+\textsc{Broux, Y.}, \emph{Re: Apatores. {Identification} {Issues} and {Loss} of
+  {Status} in {Roman} {Egypt}}, Zeitschrift f{\"u}r Papyrologie und Epigraphik,
+  194 (2015{\natexlab{c}}), 212--214,
+  \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/481814}.
+
+\bibitem[{\textsc{Broux et~al.}(2010)\textsc{Broux, Coussement, and
+  Depauw}}]{Broux2010}
+\textsc{Broux, Y., Coussement, S., Depauw, M.},
+  \emph{\begin{otherlanguage*}{greek} Καὶ ὡς χρηματίζει
+  \end{otherlanguage*} and the {Importance} of {Naming} in {Roman} {Egypt}},
+  Zeitschrift f{\"u}r Papyrologie und Epigraphik, 174 (2010), 159--166,
+  \urlprefix\url{http://www.jstor.org/stable/41291026}.
+
+\bibitem[{\textsc{Broux and Depauw}(2015)}]{BrouxDepauw}
+\textsc{Broux, Y., Depauw, M.}, \emph{The {Maternal} {Line} in {Greek}
+  {Identification}. {Signalling} {Social} {Status} in {Roman} {Egypt} (30
+  {BC}-{AD} 400)}, Historia: Zeitschrift f{\"u}r Alte Geschichte, 65 (2015),
+  \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/436714}.
+
+\bibitem[{\textsc{Broux and Vanbeselaere}(forthcoming)}]{BrouxVanbeselaere}
+\textsc{Broux, Y., Vanbeselaere, S.}, \emph{Identifying {Individuals} through
+  {Network} {Visualization}}, Digital Humanities Quarterly,  (forthcoming),
+  \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/479930}.
+
+\bibitem[{\textsc{Coussement}(forthcoming)}]{Coussement}
+\textsc{Coussement, S.}, \emph{Because {I} am {Greek}: {Polyonymy} and the
+  {Expression} of {Ethnicity} in {Ptolemaic} {Egypt}}, vol.~55 of \emph{Studia
+  Hellenistica}, Peeters, Leuven, forthcoming,
+  \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/349966}.
+
+\bibitem[{\textsc{Depauw}(forthcoming)}]{Depauw}
+\textsc{Depauw, M.}, \emph{Roman {Influence} on {Rituals} of {Identification}
+  in {Egypt}}, in P.~Van~Nuffelen, A.~Zuiderhoek (edd.), \emph{Constructing
+  (an) Imperial Identity? Ritual and Identity Formation in the Roman World},
+  Gent, forthcoming,
+  \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/478973}.
+
+\bibitem[{\textsc{Depauw and Clarysse}(2013)}]{Depauw2013}
+\textsc{Depauw, M., Clarysse, W.}, \emph{How {Christian} was {Fourth} {Century}
+  {Egypt}? {Onomastic} {Perspectives} on {Conversion}}, Vigiliae Christianae,
+  67 (2013), 407--435,
+  \urlprefix\url{http://booksandjournals.brillonline.com/content/journals/10.1163/15700720-12341144}.
+
+\bibitem[{\textsc{Depauw and Van~Beek}(2009)}]{Depauw2009}
+\textsc{Depauw, M., Van~Beek, B.}, \emph{People in {Greek} {Documentary}
+  {Papyri}. {First} {Results} of a {Research} {Project}}, Journal of Juristic
+  Papyrology, 39 (2009), 31--47,
+  \urlprefix\url{http://www.trismegistos.org/ref/depauw_vanbeek.pdf}.
+
+\bibitem[{\textsc{Van~Hooland et~al.}(forthcoming)\textsc{Van~Hooland,
+  De~Wilde, Verborgh, Steiner, and Van~de Walle}}]{vanHooland}
+\textsc{Van~Hooland, S., De~Wilde, M., Verborgh, R., Steiner, T., Van~de Walle,
+  R.}, \emph{Exploring entity recognition and disambiguation for cultural
+  heritage collections}, Literary and linguistic computing, DSH,
+  (forthcoming).
+
+\end{thebibliography}

@@ -7,7 +7,7 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{\textsc{Broux and Depauw}(2014)}]{BrouxDepauw}
+\bibitem[{\textsc{Broux and Depauw}(2014)}]{BrouxDepauw2}
 \textsc{Broux, Y., Depauw, M.}, \emph{Developing {Onomastic} {Gazetteers} and
   {Prosopographies} for the {Ancient} {World} {Through} {Named} {Entity}
   {Recognition} and {Graph} {Visualization}: {Some} {Examples} from
