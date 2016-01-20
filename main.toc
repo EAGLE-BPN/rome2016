@@ -27,14 +27,14 @@
 \contentsline {chapter}{Free Reproduction of Cultural Heritage for Research Purposes: Regulatory Aspects and New Prospects for Project EAGLE.\\ \textit {Mirco Modolo}}{231}
 \contentsline {chapter}{Digital enhancement of the ``Paolo Orsi'' museum: a Google Street View 360 pilot project tour.\\ \textit {Elisa Bonacini}}{241}
 \contentsline {chapter}{Latin Epigraphy for the Visually Impaired. New Technologies to Favour Universal Accessibility.\\ \textit {Francesca Licordari}}{255}
-\contentsline {chapter}{Teaching (Digital) Epigraphy.\\ \textit {Marion Lam\'e, Federico Ponchio, Ivan Radman-Livaja, Bruce Robertson}}{267}
-\contentsline {chapter}{Epigraphy in Italian High Schools.\\ \textit {Enrico Zuddas}}{283}
-\contentsline {part}{Digital Approaches to cross-disciplinary studies of inscriptions}{297}
-\contentsline {chapter}{Romans 1 by 1. Documenting a population database for the Roman world.\\ \textit {Rada Varga}}{299}
-\contentsline {chapter}{Towards a Universal Facebook of the Ancient World.\\ \textit {Yanne Broux}}{309}
-\contentsline {chapter}{Epigraphy and Onomastics in the Hesperia Database.\\ \textit {Noem\'i Moncunill, Javier Velaza}}{319}
-\contentsline {chapter}{Face Value: The Power of Images at Aphrodisias. How Digital Resources Can Transform our use of Palaeography in understanding Inscriptions.\\ \textit {Abigail Graham}}{333}
-\contentsline {chapter}{Deixis and Frames of Reference in Dedicatory Epigrams.\\ \textit {Flavia Licciardello}}{357}
-\contentsline {part}{Panels}{369}
-\contentsline {part}{Posters}{371}
-\contentsline {chapter}{\numberline {1}List of Posters presented}{373}
+\contentsline {chapter}{Teaching (Digital) Epigraphy.\\ \textit {Marion Lam\'e, Federico Ponchio, Ivan Radman-Livaja, Bruce Robertson}}{265}
+\contentsline {chapter}{Epigraphy in Italian High Schools.\\ \textit {Enrico Zuddas}}{281}
+\contentsline {part}{Digital Approaches to cross-disciplinary studies of inscriptions}{295}
+\contentsline {chapter}{Romans 1 by 1. Documenting a population database for the Roman world.\\ \textit {Rada Varga}}{297}
+\contentsline {chapter}{Towards a Universal Facebook of the Ancient World.\\ \textit {Yanne Broux}}{307}
+\contentsline {chapter}{Epigraphy and Onomastics in the Hesperia Database.\\ \textit {Noem\'i Moncunill, Javier Velaza}}{317}
+\contentsline {chapter}{Face Value: The Power of Images at Aphrodisias. How Digital Resources Can Transform our use of Palaeography in understanding Inscriptions.\\ \textit {Abigail Graham}}{331}
+\contentsline {chapter}{Deixis and Frames of Reference in Dedicatory Epigrams.\\ \textit {Flavia Licciardello}}{355}
+\contentsline {part}{Panels}{367}
+\contentsline {part}{Posters}{369}
+\contentsline {chapter}{\numberline {1}List of Posters presented}{371}
