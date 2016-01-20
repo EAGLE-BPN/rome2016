@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1245,17 +1245,13 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-30.def
 File: uni-30.def 2013/05/13 UCS: Unicode data U+1E00..U+1EFF
 )
-./EAGLE2016_Full_Paper_Broux.tex:167: Undefined control sequence.
+./EAGLE2016_Full_Paper_Broux.tex:171: Undefined control sequence.
 \u-default-7880 #1->\h 
                        I
-l.167 Ỉ
+l.171 Ỉ
          sytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-2.def
 File: uni-2.def 2013/05/13 UCS: Unicode data U+0200..U+02FF
 )
@@ -1266,7 +1262,7 @@ File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 File: uni-2.def 2013/05/13 UCS: Unicode data U+0200..U+02FF
 )
 
-./EAGLE2016_Full_Paper_Broux.tex:167: Package ucs Error: Unknown Unicode charac
+./EAGLE2016_Full_Paper_Broux.tex:171: Package ucs Error: Unknown Unicode charac
 ter 541 = U+021D,
 (ucs)                possibly declared in uni-2.def.
 (ucs)                Type H to see if it is available with options.
@@ -1275,14 +1271,10 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝ
+l.171 Ỉsytrs, ȝ
                   ysydwrs or ⲓⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 541 = U+021D:
-LATIN SMALL LETTER YOGH
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-44.def
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
@@ -1293,7 +1285,7 @@ File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
 
-./EAGLE2016_Full_Paper_Broux.tex:167: Package ucs Error: Unknown Unicode charac
+./EAGLE2016_Full_Paper_Broux.tex:171: Package ucs Error: Unknown Unicode charac
 ter 11411 = U+2C93,
 (ucs)                possibly declared in uni-44.def.
 (ucs)                Type H to see if it is available with options.
@@ -1302,14 +1294,10 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓ
+l.171 Ỉsytrs, ȝysydwrs or ⲓ
                                 ⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11411 = U+2C93:
-COPTIC SMALL LETTER IAUDA
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1317,7 +1305,7 @@ File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
 
-./EAGLE2016_Full_Paper_Broux.tex:167: Package ucs Error: Unknown Unicode charac
+./EAGLE2016_Full_Paper_Broux.tex:171: Package ucs Error: Unknown Unicode charac
 ter 11429 = U+2CA5,
 (ucs)                possibly declared in uni-44.def.
 (ucs)                Type H to see if it is available with options.
@@ -1326,17 +1314,13 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥ
+l.171 Ỉsytrs, ȝysydwrs or ⲓⲥ
                                    ⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11429 = U+2CA5:
-COPTIC SMALL LETTER SIMA
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 
 Package ucs Warning: Unknown character 11411 = 0x2C93 appeared again. on input 
-line 167.
+line 171.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
@@ -1345,7 +1329,7 @@ File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
 
-./EAGLE2016_Full_Paper_Broux.tex:167: Package ucs Error: Unknown Unicode charac
+./EAGLE2016_Full_Paper_Broux.tex:171: Package ucs Error: Unknown Unicode charac
 ter 11399 = U+2C87,
 (ucs)                possibly declared in uni-44.def.
 (ucs)                Type H to see if it is available with options.
@@ -1354,14 +1338,10 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇ
+l.171 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇ
                                          ⲱⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11399 = U+2C87:
-COPTIC SMALL LETTER DALDA
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1369,7 +1349,7 @@ File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
 
-./EAGLE2016_Full_Paper_Broux.tex:167: Package ucs Error: Unknown Unicode charac
+./EAGLE2016_Full_Paper_Broux.tex:171: Package ucs Error: Unknown Unicode charac
 ter 11441 = U+2CB1,
 (ucs)                possibly declared in uni-44.def.
 (ucs)                Type H to see if it is available with options.
@@ -1378,14 +1358,10 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱ
+l.171 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱ
                                             ⲣⲉ in Egyptian and Coptic. I...
 
-Unicode character 11441 = U+2CB1:
-COPTIC SMALL LETTER OOU
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1393,7 +1369,7 @@ File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
 
-./EAGLE2016_Full_Paper_Broux.tex:167: Package ucs Error: Unknown Unicode charac
+./EAGLE2016_Full_Paper_Broux.tex:171: Package ucs Error: Unknown Unicode charac
 ter 11427 = U+2CA3,
 (ucs)                possibly declared in uni-44.def.
 (ucs)                Type H to see if it is available with options.
@@ -1402,14 +1378,10 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣ
+l.171 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣ
                                                ⲉ in Egyptian and Coptic. I...
 
-Unicode character 11427 = U+2CA3:
-COPTIC SMALL LETTER RO
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
-
+? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1417,7 +1389,7 @@ File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 File: uni-44.def 2013/05/13 UCS: Unicode data U+2C00..U+2CFF
 )
 
-./EAGLE2016_Full_Paper_Broux.tex:167: Package ucs Error: Unknown Unicode charac
+./EAGLE2016_Full_Paper_Broux.tex:171: Package ucs Error: Unknown Unicode charac
 ter 11401 = U+2C89,
 (ucs)                possibly declared in uni-44.def.
 (ucs)                Type H to see if it is available with options.
@@ -1426,16 +1398,12 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ
+l.171 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ
                                                    in Egyptian and Coptic. I...
 
-Unicode character 11401 = U+2C89:
-COPTIC SMALL LETTER EIE
-Character is not defined in uni-*.def files.
-Enter I!<RET> to define the glyph.
+? 
 
-
-Overfull \hbox (122.24567pt too wide) in paragraph at lines 161--174
+Overfull \hbox (122.24567pt too wide) in paragraph at lines 161--178
 \T1/qpl/m/n/10 (-20) e.g. Isytrs, \OT1/lmtt/m/n/10 [U+021D]\T1/qpl/m/n/10 (-20)
  ysydwrs or \OT1/lmtt/m/n/10 [U+2C93][U+2CA5][U+2C93][U+2C87][U+2CB1][U+2CA3][U
 +2C89]
@@ -1453,7 +1421,7 @@ File: EAGLE2016FullPaperBroux-img001.jpg Graphic file (type jpg)
 
 <use EAGLE2016FullPaperBroux-img001.jpg>
 Package pdftex.def Info: EAGLE2016FullPaperBroux-img001.jpg used on input line 
-230.
+234.
 (pdftex.def)             Requested size: 310.13503pt x 293.67995pt.
 
 Underfull \vbox (badness 1931) has occurred while \output is active []
@@ -1500,12 +1468,12 @@ euven . be / handle / 123456789 /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
  (./EAGLE2016_Full_Paper_Broux.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
 Package rerunfilecheck Info: File `EAGLE2016_Full_Paper_Broux.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: 8BAA34356C09AF9D64EA4C50C6E8C86D;803.
@@ -1515,13 +1483,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23472 strings out of 493089
- 428093 string characters out of 6134841
+ 23474 strings out of 493089
+ 428111 string characters out of 6134841
  464607 words of memory out of 5000000
  26462 multiletter control sequences out of 15000+600000
- 107606 words of font info for 181 fonts, out of 8000000 for 9000
+ 107739 words of font info for 182 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,40p,10424b,934s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,40p,10424b,933s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/loca
 l/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texl
 ive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2015/texmf
@@ -1532,7 +1500,7 @@ ype1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
 c/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-
 gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/q
 plri.pfb>
-Output written on EAGLE2016_Full_Paper_Broux.pdf (10 pages, 331273 bytes).
+Output written on EAGLE2016_Full_Paper_Broux.pdf (10 pages, 331031 bytes).
 PDF statistics:
  210 PDF objects out of 1000 (max. 8388607)
  189 compressed objects within 2 object streams
