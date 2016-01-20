@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  19 JAN 2016 18:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 19:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -914,7 +914,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1062) has occurred while \output is active []
 
  [9]
-<EAGLE2016submission8revisedx-img002.png, id=191, 2077.5216pt x 1354.8216pt>
+<EAGLE2016submission8revisedx-img002.png, id=192, 2077.5216pt x 1354.8216pt>
 File: EAGLE2016submission8revisedx-img002.png Graphic file (type png)
 
 <use EAGLE2016submission8revisedx-img002.png>
@@ -926,7 +926,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
 [12] (./EAGLE_2016_submission_8_revised.bbl
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 27.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 25.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -942,41 +942,34 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-
-Underfull \hbox (badness 1248) in paragraph at lines 56--59
-[]\T1/qpl/m/sc/10 (+20) McEnery, T., Wil-son, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/
-m/it/10 (+20) Cor-pus lin-guis-tics: An in-tro-duc-tion\T1/qpl/m/n/10 (+20) , E
-d-
- []
-
-
-Underfull \hbox (badness 6445) in paragraph at lines 56--59
-\T1/qpl/m/n/10 (+20) in-burgh Uni-ver-sity Press, 2001, URL [][]$\T1/lmtt/m/n/1
-0 https : / / books . google .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--59
-\T1/lmtt/m/n/10 de / books ? hl = en & lr = &id = nwmgdvN _ akAC & oi = fnd & p
-g = PP10 & dq =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--59
-\T1/lmtt/m/n/10 Corpus + Linguistics : +An + Introduction & ots = 9N9OklDMRf & 
-sig =
- []
-
 [13]
-Underfull \hbox (badness 4266) in paragraph at lines 80--83
+Underfull \hbox (badness 1087) in paragraph at lines 57--60
+[]\T1/qpl/m/sc/10 (+20) McEnery, T., Wil-son, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/
+m/it/10 (+20) Cor-pus lin-guis-tics: An in-tro-duc-tion, Sec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+[][]$\T1/lmtt/m/n/10 https : / / books . google . de / books ? hl = en & lr = &
+id = nwmgdvN _ akAC &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+\T1/lmtt/m/n/10 oi = fnd & pg = PP10 & dq = Corpus + Linguistics : +An + Introd
+uction &
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 82--85
 []\T1/qpl/m/sc/10 (+20) Stührenberg, M.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (
 +20) Ausze-ich-nungssprachen für lin-guis-tis-che Ko-r-pora:
  []
 
 
-Underfull \hbox (badness 4686) in paragraph at lines 85--88
-\T1/qpl/m/n/10 (+20) ver-sity of Ok-la-homa Press Nor-man, 1962, URL [][]$\T1/l
-mtt/m/n/10 http : / / www .
+Underfull \hbox (badness 3354) in paragraph at lines 87--90
+\T1/qpl/m/n/10 (+20) ver-sity of Ok-la-homa Press, Nor-man, 1962, URL [][]$\T1/
+lmtt/m/n/10 http : / / www .
  []
 
 )
@@ -991,11 +984,11 @@ Package rerunfilecheck Info: File `EAGLE_2016_submission_8_revised.out' has not
 (rerunfilecheck)             Checksum: 8FB5A092C20608A50450DE36D0FC6444;964.
  ) 
 Here is how much of TeX's memory you used:
- 13523 strings out of 493089
- 208403 string characters out of 6134841
- 322057 words of memory out of 5000000
+ 13525 strings out of 493089
+ 208427 string characters out of 6134841
+ 322077 words of memory out of 5000000
  16573 multiletter control sequences out of 15000+600000
- 89495 words of font info for 170 fonts, out of 8000000 for 9000
+ 89634 words of font info for 171 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,9n,56p,923b,553s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1006,11 +999,11 @@ mf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/tex-gyre/qplri.pfb>
-Output written on EAGLE_2016_submission_8_revised.pdf (14 pages, 2535600 bytes)
+Output written on EAGLE_2016_submission_8_revised.pdf (14 pages, 2536457 bytes)
 .
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 257 compressed objects within 3 object streams
+ 292 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
  70 named destinations out of 1000 (max. 500000)
  33899 words of extra memory for PDF output out of 35830 (max. 10000000)
 
