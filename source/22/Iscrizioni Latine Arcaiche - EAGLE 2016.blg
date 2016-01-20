@@ -4,7 +4,15 @@ The top-level auxiliary file: Iscrizioni Latine Arcaiche - EAGLE 2016.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
 Warning--entry type for "Elliot:2006aa" isn't style-file defined
---line 12 of file ../../EAGLE.bib
+--line 20 of file ../../EAGLE.bib
+I was expecting an "="---line 1603 of file ../../EAGLE.bib
+ : <<<<<<< 
+ :         f4a89610179edf4931fe38a31ee871cdcc98c178
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 2546 of file ../../EAGLE.bib
+ : <<<<<<< 
+ :         f4a89610179edf4931fe38a31ee871cdcc98c178
+I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in goidanich_rapporti_1943
 Warning--empty booktitle in rocca_i_1995
@@ -12,43 +20,43 @@ Warning--can't use both volume and number fields in rocca_i_1995
 Warning--empty journal in tissoni_epidoc_2008
 You've used 27 entries,
             3082 wiz_defined-function locations,
-            804 strings with 10592 characters,
-and the built_in function-call counts, 15969 in all, are:
-= -- 1171
+            803 strings with 10456 characters,
+and the built_in function-call counts, 15963 in all, are:
+= -- 1160
 > -- 443
 < -- 29
 + -- 222
 - -- 127
-* -- 1181
-:= -- 2118
+* -- 1173
+:= -- 2113
 add.period$ -- 27
 call.type$ -- 27
-change.case$ -- 168
+change.case$ -- 166
 chr.to.int$ -- 28
 cite$ -- 31
-duplicate$ -- 1432
-empty$ -- 1549
+duplicate$ -- 1433
+empty$ -- 1560
 format.name$ -- 170
-if$ -- 3304
+if$ -- 3308
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 248
+missing$ -- 252
 newline$ -- 90
 num.names$ -- 125
-pop$ -- 614
+pop$ -- 629
 preamble$ -- 1
 purify$ -- 146
 quote$ -- 0
-skip$ -- 549
+skip$ -- 551
 stack$ -- 0
-substring$ -- 805
-swap$ -- 679
+substring$ -- 799
+swap$ -- 677
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 231
+type$ -- 225
 warning$ -- 4
 while$ -- 133
 width$ -- 0
-write$ -- 309
-(There were 5 warnings)
+write$ -- 306
+(There were 2 error messages)
