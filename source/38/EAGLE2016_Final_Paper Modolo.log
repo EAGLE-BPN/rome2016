@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  19 JAN 2016 20:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1258,12 +1258,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--227
 wText ? tipodoc = Sindisp & leg =
  []
 
-[6]
-
-Package natbib Warning: Citation `stella_biblioteche_2015' undefined on input l
-ine 268.
-
-(./EAGLE2016_Final_Paper Modolo.bbl
+[6] (./EAGLE2016_Final_Paper Modolo.bbl
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `\%'
@@ -1271,76 +1266,138 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `default'.
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 12--14
-[]\T1/qpl/m/it/10 (+20) Appello delle So-ci-età Sci-en-tifiche al Min-istro Bra
-y per la fo-tografia
+Underfull \hbox (badness 2343) in paragraph at lines 12--15
+[]\T1/qpl/m/it/10 (+20) Lettera aperta al Min-istro Frances-chini di un dot-tor
+ando cal-i-for-ni-ano
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 12--15
+\T1/qpl/m/it/10 (+20) per la lib-era ripro-duzione in archivi e bib-lioteche\T1
+/qpl/m/n/10 (+20) , Pat-ri-mo-nio SOS,
  []
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 3568) in paragraph at lines 26--29
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
 []\T1/qpl/m/sc/10 (+20) Brugnoli, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
-) An-cora sulla ripro-duzione dei beni cul-tur-ali\T1/qpl/m/n/10 (+20) , Ripro-
+) An-cora sulla ripro-duzione dei beni cul-tur-
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+\T1/qpl/m/it/10 (+20) ali\T1/qpl/m/n/10 (+20) , 05/10/2014, URL [][]$\T1/lmtt/m
+/n/10 http : / / www . roars . it / online /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+[]\T1/qpl/m/sc/10 (+20) Brugnoli, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
+) Ripro-duzione di beni cul-tur-ali: ap-pello al Min-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+\T1/qpl/m/it/10 (+20) istro Bray\T1/qpl/m/n/10 (+20) , 25/09/2013, URL [][]$\T1
+/lmtt/m/n/10 http : / / www . roars . it / online /
  []
 
 [7]
-Underfull \hbox (badness 6995) in paragraph at lines 42--45
-[]\T1/qpl/m/sc/10 (+20) Ciociola, C.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
-) Libere ripro-duzioni negli archivi e nelle bib-lioteche\T1/qpl/m/n/10 (+20) ,
-
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . treccani . it / 
+magazine / cultura / Libere _
  []
 
 
-Overfull \hbox (99.81139pt too wide) in paragraph at lines 62--65
+Overfull \hbox (99.81139pt too wide) in paragraph at lines 63--66
 \T1/lmtt/m/n/10 libera-[]foto-[]di-[]fonti-[]documentarie-[]in-[]archivi-[]e-[]
 biblioteche-[]in-[]libero-[]stato/$[][]\T1/qpl/m/n/10 (-20) . 
  []
 
 
-Underfull \hbox (badness 5563) in paragraph at lines 78--81
-[]\T1/qpl/m/sc/10 (+20) Modolo, M.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20) 
-Il sogno in-franto delle libere ripro-duzioni\T1/qpl/m/n/10 (+20) , Il Gior-
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+[]\T1/qpl/m/sc/10 (+20) Manacorda, D.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+2
+0) Petro-lio\T1/qpl/m/n/10 (+20) , in L. Car-letti, C. Giometti (edd.),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+\T1/qpl/m/it/10 (+20) De Tutela. Idee a con-fronto per la sal-va-guardia del pa
+t-ri-mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+\T1/qpl/m/it/10 (+20) nio cul-tur-ale e pae-sag-gis-tico\T1/qpl/m/n/10 (+20) , 
+117--123, Pisa, 2014b, URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+[][]$\T1/lmtt/m/n/10 https : / / fotoliberebbcc . files . wordpress . com / 201
+4 / 12 /
  []
 
 [8]
-Underfull \hbox (badness 1675) in paragraph at lines 99--102
-\T1/qpl/m/n/10 (+20) Sera, (2014), URL [][]$\T1/lmtt/m/n/10 http : / / archivio
-storico . corriere . it / 2014 /
+Underfull \hbox (badness 1337) in paragraph at lines 85--88
+[]\T1/qpl/m/sc/10 (+20) Modolo, M.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20) 
+Il sogno in-franto delle libere ripro-duzioni\T1/qpl/m/n/10 (+20) , Il Gior-nal
+e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--102
-\T1/lmtt/m/n/10 novembre / 05 / gabella _ abolire _ che _ pesa _ sugli _ co _ 0
- _ 20141105 _
- []
-
-
-Underfull \hbox (badness 1173) in paragraph at lines 104--107
-\T1/qpl/m/n/10 (+20) della Sera, (2015), URL [][]$\T1/lmtt/m/n/10 http : / / ar
-chiviostorico . corriere . it /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--107
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 \T1/lmtt/m/n/10 2015 / marzo / 04 / costose _ riproduzioni _ dei _ nostri _ lib
 ri _ co _ 0 _
  []
 
 
-Overfull \hbox (146.06125pt too wide) in paragraph at lines 109--112
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+\T1/lmtt/m/n/10 it / 2014 / novembre / 05 / gabella _ abolire _ che _ pesa _ su
+gli _ co _ 0 _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+[]\T1/qpl/m/sc/10 (+20) Tumicelli, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+2
+0) La ques-tione giuridica della ripro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+\T1/qpl/m/it/10 (+20) duzione dei beni bib-li-ografici e archivis-tici\T1/qpl/m
+/n/10 (+20) , Diritto,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+\T1/qpl/m/n/10 (+20) (05/12/2014), URL [][]$\T1/lmtt/m/n/10 http : / / www . di
+ritto . it / docs /
+ []
+
+
+Overfull \hbox (146.06125pt too wide) in paragraph at lines 115--118
 \T1/lmtt/m/n/10 36721-[]la-[]questione-[]giuridica-[]della-[]riproduzione-[]dei
 beni-[]bibliografici-[]e-[]archivistici$[][]\T1/qpl/m/n/10 (-20) . 
  []
 
+
+Underfull \hbox (badness 4291) in paragraph at lines 120--122
+[]\T1/qpl/m/sc/10 (+20) Volpe, G.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20) L
+'immagine negata\T1/qpl/m/n/10 (+20) , Il Man-i-festo, (30/01/2014), URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+[][]$\T1/lmtt/m/n/10 http : / / www . giulianovolpe . it / it / 14 / L % E2 % 8
+0 % 99immagine _
+ []
+
 )
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 277.
-[9]
+ [9]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 277.
  (./EAGLE2016_Final_Paper Modolo.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
@@ -1350,13 +1407,13 @@ changed.
 (rerunfilecheck)             Checksum: DD549AAC0AC724B1A72691F8A58B0BF0;536.
  ) 
 Here is how much of TeX's memory you used:
- 21789 strings out of 493089
- 407425 string characters out of 6134841
- 464214 words of memory out of 5000000
- 24829 multiletter control sequences out of 15000+600000
- 101611 words of font info for 176 fonts, out of 8000000 for 9000
+ 21796 strings out of 493089
+ 407575 string characters out of 6134841
+ 464305 words of memory out of 5000000
+ 24831 multiletter control sequences out of 15000+600000
+ 101876 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,45p,10428b,870s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10428b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
 e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/te
@@ -1366,10 +1423,10 @@ nts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
 re/qplri.pfb>
-Output written on "EAGLE2016_Final_Paper Modolo.pdf" (9 pages, 176857 bytes).
+Output written on "EAGLE2016_Final_Paper Modolo.pdf" (9 pages, 177693 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
  43057 words of extra memory for PDF output out of 51595 (max. 10000000)
 

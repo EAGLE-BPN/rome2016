@@ -3,160 +3,56 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: EAGLE2016_Final_Paper Modolo.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting a `,' or a `}'---line 779 of file ../../EAGLE.bib
- : 
- : @book{Domenici2012,
-(Error may have been on previous line)
+I was expecting an "="---line 1590 of file ../../EAGLE.bib
+ : <<<<<<< 
+ :         f4a89610179edf4931fe38a31ee871cdcc98c178
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3843 of file ../../EAGLE.bib
- :  
- :  year = {2015}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 5182 of file ../../EAGLE.bib
- :  
- :  %%Eventtitle = {{Proceedings of the 5th International Conference, MTSR 2011}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 5201 of file ../../EAGLE.bib
- :  
- :  %Volume = {{58}}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 5363 of file ../../EAGLE.bib
- :  
- :  %%Eventtitle = {S{\'e}minaire Inria, Carnac, 1er - 5 octobre 2012},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 5897 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{XI Congresso Internazionale di Epigrafia Greca e Latia. Roma, 18-24th September 1997}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 6135 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Transforming culture in the digital age}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 6668 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Computers \& Cultural Heritage Proceedings of the XVI International Conference of the Association for History and Computing}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 6744 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Humanities Computing, Formal Methods, Experimental Practice Symposium}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 6996 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Actas del Simposio Internacional Ibero-It{\'a}lico sobre Epigrafia Rupestre, Santiago de Compostela Y Norte de Portugal}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 7659 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Atti del V Workshop Foggia, 5-6 maggio 2010}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 7683 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{4th ISPRS International Workshop 3D-ARCH 2011. Trento 2-4 March 2011}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 7706 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{4th International Meeting on Graphic Archaeology and Informatics, Cultural Heritage and Innovation. 20 -- 22 June 2012}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 7755 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{7th International Joint Conference on Artificial Intelligence (Vancouver, BC, Canada, August 1981)}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 7790 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {XXIV International CIPA Symposium, 2 – 6 September 2013},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 8015 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Digital Heritage International Congress (Digital Heritage), IEEE}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 8325 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Atti del Convegno internazionale di studi, Macerata, 18-20 Maggio 1995}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 8374 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{Atti del Colloquio internazionale, Bologna, 31 agosto - 2 settembre 1987}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 8465 of file ../../EAGLE.bib
- :  Editor = {Donati, Angela and Poma, Gabriella}, 
- :                                                 % and Susini, Gian Carlo
-I'm skipping whatever remains of this entry
-You're missing a field name---line 8510 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{XV Congreso Internacional de Arqueolog{\'\i}a Cristiana (Toledo, 8-12 septiembre 2008)}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 8530 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{IX Congresso Nazionale di Archeologia Cristiana (Agrigento, 20-25 Novembre 2004)}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 8619 of file ../../EAGLE.bib
- :  
- :  %Eventtitle = {{35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA, Berlin, Germany, April 2-6, 2007)}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "stella_biblioteche_2015"
 Warning--to sort, need author or key in _lettera_2015
 Warning--to sort, need author or key in _appello_2013
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty author in _lettera_2015
+Warning--empty author in _appello_2013
 Warning--missing publisher in manacorda_fotografare_2014
 Warning--missing publisher in manacorda_tutela._2014
-You've used 21 entries,
+You've used 22 entries,
             3082 wiz_defined-function locations,
-            716 strings with 8735 characters,
-and the built_in function-call counts, 8892 in all, are:
-= -- 652
-> -- 229
-< -- 18
-+ -- 106
-- -- 68
-* -- 677
-:= -- 1311
-add.period$ -- 21
-call.type$ -- 21
-change.case$ -- 126
-chr.to.int$ -- 22
-cite$ -- 29
-duplicate$ -- 819
-empty$ -- 843
-format.name$ -- 92
-if$ -- 1750
-int.to.chr$ -- 1
+            737 strings with 9054 characters,
+and the built_in function-call counts, 9524 in all, are:
+= -- 698
+> -- 225
+< -- 20
++ -- 95
+- -- 67
+* -- 730
+:= -- 1390
+add.period$ -- 22
+call.type$ -- 22
+change.case$ -- 131
+chr.to.int$ -- 23
+cite$ -- 32
+duplicate$ -- 892
+empty$ -- 919
+format.name$ -- 91
+if$ -- 1887
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 127
-newline$ -- 72
-num.names$ -- 78
-pop$ -- 313
+missing$ -- 138
+newline$ -- 75
+num.names$ -- 84
+pop$ -- 328
 preamble$ -- 1
-purify$ -- 106
+purify$ -- 109
 quote$ -- 0
-skip$ -- 295
+skip$ -- 313
 stack$ -- 0
-substring$ -- 299
-swap$ -- 329
+substring$ -- 342
+swap$ -- 366
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 186
-warning$ -- 4
-while$ -- 64
+type$ -- 198
+warning$ -- 6
+while$ -- 71
 width$ -- 0
-write$ -- 232
-(There were 22 error messages)
+write$ -- 246
+(There was 1 error message)
