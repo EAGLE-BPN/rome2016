@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 13:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 15:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1193,6 +1193,7 @@ Overfull \hbox (10.50938pt too wide) in paragraph at lines 49--49
 []\T1/qpl/m/n/14.4 Towards a Uni-ver-sal Face-book of the An-cient World 
  []
 
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 49.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
@@ -1286,8 +1287,8 @@ File: uni-30.def 2013/05/13 UCS: Unicode data U+1E00..U+1EFF
 ./EAGLE2016_Full_Paper_Broux.tex:167: Undefined control sequence.
 \u-default-7880 #1->\h 
                        I
-l.167 Ỉ
-         sytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
+l.167 $Ỉ
+          $s$y$t$r$s$, $ȝ$y$s$y$d$w$r$s$ or $ⲓ$ⲥ$ⲓ$ⲇ$ⲱ$ⲣ$ⲉ$ i...
 
 ? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-2.def
@@ -1309,8 +1310,8 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝ
-                  ysydwrs or ⲓⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
+l.167 $Ỉ$s$y$t$r$s$, $ȝ
+                          $y$s$y$d$w$r$s$ or $ⲓ$ⲥ$ⲓ$ⲇ$ⲱ$ⲣ$ⲉ$ i...
 
 ? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-44.def
@@ -1332,10 +1333,15 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓ
-                                ⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
+l.167 $Ỉ$s$y$t$r$s$, $ȝ$y$s$y$d$w$r$s$ or $ⲓ
+                                                 $ⲥ$ⲓ$ⲇ$ⲱ$ⲣ$ⲉ$ i...
 
 ? 
+LaTeX Font Info:    Try loading font information for OT1+qpl on input line 167.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ot1qpl.fd
+File: ot1qpl.fd 2009/09/25 v1.2 font definition file for OT1/qpl
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
 )
@@ -1352,8 +1358,8 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥ
-                                   ⲓⲇⲱⲣⲉ in Egyptian and Coptic. I...
+l.167 ...$y$t$r$s$, $ȝ$y$s$y$d$w$r$s$ or $ⲓ$ⲥ
+                                                  $ⲓ$ⲇ$ⲱ$ⲣ$ⲉ$ in E...
 
 ? 
 
@@ -1376,8 +1382,8 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇ
-                                         ⲱⲣⲉ in Egyptian and Coptic. I...
+l.167 ...$, $ȝ$y$s$y$d$w$r$s$ or $ⲓ$ⲥ$ⲓ$ⲇ
+                                                  $ⲱ$ⲣ$ⲉ$ in Egyptian ...
 
 ? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
@@ -1396,8 +1402,8 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱ
-                                            ⲣⲉ in Egyptian and Coptic. I...
+l.167 ...ȝ$y$s$y$d$w$r$s$ or $ⲓ$ⲥ$ⲓ$ⲇ$ⲱ
+                                                  $ⲣ$ⲉ$ in Egyptian and ...
 
 ? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
@@ -1416,8 +1422,8 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣ
-                                               ⲉ in Egyptian and Coptic. I...
+l.167 ...$s$y$d$w$r$s$ or $ⲓ$ⲥ$ⲓ$ⲇ$ⲱ$ⲣ
+                                                  $ⲉ$ in Egyptian and Copt...
 
 ? 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
@@ -1436,8 +1442,8 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ
-                                                   in Egyptian and Coptic. I...
+l.167 ...$d$w$r$s$ or $ⲓ$ⲥ$ⲓ$ⲇ$ⲱ$ⲣ$ⲉ
+                                                  $ in Egyptian and Coptic. ...
 
 ? 
 
@@ -1445,10 +1451,13 @@ Package natbib Warning: Citation `Depauw2009' on page 4 undefined on input line
  172.
 
 
-Overfull \hbox (122.24567pt too wide) in paragraph at lines 161--174
-\T1/qpl/m/n/10 (-20) e.g. Isytrs, \OT1/lmtt/m/n/10 [U+021D]\T1/qpl/m/n/10 (-20)
- ysydwrs or \OT1/lmtt/m/n/10 [U+2C93][U+2CA5][U+2C93][U+2C87][U+2CB1][U+2CA3][U
-+2C89]
+Overfull \hbox (120.53098pt too wide) in paragraph at lines 161--174
+\T1/qpl/m/n/10 (-20) e.g. $\OML/zplm/m/it/10 I$\T1/qpl/m/n/10 (-20) s$\OML/zplm
+/m/it/10 y$\T1/qpl/m/n/10 (-20) t$\OML/zplm/m/it/10 r$\T1/qpl/m/n/10 (-20) s$\O
+T1/pplx/m/n/10 ,$\OT1/lmtt/m/n/10 [U+021D]$\OML/zplm/m/it/10 y$\T1/qpl/m/n/10 (
+-20) s$\OML/zplm/m/it/10 y$\T1/qpl/m/n/10 (-20) d$\OML/zplm/m/it/10 w$\T1/qpl/m
+/n/10 (-20) r$\OML/zplm/m/it/10 s$ \T1/qpl/m/n/10 (-20) or $[][]$\OT1/lmtt/m/n/
+10 [U+2CA5]$[][]$[U+2C87]$[][]$[U+2CA3]$[][]$
  []
 
 
@@ -1462,10 +1471,7 @@ Underfull \vbox (badness 3780) has occurred while \output is active []
 Package natbib Warning: Citation `BrouxVanbeselaere' on page 6 undefined on inp
 ut line 219.
 
-
-LaTeX Warning: Reference `fig:1' on page 6 undefined on input line 222.
-
-<EAGLE2016FullPaperBroux-img001.jpg, id=47, 605.26125pt x 573.14125pt>
+<EAGLE2016FullPaperBroux-img001.jpg, id=84, 605.26125pt x 573.14125pt>
 File: EAGLE2016FullPaperBroux-img001.jpg Graphic file (type jpg)
 
 <use EAGLE2016FullPaperBroux-img001.jpg>
@@ -1485,270 +1491,47 @@ Underfull \vbox (badness 1931) has occurred while \output is active []
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
  [8]
-(./EAGLE2016_Full_Paper_Broux.bbl
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/qpl/m/sc/10'.
-(microtype)             Ignoring protrusion settings for this character.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-Underfull \hbox (badness 3449) in paragraph at lines 11--16
-[]\T1/qpl/m/sc/10 (+20) Broux, Y.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20) C
-re-at-ing a New Lo-cal Elite: The Es-tab-lish-ment of the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--16
-\T1/qpl/m/it/10 (+20) Metropoli-tan Or-ders of Ro-man Egypt\T1/qpl/m/n/10 (+20)
- , Archiv f�r Pa-pyrus-
- []
-
-
-Underfull \hbox (badness 2922) in paragraph at lines 11--16
-\T1/qpl/m/n/10 (+20) forschung und ver-wandte Ge-bi-ete, 59 (2013a), 143--153, 
-URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--16
-[][]$\T1/lmtt/m/n/10 http : / / www . degruyter . com / view / j / apf . 2013 .
- 59 . issue-[]1 / apf .
- []
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
-File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
-)
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textkappa unavailabl
-e in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textalpha unavailabl
-e in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-31.def
-File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
-)
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textdasia unavailabl
-e in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textomega unavailabl
-e in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textvarsigma unavail
-able in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textchi unavailable 
-in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textrho unavailable 
-in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \texteta unavailable 
-in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 41.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
-File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
-)
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textalpha unavailabl
-e in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \texttau unavailable 
-in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-1.def
-File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-)
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textzeta unavailable
- in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-
-./EAGLE2016_Full_Paper_Broux.bbl:41: LaTeX Error: Command \textepsilon unavaila
-ble in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41   of {Naming} in {Roman} {Egypt}}
-                                      , Zeitschrift für Papyrologie und Epi...
-
-? 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
-\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . researchgate . n
-et / profile / Ruben _ Verborgh /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
-\T1/lmtt/m/n/10 publication / 255883214 _ Exploring _ Entity _ Recognition _ an
-d _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
-\T1/lmtt/m/n/10 Disambiguation _ for _ Cultural _ Heritage _ Collections / link
-s /
- []
-
-)
+No file EAGLE2016_Full_Paper_Broux.bbl.
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
-[10]
+[9]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
- (./EAGLE2016_Full_Paper_Broux.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ (./EAGLE2016_Full_Paper_Broux.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
+Package rerunfilecheck Info: File `EAGLE2016_Full_Paper_Broux.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: 8BAA34356C09AF9D64EA4C50C6E8C86D;803.
 
-
-Package rerunfilecheck Warning: File `EAGLE2016_Full_Paper_Broux.out' has chang
-ed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `EAGLE2016_Full_Paper_Broux.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  8BAA34356C09AF9D64EA4C50C6E8C86D;803.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 24533 strings out of 493089
- 438377 string characters out of 6134841
- 472620 words of memory out of 5000000
- 27519 multiletter control sequences out of 15000+600000
- 93343 words of font info for 156 fonts, out of 8000000 for 9000
+ 22390 strings out of 493089
+ 415980 string characters out of 6134841
+ 462480 words of memory out of 5000000
+ 25414 multiletter control sequences out of 15000+600000
+ 114106 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,40p,10424b,872s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
-local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/
-texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/local/texlive/2015
-/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2015/texmf-dist/fo
-nts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
-public/cbfonts/grmn1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
-lic/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
-re/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qpl
-r.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb
->
-Output written on EAGLE2016_Full_Paper_Broux.pdf (10 pages, 326717 bytes).
+ 44i,9n,40p,10424b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/loca
+l/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2015/
+texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2015/texmf-dist/fon
+ts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/cbfonts/grmn1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyr
+e/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on EAGLE2016_Full_Paper_Broux.pdf (9 pages, 320539 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 36358 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 43094 words of extra memory for PDF output out of 51595 (max. 10000000)
 
