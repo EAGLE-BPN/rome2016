@@ -3,11 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: DatabasesToEpiDoc.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting an "="---line 1573 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 2516 of file ../../EAGLE.bib
+I was expecting an "="---line 1571 of file ../../EAGLE.bib
  : <<<<<<< 
  :         f4a89610179edf4931fe38a31ee871cdcc98c178
 I'm skipping whatever remains of this entry
@@ -30,37 +26,37 @@ Name 1 in "Sicilia, M.A, and Gomez Pantoja, J and Rubiro Fuentes, J and Rivero R
 while executing---line 1577 of file sapauth-eng.bst
 You've used 10 entries,
             3082 wiz_defined-function locations,
-            696 strings with 7098 characters,
-and the built_in function-call counts, 6776 in all, are:
-= -- 477
+            693 strings with 7042 characters,
+and the built_in function-call counts, 6740 in all, are:
+= -- 472
 > -- 387
 < -- 4
 + -- 263
 - -- 107
-* -- 567
-:= -- 901
+* -- 555
+:= -- 896
 add.period$ -- 10
 call.type$ -- 10
 change.case$ -- 82
 chr.to.int$ -- 11
 cite$ -- 16
-duplicate$ -- 501
-empty$ -- 492
+duplicate$ -- 498
+empty$ -- 489
 format.name$ -- 131
-if$ -- 1328
+if$ -- 1320
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 100
 newline$ -- 39
 num.names$ -- 43
-pop$ -- 302
+pop$ -- 310
 preamble$ -- 1
 purify$ -- 74
 quote$ -- 0
-skip$ -- 243
+skip$ -- 246
 stack$ -- 0
 substring$ -- 183
-swap$ -- 255
+swap$ -- 249
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
@@ -68,5 +64,5 @@ type$ -- 81
 warning$ -- 6
 while$ -- 38
 width$ -- 0
-write$ -- 120
-(There were 6 error messages)
+write$ -- 115
+(There were 5 error messages)

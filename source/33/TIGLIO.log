@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 15:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 19:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1255,62 +1255,38 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `default'.
 
 [10]
-Underfull \hbox (badness 1590) in paragraph at lines 17--23
+Underfull \hbox (badness 1590) in paragraph at lines 17--22
 []\T1/qpl/m/sc/10 (+20) Lambert, S., Mc-Court, F.\T1/qpl/m/n/10 (+20) , \T1/qpl
 /m/it/10 (+20) At-tic in-scrip-tions on-line\T1/qpl/m/n/10 (+20) , in S. Or-lan
 di,
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 17--23
-\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . eagle-[]network 
-. eu / wp-[]content / uploads / 2015 /
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 26--33
+Underfull \hbox (badness 2042) in paragraph at lines 25--31
 []\T1/qpl/m/sc/10 (+20) Liuzzo, P.M., Zanni, A., Mar-tinelli, L., Losa, L., De 
 Nico-lao,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 26--33
+Underfull \hbox (badness 1043) in paragraph at lines 25--31
 \T1/qpl/m/it/10 (+20) data en-gi-neers and the gen-eral pub-lic\T1/qpl/m/n/10 (
 +20) , in S. Or-landi, V. Casarosa,
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 26--33
-\T1/qpl/m/n/10 (+20) R. San-tucci, P.M. Li-uzzo (ed.), \T1/qpl/m/it/10 (+20) In
--for-ma-tion Tech-nolo-gies for Epig-
- []
-
-
-Underfull \hbox (badness 3601) in paragraph at lines 26--33
-\T1/qpl/m/it/10 (+20) ra-phy and Cul-tural Her-itage\T1/qpl/m/n/10 (+20) , 187-
--200, Sapienza Uni-ver-sità Ed-
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 26--33
-\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . eagle-[]network 
-. eu / wp-[]content / uploads / 2015 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
 []\T1/qpl/m/sc/10 (+20) Panciera, S.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
 ) What Is an In-scrip-tion? Prob-lems of Def-i-ni-tion
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 35--38
+Underfull \hbox (badness 7963) in paragraph at lines 33--36
 \T1/qpl/m/it/10 (+20) and Iden-tity of an His-tor-i-cal Source\T1/qpl/m/n/10 (+
 20) , 183 (2012), 1--10, URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
 [][]$\T1/lmtt/m/n/10 http : / / www . digitalmeetsculture . net / wp-[]content 
 / uploads /
  []
@@ -1326,11 +1302,11 @@ Package rerunfilecheck Info: File `TIGLIO.out' has not changed.
 (rerunfilecheck)             Checksum: FB80E17DC043B0AA7B1194ADE5A1BDB1;295.
  ) 
 Here is how much of TeX's memory you used:
- 21762 strings out of 493089
- 405699 string characters out of 6134841
+ 21766 strings out of 493089
+ 405745 string characters out of 6134841
  468537 words of memory out of 5000000
  24800 multiletter control sequences out of 15000+600000
- 102426 words of font info for 180 fonts, out of 8000000 for 9000
+ 102685 words of font info for 182 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,45p,10404b,885s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1343,7 +1319,7 @@ fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 x-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre
 /qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri
 .pfb>
-Output written on TIGLIO.pdf (11 pages, 181741 bytes).
+Output written on TIGLIO.pdf (11 pages, 181644 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  149 compressed objects within 2 object streams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 10:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 19:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1291,33 +1291,15 @@ Underfull \hbox (badness 6675) in paragraph at lines 12--16
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 39--46
+Underfull \hbox (badness 2042) in paragraph at lines 38--44
 []\T1/qpl/m/sc/10 (+20) Liuzzo, P.M., Zanni, A., Mar-tinelli, L., Losa, L., De 
 Nico-lao,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 39--46
+Underfull \hbox (badness 1043) in paragraph at lines 38--44
 \T1/qpl/m/it/10 (+20) data en-gi-neers and the gen-eral pub-lic\T1/qpl/m/n/10 (
 +20) , in S. Or-landi, V. Casarosa,
- []
-
-
-Underfull \hbox (badness 3601) in paragraph at lines 39--46
-\T1/qpl/m/it/10 (+20) ra-phy and Cul-tural Her-itage\T1/qpl/m/n/10 (+20) , 187-
--200, Sapienza Uni-ver-sità Ed-
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 39--46
-\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . eagle-[]network 
-. eu / wp-[]content / uploads / 2015 /
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 49--54
-\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . eagle-[]network 
-. eu / wp-[]content / uploads / 2015 /
  []
 
 [13])
@@ -1334,13 +1316,13 @@ Package rerunfilecheck Info: File `DatabasesToEpiDoc.out' has not changed.
 (rerunfilecheck)             Checksum: 0C808EA788DFDD3FBF30489C566F94D8;593.
  ) 
 Here is how much of TeX's memory you used:
- 21591 strings out of 493089
- 404308 string characters out of 6134841
+ 21593 strings out of 493089
+ 404330 string characters out of 6134841
  468090 words of memory out of 5000000
  24609 multiletter control sequences out of 15000+600000
- 111461 words of font info for 187 fonts, out of 8000000 for 9000
+ 111600 words of font info for 188 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,45p,10415b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10415b,858s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
 local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/
 2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texlive/2015/t
@@ -1351,7 +1333,7 @@ fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 x-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre
 /qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri
 .pfb>
-Output written on DatabasesToEpiDoc.pdf (14 pages, 809158 bytes).
+Output written on DatabasesToEpiDoc.pdf (14 pages, 809008 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  208 compressed objects within 3 object streams
