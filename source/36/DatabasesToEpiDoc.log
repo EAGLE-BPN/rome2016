@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  17 DEC 2015 15:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 10:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1228,7 +1228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--101
 Underfull \vbox (badness 3128) has occurred while \output is active []
 
  [4]
-<Contentcuration.png, id=91, 1032.85875pt x 637.38126pt>
+<Contentcuration.png, id=93, 1032.85875pt x 637.38126pt>
 File: Contentcuration.png Graphic file (type png)
 
 <use Contentcuration.png>
@@ -1244,13 +1244,13 @@ Overfull \hbox (2.76405pt too wide) in paragraph at lines 173--173
 ] 
  []
 
-[7] <upconversion.png, id=117, 1084.05pt x 415.5525pt>
+[7] <upconversion.png, id=120, 1084.05pt x 415.5525pt>
 File: upconversion.png Graphic file (type png)
  <use upconversion.png>
 Package pdftex.def Info: upconversion.png used on input line 179.
 (pdftex.def)             Requested size: 310.13503pt x 118.88388pt.
 
-[8 <./upconversion.png>] <statuebase.png, id=132, 829.0975pt x 659.46375pt>
+[8 <./upconversion.png>] <statuebase.png, id=137, 829.0975pt x 659.46375pt>
 File: statuebase.png Graphic file (type png)
 
 <use statuebase.png>
@@ -1263,7 +1263,7 @@ LaTeX Font Info:    Try loading font information for TS1+qpl on input line 197.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-<edb.png, id=146, 878.28125pt x 602.25pt>
+<edb.png, id=151, 878.28125pt x 602.25pt>
 File: edb.png Graphic file (type png)
  <use edb.png>
 Package pdftex.def Info: edb.png used on input line 207.
@@ -1291,51 +1291,33 @@ Underfull \hbox (badness 6675) in paragraph at lines 12--16
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 43--50
+Underfull \hbox (badness 2042) in paragraph at lines 39--46
 []\T1/qpl/m/sc/10 (+20) Liuzzo, P.M., Zanni, A., Mar-tinelli, L., Losa, L., De 
 Nico-lao,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 43--50
+Underfull \hbox (badness 1043) in paragraph at lines 39--46
 \T1/qpl/m/it/10 (+20) data en-gi-neers and the gen-eral pub-lic\T1/qpl/m/n/10 (
 +20) , in S. Or-landi, V. Casarosa,
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 43--50
-\T1/qpl/m/n/10 (+20) R. San-tucci, P.M. Li-uzzo (ed.), \T1/qpl/m/it/10 (+20) In
--for-ma-tion Tech-nolo-gies for Epig-
- []
-
-
-Underfull \hbox (badness 3601) in paragraph at lines 43--50
+Underfull \hbox (badness 3601) in paragraph at lines 39--46
 \T1/qpl/m/it/10 (+20) ra-phy and Cul-tural Her-itage\T1/qpl/m/n/10 (+20) , 187-
 -200, Sapienza Uni-ver-sità Ed-
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 43--50
+Underfull \hbox (badness 2608) in paragraph at lines 39--46
 \T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . eagle-[]network 
 . eu / wp-[]content / uploads / 2015 /
  []
 
 
-Underfull \hbox (badness 7832) in paragraph at lines 53--58
-[]\T1/qpl/m/sc/10 (+20) Orlandi, S., Casarosa, V., San-tucci, R., Li-uzzo, P.M.
- \T1/qpl/m/n/10 (+20) (ed.),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-\T1/qpl/m/it/10 (+20) In-for-ma-tion Tech-nolo-gies for Epig-ra-phy and Cul-tur
-al Her-itage\T1/qpl/m/n/10 (+20) ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-\T1/lmtt/m/n/10 wp-[]content / uploads / 2015 / 01 / Paris-[]Conference-[]Proce
-edings .
+Underfull \hbox (badness 2608) in paragraph at lines 49--54
+\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / www . eagle-[]network 
+. eu / wp-[]content / uploads / 2015 /
  []
 
 [13])
@@ -1352,11 +1334,11 @@ Package rerunfilecheck Info: File `DatabasesToEpiDoc.out' has not changed.
 (rerunfilecheck)             Checksum: 0C808EA788DFDD3FBF30489C566F94D8;593.
  ) 
 Here is how much of TeX's memory you used:
- 21599 strings out of 493089
- 404344 string characters out of 6134841
- 467957 words of memory out of 5000000
+ 21591 strings out of 493089
+ 404308 string characters out of 6134841
+ 468090 words of memory out of 5000000
  24609 multiletter control sequences out of 15000+600000
- 111992 words of font info for 191 fonts, out of 8000000 for 9000
+ 111461 words of font info for 187 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,45p,10415b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
@@ -1369,10 +1351,10 @@ fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 x-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre
 /qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri
 .pfb>
-Output written on DatabasesToEpiDoc.pdf (14 pages, 808324 bytes).
+Output written on DatabasesToEpiDoc.pdf (14 pages, 809158 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 201 compressed objects within 3 object streams
+ 240 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
  43 named destinations out of 1000 (max. 500000)
  45157 words of extra memory for PDF output out of 51595 (max. 10000000)
 

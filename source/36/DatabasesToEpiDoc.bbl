@@ -7,32 +7,28 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{\textsc{Bizer et~al.}()\textsc{Bizer, Heath, and
+\bibitem[{\textsc{Bizer et~al.}(2009)\textsc{Bizer, Heath, and
   Berners-Lee}}]{Bizer2009}
 \textsc{Bizer, C., Heath, T., Berners-Lee, T.}, \emph{{Linked Data - The Story
-  So Far}}, {5} (????), 1--22, ISSN 1552-6283,,
+  So Far}}, {5} (2009), 1--22, ISSN 1552-6283,,
   \urlprefix\url{http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf},
   this is a freely available preprint of the article later published in IJSWIS.
 
-\bibitem[{\textsc{BPN}()}]{D3.1}
-\textsc{BPN, E.}, \emph{{EAGLE metadata model specification}}, Tech. rep.,
-  EAGLE project, ????
-
-\bibitem[{\textsc{Di~Stefano~Manzella}()}]{Manzella1987}
+\bibitem[{\textsc{Di~Stefano~Manzella}(1987)}]{Manzella1987}
 \textsc{Di~Stefano~Manzella, I.}, \emph{{Mestiere di epigrafista: guida alla
-  schedatura del materiale epigrafico lapideo}}, {Edizioni Quasar}, ????, ISBN
+  schedatura del materiale epigrafico lapideo}}, {Edizioni Quasar}, 1987, ISBN
   9788885020795.
 
-\bibitem[{\textsc{Elliott et~al.}()\textsc{Elliott, Bodard, Milonas, Stoyanova,
-  Tupman, and Vanderbilt}}]{Elliott2007}
+\bibitem[{\textsc{Elliott et~al.}(2007-2016)\textsc{Elliott, Bodard, Milonas,
+  Stoyanova, Tupman, and Vanderbilt}}]{Elliott2007}
 \textsc{Elliott, T., Bodard, G., Milonas, E., Stoyanova, S., Tupman, C.,
   Vanderbilt, S.}, \emph{{EpiDoc Guidelines: Ancient documents in TEI XML}},
-  (????), \urlprefix\url{http://www.stoa.org/epidoc/gl/latest/}.
+  (2007-2016), \urlprefix\url{http://www.stoa.org/epidoc/gl/latest/}.
 
-\bibitem[{\textsc{Isaac et~al.}()\textsc{Isaac, Clayphan, and
+\bibitem[{\textsc{Isaac et~al.}(2012)\textsc{Isaac, Clayphan, and
   Haslhofer}}]{Isaac2012}
 \textsc{Isaac, A., Clayphan, R., Haslhofer, B.}, \emph{{Europeana: moving to
-  Linked Open Data}}, {24} (????), 34--40, ISSN 1041-0031, cited by 0000.
+  Linked Open Data}}, {24} (2012), 34--40, ISSN 1041-0031, cited by 0000.
 
 \bibitem[{\textsc{Kay}(2008)}]{Kay}
 \textsc{Kay, M.}, \emph{{XSLT 2.0 and XPath 2.0 Programmer's Reference, 4th
@@ -43,28 +39,35 @@
 \textsc{Liuzzo, P.M., Zanni, A., Martinelli, L., Losa, L., De~Nicolao, P.},
   \emph{The eagle mediawiki. a fully collaborative database for academics, data
   engineers and the general public}, in S.~Orlandi, V.~Casarosa, R.~Santucci,
-  P.M. Liuzzo (ed.), \emph{Information Technologies for Epigraphy and Cultural
-  Heritage}, 187--200, Sapienza Università Editrice, 2014, ISBN
+  P.M. Liuzzo (edd.), \emph{Information Technologies for Epigraphy and Cultural
+  Heritage}, 187--200, Sapienza Universit{\`a} Editrice, 2014, ISBN
   978-88-98533-42-8, \doi{10.13133/978-88-98533-42-8},
   \urlprefix\url{http://www.eagle-network.eu/wp-content/uploads/2015/01/Paris-Conference-Proceedings.pdf}.
 
-\bibitem[{\textsc{Orlandi et~al.}(2014)\textsc{Orlandi, Casarosa, Santucci, and
-  Liuzzo}}]{OrlandiCasarosa2014}
-\textsc{Orlandi, S., Casarosa, V., Santucci, R., Liuzzo, P.M.} (ed.),
+\bibitem[{\textsc{Orlandi et~al.}(2014{\natexlab{a}})\textsc{Orlandi, Casarosa,
+  Santucci, and Liuzzo}}]{OrlandiCasarosa2014}
+\textsc{Orlandi, S., Casarosa, V., Santucci, R., Liuzzo, P.M.} (edd.),
   \emph{Information Technologies for Epigraphy and Cultural Heritage}, Sapienza
-  UniversitÃ  Editrice, 2014, ISBN 978-88-98533-42-8,
+  Universit{\~A} Editrice, 2014{\natexlab{a}}, ISBN 978-88-98533-42-8,
   \doi{10.13133/978-88-98533-42-8},
   \urlprefix\url{http://www.eagle-network.eu/wp-content/uploads/2015/01/Paris-Conference-Proceedings.pdf}.
 
-\bibitem[{\textsc{Orlandi et~al.}()\textsc{Orlandi, Giberti, and
-  Santucci}}]{Orlandi2014}
+\bibitem[{\textsc{Orlandi et~al.}(2014{\natexlab{b}})\textsc{Orlandi, Giberti,
+  and Santucci}}]{Orlandi2014}
 \textsc{Orlandi, S., Giberti, L.M.C., Santucci, R.}, \emph{{EAGLE: Europeana
   Network of Ancient Greek and Latin Epigraphy. Making the Ancient Inscriptions
-  Accessible}},  (????),
+  Accessible}},  (2014{\natexlab{b}}),
   \urlprefix\url{http://lexicon.cnr.it/index.php/LP/article/view/408}.
 
-\bibitem[{\textsc{Piso}()}]{Piso}
+\bibitem[{\textsc{Piso}(2001)}]{Piso}
 \textsc{Piso, I.}, \emph{{Inscriptions d'Apulum}}, vol. III of
-  \emph{{Inscriptions de la Dacie Romaine)}}, ????
+  \emph{{Inscriptions de la Dacie Romaine)}}, 2001.
+
+\bibitem[{\textsc{Sicilia et~al.}(2015)\textsc{Sicilia, Gomez~Pantoja,
+  Rubiro~Fuentes, Rivero~Ruiz, Manghi, Mannocci, and
+  Zoppi}}]{sicilia_eagle_2015}
+\textsc{Sicilia, M., Gomez~Pantoja, J., Rubiro~Fuentes, J., Rivero~Ruiz, E.,
+  Manghi, P., Mannocci, A., Zoppi, F.}, \emph{{EAGLE} metadata model
+  specification -- {Second} {Release}}, Deliverable {D}3.1.2, {EAGLE}, 2015.
 
 \end{thebibliography}
