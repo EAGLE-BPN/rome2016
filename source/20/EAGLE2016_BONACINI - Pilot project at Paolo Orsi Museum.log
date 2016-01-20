@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  19 JAN 2016 22:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 17:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1326,33 +1326,10 @@ Overfull \hbox (1.47519pt too wide) in paragraph at lines 429--431
  / / www . airworks . it/$[][]\T1/qpl/m/n/10 (-20) ) goes my heart-
  []
 
-[12] (./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.bbl
-Underfull \hbox (badness 2393) in paragraph at lines 16--19
-\T1/qpl/m/n/10 (+20) (2014), 25--40, URL [][]$\T1/lmtt/m/n/10 http : / / caspur
--[]ciberpublishing . it / index .
- []
-
-
-Underfull \hbox (badness 1917) in paragraph at lines 21--24
-[]\T1/qpl/m/sc/10 (+20) Farman, J.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20) 
-Map-ping the dig-i-tal em-pire: Google Earth and the pro-
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 21--24
-\T1/qpl/m/it/10 (+20) cess of post-mod-ern car-tog-ra-phy\T1/qpl/m/n/10 (+20) ,
- New Me-dia & So-ci-ety, (2010),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
-\T1/qpl/m/n/10 (+20) URL [][]$\T1/lmtt/m/n/10 http : / / nms . sagepub . com / 
-content / early / 2010 / 04 / 22 /
- []
-
-[13])
+[12] (./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.bbl [13])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 461.
- [14]
+
+[14]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 461.
  (./EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 461.
@@ -1385,7 +1362,7 @@ yre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qp
 lr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pf
 b>
 Output written on "EAGLE2016_BONACINI - Pilot project at Paolo Orsi Museum.pdf"
- (14 pages, 4993496 bytes).
+ (14 pages, 4993373 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  171 compressed objects within 2 object streams
