@@ -1,4 +1,4 @@
-\begin{thebibliography}{22}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -35,24 +35,23 @@
   {Human} {Environment} and {Culture}}, 3--11, Springer, 2015,
   \urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-319-20687-5_1}.
 
-\bibitem[{\textsc{Bozia et~al.}(2014)\textsc{Bozia, Barmpoutis, and
-  Wagman}}]{bozia_open-access_2014}
-\textsc{Bozia, E., Barmpoutis, A., Wagman, R.}, \emph{Open-{Access}
-  {Epigraphy}: {Electronic} {Dissemination} of 3d-digitized {Archaeological}
-  {Material}}, in \emph{Proceedings of the {International} {Conference} on
-  {Information} {Technologies} for {Epigraphy} and {Digital} {Cultural}
-  {Heritage} in the {Ancient} {World}}, 2014,
-  \urlprefix\url{http://f.hypotheses.org/wp-content/blogs.dir/31/files/2014/09/Open-Access-Epigraphy.pdf}.
-
-\bibitem[{\textsc{Böhler and Marbs}(2004)}]{bohler_3d_2004}
-\textsc{Böhler, W., Marbs, A.}, \emph{3d scanning and photogrammetry for
+\bibitem[{\textsc{B{\"o}hler and Marbs}(2004)}]{bohler_3d_2004}
+\textsc{B{\"o}hler, W., Marbs, A.}, \emph{3d scanning and photogrammetry for
   heritage recording: a comparison}, in \emph{Proceedings of the 12th
   {International} {Conference} on {Geoinformatics}}, 291--298, Citeseer, 2004,
   \urlprefix\url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.3508&rep=rep1&type=pdf}.
 
-\bibitem[{\textsc{Cooper et~al.}(2007)\textsc{Cooper, La~Pensée, and
+\bibitem[{\textsc{Bozia et~al.}(2014)\textsc{Bozia, Barmpoutis, and
+  Wagman}}]{bozia_open-access_2014}
+\textsc{Bozia, E., Barmpoutis, A., Wagman, R.}, \emph{Open-{Access}
+  {Epigraphy}: {Electronic} {Dissemination} of 3d-digitized {Archaeological}
+  {Material}}, in S.~Orlandi, R.~Santucci, {Casarosa}, P.M. Liuzzo (edd.),
+  \emph{Proceedings of the {International} {Conference} on {Information}
+  {Technologies} for {Epigraphy} and {Cultural} {Heritage}}, 421--435, 2014.
+
+\bibitem[{\textsc{Cooper et~al.}(2007)\textsc{Cooper, La~Pens{\'e}e, and
   Bryan}}]{cooper_chiswick_2007}
-\textsc{Cooper, M., La~Pensée, A., Bryan, P.}, \emph{Chiswick {House},
+\textsc{Cooper, M., La~Pens{\'e}e, A., Bryan, P.}, \emph{Chiswick {House},
   {London}: {Laser} scanning tests on a gilded 18th century table}, English
   Heritage Research Department Series Report, 19 (2007).
 
@@ -64,8 +63,8 @@
 
 \bibitem[{\textsc{Gonizzi~Barsanti and Guidi}(2013)}]{barsanti_3d_2013}
 \textsc{Gonizzi~Barsanti, S., Guidi, G.}, \emph{3d digitization of museum
-  content within the 3d-{ICONS} project}, ISPRS Ann. Photogramm. Remote Sens.
-  Spatial Inf. Sci, II-5 W, 1 (2013), 151--156,
+  content within the 3d-{ICONS} project}, ISPRS Annals of Photogrammetry,
+  Remote Sensing and Spatial Information Sciences, II-5 W, 1 (2013), 151--156,
   \urlprefix\url{http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5-W1/151/2013/isprsannals-II-5-W1-151-2013.pdf}.
 
 \bibitem[{\textsc{Ikei et~al.}(2015)\textsc{Ikei, Shimabukuro, Kato, Komase,
@@ -96,13 +95,21 @@
   interactive techniques}, 519--528, ACM, 2001,
   \urlprefix\url{http://dl.acm.org/citation.cfm?id=383320}.
 
+\bibitem[{\textsc{Osman et~al.}(2011)\textsc{Osman, Talib, Sanusi, Yen, and
+  Alwi}}]{osman_exploratory_2011}
+\textsc{Osman, M.A., Talib, A.Z., Sanusi, Z.A., Yen, T.S., Alwi, A.S.},
+  \emph{An exploratory study on the trend of smartphone usage in a developing
+  country}, in \emph{Digital enterprise and information systems}, 387--396,
+  Springer, 2011,
+  \urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-642-22603-8_35}.
+
 \bibitem[{\textsc{Papadaki et~al.}(2015)\textsc{Papadaki, Agrafiotis,
   Georgopoulos, and Prignitz}}]{papadaki_accurate_2015}
 \textsc{Papadaki, A.I., Agrafiotis, P., Georgopoulos, A., Prignitz, S.},
-  \emph{{ACCURATE} 3d {SCANNING} {OF} {DAMAGED} {ANCIENT} {GREEK}
-  {INSCRIPTIONS} {FOR} {REVEALING} {WEATHERED} {LETTERS}.}, ISPRS-International
-  Archives of the Photogrammetry, Remote Sensing and Spatial Information
-  Sciences, 1 (2015), 237--243,
+  \emph{Accurate 3d scanning of damaged ancient greek inscriptions for
+  revealing weathered letters}, ISPRS-International Archives of the
+  Photogrammetry, Remote Sensing and Spatial Information Sciences, 1 (2015),
+  237--243,
   \urlprefix\url{http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W4/237/2015/isprsarchives-XL-5-W4-237-2015.pdf}.
 
 \bibitem[{\textsc{Pavlidis et~al.}(2007)\textsc{Pavlidis, Koutsoudis,
@@ -123,8 +130,7 @@
 \bibitem[{\textsc{Preece et~al.}(2015)\textsc{Preece, Sharp, and
   Rogers}}]{preece_interaction_2015}
 \textsc{Preece, J., Sharp, H., Rogers, Y.}, \emph{Interaction {Design}-beyond
-  human-computer interaction}, John Wiley \& Sons, 2015,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=n0h9CAAAQBAJ&oi=fnd&pg=PA350&dq=Interaction+Design+beyond+human-computer+interaction&ots=23BJAagycR&sig=rSD8m8p3muiPCMOOFsXBzYiowY8}.
+  human-computer interaction}, John Wiley \& Sons, 2015.
 
 \bibitem[{\textsc{Ramírez-Sánchez et~al.}(2014)\textsc{Ramírez-Sánchez,
   Suárez-Rivero, and
