@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  16 DEC 2015 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 23:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1269,7 +1269,7 @@ go-
  []
 
 [6] [7]
-<PaperproposalforEAGLEfinal-img001.png, id=185, 1442.38875pt x 861.2175pt>
+<PaperproposalforEAGLEfinal-img001.png, id=188, 1442.38875pt x 861.2175pt>
 File: PaperproposalforEAGLEfinal-img001.png Graphic file (type png)
 
 <use PaperproposalforEAGLEfinal-img001.png>
@@ -1280,7 +1280,7 @@ ne 286.
 ist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-[9] <PaperproposalforEAGLEfinal-img002.jpg, id=196, 252.945pt x 221.7375pt>
+[9] <PaperproposalforEAGLEfinal-img002.jpg, id=199, 252.945pt x 221.7375pt>
 File: PaperproposalforEAGLEfinal-img002.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img002.jpg>
@@ -1288,20 +1288,19 @@ Package pdftex.def Info: PaperproposalforEAGLEfinal-img002.jpg used on input li
 ne 353.
 (pdftex.def)             Requested size: 310.13503pt x 271.8761pt.
  [10 <./PaperproposalforEAGLEfinal-img002.jpg>] [11]
-<PaperproposalforEAGLEfinal-img003.jpg, id=210, 276.9255pt x 208.926pt>
+<PaperproposalforEAGLEfinal-img003.jpg, id=213, 276.9255pt x 208.926pt>
 File: PaperproposalforEAGLEfinal-img003.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img003.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img003.jpg used on input li
 ne 444.
 (pdftex.def)             Requested size: 310.13503pt x 233.9955pt.
- [12]
+ [12] [13 <./PaperproposalforEAGLEfinal-img003.jpg>]
 
-Package natbib Warning: Citation `reynolds1999b' on page 13 undefined on input 
+Package natbib Warning: Citation `reynolds1999b' on page 14 undefined on input 
 line 480.
 
-[13 <./PaperproposalforEAGLEfinal-img003.jpg>]
-<PaperproposalforEAGLEfinal-img004.jpg, id=229, 308.4615pt x 116.6175pt>
+<PaperproposalforEAGLEfinal-img004.jpg, id=232, 308.4615pt x 116.6175pt>
 File: PaperproposalforEAGLEfinal-img004.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img004.jpg>
@@ -1319,7 +1318,7 @@ LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              for symbol `textbraceleft' on input line 529.
 
 [15 <./PaperproposalforEAGLEfinal-img004.jpg>]
-<PaperproposalforEAGLEfinal-img005.jpg, id=243, 205.9695pt x 158.0085pt>
+<PaperproposalforEAGLEfinal-img005.jpg, id=246, 205.9695pt x 158.0085pt>
 File: PaperproposalforEAGLEfinal-img005.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img005.jpg>
@@ -1327,7 +1326,7 @@ Package pdftex.def Info: PaperproposalforEAGLEfinal-img005.jpg used on input li
 ne 550.
 (pdftex.def)             Requested size: 310.13503pt x 237.91867pt.
 
-<PaperproposalforEAGLEfinal-img006.jpg, id=244, 177.0615pt x 130.743pt>
+<PaperproposalforEAGLEfinal-img006.jpg, id=247, 177.0615pt x 130.743pt>
 File: PaperproposalforEAGLEfinal-img006.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img006.jpg>
@@ -1347,149 +1346,59 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--20
-\T1/qpl/m/n/10 (+20) 2012, URL [][]$\T1/lmtt/m/n/10 https : / / books . google 
-. de / books ? hl = en & lr = &id =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--20
-\T1/lmtt/m/n/10 MEhehbWzjUYC & oi = fnd & pg = PR3 & dq = Bodel + Epigraphic + 
-Evidence &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
-[]\T1/qpl/m/sc/10 (+20) Buonocore, M.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+2
-0) Epi-graphic Re-search from its In-cep-tion: the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
-\T1/qpl/m/it/10 (+20) Con-tri-bu-tion of Manuscripts\T1/qpl/m/n/10 (+20) , in C
-. Bruun, J. Ed-mond-son
- []
-
-
-Underfull \hbox (badness 7595) in paragraph at lines 26--31
-\T1/qpl/m/n/10 (+20) (ed.), \T1/qpl/m/it/10 (+20) The Ox-ford Hand-book of Ro-m
-an Epig-ra-phy\T1/qpl/m/n/10 (+20) , 21--37, Ox-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
-\T1/qpl/m/n/10 (+20) ford Uni-ver-sity Press, 2014, ISBN 978-0-19-533646-7, URL
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
-[][]$\T1/lmtt/m/n/10 http : / / www . oxfordhandbooks . com / view / 10 . 1093 
-/ oxfordhb /
- []
-
-
-Underfull \hbox (badness 8019) in paragraph at lines 37--40
-[]\T1/qpl/m/sc/10 (+20) Cooley, A.E.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
-) The Cam-bridge man-ual of Latin epig-ra-phy\T1/qpl/m/n/10 (+20) , Cam-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
-\T1/qpl/m/n/10 (+20) bridge Uni-ver-sity Press, 2012, URL [][]$\T1/lmtt/m/n/10 
-https : / / books . google .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
-\T1/lmtt/m/n/10 de / books ? hl = en & lr = &id = VlghAwAAQBAJ & oi = fnd & pg 
-= PR9 & dq = +The +
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
-\T1/lmtt/m/n/10 Cambridge + Manual + of + Latin + Epigraphy & ots = Z0SSuGuc2x 
-& sig =
- []
-
-
-Underfull \hbox (badness 7869) in paragraph at lines 52--56
-[]\T1/qpl/m/sc/10 (+20) DI STE-FANO MANZELLA, I.\T1/qpl/m/n/10 (+20) , \T1/qpl/
-m/it/10 (+20) L'integrazione tra testo e man-u-
- []
-
 [21]
-Underfull \hbox (badness 2368) in paragraph at lines 70--74
+Underfull \hbox (badness 2368) in paragraph at lines 85--89
 []\T1/qpl/m/sc/10 (+20) Elliott, T.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20)
  Epig-ra-phy and Dig-i-tal Re-sources\T1/qpl/m/n/10 (+20) , in C. Bruun, J. Ed-
 
  []
 
 
-Underfull \hbox (badness 4505) in paragraph at lines 70--74
-\T1/qpl/m/n/10 (+20) Ox-ford Uni-ver-sity Press, 2014, ISBN 978-0-19-533646-7, 
-URL
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+\T1/qpl/m/n/10 (+20) mond-son (edd.), \T1/qpl/m/it/10 (+20) The Ox-ford Hand-bo
+ok of Ro-man Epig-ra-phy\T1/qpl/m/n/10 (+20) ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
-[][]$\T1/lmtt/m/n/10 http : / / www . oxfordhandbooks . com / view / 10 . 1093 
-/ oxfordhb /
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+\T1/qpl/m/n/10 (+20) 78--85, Ox-ford Uni-ver-sity Press, 2014, URL [][]$\T1/lmt
+t/m/n/10 http : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
-[][]$\T1/lmtt/m/n/10 https : / / books . google . de / books ? hl = en & lr = &
-id = -[]M _ mu08ZiWoC &
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+\T1/lmtt/m/n/10 oxfordhandbooks . com / view / 10 . 1093 / oxfordhb / 978019533
+6467 .
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
-\T1/lmtt/m/n/10 oi = fnd & pg = PR13 & dq = ncient + Literacy & ots = 14X7YumN5
-k & sig =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--109
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
 []\T1/qpl/m/sc/10 (+20) Panciera, S.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/it/10 (+20
 ) What Is an In-scrip-tion? Prob-lems of Def-i-ni-tion
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 106--109
+Underfull \hbox (badness 7963) in paragraph at lines 127--130
 \T1/qpl/m/it/10 (+20) and Iden-tity of an His-tor-i-cal Source\T1/qpl/m/n/10 (+
 20) , 183 (2012), 1--10, URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--109
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
 [][]$\T1/lmtt/m/n/10 http : / / www . digitalmeetsculture . net / wp-[]content 
 / uploads /
  []
 
-[22] [23]
-Underfull \hbox (badness 10000) in paragraph at lines 173--176
-\T1/lmtt/m/n/10 google . de / books ? hl = en & lr = &id = aAJpYgvfm5AC & oi = 
-fnd & pg = PP1 &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--176
-\T1/lmtt/m/n/10 dq = Athens + and + Macedon : +Attic + Letter-[]Cutters + of + 
-300-[]229 +
- []
-
-)
+[23])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 687.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 693.
 [24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 687.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 693.
  (./Paper proposal for EAGLE final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 687.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 687.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 693.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 693.
 Package rerunfilecheck Info: File `"Paper proposal for EAGLE final".out' has no
 t changed.
 (rerunfilecheck)             Checksum: 0438975EBBB954F58AEA8F9AF58594EA;1272.
@@ -1499,13 +1408,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23171 strings out of 493089
- 424057 string characters out of 6134841
- 470468 words of memory out of 5000000
- 26064 multiletter control sequences out of 15000+600000
- 116569 words of font info for 224 fonts, out of 8000000 for 9000
+ 23189 strings out of 493089
+ 424412 string characters out of 6134841
+ 470711 words of memory out of 5000000
+ 26079 multiletter control sequences out of 15000+600000
+ 116436 words of font info for 223 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,45p,10430b,896s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10430b,902s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
 e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/te
@@ -1516,11 +1425,11 @@ dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts
 ic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
 -gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/
 qplri.pfb>
-Output written on "Paper proposal for EAGLE final.pdf" (24 pages, 1399399 bytes
+Output written on "Paper proposal for EAGLE final.pdf" (24 pages, 1394867 bytes
 ).
 PDF statistics:
- 399 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
- 77 named destinations out of 1000 (max. 500000)
+ 400 PDF objects out of 1000 (max. 8388607)
+ 357 compressed objects within 4 object streams
+ 82 named destinations out of 1000 (max. 500000)
  44671 words of extra memory for PDF output out of 51595 (max. 10000000)
 

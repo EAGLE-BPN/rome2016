@@ -1,4 +1,4 @@
-\begin{thebibliography}{33}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -7,27 +7,44 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{\textsc{Alf{\"o}ldy}()}]{alfoldy1995}
-\textsc{Alf{\"o}ldy, G.}, \emph{{Inscripciones, sacrificios y misterios: el
-  santuario rupestre de Pan{\'o}iasn/Portugal: informe preliminar}},  (????),
-  252--258,
-  \urlprefix\url{http://dialnet.unirioja.es/servlet/articulo?codigo=1300986}.
+\bibitem[{\textsc{Alf{\"o}ldy}(1995)}]{alfoldy1995}
+\textsc{Alf{\"o}ldy, G.}, \emph{Eine {Bauinschrift} aus dem {Colosseum}},
+  Zeitschrift f{\"u}r papyrologie und Epigraphik,  (1995), 195--226,
+  \urlprefix\url{http://www.jstor.org/stable/20189648}.
 
-\bibitem[{\textsc{Bodel}(2012)}]{bodel2001}
+\bibitem[{\textsc{Bodel}(2001)}]{bodel2001}
 \textsc{Bodel, J.}, \emph{Epigraphic evidence: ancient history from
-  inscriptions}, Routledge, 2012,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=MEhehbWzjUYC&oi=fnd&pg=PR3&dq=Bodel+Epigraphic+Evidence&ots=OrwMf4PUAW&sig=6LR5EHxq4eOZXR2JZHFcCB9IMSs}.
+  inscriptions}, Routledge, New York, 2001.
 
 \bibitem[{\textsc{Bruun and Edmondson}(2014)}]{bruun2015}
-\textsc{Bruun, C., Edmondson, J.}, \emph{The {Oxford} {Handbook} of {Roman}
-  {Epigraphy}}, Oxford University Press, 2014, ISBN 978-0-19-533646-7.
+\textsc{Bruun, C., Edmondson, J.} (edd.), \emph{The {Oxford} {Handbook} of
+  {Roman} {Epigraphy}}, Oxford University Press, Oxford, 2014.
 
 \bibitem[{\textsc{Buonocore}(2014)}]{buonocore2015}
 \textsc{Buonocore, M.}, \emph{Epigraphic {Research} from its {Inception}: the
-  {Contribution} of {Manuscripts}}, in C.~Bruun, J.~Edmondson (ed.), \emph{The
+  {Contribution} of {Manuscripts}}, in C.~Bruun, J.~Edmondson (edd.), \emph{The
   {Oxford} {Handbook} of {Roman} {Epigraphy}}, 21--37, Oxford University Press,
-  2014, ISBN 978-0-19-533646-7,
+  Oxford, 2014,
   \urlprefix\url{http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195336467.001.0001/oxfordhb-9780195336467-e-002}.
+
+\bibitem[{\textsc{Buraselis}(2000)}]{buraselis2000}
+\textsc{Buraselis, K.}, \emph{Kos between {Hellenism} and {Rome}: studies on
+  the political, institutional and social history of {Kos} from ca. the middle
+  second century {BC} until late antiquity}, Transactions of the American
+  Philosophical Society,  (2000), i--189,
+  \urlprefix\url{http://www.jstor.org/stable/1586017}.
+
+\bibitem[{\textsc{Calabi~Limentani}(1991)}]{calabi1991}
+\textsc{Calabi~Limentani, I.}, \emph{Epigrafia latina}, Milano, 4 ed., 1991.
+
+\bibitem[{\textsc{Calder and Cormack}(1962)}]{calder1962}
+\textsc{Calder, W.M., Cormack, J.}, \emph{Monumenta Asiae Minoris Antiqua},
+  vol.~8, Manchester Univ. Press, Manchester, 1962.
+
+\bibitem[{\textsc{Chaniotis}(2004)}]{chaniotis2004}
+\textsc{Chaniotis, A.}, \emph{New inscriptions from {Aphrodisias} (1995-2001)},
+  American journal of archaeology,  (2004), 377--416,
+  \urlprefix\url{http://www.jstor.org/stable/40025759}.
 
 \bibitem[{\textsc{Cooley}(2014)}]{cooley2014}
 \textsc{Cooley, A.}, \emph{Paratextual perspectives upon the {SC} de {Pisone}
@@ -35,21 +52,19 @@
 
 \bibitem[{\textsc{Cooley}(2012)}]{cooley2012}
 \textsc{Cooley, A.E.}, \emph{The {Cambridge} manual of {Latin} epigraphy},
-  Cambridge University Press, 2012,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=VlghAwAAQBAJ&oi=fnd&pg=PR9&dq=+The+Cambridge+Manual+of+Latin+Epigraphy&ots=Z0SSuGuc2x&sig=b75_wrH5Ubdd8p2TS4mZfQkWack}.
+  Cambridge University Press, Cambridge, 2012.
 
-\bibitem[{\textsc{Di~Stefano~Manzella}()}]{Manzella1987}
+\bibitem[{\textsc{Di~Stefano~Manzella}(1987)}]{Manzella1987}
 \textsc{Di~Stefano~Manzella, I.}, \emph{{Mestiere di epigrafista: guida alla
-  schedatura del materiale epigrafico lapideo}}, {Edizioni Quasar}, ????, ISBN
-  9788885020795.
+  schedatura del materiale epigrafico lapideo}}, {Edizioni Quasar}, 1987.
 
-\bibitem[{\textsc{DI~STEFANO~MANZELLA}(1995)}]{Manzella1995}
-\textsc{DI~STEFANO~MANZELLA, I.}, \emph{Problemi di paleografia epigrafica
-  latina}, in H.~Solin, O.~Salomies, U.M. Liertz (ed.), \emph{Acta {Colloqui}
+\bibitem[{\textsc{Di~Stefano~Manzella}(1995)}]{Manzella1995}
+\textsc{Di~Stefano~Manzella, I.}, \emph{Problemi di paleografia epigrafica
+  latina}, in H.~Solin, O.~Salomies, U.M. Liertz (edd.), \emph{Acta {Colloqui}
   {Epigraphici} {Latini}}, 163--181, 1995.
 
-\bibitem[{\textsc{DI~STEFANO~MANZELLA}(2007)}]{Manzella2007}
-\textsc{DI~STEFANO~MANZELLA, I.}, \emph{L'integrazione tra testo e
+\bibitem[{\textsc{Di~Stefano~Manzella}(2007)}]{Manzella2007}
+\textsc{Di~Stefano~Manzella, I.}, \emph{L'integrazione tra testo e
   manufatto/monumento in epigrafia}, in M.~Mayer (ed.), \emph{Acta {XII}
   {Congressus} {Internationalis} {Epigraphiae} {Graecae} et {Latinae}.
   {Barcelona}}, 393--418, 2007.
@@ -61,20 +76,21 @@
   {November}, 1987}, 66--74, 1990.
 
 \bibitem[{\textsc{Eck}(2010)}]{eck2010}
-\textsc{Eck, W.}, \emph{There {Are} {No} cursus honorum {Inscriptions}. {The}
-  {Function} of the cursus honorum in {Epigraphic} {Communication}}, Monument
-  und Inschrift, 28 (2010), 79--92,
+\textsc{Eck, W.}, \emph{There {Are} {No} \emph{Cursus Honorum} {Inscriptions}.
+  {The} {Function} of the cursus honorum in {Epigraphic} {Communication}},
+  Monument und Inschrift, 28 (2010), 79--92,
   \urlprefix\url{http://www.academia.edu/download/31074813/2009_No_cursus_honoruminscriptions.pdf}.
 
 \bibitem[{\textsc{Elliott}(2014)}]{Elliot2015}
 \textsc{Elliott, T.}, \emph{Epigraphy and {Digital} {Resources}}, in C.~Bruun,
-  J.~Edmondson (ed.), \emph{The {Oxford} {Handbook} of {Roman} {Epigraphy}},
-  78--85, Oxford University Press, 2014, ISBN 978-0-19-533646-7,
+  J.~Edmondson (edd.), \emph{The {Oxford} {Handbook} of {Roman} {Epigraphy}},
+  78--85, Oxford University Press, 2014,
   \urlprefix\url{http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195336467.001.0001/oxfordhb-9780195336467-e-005}.
 
 \bibitem[{\textsc{Gordon and Gordon}(1957)}]{Gordon1957}
 \textsc{Gordon, J.A.S., Gordon, A.E.}, \emph{Contributions to the paleography
-  of {Latin} inscriptions}, vol.~3, University of California Press, 1957.
+  of {Latin} inscriptions}, vol.~3, University of California Press, Berkeley,
+  1957.
 
 \bibitem[{\textsc{Graham}(2013)}]{graham2013}
 \textsc{Graham, A.S.}, \emph{The word is not enough: {A} new approach to
@@ -82,25 +98,30 @@
   American Journal of Archaeology, 117 (2013), 383--412,
   \urlprefix\url{http://www.jstor.org/stable/10.3764/aja.117.3.0383}.
 
-\bibitem[{\textsc{Graham}(2015)}]{graham2015}
+\bibitem[{\textsc{Graham}(forthcoming)}]{graham2015}
 \textsc{Graham, A.S.}, \emph{Reappraising the {Value} of {Same} {Text}
   {Relationships}}, in A.~Petrovic (ed.), \emph{Text and {Materiality}}, New
-  York, 2015, forthcoming.
+  York, forthcoming.
 
 \bibitem[{\textsc{Grasby}(2002)}]{grasby2002}
 \textsc{Grasby, R.D.}, \emph{Latin inscriptions: studies in measurement and
   making}, Papers of the British School at Rome, 70 (2002), 151--176,
   \urlprefix\url{http://journals.cambridge.org/abstract_S0068246200002130}.
 
-\bibitem[{\textsc{Harris}(1991)}]{harris1989}
-\textsc{Harris, W.V.}, \emph{Ancient literacy}, Harvard University Press, 1991,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=-M_mu08ZiWoC&oi=fnd&pg=PR13&dq=ncient+Literacy&ots=14X7YumN5k&sig=hVeQFB-H8DelXBx9LPWllotIlMQ}.
+\bibitem[{\textsc{Harris}(1989)}]{harris1989}
+\textsc{Harris, W.V.}, \emph{Ancient literacy}, Cambridge, 1989.
 
 \bibitem[{\textsc{Hommel}(1970)}]{hommel1970}
-\textsc{Hommel, H.}, \emph{Das {Datum} der {Munatier}-{Grabstätte} in {Portus}
-  {Traiani} und die hederae distinguentes}, Zeitschrift für Papyrologie und
-  Epigraphik, 5 (1970), 293--303,
+\textsc{Hommel, H.}, \emph{Das {Datum} der {Munatier}-{Grabst{\"a}tte} in
+  {Portus} {Traiani} und die hederae distinguentes}, Zeitschrift f{\"u}r
+  Papyrologie und Epigraphik, 5 (1970), 293--303,
   \urlprefix\url{http://www.jstor.org/stable/20180224}.
+
+\bibitem[{\textsc{Panciera}(1995)}]{panciera1995}
+\textsc{Panciera, S.}, \emph{La produzione epigrafica di {Roma} in et{\`a}
+  repubblicana. {Le} officine lapidarie}, in H.~Solin, O.~Salomies, U.M. Liertz
+  (edd.), \emph{Acta Colloquii epigraphici Latini (Helsingiae 1991)}, 319--42,
+  1995.
 
 \bibitem[{\textsc{Panciera}(2012)}]{panciera2012}
 \textsc{Panciera, S.}, \emph{{What Is an Inscription? Problems of Definition
@@ -109,54 +130,54 @@
 
 \bibitem[{\textsc{Petrucci}(1993)}]{petrucci1993}
 \textsc{Petrucci, A.}, \emph{Public lettering: script, power, and culture},
-  Tuttle Publishing, 1993.
+  Tuttle Publishing, Chicago, 1993.
 
 \bibitem[{\textsc{Reynolds}(1990)}]{reynolds1990}
 \textsc{Reynolds, J.}, \emph{Inscriptions and the {Building} of the {Temple} of
-  {Aphrodite}}, Aphrodisias Papers, 1 (1990), 37--40.
+  {Aphrodite}}, in C.~Roueché, K.~Erim (edd.), \emph{Aphrodisias Papers},
+  vol.~1, 37--40, Ann Arbor, 1990.
 
 \bibitem[{\textsc{Reynolds}(1999)}]{reynolds1999}
 \textsc{Reynolds, J.M.}, \emph{The {First} known {Aphrodisian} to hold a
-  curatorship}, in P.~Scherrer, H.~Thur (ed.), \emph{Steine und {Wege}:
-  {Festschrift} für {Dieter} {Knibbe} zum 65. {Gerburtstag}}, 327--334,
+  curatorship}, in P.~Scherrer, H.~Thur (edd.), \emph{Steine und {Wege}:
+  {Festschrift} f{\"u}r {Dieter} {Knibbe} zum 65. {Gerburtstag}}, 327--334,
   Vienna, 1999.
 
 \bibitem[{\textsc{Reynolds and Erim}(1982)}]{reynolds1982}
-\textsc{Reynolds, J.M., Erim, K.T.}, \emph{Aphrodisias and {Rome}: documents
-  from the excavation of the theatre at {Aphrodisias} conducted by {Professor}
-  {Kenan} {T}. {Erim}, together with some related texts}, vol.~1, Society for
-  the promotion of Roman studies, 1982.
+\textsc{Reynolds, J.M., Erim, K.T.}, \emph{Aphrodisias and {Rome}}, Society for
+  the promotion of Roman studies, London, 1982.
 
-\bibitem[{\textsc{Reynolds et~al.}(2007)\textsc{Reynolds, Roueché, and
+\bibitem[{\textsc{Reynolds et~al.}(2007)\textsc{Reynolds, Rouech{\'e}, and
   Bodard}}]{ReynoldsRouecheBodard2007}
-\textsc{Reynolds, J.M., Roueché, C., Bodard, G.}, \emph{Inscriptions of
-  {Aphrodisias} (2007)}, 2007.
+\textsc{Reynolds, J.M., Rouech{\'e}, C., Bodard, G.}, \emph{Inscriptions of
+  {Aphrodisias} (2007)}, online publication, 2007,
+  \urlprefix\url{http://insaph.kcl.ac.uk/iaph2007/index.html}.
 
-\bibitem[{\textsc{Roueché et~al.}(2004)\textsc{Roueché, Reynolds, and
+\bibitem[{\textsc{Rouech{\'e} et~al.}(2004)\textsc{Rouech{\'e}, Reynolds, and
   Erim}}]{roueche2004}
-\textsc{Roueché, C., Reynolds, J.M., Erim, K.T.}, \emph{Aphrodisias in late
+\textsc{Rouech{\'e}, C., Reynolds, J.M., Erim, K.T.}, \emph{Aphrodisias in late
   antiquity}, online edition, 2004,
   \urlprefix\url{http://insaph.kcl.ac.uk/ala2004/}.
 
-\bibitem[{\textsc{Roueché and Smith}(1996)}]{smith1996}
-\textsc{Roueché, C., Smith, R.R.}, \emph{Aphrodisias papers 3: the setting and
-  quarries, mythological and other sculptural decoration, architectural
+\bibitem[{\textsc{Rouech{\'e} and Smith}(1996)}]{smith1996}
+\textsc{Rouech{\'e}, C., Smith, R.R.}, \emph{Aphrodisias papers 3: the setting
+  and quarries, mythological and other sculptural decoration, architectural
   development, {Portico} of {Tiberius}, and {Tetrapylon}: including the papers
   given at the {Fourth} {International} {Aphrodisias} {Colloquium} held at
   {King}'s {College}, {London} on 14 {March}, 1992, in memory of {Kenan} {T}.
   {Erim}}, vol.~4, Journal of Roman archaeology, 1996.
 
-\bibitem[{\textsc{Smith and Ratté}(1998)}]{smith1995}
-\textsc{Smith, R.R., Ratté, C.}, \emph{Archaeological research at
-  {Aphrodisias} in {Caria}, 1996}, American journal of archaeology,  (1998),
-  225--250, \urlprefix\url{http://www.jstor.org/stable/506467}.
+\bibitem[{\textsc{Smith and Ratt{\'e}}(1995)}]{smith1995}
+\textsc{Smith, R.R., Ratt{\'e}, C.}, \emph{Archaeological research at
+  {Aphrodisias} in {Caria}, 1989-1992}, American journal of archaeology, 99
+  (1995), 33--58, \urlprefix\url{http://www.jstor.org/stable/506467}.
 
 \bibitem[{\textsc{Susini}(1973)}]{susini1973}
 \textsc{Susini, G.C.}, \emph{The {Roman} {Stonecutter}: {An} {Introduction} to
-  {Latin} {Epigraphy}}, Blackwell, 1973.
+  {Latin} {Epigraphy}}, Blackwell, Oxford, 1973.
 
-\bibitem[{\textsc{Thomas and Witschel}(1992)}]{thomas1990}
-\textsc{Thomas, E., Witschel, C.}, \emph{Constructing reconstruction: claim and
+\bibitem[{\textsc{Thomas and C.}(1992)}]{thomas1990}
+\textsc{Thomas, E., C., W.}, \emph{Constructing reconstruction: claim and
   reality of {Roman} rebuilding inscriptions from the {Latin} west}, Papers of
   the British School at Rome, 60 (1992), 135--177,
   \urlprefix\url{http://journals.cambridge.org/abstract_S0068246200009818}.
@@ -171,8 +192,7 @@
 
 \bibitem[{\textsc{Tracy}(2003)}]{tracy2003}
 \textsc{Tracy, S.V.}, \emph{Athens and {Macedon}: {Attic} {Letter}-cutters of
-  300 to 229 {BC}}, vol.~38, Univ of California Press, 2003,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=aAJpYgvfm5AC&oi=fnd&pg=PP1&dq=Athens+and+Macedon:+Attic+Letter-Cutters+of+300-229+BC&ots=g9tBM-twMn&sig=0sAgVzNGF7In6fxIPZ4iwbHFFj4}.
+  300 to 229 {BC}}, vol.~38, Univ of California Press, 2003.
 
 \bibitem[{\textsc{Woolf}(1996)}]{woolf1996}
 \textsc{Woolf, G.}, \emph{Monumental writing and the expansion of {Roman}
