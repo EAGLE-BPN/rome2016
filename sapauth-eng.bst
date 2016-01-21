@@ -273,7 +273,7 @@ FUNCTION {bbl.mthesis}
 { "Thesis" }
 
 FUNCTION {bbl.phdthesis}
-{ "Tesi di dottorato" }
+{ "PhD Thesis" }
 
 MACRO {jan} {"Jan."}
 

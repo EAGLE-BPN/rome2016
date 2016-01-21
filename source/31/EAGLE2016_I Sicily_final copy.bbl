@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{21}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -8,76 +8,72 @@
   \urlstyle{rm}\Url}\fi
 
 \bibitem[{\textsc{Castelli}(1784)}]{Castelli:1784aa}
-\textsc{Castelli, G.L.p.d.T.}, \emph{Siciliae et objacentium insularum veterum
+\textsc{Castelli, G.L.}, \emph{Siciliae et objacentium insularum veterum
   inscriptionum nova collectio prolegomenis et notis illustrata, et iterum cum
   emendationibus, \& auctariis evulgata}, Typis regiis, Panormi, 1784.
 
 \bibitem[{\textsc{Cotton et~al.}(1999)\textsc{Cotton, Di~Segni, Eck, and
   Benjamin}}]{cotton_corpus_1999}
-\textsc{Cotton, H.M., Di~Segni, L., Eck, W., Benjamin, I.}, \emph{{CORPUS}
-  {INSCRIPTIONUM} {JUDAEAE}/{PALAESTINAE}}, Zeitschrift f{\"u}r Papyrologie und
+\textsc{Cotton, H.M., Di~Segni, L., Eck, W., Benjamin, I.}, \emph{{C}orpus
+  {I}nscriptionum {J}udaeae/{P}alaestinae}, Zeitschrift f{\"u}r Papyrologie und
   Epigraphik, 127 (1999), 307--308.
 
-\bibitem[{\textsc{Cotton et~al.}(2010)\textsc{Cotton, Segni, Eck, Isaac, Price,
-  Kushnir-Stein, Misgav, Roll, and Yardeni}}]{cotton_corpus_2010}
-\textsc{Cotton, H.M., Segni, L.D., Eck, W., Isaac, B., Price, J.,
-  Kushnir-Stein, A., Misgav, H., Roll, I., Yardeni, A.}, \emph{Corpus
-  {Inscriptionum} {Iudaeae} / {Palaestinae}: {A} multi-lingual corpus of the
-  inscriptions from {Alexander} to {Muhammad}}, vol. 1.1, De Gruyter, Berlin ;
-  New York, 1 edition ed., 2010, ISBN 978-3-11-022219-7.
+\bibitem[{\textsc{Cotton and Price}(2007)}]{Cotton:2007aa}
+\textsc{Cotton, H.M., Price, J.}, \emph{Corpus inscriptionum {Iudaeae} /
+  {Palestinae}: a multilingual corpus of inscriptions}, in M.~Mayer~i
+  Oliv{\'e}, G.~Baratta, A.G. Almagro (edd.), \emph{XII Congressus
+  Internationalis Epigraphiae Graecae et Latinae, Acta}, 327--332, Institut
+  d'estudis catalans, Barcelona, 2007.
 
 \bibitem[{\textsc{De~Vido}(1999)}]{de_vido_corpora_1999}
 \textsc{De~Vido, S.}, \emph{Corpora epigrafici siciliani da {Gualtherus} a
   {Kaibel}}, in M.~Gulletta (ed.), \emph{Sicilia {Epigraphica}. {Atti} del
   convegno internazionale, {Erice}, 15-18 ottobre 1998}, vol.~1, 221--250,
-  Pisa, 1999.
+  Scuola Normale Superiore, Pisa, 1999.
+
+\bibitem[{\textsc{Dubois}(1989)}]{dubois_inscriptions_1989}
+\textsc{Dubois, L.}, \emph{Inscriptions grecques dialectales de {Sicile}:
+  contribution al'etude du vocabulaire grec colonial}, {\'E}cole francaise de
+  Rome, Rome, 1989.
+
+\bibitem[{\textsc{Dubois}(2008)}]{dubois_inscriptions_2008}
+\textsc{Dubois, L.}, \emph{Inscriptions grecques dialectales de {Sicile}. Tome
+  II}, vol.~40, Droz, Gen{\`e}ve, 2008.
 
 \bibitem[{\textsc{Gulletta}(1999)}]{gulletta_sicilia_1999}
 \textsc{Gulletta, M.I.}, \emph{Sicilia epigraphica: atti del convegno
-  internazionale {Erice}, 15-18 ottobre 1998}, Scuola normale superiore di
-  Pisa, classe di lettere e filosofia, 1999.
+  internazionale {Erice}, 15-18 ottobre 1998}, Scuola Normale Superiore, Pisa,
+  1999.
 
 \bibitem[{\textsc{Kaibel}(1890)}]{kaibel_inscriptiones_1890}
-\textsc{Kaibel, G.H.} (ed.), \emph{Inscriptiones {Italiae} et {Siciliae}},
-  no.~14 in Inscriptiones {Graecae} / consilio et auctoritate {Academiae}
-  {Scientiarum} {Germanicae} editae ; 14 ; {Inscriptiones} {Graecae}, Reimer,
-  Berolini, 1890, teilw. mit zus{\"a}tzl. Titelbl.: Inscriptiones Graecae
-  Siciliae et Italiae : additis Graecis Galliae Hispaniae Britanniae Germaniae
-  inscriptionibus.
+\textsc{Kaibel, G.}, \emph{Inscriptiones {Italiae} et {Siciliae}}, no.~14 in
+  Inscriptiones {Graecae}. Consilio et auctoritate {Academiae} {Scientiarum}
+  {Germanicae} editae, Reimer, Berolini, 1890.
 
 \bibitem[{\textsc{Korhonen}(2011)}]{korhonen_language_2011}
 \textsc{Korhonen, K.}, \emph{Language and identity in the {Roman} colonies of
-  {Sicily}}, Roman Colonies in the First Century of Their Foundation,  (2011).
+  {Sicily}}, in R.J. Sweetman (ed.), \emph{Roman Colonies in the First Century
+  of their Foundation}, Oxbow Books, Oxford, 2011.
 
 \bibitem[{\textsc{Manganaro}(1993)}]{manganaro_greco_1993}
 \textsc{Manganaro, G.}, \emph{Greco nei pagi e latino nelle citt{\`a} della
-  {Sicilia} «romana» tra {I} e {VI} sec. {dC}}, L'epigrafia del villaggio,
-  (1993), 543--594.
+  {Sicilia} «romana» tra {I} e {VI} sec. {dC}}, in A.~Calbi, A.~Donati,
+  G.~Poma (edd.), \emph{L'Epigrafia del villaggio}, 543--594, Fratelli Lega,
+  Faenza, 1993.
 
-\bibitem[{\textsc{Mommsen}(1883)}]{_inscriptiones_1883}
-\textsc{Mommsen, T.}, \emph{Inscriptiones {Siciliae} et {Sardiniae},
-  comprehendens}, no.~10 in Corpus inscriptionum {Latinarum} / consilio et
-  auctoritate {Academiae} {Scientiarum} {Rei} {Publicae} {Democraticae}
-  {Germanicae} editum ; 10 ; {Corpvs} inscriptionvm {Latinarvm}, De Gruyter,
-  Berolini, 1883.
+\bibitem[{\textsc{Mommsen}(1883)}]{Mommsen:1883aa}
+\textsc{Mommsen, T.} (ed.), \emph{Inscriptiones Bruttiorum Lucaniae Campaniae
+  Siciliae Sardiniae Latinae. Pars posterior. Inscriptiones Siciliae et
+  Sardiniae}, no. X.2 in Corpus inscriptionum {Latinarum}, {Reimer}, Berolini,
+  1883.
 
-\bibitem[{\textsc{Prag}(2003)}]{prag_nouveau_2003}
-\textsc{Prag, J.}, \emph{Nouveau regard sur les {\'e}lites locales de la
-  {Sicile} r{\'e}publicaine}, Histoire \& soci{\'e}t{\'e}s rurales, 19 (2003),
-  121--131,
-  \urlprefix\url{http://www.cairn.info/resume.php?ID_ARTICLE=HSR_019_0121}.
-
-\bibitem[{\textsc{Prag}(2008)}]{prag_sicilia_2008}
-\textsc{Prag, J.}, \emph{Sicilia and {Britiannia}: {Epigraphic} {Evidence} for
-  {Civic} {Administration},}, in C.~Berrendonner, M.~C{\'e}beillac~Gervasoni,
-  L.~Lamoine (edd.), \emph{Le {Quotidien} municipal dans l'{Occident} romain},
-  67--81, Clermont-Ferrand, 2008.
-
-\bibitem[{\textsc{Prag}(2010)}]{prag_sicilia_2010}
-\textsc{Prag, J.}, \emph{Sicilia {Romana} tributim discripta}, in
-  M.~Silvestrini (ed.), \emph{Le trib{\`u} romane. {Atti} della {XVIe}
-  {Rencontre} sur l'{\'e}pigraphie ({Bari} 8-10 ottobre 2009)}, 305--311, Bari,
-  2010.
+\bibitem[{\textsc{Orlandi et~al.}(2014)\textsc{Orlandi, Santucci, {Casarosa},
+  and Liuzzo}}]{OrlandiCasarosa2014}
+\textsc{Orlandi, S., Santucci, R., {Casarosa}, V., Liuzzo, P.M.} (edd.),
+  \emph{Information technologies for epigraphy and cultural heritage.
+  {Proceedings} of the first {EAGLE} international conference}, Sapienza
+  Universit{\`a} Editrice, Rome, 2014,
+  \urlprefix\url{http://www.eagle-network.eu/wp-content/uploads/2015/01/Paris-Conference-Proceedings.pdf}.
 
 \bibitem[{\textsc{Prag}(2002)}]{prag_epigraphy_2002}
 \textsc{Prag, J.R.}, \emph{Epigraphy by numbers: {Latin} and the epigraphic
@@ -85,32 +81,49 @@
   Latin?: Literacy and epigraphy in the Roman West}, vol.~48 of \emph{Journal
   of Roman archaeology: Supplementary series}, 15--32, Portsmouth, 2002.
 
-\bibitem[{\textsc{Prag}(2007)}]{prag_ciceronian_2007}
-\textsc{Prag, J.R.}, \emph{Ciceronian {Sicily}: the epigraphic dimension},
-  Collection «ISTA», 1030 (2007), 245--272,
-  \urlprefix\url{http://www.persee.fr/doc/ista_0000-0000_2007_act_1030_1_2487}.
+\bibitem[{\textsc{Prag}(2003)}]{prag_nouveau_2003}
+\textsc{Prag, J.R.}, \emph{Nouveau regard sur les {\'e}lites locales de la
+  {Sicile} r{\'e}publicaine}, Histoire \& soci{\'e}t{\'e}s rurales, 19 (2003),
+  121--131.
 
 \bibitem[{\textsc{Prag}(2004)}]{prag_sicily_2004}
-\textsc{Prag, J.R.W.}, \emph{Sicily and the {Roman} {Republic}, 241-44 {BC}:
-  provincialization and provincial identities}, Tesi di dottorato, University
-  College London (University of London), 2004,
-  \urlprefix\url{http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.420608}.
+\textsc{Prag, J.R.}, \emph{Sicily and the {Roman} {Republic}, 241-44 {BC}:
+  provincialization and provincial identities}, Tesi di dottorato, Department
+  of History, University College London, 2004.
+
+\bibitem[{\textsc{Prag}(2007)}]{prag_ciceronian_2007}
+\textsc{Prag, J.R.}, \emph{Ciceronian {Sicily}: the epigraphic dimension}, in
+  J.~Dubouloz, S.~Pittia (edd.), \emph{La Sicile de Cic{\'e}ron : lecture des
+  Verrines. Actes du colloque de Paris (19-20 mai 2006)}, Institut des Sciences
+  et Techniques de l'Antiquit{\'e}, Besan{\c c}on, 2007.
+
+\bibitem[{\textsc{Prag}(2008)}]{prag_sicilia_2008}
+\textsc{Prag, J.R.}, \emph{Sicilia and {Britiannia}: {Epigraphic} {Evidence}
+  for {Civic} {Administration},}, in C.~Berrendonner,
+  M.~C{\'e}beillac~Gervasoni, L.~Lamoine (edd.), \emph{Le {Quotidien} municipal
+  dans l'{Occident} romain}, 67--81, Presses universitaires Blaise-Pascal,
+  Clermont-Ferrand, 2008.
+
+\bibitem[{\textsc{Prag}(2010)}]{prag_sicilia_2010}
+\textsc{Prag, J.R.}, \emph{Sicilia {Romana} tributim discripta}, in
+  M.~Silvestrini (ed.), \emph{Le trib{\`u} romane. {Atti} della {XVIe}
+  {Rencontre} sur l'{\'e}pigraphie ({Bari} 8-10 ottobre 2009)}, 305--311,
+  Edipuglia, Bari, 2010.
 
 \bibitem[{\textsc{Salmeri}(2004)}]{salmeri_i_2004}
 \textsc{Salmeri, G.}, \emph{I caratteri della grecit{\`a} di {Sicilia} e la
   colonizzazione romana}, in G.~Salmieri, A.~Raggi, A.~Baroni (edd.),
-  \emph{Colonie romane nel mondo greco}, vol.~3, 255--307, Roma, 2004,
-  \urlprefix\url{http://www.torrossa.it/resources/an/2647362}.
+  \emph{Colonie romane nel mondo greco}, 255--308, L'Erma di Bretschneider,
+  Roma, 2004.
 
 \bibitem[{\textsc{Tribulato}(2012)}]{tribulato_language_2012}
 \textsc{Tribulato, O.}, \emph{Language and linguistic contact in ancient
-  {Sicily}}, Cambridge University Press, 2012,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=uGAhAwAAQBAJ&oi=fnd&pg=PR7&dq=Language+and+linguistic+contact+in+ancient+Sicily&ots=sqBJV1gpqz&sig=xW5Igh4xlLFjCXWIRqL23krMhDM}.
+  {Sicily}}, Cambridge University Press, Cambridge, 2012.
 
-\bibitem[{\textsc{Wilson et~al.}(2015)\textsc{Wilson, Talbert, {\AA}hlfeldt,
-  Becker, and Elliott}}]{wilson_places:_2015}
-\textsc{Wilson, R., Talbert, R., {\AA}hlfeldt, J., Becker, J., Elliott, T.},
-  \emph{Places: 462097 ({Apollonia})}, in \emph{Pleiades}, 2015,
+\bibitem[{\textsc{Wilson et~al.}(2015)\textsc{Wilson, Talbert, Gillies,
+  {\AA}hlfeldt, Prag, Becker, and Elliott}}]{wilson_places:_2015}
+\textsc{Wilson, R., Talbert, R., Gillies, S., {\AA}hlfeldt, J., Prag, J.,
+  Becker, J., Elliott, T.}, \emph{Places: 462097 ({Apollonia})}, 2015,
   \urlprefix\url{http://pleiades.stoa.org/places/462097}.
 
 \end{thebibliography}
