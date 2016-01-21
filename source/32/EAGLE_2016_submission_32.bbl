@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{45}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -9,61 +9,65 @@
 
 \bibitem[{\textsc{Agnello}(1953)}]{AGNELLO1953}
 \textsc{Agnello, S.L.}, \emph{Silloge di iscrizioni paleocristiane della
-  {Sicilia}},  (1953),
-  \urlprefix\url{http://www.torrossa.it/resources/an/2626022}.
+  {Sicilia}}, L'Erma di Bretschneider, Roma, 1953.
 
 \bibitem[{\textsc{Agnello}(1956)}]{AGNELLO1956}
-\textsc{Agnello, S.L.}, \emph{Il sarcofago di {Adelfia}}, vol.~25, Società"
-  Amici delle catacombe" presso Pontificio Istituto di Archeologia Cristiana,
-  1956.
+\textsc{Agnello, S.L.}, \emph{Il sarcofago di {Adelfia}}, vol.~25, Societ{\`a}
+  Amici delle catacombe presso Pontificio Istituto di Archeologia Cristiana,
+  Citt{\`a} del Vaticano, 1956.
 
 \bibitem[{\textsc{Agnello}(1958)}]{AGNELLO1958}
 \textsc{Agnello, S.L.}, \emph{Problemi di datazione delle catacombe di
-  {Siracusa}}, Scritti in onore di Guido Libertini,  (1958), 65--82.
+  {Siracusa}}, in \emph{Scritti in onore di Guido Libertini}, 65--82, Olschki,
+  Firenze, 1958.
 
 \bibitem[{\textsc{Agnello}(1960)}]{AGNELLO1960}
 \textsc{Agnello, S.L.}, \emph{Iscrizioni cemeteriali inedite di {Siracusa}},
-  Pontificio Istituto di archeologia cristiana, 1960.
+  no.~36 in Rivista di archeologia cristiana, Pontificio Istituto di
+  archeologia cristiana, Roma, 1960.
 
 \bibitem[{\textsc{Agnello}(1990)}]{AGNELLO1990}
-\textsc{Agnello, S.L.}, \emph{Siracusa in età bizantina}, Siracusa in età
-  bizantina,  (1990), 47--74.
-
-\bibitem[{\textsc{Agostinelli}(2009)}]{CARLETTI2008}
-\textsc{Agostinelli, A.D.}, \emph{C. {CARLETTI}, {L}'epigrafia dei cristiani in
-  {Occidente} dal {III} al {VII} secolo. {Ideologia} e prassi ({Inscriptiones}
-  {Christianae} {Italiae}. {Subsidia}, {VI}), {Edipuglia}, {Bari} 2008, pp.
-  374}, Epigraphia Indica, 71 (2009), 475.
+\textsc{Agnello, S.L.}, \emph{Siracusa in et{\`a} bizantina}, in \emph{Siracusa
+  bizantina}, 58--73, Grafica saturnia, Siracusa, 1990.
 
 \bibitem[{\textsc{Bucheler and Lommatzsch}(1897-1930)}]{CLE}
 \textsc{Bucheler, F., Lommatzsch, E.}, \emph{Carmina Latina Epigraphica},
-  1897-1930.
+  Teubner, Leipzig, 1897-1930.
 
-\bibitem[{\textsc{CARINI}(1873)}]{CARINI1873}
-\textsc{CARINI, I.}, \emph{Rassegna archeologica},  (1873).
+\bibitem[{\textsc{Carini}(1873)}]{CARINI1873}
+\textsc{Carini, I.}, \emph{Rassegna archeologica}, Archivio Storico Siciliano,
+  (1873), 260--262 and 506--507.
+
+\bibitem[{\textsc{Carletti}(2008)}]{Carletti:2008aa}
+\textsc{Carletti, C.}, \emph{Epigrafia dei cristiani in Occidente dal III al
+  VII secolo : ideologia e prassi}, Edipuglia, Bari, 2008.
+
+\bibitem[{\textsc{Cavallari}(1872)}]{CAVALLARI1872}
+\textsc{Cavallari, F.}, \emph{Sul sarcofago ritrovato nelle catacombe di
+  {Siracusa} nel giugno 1872}, Bullettino della Commissione di Antichit{\`a} e
+  Belle Arti di Sicilia, 5 (1872), 22--27.
 
 \bibitem[{\textsc{Collin-Bouffier}(1987)}]{COLLINBOUFFIER1987}
 \textsc{Collin-Bouffier, S.}, \emph{L'alimentation en eau de la colonie grecque
-  de {Syracuse} [{Réflexions} sur la cité et sur son territoire]}, Mélanges
-  de l'Ecole française de Rome. Antiquité, 99 (1987), 661--691,
-  \urlprefix\url{http://www.persee.fr/web/revues/home/prescript/article/mefr_0223-5102_1987_num_99_2_1564}.
+  de {Syracuse}}, M{\'e}langes de l'Ecole fran{\c c}aise de Rome.
+  Antiquit{\'e}, 99 (1987), 661--691.
 
 \bibitem[{\textsc{Cracco~Ruggini}(1997)}]{CRACCORUGGINI1998}
 \textsc{Cracco~Ruggini, L.}, \emph{La {Sicilia} {Tardoantica} e l'{Oriente}
-  {Mediterraneo}'}, Kokalos, 1997.
+  {Mediterraneo}'}, Kokalos, 43-44 (1997), 243--269.
 
 \bibitem[{\textsc{Ferrua}(1940)}]{FERRUA1940}
 \textsc{Ferrua, A.}, \emph{Nuovi studi nelle catacombe di {Siracusa}}, Rivista
   di archeologia cristiana, 17 (1940), 43--81.
 
-\bibitem[{\textsc{Ferrua}(1946)}]{FERRUA1947}
+\bibitem[{\textsc{Ferrua}(1946-1947)}]{FERRUA1947}
 \textsc{Ferrua, A.}, \emph{{Florilegio} d'iscrizioni paleocristiane di
   {Sicilia}}, Rendiconti della Pontificia accademia romana di archeologia, 22
-  (1946), 227--39.
+  (1946-1947), 227--39.
 
 \bibitem[{\textsc{Ferrua}(1952)}]{FERRUA1952}
-\textsc{Ferrua, A.}, \emph{Note sul sarcofago di {Adelfia}}, Città del
-  Vaticano, 1952.
+\textsc{Ferrua, A.}, \emph{Note sul sarcofago di {Adelfia}}, Pontificia
+  Accademia Romana di Archeologia, Citt{\`a} del Vaticano, 1952.
 
 \bibitem[{\textsc{Ferrua}(1983)}]{FERRUA1983}
 \textsc{Ferrua, A.}, \emph{Iscrizioni paleocristiane in una raccolta privata},
@@ -72,32 +76,43 @@
 
 \bibitem[{\textsc{Ferrua}(1989)}]{FERRUA1989}
 \textsc{Ferrua, A.}, \emph{Note e giunte: alle iscrizioni cristiane antiche
-  della {Sicilia}}, Pontificio Istituto di archeologia cristiana, 1989.
+  della {Sicilia}}, Pontificio Istituto di archeologia cristiana, Citt{\`a} del
+  Vaticano, 1989.
 
-\bibitem[{\textsc{Führer}(1897)}]{FUHRER1897}
-\textsc{Führer, J.}, \emph{Forschungen zur {Sicilia} sotterranea}, vol.~20,
-  Verlag der K. Akademie, in Kommission des G. Franz'schen Verlags, 1897.
+\bibitem[{\textsc{Fiocchi~Nicolai}(1997)}]{FIOCCHINICOLAI1997}
+\textsc{Fiocchi~Nicolai, V.}, \emph{Iscrizione del loculo di {Sabinus} posta
+  nel cimitero di {Balbina} (via {Ardeatina})}, in I.~Di~Stefano~Manzella
+  (ed.), \emph{Le iscrizioni dei cristiani in {Vaticano}. {Materiali} e
+  contributi scientifici}, 121--141, Quasar, Roma, 1997.
 
-\bibitem[{\textsc{Führer and Schultze}(1907)}]{FUHRERSCHULTZE1907}
-\textsc{Führer, J., Schultze, V.}, \emph{Die altchristlichen {Grabstätten}
-  {Siziliens}}, vol.~7, Walter de Gruyter, 1907.
+\bibitem[{\textsc{F{\"u}hrer}(1897)}]{FUHRER1897}
+\textsc{F{\"u}hrer, J.}, \emph{Forschungen zur {Sicilia} sotterranea}, Verlag
+  der K. Akademie, M{\"u}nchen, 1897.
+
+\bibitem[{\textsc{F{\"u}hrer and Schultze}(1907)}]{FUHRERSCHULTZE1907}
+\textsc{F{\"u}hrer, J., Schultze, V.}, \emph{Die altchristlichen
+  {Grabst{\"a}tten} {Siziliens}}, Walter de Gruyter, Berlin, 1907.
 
 \bibitem[{\textsc{Giuntella et~al.}(1985)\textsc{Giuntella, Borghetti, and
   Stiaffini}}]{GIUNTELLA1985}
 \textsc{Giuntella, A.M., Borghetti, G., Stiaffini, D.}, \emph{Mensae e riti
-  funerari in {Sardegna}: la testimonianza di {Cornus}}, vol.~1, Scorpione,
-  1985.
+  funerari in {Sardegna}: la testimonianza di {Cornus}}, vol.~1 of
+  \emph{Mediterraneo tardoantico e medievale. Scavi e ricerche}, Scorpione,
+  Taranto, 1985.
+
+\bibitem[{\textsc{Greco}(1999)}]{GRECO1999}
+\textsc{Greco, R.}, \emph{Pagani e cristiani a {Siracusa} tra il {III} e il
+  {IV} secolo {dC}}, {Supplementi} a {K{\'o}kalos}, Bretschneider, Roma, 1999.
 
 \bibitem[{\textsc{Griesheimer}(1989)}]{GRIESHEIMER1989}
-\textsc{Griesheimer, M.}, \emph{Genèse et développement de la catacombe
-  {Saint}-{Jean} à {Syracuse}}, Mélanges de l'Ecole française de Rome.
-  Antiquité, 101 (1989), 751--782,
-  \urlprefix\url{http://www.persee.fr/web/revues/home/prescript/article/mefr_0223-5102_1989_num_101_2_1648}.
+\textsc{Griesheimer, M.}, \emph{Gen{\`e}se et d{\'e}veloppement de la catacombe
+  {Saint}-{Jean} {\`a} {Syracuse}}, M{\'e}langes de l'Ecole fran{\c c}aise de
+  Rome. Antiquit{\'e}, 101 (1989), 751--782.
 
 \bibitem[{\textsc{Guarducci}(1978)}]{GUARDUCCI1978}
 \textsc{Guarducci, M.}, \emph{La capsella eburnea di {Samagher}: un cimelio di
-  arte paleocristiana nella storia del tardo impero}, Società istriana di
-  archeologia e storia patria, 1978.
+  arte paleocristiana nella storia del tardo impero}, Atti e memorie della
+  Societ{\`a} Istriana di archeologia e storia patria, 26 (1978), 5--141.
 
 \bibitem[{\textsc{Korhonen}(2011)}]{KORHONEN2011}
 \textsc{Korhonen, K.}, \emph{Between meaningful sentences and formulaic
@@ -107,71 +122,83 @@
 
 \bibitem[{\textsc{MacMullen}(1999)}]{MACMULLEN1997}
 \textsc{MacMullen, R.}, \emph{Christianity and paganism in the fourth to eighth
-  centuries}, Yale University Press, 1999,
-  \urlprefix\url{https://books.google.co.uk/books?hl=en&lr=&id=FQqEGf84wMgC&oi=fnd&pg=PA25&dq=Christianity+and+Paganism+in+the+Fourth+to+Eighth+Centuries&ots=NZdDnaBpvw&sig=hFOO1OAF3GdRMpwMhn4pngSGfsE}.
+  centuries}, Yale University Press, New Heaven, 1999.
 
-\bibitem[{\textsc{Manganaro}(1993)}]{MANGANARO1993}
-\textsc{Manganaro, G.}, \emph{Greco nei pagi e latino nelle città della
-  {Sicilia} «romana» tra {I} e {VI} sec. {dC}}, L'epigrafia del villaggio,
-  (1993), 543--594.
+\bibitem[{\textsc{Manganaro}(1993)}]{manganaro_greco_1993}
+\textsc{Manganaro, G.}, \emph{Greco nei pagi e latino nelle citt{\`a} della
+  {Sicilia} «romana» tra {I} e {VI} sec. {dC}}, in A.~Calbi, A.~Donati,
+  G.~Poma (edd.), \emph{L'Epigrafia del villaggio}, 543--594, Fratelli Lega,
+  Faenza, 1993.
+
+\bibitem[{\textsc{Milazzo and Rizzo~Nervo}(1988)}]{MILAZZORIZZONERVO1988}
+\textsc{Milazzo, V., Rizzo~Nervo, F.}, \emph{Lucia tra {Sicilia}, {Roma} e
+  {Bisanzio}: itinerario di un culto ({IV}-{IX} secolo)}, in S.~Pricoco (ed.),
+  \emph{Storia della Sicilia e tradizione agiografica nella tarda antichit{\`a}
+  : Atti del Convegno di Studi (Catania, 20-22 maggio 1986)}, 95--135,
+  Rubbettino, Soveria Mannelli, 1988.
 
 \bibitem[{\textsc{Narciso}(1951)}]{NARCISO1952}
-\textsc{Narciso, L.}, \emph{La personalità storica del vescovo {Siracosio}},
-  in \emph{Atti del {I} {Congresso} nazionale di archeologia cristiana},
-  217--224, 1951.
-
-\bibitem[{\textsc{Nervo}(1988)}]{MILAZZORIZZONERVO1988}
-\textsc{Nervo, V.M.F.R.}, \emph{Lucia tra {Sicilia}, {Roma} e {Bisanzio}:
-  itinerario di un culto ({IV}-{IX} secolo)}, Storia della Sicilia e tradizione
-  agiografica nella tarda antichità,  (1988), 95--135.
+\textsc{Narciso, L.}, \emph{La personalit{\`a} storica del vescovo
+  {Siracosio}}, in \emph{Atti del 1. Congresso Nazionale di Archeologia
+  Cristiana: Siracusa, 19-24 settembre 1950}, 217--224, Erma di Bretschneider,
+  Roma, 1951.
 
 \bibitem[{\textsc{Nestori}(1993)}]{NESTORI1973}
 \textsc{Nestori, A.}, \emph{Repertorio topografico delle pitture delle
-  catacombe romane}, vol.~5, PIAC, 1993.
+  catacombe romane}, Pontificio Istituto di Archeologia Cristiana, Citt{\`a}
+  del Vaticano, 2 ed., 1993.
 
 \bibitem[{\textsc{Orsi}(1893)}]{ORSI1893}
 \textsc{Orsi, P.}, \emph{Esplorazioni nelle catacombe di {S}. {Giovanni} e in
-  quelle di {Vigna} {Cassia}}, NSc, 1893.
+  quelle di {Vigna} {Cassia}}, NSc, 1 (1893), 276--314.
 
-\bibitem[{\textsc{Orsi}(1895)}]{ORSI1895}
+\bibitem[{\textsc{Orsi}(1895)}]{ORSI1895ab}
 \textsc{Orsi, P.}, \emph{Nuove esplorazioni nelle catacombe di {S}. {Giovanni}
-  nel 1894}, Notizie Scavi, 3 (1895), 477--521.
+  nel 1894}, NSc, 3 (1895), 477--521.
 
-\bibitem[{\textsc{Orsi}(1896)}]{ORSI1896}
+\bibitem[{\textsc{Orsi}(1896{\natexlab{a}})}]{Orsi:1896aa}
+\textsc{Orsi, P.}, \emph{Gli scavi a s. giovanni di siracusa}, R{\"o}mische
+  Quartalschrift f{\"u}r christliche Altertumskunde und Kirchengeschichte, 10
+  (1896{\natexlab{a}}), 1--60.
+
+\bibitem[{\textsc{Orsi}(1896{\natexlab{b}})}]{ORSI1896}
 \textsc{Orsi, P.}, \emph{Nuove esplorazioni nelle catacombe di {S}.
-  {Giovanni}}, Notizie Scavi, 3 (1896), 477--521.
+  {Giovanni}}, NSc,  (1896{\natexlab{b}}).
 
 \bibitem[{\textsc{Orsi}(1900)}]{ORSI1900}
 \textsc{Orsi, P.}, \emph{Nuovi ipogei di sette cristiane e giudaiche ai
-  {Cappuccini} in {Siracusa}}, RömQSchr, 14 (1900), 187--209.
+  {Cappuccini} in {Siracusa}}, R{\"o}mische Quartalschrift f{\"u}r christliche
+  Altertumskunde und Kirchengeschichte, 14 (1900), 187--209.
 
 \bibitem[{\textsc{Pietri et~al.}(1999)\textsc{Pietri, Pietri, and
   Desmulliez}}]{PIETRI2000}
 \textsc{Pietri, C., Pietri, L., Desmulliez, J.}, \emph{Prosopographie
-  chrétienne du {Bas}-{Empire}: {Prosopographie} de l'{Italie} chrétienne,
-  313-604}, vol.~2, Ecole française de Rome, 1999.
+  chr{\'e}tienne du {Bas}-{Empire}: {Prosopographie} de l'{Italie}
+  chr{\'e}tienne, 313-604}, vol.~2, Ecole fran{\c c}aise de Rome, Rome, 1999.
 
 \bibitem[{\textsc{Rizza}(1964)}]{RIZZA1964}
 \textsc{Rizza, G.}, \emph{Un martyrium paleocristiano di {Catania} e il
-  sepolcro di {Iulia} {Florentina}}, Centro di Studi sull'Antico Cristianesimo.
-  Università di Catania, 1964.
+  sepolcro di {Iulia} {Florentina}}, in \emph{Oikoumene - Studi paleocristiani
+  pubblicati in onore del Concilio Ecumenico Vaticano II}, Centro di Studi
+  sull'Antico Cristianesimo. Universit{\`a} di Catania, Catania, 1964.
 
 \bibitem[{\textsc{Rizzone}(2011)}]{RIZZONE2011}
 \textsc{Rizzone, V.}, \emph{Opus {Christi} edificabit. {Stati} e funzioni dei
-  cristiani di {Sicilia} attraverso l’apporto dell’epigrafia (secoli
-  {IV}-{VI})}, Città Aperta, Catania, 2011.
+  cristiani di {Sicilia} attraverso l'apporto dell'epigrafia (secoli
+  {IV}-{VI})}, Citt{\`a} Aperta, Catania, 2011.
 
 \bibitem[{\textsc{Rizzone}(2012)}]{RIZZONE2012}
 \textsc{Rizzone, V.}, \emph{Indicatori epigrafici della diffusione del
   cristianesimo nella {Sicilia} centrale}, in F.~Rizzo (ed.), \emph{La {Villa}
   del {Casale} e oltre. {Territorio}, popolamento, economia nella {Sicilia}
-  centrale fra tarda antichità e altomedioevo ({Piazza} {Armerina}, 30
-  settembre – 1 ottobre 2010)}, vol.~XV of \emph{{SEIA}}, 251--277, 2012.
+  centrale fra tarda antichit{\`a} e altomedioevo ({Piazza} {Armerina}, 30
+  settembre -- 1 ottobre 2010)}, vol.~15 of \emph{{SEIA}}, 251--277, EUM,
+  Macerata, 2012.
 
 \bibitem[{\textsc{Sgarlata}(1991)}]{SGARLATA1991}
 \textsc{Sgarlata, M.}, \emph{Ricerche di demografia storica: le iscrizioni
   tardo-imperiali di {Siracusa}}, vol.~45, Pontificio istituto di archeologia
-  cristiana, 1991.
+  cristiana, Citt{\`a} del Vaticano, 1991.
 
 \bibitem[{\textsc{Sgarlata}(1996)}]{SGARLATA1996}
 \textsc{Sgarlata, M.}, \emph{Le stagioni della rotonda di {Adelfia}. {Indagini}
@@ -179,34 +206,32 @@
   Archeologia Cristiana, 72 (1996), 75--113.
 
 \bibitem[{\textsc{Sgarlata}(1998)}]{SGARLATA1998}
-\textsc{Sgarlata, M.}, \emph{L'{ISCRIZIONE} {DI} {EUSKIA}}, Et lux fuit,
-  (1998), 53.
+\textsc{Sgarlata, M.}, \emph{L'iscrizione di {E}uskia}, in G.~Greco, C.~Sveva
+  (edd.), \emph{Et lux Fuit. Le catacombe e il sarcofago di Adelfia}, 53,
+  Lombardi, Palermo, 1998.
 
 \bibitem[{\textsc{Sgarlata}(1999)}]{SGARLATA1999}
-\textsc{Sgarlata, M.}, \emph{L’epigrafia greca e latina cristiana della
-  {Sicilia}}, MI Gulletta (a cura,  (1999).
+\textsc{Sgarlata, M.}, \emph{L'epigrafia greca e latina cristiana della
+  {Sicilia}}, in M.I. Gulletta (ed.), \emph{Sicilia epigraphica: atti del
+  convegno internazionale {Erice}, 15-18 ottobre 1998}, 483--497, Scuola
+  Normale Superiore, Pisa, 1999.
 
 \bibitem[{\textsc{Sgarlata}(2003)}]{SGARLATA2003}
 \textsc{Sgarlata, M.}, \emph{Scavi e ricerche a {Siracusa} e nella {Sicilia}
-  orientale nell’ultimo quinquennio, in {Scavi} e restauri nelle catacombe
-  siciliane ({Scavi} e restauri pubblicati a cura della {Pontificia}
-  {Commissione} di {Archeologia} {Sacra}, 3)}, Città del Vaticano, 2003.
+  orientale nell'ultimo quinquennio}, in \emph{{Scavi} e restauri nelle
+  catacombe siciliane}, no.~3 in Scavi e restauri, 85--112, Pontificia
+  Commissione di Archeologia Sacra, Citt{\`a} del Vaticano, 2003.
 
-\bibitem[{\textsc{Sgarlata}(2013)}]{SGARLATA2013}
+\bibitem[{\textsc{Sgarlata}(2013)}]{Sgarlata2013}
 \textsc{Sgarlata, M.}, \emph{Parole e immagini nelle catacombe di {Siracusa}},
-  in F.~Bisconti, M.~Braconi (ed.), \emph{Incisioni figurate della {Tarda}
-  {Antichità}. {Atti} del {Convegno} di {Studi} ({Roma}, {Palazzo} {Massimo},
-  22-23 marzo 2012)}, 511--523, Città del Vaticano, 2013.
+  in F.~Bisconti, M.~Braconi (edd.), \emph{Incisioni figurate della {Tarda}
+  {Antichit{\`a}}. {Atti} del {Convegno} di {Studi} ({Roma}, {Palazzo}
+  {Massimo}, 22-23 marzo 2012)}, 511--523, Citt{\`a} del Vaticano, 2013.
 
 \bibitem[{\textsc{Sirago}(1989)}]{SIRAGO1989}
 \textsc{Sirago, A.}, \emph{Il sacco di {Roma} nel 410 e le ripercussioni in
-  {Africa}}, in \emph{L’{Africa} romana. {Atti} del {VI} {Convegno}
-  {Internazionale} di studi ({Sassari} 16-18 decembre 1988)}, 715, Sassari,
-  1989.
-
-\bibitem[{\textsc{Turcan and Greco}(2003)}]{GRECO1999}
-\textsc{Turcan, R., Greco, R.}, \emph{Pagani e cristiani a {Siracusa} tra il
-  {III} e il {IV} secolo {dC},({Supplementi} a «{Kókalos}», 16)}, Societe
-  d’Etudes Latines de Bruxelles, 2003.
+  {Africa}}, in A.~Mastino (ed.), \emph{L'{Africa} romana. {Atti} del {VI}
+  {Convegno} {Internazionale} di studi ({Sassari} 16-18 decembre 1988)}, 715,
+  Gallizzi, Sassari, 1989.
 
 \end{thebibliography}
