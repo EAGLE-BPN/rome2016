@@ -1,4 +1,4 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{12}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -9,43 +9,59 @@
 
 \bibitem[{\textsc{Carletti}(1994)}]{carletti_inscriptiones_1994}
 \textsc{Carletti, C.}, \emph{Inscriptiones christianae urbis {Romae}, nova
-  series: una banca dati}, Vetera christianorum, 31 (1994), 357--368,
-  \urlprefix\url{http://cat.inist.fr/?aModele=afficheN&cpsidt=3736567}.
+  series: una banca dati}, Vetera christianorum, 31 (1994), 357--368.
 
 \bibitem[{\textsc{Carletti}(1997)}]{felle_introduzione_1997}
 \textsc{Carletti, C.}, \emph{Introduzione}, in A.E. Felle (ed.),
   \emph{Inscriptiones christianae urbis {Romae}, tituli graeci. {Concordantiae}
-  uerborum, nominum et imaginum}, vii--xxxiv, Edipuglia srl, Bari, 1997.
+  uerborum, nominum et imaginum}, Edipuglia, Bari, 1997.
 
 \bibitem[{\textsc{Ceci et~al.}(2014)\textsc{Ceci, Pio, and
   Rocco}}]{orlandi_improving_2014}
 \textsc{Ceci, M., Pio, G., Rocco, A.}, \emph{Improving text-based search of
-  inscriptions}, in S.~Orlandi, R.~Santucci, {Casarosa}, P.M. Liuzzo (ed.),
+  inscriptions}, in S.~Orlandi, R.~Santucci, {Casarosa}, P.M. Liuzzo (edd.),
   \emph{Information technologies for epigraphy and cultural heritage.
-  {Proceedings} of the first {EAGLE} international conference}, 41--50, Rom,
-  2014, ISBN 978-88-98533-42-8,
-  \urlprefix\url{http://archiv.ub.uni-heidelberg.de/propylaeumdok/2337/}.
+  {Proceedings} of the first {EAGLE} international conference}, 41--50,
+  Sapienza Universit{\`a} Editrice, Rome, 2014.
+
+\bibitem[{\textsc{Felle}(2012)}]{felle_esperienze_2012}
+\textsc{Felle, A.}, \emph{Esperienze diverse e complementari nel trattamento
+  digitale delle fonti epigrafiche: il caso di {EAGLE} ed {EpiDoc}}, in
+  \emph{Diritto romano e scienze antichistiche nell'era digitale. {Convegno} di
+  studio ({Firenze}, 12-13 settembre 2011)}, no.~10 in Collectanea
+  {Graeco}-{Romana}. {Studi} e strumenti per la ricerca storico-giuridica,
+  117--130, Giappichelli, Torino, 2012.
 
 \bibitem[{\textsc{Felle}(2014)}]{felle_perspectives_2014}
 \textsc{Felle, A.}, \emph{Perspectives on the {Digital} {Corpus} of the
   {Christian} {Inscriptions} of {Rome} ({Epigraphic} {Database} {Bari}).
-  {Contexts} and texts}, Zeitschrift für Papyrologie und Epigraphik, 191
+  {Contexts} and texts}, Zeitschrift f{\"u}r Papyrologie und Epigraphik, 191
   (2014), 302--307.
+
+\bibitem[{\textsc{Felle}(2007)}]{felle_fenomeni_2007}
+\textsc{Felle, A.E.}, \emph{Fenomeni di compresenza delle lingue e delle
+  scritture greca e latina nella epigrafia romana di committenza cristiana}, in
+  M.~Mayer~i Oliv{\'e}, G.~Baratta, A.~Guzm{\'a}n~Almagro (edd.), \emph{Acta
+  {XII} {Congressus} {Internationalis} {Epigraphiae} {Graecae} et {Latinae}.
+  {Provinciae} {Imperii} {Romani} inscriptionibus descriptae ({Barcelona}, 3-8
+  septembris 2002)}, 475--481, Institut d'estudis catalans, Barcelona, 2007.
 
 \bibitem[{\textsc{Felle and Zimmermann}(2014)}]{orlandi_case_2014}
 \textsc{Felle, A.E., Zimmermann, N.}, \emph{A {Case} of {Interaction} between
   {Research} {Projects}: {The} {Epigraphic} {Database} {Bari} and the
   {Domitilla} {Projekt}}, in S.~Orlandi, R.~Santucci, {Casarosa}, P.M. Liuzzo
-  (ed.), \emph{Information technologies for epigraphy and cultural heritage.
-  {Proceedings} of the first {EAGLE} international conference}, 95--116, Rom,
-  2014, ISBN 978-88-98533-42-8,
-  \urlprefix\url{http://archiv.ub.uni-heidelberg.de/propylaeumdok/2337/}.
+  (edd.), \emph{Information technologies for epigraphy and cultural heritage.
+  {Proceedings} of the first {EAGLE} international conference}, 95--116,
+  Sapienza Universit{\`a} Editrice, Rome, 2014.
 
-\bibitem[{\textsc{Jory et~al.}(1974)\textsc{Jory, Moore, and
-  Deroux}}]{_corpus_1974}
-\textsc{Jory, E.J., Moore, D.G., Deroux, C.} (ed.), \emph{Corpus
-  {Inscriptionum} {Latinarum}, vol. {VI}, {Pars} {VII}}, Societe d’Etudes
-  Latines de Bruxelles, Berlin, 1974.
+\bibitem[{\textsc{Jory}(1975)}]{jory_problems_1975}
+\textsc{Jory, E.J.}, \emph{Problems and prospects for the production of
+  computer compiled indices to epigraphic works}, Antiquit{\'e}s africaines, 9
+  (1975), 15--22.
+
+\bibitem[{\textsc{Jory and Moore}(1974-1975)}]{_corpus_1974}
+\textsc{Jory, E.J., Moore, D.G.} (edd.), \emph{Corpus {Inscriptionum}
+  {Latinarum}, vol. {VI}, {Pars} {VII}}, De Gruyter, Berlin, 1974-1975.
 
 \bibitem[{\textsc{Krummrey and Panciera}(1980)}]{krummrey_criteri_1980}
 \textsc{Krummrey, H., Panciera, S.}, \emph{Criteri di edizione e segni
@@ -53,7 +69,7 @@
 
 \bibitem[{\textsc{Panciera}(1991)}]{Panciera1991}
 \textsc{Panciera, S.}, \emph{{Struttura dei supplementi e segni diacritici
-  dieci anni dopo}}, {8} (1991), 9--21.
+  dieci anni dopo}}, {Supplementa Italica}, {8} (1991), 9--21.
 
 \bibitem[{\textsc{Panciera}(2006)}]{panciera_cronistoria_2006}
 \textsc{Panciera, S.}, \emph{Cronistoria di un problema e di un progetto}, in
