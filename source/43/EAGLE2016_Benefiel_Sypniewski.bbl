@@ -7,23 +7,22 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{\textsc{Cooley and Cooley}(2013)}]{cooley_pompeii_2013}
+\bibitem[{\textsc{Cooley and Cooley}(2014)}]{cooley_pompeii_2013}
 \textsc{Cooley, A.E., Cooley, M.G.L.}, \emph{Pompeii and {Herculaneum}: a
-  sourcebook}, Routledge, 2013,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=TQ4iAQAAQBAJ&oi=fnd&pg=PP1&dq=Pompeii+and+Herculaneum:+A+Sourcebook&ots=L7uMOWGh6l&sig=QebTclQ7oM30ceEoJ0RW8O6JuuY}.
+  sourcebook}, Routledge, New York, 2014.
 
 \bibitem[{\textsc{Deiss}(1989)}]{deiss_herculaneum_1989}
-\textsc{Deiss, J.J.}, \emph{Herculaneum, {Italy}'s buried treasure}, Getty
-  Publications, 1989,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=ZVgQB0jDIOcC&oi=fnd&pg=PR9&dq=Herculaneum:+Italy%27s+Buried+Treasure&ots=-7JnzxJwVV&sig=z8GvMI2D1jI2ynalxlv1Rkk17nA}.
+\textsc{Deiss, J.J.}, \emph{Herculaneum, {Italy}'s buried treasure}, J. Paul
+  Getty Museum, Malibu, CA, 1989.
 
 \bibitem[{\textsc{Della~Corte}(1958)}]{della_corte_iscrizioni_1958}
 \textsc{Della~Corte, M.}, \emph{Le iscrizioni di {Ercolano}}, Rendiconti della
-  Accademia di Archeologia Lettere,  (1958), 239--308.
+  Accademia di Archeologia, Lettere e Belle Arti, 33 (1958), 239--308.
 
 \bibitem[{\textsc{Della~Corte}(1960)}]{della_corte_loves_1960}
 \textsc{Della~Corte, M.}, \emph{Loves and {Lovers} in {Ancient} {Pompeii}: {A}
-  {Pompeian} {Erotic} {Anthology}}, Cava dei Tirreni, 1960.
+  {Pompeian} {Erotic} {Anthology}}, di Mauro, Cava dei Tirreni, 1960,
+  translated by A. W. Van Buren.
 
 \bibitem[{\textsc{Guadagno}(1978)}]{guadagno_supplemento_1978}
 \textsc{Guadagno, G.}, \emph{Supplemento epigrafico ercolanese ({I}).},
@@ -35,18 +34,19 @@
 
 \bibitem[{\textsc{Langner}(2001)}]{langner_antike_2001}
 \textsc{Langner, M.}, \emph{Antike {Graffitizeichnungen}: {Motive},
-  {Gestaltung} und {Bedeutung}}, vol.~11, Reichert Verlag, 2001.
+  {Gestaltung} und {Bedeutung}}, Reichert Verlag, Wiesbaden, 2001.
 
 \bibitem[{\textsc{Maulucci~Vivolo}(1993)}]{vivolo_pompei:_1993}
 \textsc{Maulucci~Vivolo, F.P.}, \emph{Pompei: i graffiti figurati}, Bastogi,
-  1993.
+  Foggia, 1993.
 
 \bibitem[{\textsc{Varone}(2012)}]{varone_titulorum_2012}
 \textsc{Varone, A.}, \emph{Titulorum {Graphio} {Exaratorum} qui in {C}.{I}.{L}.
-  {Volume} {IV} collecti sunt. {Imagines} {I}-{II}}, Roma, 2012.
+  {Volume} {IV} collecti sunt. {Imagines} {I}-{II}}, L'erma di Bretschneider,
+  Roma, 2012.
 
 \bibitem[{\textsc{Wallace-Hadrill}(2011)}]{wallace-hadrill_herculaneum:_2011}
-\textsc{Wallace-Hadrill, A.}, \emph{Herculaneum: past and future}, frances
-  lincoln ltd, 2011.
+\textsc{Wallace-Hadrill, A.}, \emph{Herculaneum: past and future}, Frances
+  Lincoln, London, 2011.
 
 \end{thebibliography}
