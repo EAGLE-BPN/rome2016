@@ -1,21 +1,13 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: EAGLE2016_Full_Paper_Broux.aux
+The top-level auxiliary file: EAGLE2016_Full_Paper_Broux-XeLaTEX.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting an "="---line 1603 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 2546 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in Depauw
 You've used 13 entries,
             3082 wiz_defined-function locations,
-            718 strings with 7851 characters,
+            717 strings with 7863 characters,
 and the built_in function-call counts, 7232 in all, are:
 = -- 527
 > -- 259
@@ -54,4 +46,4 @@ warning$ -- 1
 while$ -- 54
 width$ -- 0
 write$ -- 152
-(There were 2 error messages)
+(There was 1 warning)

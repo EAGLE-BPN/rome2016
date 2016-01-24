@@ -1,5 +1,5 @@
 % !TEX encoding = UTF-8 Unicode
-% !TEX program = pdflatex
+% !TEX TS-program = pdflatex
 % !TEX spellcheck = en_US
 
 
@@ -23,7 +23,7 @@
 % IF YOU USE XELATEX
 %\usepackage{polyglossia}
 % if you write in italian
-%\setmainlanguage{italian}
+%\setmainlanguage{english}
 % If you want put some ancient greek:
 %\setotherlanguage[variant=polytonic]{greek}
 %\newfontfamily{\greekfont}[Ligatures=TeX]{Palatino Linotype}
@@ -36,6 +36,16 @@
 % custom commands
 \newcommand{\bs}{\textbackslash}
 
+\usepackage{fontspec}
+
+\usepackage{polyglossia}
+
+\setmainlanguage{english}
+\setotherlanguage{greek}
+
+\newfontfamily\greekfont[Script=Greek]{CMU Serif}
+
+%\setmainfont{lmr}
 %%%%%%%%
 %TITLE:%
 %%%%%%%%
@@ -47,6 +57,7 @@
 \begin{document}
 
 \maketitle
+
 \begin{abstract}
 Facebooking the past. The idea grew while developing a database of all people mentioned in texts from Greco-Roman Egypt
 (350 BC–AD 800). Thanks to Trismegistos' role in EAGLE, Named Entity Recognition can now be applied to almost 500,000
@@ -73,7 +84,7 @@ needs to obtain a firm footing.
 
 To reconstruct proper social networks, a decent prosopography is indispensable. In a traditional scholarly setting, this
 implies time-consuming and painstaking manual labor. Fortunately, in a digital environment, there are other ways, and
-Trismegistos (www.trismegistos.org) forms an ideal starting point. Trismegistos grew out of a long tradition of
+Trismegistos (\url{www.trismegistos.org}) forms an ideal starting point. Trismegistos grew out of a long tradition of
 databases and prosopographies (structured lists of people), as well as various other Ancient History projects at KU
 Leuven. The original idea of Trismegistos was to foster interdisciplinarity in the study of Ancient Egyptian society by
 creating a central database with metadata about published papyrological texts from Greco-Roman Egypt, in a first
@@ -85,7 +96,7 @@ Apart from texts, since 2008 Trismegistos also intensively deals with places and
 full text in repositories, Named Entity Recognition procedures are used to create lists of toponyms and anthroponyms
 that occur in the ancient sources. This was first applied during the socio-onomastic project `Creating Identities in
 Graeco-Roman Egypt' (KU Leuven OT project 2008-2012), on a corpus of about 50,000 papyri and ostraca in the Duke
-Databank of Documentary Papyri (papyri.info). With the additional support of a Hercules Grant, (`An Interdisciplinary
+Databank of Documentary Papyri (\url{papyri.info}). With the additional support of a Hercules Grant, (`An Interdisciplinary
 Database of Proper Names in Late Pharaonic, Graeco-Roman and Byzantine Egypt (ca. 800 BC – AD 640)'; 2008-2014) the
 work on the core data could be finished in just over two years, resulting in a database with almost half a million
 references to people (Trismegistos People) and an additional hundred-thousand or so place names (Trismegistos Places)
@@ -94,8 +105,8 @@ mentioned in texts from Egypt.
 On the basis of Trismegistos People, several studies on naming practices, modes of identification and identity issues in
 Greco-Roman Egypt have been published. Two PhDs focused on the longstanding tradition of double names: the first dealt
 with the Ptolemaic period, when this form of polyonymy served to cross ethnic borders \citep{Coussement}, the
-other with the Roman period, when the practice was adapted by the local elite to distinguish themselves from the hoi
-polloi and to resemble Roman nomenclature \citep{Broux2015a}. The data of the fourth century AD provided new insights into
+other with the Roman period, when the practice was adapted by the local elite to distinguish themselves from the \emph{hoi
+polloi} and to resemble Roman nomenclature \citep{Broux2015a}. The data of the fourth century AD provided new insights into
 the spread of Christianity in Egypt \citep{Depauw2013}. The development of a standardized identification
 cluster, consisting of a person's name, patronymic and metronymic \citep{BrouxDepauw}, as well as the use of fixed
 expressions to denote illegitimacy \citep{Broux2015b}, name change \citep{Broux2013a} and official identification \citep{Broux2010}, were all related to the legal reorganization of the population under the Romans and the
@@ -162,11 +173,10 @@ Trismegistos opted for a combination of a gazetteer and a rule-based approach. F
 onomastic database structure was developed in Trismegistos People, dealing with names, name variants, and declined name
 variants respectively. The first database, NAM, currently has 34,106 entries, e.g. the name Isidoros. Each name is
 connected to a set of variants in all possible languages. As a rule, only very minor dialectal or orthographical
-variation is allowed in the `native' language, in this case Greek (e.g. \textgreek{E>is'idwroc }and
-\textgreek{>Is'idoroc). }Many of the variants are actually created by renderings of a name in other languages, e.g.
-Ỉsytrs, ȝysydwrs or ⲓⲥⲓⲇⲱⲣⲉ in Egyptian and Coptic. In all there
+variation is allowed in the `native' language, in this case Greek (e.g. \textgreek{Εἰσίδωρος} and \textgreek{Ἰσίδορος}). Many of the variants are actually created by renderings of a name in other languages, e.g. %{\fontspec{Liberation Sans}ȝysydwrs}
+Ỉsytrs, {\fontspec{Gentium}ȝysydwrs} or {\fontspec{ArialCoptic} ⲓⲥⲓⲇⲱⲣⲉ} in Egyptian and Coptic. In all there
 are 177,290 variants in the NAMVAR database. Finally, for each of the variants, the declined forms were created, e.g.
-\textgreek{>Is'idwrou (}genitive) or \textgreek{>Is'idwrwi (}dative). This NAMVARCASE database is the largest with
+\textgreek{Ἰσίδωρου}) or \textgreek{Ἰσίδωρωι} (dative). This NAMVARCASE database is the largest with
 667,677 entries, and this set is used as a gazetteer for NER. It was developed on the basis of the set of names of some
 40,000 individuals with titles listed in the Prosopographia Ptolemaica (KU Leuven) and was supplemented with new names
 collected during the `Creating Identities' project \citep{Depauw2009}. Through cooperation with the Lexicon of
@@ -179,8 +189,8 @@ identification of individuals. For Greek texts, this is pretty straightforward, 
 only. The onomastic habits encountered in Latin inscriptions differ significantly, however. Here the majority of the
 individuals follow the Roman naming system. This consists of a fossilized praenomen, a nomen gentilicium (the
 equivalent of our family name), and a personal cognomen. Often the patronymic was inserted between the gentilicium and
-cognomen; sometimes even the papponymic and the voting tribe, e.g. Marcus Tullius Marci filius Marci nepos Cornelia
-Cicero (`Marcus Tullius Cicero, son of Marcus, grandson of Marcus, [of the] Cornelia [tribe]'). A completely new set of
+cognomen; sometimes even the papponymic and the voting tribe, e.g. \emph{Marcus Tullius Marci filius Marci nepos Cornelia
+Cicero} (`Marcus Tullius Cicero, son of Marcus, grandson of Marcus, [of the] Cornelia [tribe]'). A completely new set of
 rules is therefore being developed to apply to the Latin inscriptions.
 
 
