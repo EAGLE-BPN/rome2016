@@ -39,12 +39,12 @@ Data Quality Monitoring}
 %AUTHORS:%
 %%%%%%%%
 \author[CNR-ISTI]{Andrea Mannocci\corref{all}}
-\author[CNR-ISTI]{Vittore Casarosa}
-\author[CNR-ISTI]{Paolo Manghi}
-\author[CNR-ISTI]{Franco Zoppi}
+\author[CNR-ISTI]{Vittore Casarosa\corref{all}}
+\author[CNR-ISTI]{Paolo Manghi\corref{all}}
+\author[CNR-ISTI]{Franco Zoppi\corref{all}}
 
 %Additional information about corresponding author, addresses and affiliations:
-\cortext[all]{\{andrea.mannocci, vittore.casarosa, paolo.manghi, franco.zoppi\}@isti.cnr.it
+\cortext[all]{Corresponding authors: \{andrea.mannocci, vittore.casarosa, paolo.manghi, franco.zoppi\}@isti.cnr.it
 }
 
 \address[CNR-ISTI]{ISTI - Area della Ricerca CNR, via G. Moruzzi 1, 56124 Pisa, Italy}
@@ -70,7 +70,7 @@ A monitoring scenario for EAGLE has been defined and tested on simulated data (t
 
 \section{Monitoring framework}\label{framework}
 
-The EAGLE project (fully described in \citep{eagle}) aggregates epigraphy related content from about 20 different data providers (cultural institutions all over Europe), and makes its content available to both Europeana \citep{europeana} (through an OAI-PMH interface) and to scholars and the general public through a Web portal.
+The EAGLE project \citep[fully described in][]{eagle} aggregates epigraphy related content from about 20 different data providers (cultural institutions all over Europe), and makes its content available to both Europeana \citep{europeana} (through an OAI-PMH interface) and to scholars and the general public through a Web portal.
 
 Collecting data provided by a number of different sources, very often with different quality standards, presents the challenge of measuring the overall quality of the aggregated data, and how it compares with standards and objectives set by the aggregating institution.
 
@@ -86,7 +86,7 @@ With the concept of sensor, we refer to a piece of software capable of generatin
 
 A sensor can in principle be plugged anywhere in the aggregating infrastructure; with the understanding that the implementation of the sensor and the point of the data flow where it will be placed are the responsibility of the IQM. When the workflows of the aggregating infrastructure are in execution, the sensors will be activated and will produce a stream of observations. The DFDS will separate the stream of observations into different streams, each one related to a specific metric, and will store them as points of time series. In this way, observations can be queried and examined either as charts or tabular data.
 
-The interaction between the IQM and the Monitoring Framework is done through a user friendly user interface (WebUI) provided by the DFDS. In addition to providing easy access to the observation time series, the WebUI provides the facilities to define the overall Monitoring Scenario, which will include the sensors and the controls. 
+The interaction between the IQM and the Monitoring Framework is done through a user friendly user interface (WebUI) provided by the DFDS. In addition to providing easy access to the observation time series, the WebUI provides the facilities to define the overall Monitoring Scenario, which will include the sensors and the \emph{controls}. 
 
 For the purpose of monitoring, the IQM can define \textit{controls}, i.e. checks that can be scheduled to automatically verify the compliance of one or more metrics (and their observations) with a desired (or un-desired) condition. A control uses an \textit{analyser} for the comparison of observation values, such as, for example, values alignment, less or greater than, (strictly) monotonic increasing or decreasing values, threshold guards, thresholded peak or percentage variation, etc. For example, as mentioned before, we might be interested to check if the number of artefacts indexed by Solr is equal to the number of artefacts exported in OAI-PMH records, or if the total number of EAGLE objects provided by a content provider is steadily increasing over time, or, as a further example, if the ``goodness'' of an EAGLE record (the concept of goodness being defined by the IQM and implemented through sensors and controls) remains above a threshold of 0.8. The Data Flow and Dynamics Service offers some analysers out-of-the-box, but also enables the IQM to develop her own custom analysers.
 
