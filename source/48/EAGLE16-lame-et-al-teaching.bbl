@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{25}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -23,8 +23,8 @@
   incontri di archeologia. Atti del Convegno Internazionale}, 43--51, Trento,
   2005.
 
-\bibitem[{\textsc{Cresci and E}(2010)}]{cresci_supellex_2010}
-\textsc{Cresci, G., E, P.}, \emph{Supellex ex plumbo. {Laminae}
+\bibitem[{\textsc{Cresci and Petten{\`o}}(2010)}]{cresci_supellex_2010}
+\textsc{Cresci, G., Petten{\`o}, E.}, \emph{Supellex ex plumbo. {Laminae}
   {Concordienses}. {Le} laminette commerciali da {Iulia} {Concordia}}, Atti
   dell'Istituto Veneto Di Scienze, Lettere Ed Arti, 168 (2010), 43--110.
 
@@ -38,25 +38,31 @@
   fouilles de la {Z}.{A}.{C}. des {Halles} {\`a} {N{\^\i}mes} ({Gard})},
   Bulletin de l'{\'E}cole Antique de N{\^\i}mes. Suppl., 1 (1993), 301--305.
 
-\bibitem[{\textsc{Frei-Stolba}(2012)}]{frei-stolba_les_2011}
+\bibitem[{\textsc{Frei-Stolba}(2011)}]{frei-stolba_les_2011}
 \textsc{Frei-Stolba, R.}, \emph{Les {\'e}tiquettes en plomb: des documents de
   l'{\'e}criture au quotidien}, in M.~Corbier, J.~Guilhembert (edd.),
   \emph{L'{\'e}criture dans la maison romaine}, 331--344, De Boccard, Paris,
-  2012.
+  2011.
 
-\bibitem[{\textsc{Jaques and
+\bibitem[{\textsc{Jacques and
   Ho{\"e}t-Van~Cauwenberghe}(2010)}]{jacques_artisanat_2010}
-\textsc{Jaques, A., Ho{\"e}t-Van~Cauwenberghe, C.}, \emph{{Artisanat} {Et}
+\textsc{Jacques, A., Ho{\"e}t-Van~Cauwenberghe, C.}, \emph{{Artisanat} {Et}
   {Commerce}: {Les} {{\'E}tiquettes} {De} {Plomb} {Inscrites} {D{\'e}couvertes}
   {\`a} {Arras} ({Nemetacum})}, Revue des {\'E}tudes Anciennes, 112 (2010),
   295--317.
 
-\bibitem[{\textsc{Lamé}(2015)}]{Lame2015}
-\textsc{Lamé, M.}, \emph{Primary sources of information, digitization
-  processes and dispositive analysis}, in F.~Tomasi, R.~Rosselli Del~Turco,
-  A.M. Tammaro (edd.), \emph{Humanities and Their Methods in the Digital
-  Ecosystem. Proceedings of the Third AIUCD Annual Conference (AIUCD2014)}, New
-  York, 2015.
+\bibitem[{\textsc{Lam{\'e}}(2015{\natexlab{a}})}]{lame_primary_2014}
+\textsc{Lam{\'e}, M.}, \emph{Primary {Sources} of {Information}, {Digitization}
+  {Processes} and {Dispositive} {Analysis}}, in \emph{Proceedings of the
+  {Third} {AIUCD} {Annual} {Conference} on {Humanities} and {Their} {Methods}
+  in the {Digital} {Ecosystem}}, 18, ACM, 2015{\natexlab{a}}.
+
+\bibitem[{\textsc{Lam{\'e}}(2015{\natexlab{b}})}]{Lame2015b}
+\textsc{Lam{\'e}, M.}, \emph{Scritture in contesti: il dispositivo epigrafico
+  come veicolo di echi epigrafici}, in M.~Lam{\'e}, G.~Sarullo (edd.),
+  \emph{Technology \& Tradition: A Synergic Approach to Deciphering, Analyzing
+  and Annotating Epigraphic Writings}, vol.~33, 9--17, New York,
+  2015{\natexlab{b}}.
 
 \bibitem[{\textsc{M{\'o}csy}(1956)}]{mocsy_olom_1956}
 \textsc{M{\'o}csy, A.}, \emph{Olom {\'a}ruc{\'\i}mk{\'e}k {Sisci{\'a}b{\'o}l}
@@ -67,9 +73,12 @@
   {Epigraphici} {Latini} {Helsingiae} 3.-6. sept.1991 habiti}, vol. 104 of
   \emph{Commentationes Humanarum Litterarum}, 29--40, 1995.
 
-\bibitem[{\textsc{Radman~Livaja}(2008)}]{radman_livaja_segestica_2008}
-\textsc{Radman~Livaja, I.}, \emph{In {Segestica}...}, Prilozi Instituta za
-  arheologiju u Zagrebu, 24 (2008), 153--172.
+\bibitem[{\textsc{Palma et~al.}(2014)\textsc{Palma, Baldassari, Favilla, and
+  Scopigno}}]{cherry_storytelling_2014}
+\textsc{Palma, G., Baldassari, M., Favilla, M., Scopigno, R.},
+  \emph{Storytelling of a {Coin} {Collection} by {Means} of {RTI} {Images}: the
+  {Case} of the {Simoneschi} {Collection} in {Palazzo} {Blu}}, in R.~Cherry,
+  N.~Proctor (edd.), \emph{Museums and the {Web} 2013}, 2014.
 
 \bibitem[{\textsc{Radman-Livaja}(2011)}]{radman-livaja_roetiquettes_2010}
 \textsc{Radman-Livaja, I.}, \emph{Le r{\^o}le des {\'e}tiquettes de plomb dans
@@ -118,6 +127,10 @@
   zum handel mit pfeffer, arznei und kork}, Trierer Zeitschrift f{\"u}r
   Geschichte und Kunst des Trierer Landes und seiner Nachbargebiete, 48 (1985),
   121--137.
+
+\bibitem[{\textsc{Schwinden}(1993)}]{schwinden_zwei_1993}
+\textsc{Schwinden, L.}, \emph{Zwei r{\"o}mische {Bleietiketten} mit {Graffiti}
+  aus {Bliesbruck}}, Blesa, 1 (1993), 215--222.
 
 \bibitem[{\textsc{Terras}(2015)}]{gorman_opening_2015}
 \textsc{Terras, M.}, \emph{Opening {Access} to collections: the making and

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 17:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  5 FEB 2016 12:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1261,11 +1261,11 @@ anged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21484 strings out of 493089
- 403202 string characters out of 6134841
+ 21478 strings out of 493089
+ 403136 string characters out of 6134841
  462728 words of memory out of 5000000
  24535 multiletter control sequences out of 15000+600000
- 105098 words of font info for 183 fonts, out of 8000000 for 9000
+ 104681 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,45p,10426b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/us
@@ -1276,7 +1276,7 @@ mf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/tex-gyre/qplri.pfb>
-Output written on EAGLE2016_Full_Paper_Verreth.pdf (8 pages, 386466 bytes).
+Output written on EAGLE2016_Full_Paper_Verreth.pdf (8 pages, 386190 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream

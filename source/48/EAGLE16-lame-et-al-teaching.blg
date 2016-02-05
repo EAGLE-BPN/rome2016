@@ -3,57 +3,51 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: EAGLE16-lame-et-al-teaching.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting an "="---line 1573 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 2516 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "radman_livaja_segestica_2008"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Warning--missing publisher in Lame2015
+Warning--missing publisher in Lame2015b
 Warning--missing publisher in paci_etichette_1995
+Warning--missing publisher in cherry_storytelling_2014
 Warning--missing publisher in radman-livaja_plombs_2014
-You've used 23 entries,
+You've used 25 entries,
             3082 wiz_defined-function locations,
-            783 strings with 10044 characters,
-and the built_in function-call counts, 13391 in all, are:
-= -- 974
-> -- 336
-< -- 27
-+ -- 140
-- -- 99
-* -- 1004
-:= -- 1784
-add.period$ -- 23
-call.type$ -- 23
-change.case$ -- 139
-chr.to.int$ -- 24
-cite$ -- 26
-duplicate$ -- 1226
-empty$ -- 1308
-format.name$ -- 141
-if$ -- 2733
-int.to.chr$ -- 2
+            794 strings with 10544 characters,
+and the built_in function-call counts, 14851 in all, are:
+= -- 1075
+> -- 396
+< -- 29
++ -- 177
+- -- 115
+* -- 1112
+:= -- 1966
+add.period$ -- 25
+call.type$ -- 25
+change.case$ -- 154
+chr.to.int$ -- 26
+cite$ -- 29
+duplicate$ -- 1357
+empty$ -- 1436
+format.name$ -- 162
+if$ -- 3037
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 227
-newline$ -- 78
-num.names$ -- 108
-pop$ -- 503
+missing$ -- 251
+newline$ -- 84
+num.names$ -- 118
+pop$ -- 574
 preamble$ -- 1
-purify$ -- 118
+purify$ -- 131
 quote$ -- 0
-skip$ -- 416
+skip$ -- 471
 stack$ -- 0
-substring$ -- 737
-swap$ -- 608
-text.length$ -- 4
+substring$ -- 782
+swap$ -- 674
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 201
-warning$ -- 3
-while$ -- 121
+type$ -- 219
+warning$ -- 4
+while$ -- 132
 width$ -- 0
-write$ -- 256
-(There were 2 error messages)
+write$ -- 280
+(There were 5 warnings)

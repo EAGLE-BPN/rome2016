@@ -3,59 +3,51 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Zuddas Epigraphy in Italian High Schools (final).aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting an "="---line 1602 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 2545 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in Bigi2014
 Warning--missing publisher in Boldrighini2014
 Warning--missing publisher in Carpenter2006
 Warning--missing publisher in Hartnett2012
-Warning--missing publisher in Reali2015
-You've used 13 entries,
+Warning--missing publisher in LaFleur2010
+You've used 14 entries,
             3082 wiz_defined-function locations,
-            716 strings with 7393 characters,
-and the built_in function-call counts, 6987 in all, are:
-= -- 482
-> -- 189
-< -- 12
-+ -- 86
-- -- 56
-* -- 503
-:= -- 958
-add.period$ -- 13
-call.type$ -- 13
-change.case$ -- 74
-chr.to.int$ -- 14
-cite$ -- 18
-duplicate$ -- 640
-empty$ -- 697
-format.name$ -- 76
-if$ -- 1431
+            722 strings with 7764 characters,
+and the built_in function-call counts, 7403 in all, are:
+= -- 506
+> -- 199
+< -- 13
++ -- 90
+- -- 59
+* -- 531
+:= -- 1018
+add.period$ -- 14
+call.type$ -- 14
+change.case$ -- 79
+chr.to.int$ -- 15
+cite$ -- 19
+duplicate$ -- 681
+empty$ -- 743
+format.name$ -- 80
+if$ -- 1515
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 120
-newline$ -- 48
-num.names$ -- 58
-pop$ -- 285
+missing$ -- 129
+newline$ -- 51
+num.names$ -- 62
+pop$ -- 308
 preamble$ -- 1
-purify$ -- 68
+purify$ -- 73
 quote$ -- 0
-skip$ -- 246
+skip$ -- 260
 stack$ -- 0
-substring$ -- 293
-swap$ -- 296
+substring$ -- 304
+swap$ -- 311
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
+type$ -- 102
 warning$ -- 5
-while$ -- 58
+while$ -- 61
 width$ -- 0
-write$ -- 149
-(There were 2 error messages)
+write$ -- 158
+(There were 5 warnings)

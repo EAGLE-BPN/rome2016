@@ -61,8 +61,8 @@ gathers the metadata for all documentary and literary texts from Egypt and the A
 whatever language or script between 800 BC and 800 AD. In this respect we try to collaborate as much as possible with
 other scientific databases all over the world. We started some ten years ago with the papyrological material from Egypt
 (both Greek and Egyptian), and the last few years - through the collaboration with EAGLE - we have also been
-incorporating Latin epigraphical texts from the whole Roman word. For the moment TM shows the metadata for 479.629
-texts, 306.925 of them written in Latin or containing Latin passages, but the number keeps on growing. Our direct EAGLE
+incorporating Latin epigraphical texts from the whole Roman word. For the moment TM shows the metadata for 618.917
+texts, 439.858 of them written in Latin or containing Latin passages, but the number keeps on growing. Our direct EAGLE
 partners Epigraphic Database Heidelberg (EDH), Epigraphic Database Roma (EDR), Hispania Epigraphica Online Database
 (HEp) and Epigraphic Database Bari (EDB) mainly focus on inscriptions on stone and other important texts from the
 regions they cover, but they usually omit the inscriptions and stamps on instrumentum domesticum or other minor
@@ -129,7 +129,7 @@ labels have been added, e.g. army [23.201], god [15.663], emperor [41.944], whic
 This is also the phase where the toponyms come in (which can occur both in the first and in the second group).
 Within the EAGLE project we created already a fairly large reference corpus for toponyms from the Roman empire, but
 this corpus was enlarged by entering the toponyms occurring in the \emph{Itinerarium provinciarum Antonini Augusti} [3.434]
-and the \emph{Tabula Peutingeriana} [3.287]. The TM Geo file now contains 46.277 toponyms from all over Egypt and the Roman
+and the \emph{Tabula Peutingeriana} [3.287]. The TM Geo file now contains 46.707 toponyms from all over Egypt and the Roman
 empire, both ancient and modern, which cover most of the places where ancient texts have been found, and most of the
 toponyms mentioned in Egyptian papyrological and Latin epigraphical sources.\footnote{ For more information on TM Geo,
 \citep{verreth2013}.} We played with the idea of automatic matching, like we did for the personal
@@ -151,13 +151,13 @@ have about only 80 to 90 \% of the toponyms occurring in all Latin inscriptions,
 with the result and in due time the remaining toponyms no doubt will find their way into the database also.
 
 Phase 1, the identification of toponyms in the capital cluster strings, was finished in the beginning of July 2015,
-and we have now entered phase 2, the incorporation of the capital cluster file into the `real' TM Georef file. For
+and we have now almost completed phase 2, the incorporation of the capital cluster file into the `real' TM Georef file. For
 every place listed in TM Geo we try to list all the ancient text references where that place is attested. The file of
 these geographical references (TM Georef) is directly linked with the main TM Text file, so that every reference
 automatically receives a chronological and a geographical context. Every toponym found in the capital cluster file is
 exported to a separate Georef card. When a toponym exists out of several consecutive elements, like the \emph{colonia} and
-\emph{municipium} examples mentioned before, they are automatically grouped on one card. Twofold toponyms such as `\emph{Bythina et
-Ponthus'}, which cannot belong to the same capital cluster string because of the intermediary `\emph{et}', are exported double
+\emph{municipium} examples mentioned before, they are automatically grouped on one card. Twofold toponyms such as `\emph{Bithynia et
+Pontus}', which cannot belong to the same capital cluster string because of the intermediary `\emph{et}', are exported double
 and then afterwards joined manually. For the moment TM Georef lists 67.820 geographical references attested in Latin
 documentary texts and 10.474 references attested in Latin literary texts (but except for Egypt the latter have not yet
 systematically been entered). The Latin references make out almost 40 \% of the total of 196.794 Georef cards.
@@ -191,7 +191,7 @@ possible to put a direct link on the Georef page to every partner that has the t
 
 Since the users of TM must be able to look for specific spelling variants of each toponyms, all these references are
 presented the way they are on the stone, with as little additions or emendations as possible, except of course for any
-abbreviations at the end of the word; e.g. \emph{T(h)ra[c(um)]} becomes \emph{Tra[c(um)]}, and Rom(a)e becomes \emph{Rome}. In another field the standardized nominative case is given, without brackets or uncertainty dots; e.g. \emph{Trax} and \emph{Roma}.
+abbreviations at the end of the word; e.g. \emph{T(h)ra[c(um)]} becomes \emph{Tra[c(um)]}, and \emph{Rom(a)e }becomes \emph{Rome}. In another field the standardized nominative case is given, without brackets or uncertainty dots; e.g. \emph{Trax} and \emph{Roma}.
 
 
 
@@ -219,15 +219,15 @@ refined in the future.
 
 The third and final phase involves the context of the toponym. In the field Detail we give a plain translation of
 the immediate phrase to which the toponym belongs. The translation should be a standardised as possible, with termini
-technici preferably added in Latin, so that the users can easily search for them in the database; e.g. `\emph{Tiberius Iulius
-Martialis son of Tiberius of (the tribus) Claudia from Savaria, soldier (miles) of legio XV Apollinaris}', `\emph{praefectus
-Aegypti}', `\emph{cohors I Tungrorum}'. If the place is explicitly ascribed to a \emph{provincia} or a region, this \emph{provincia} is
+technici preferably added in Latin, so that the users can easily search for them in the database; e.g. `Tiberius Iulius
+Martialis son of Tiberius of (the tribus) Claudia from Savaria, soldier (miles) of legio XV Apollinaris', `praefectus
+Aegypti', `cohors I Tungrorum'. If the place is explicitly ascribed to a \emph{provincia} or a region, this \emph{provincia} is
 listed in the field 'Administrative situation'. If a town is explicitly called an \emph{oppidum}, a \emph{vicus} or a \emph{civitas}, this
 information is listed in the field Status. By adding this information in searchable fields we hope that the user can
 start asking quite specific questions; e.g. the first and last attestation of a place in the sources; the periods in
 which a town was called a \emph{colonia} or a \emph{municipium}; the places in which the `\emph{ala I Thracum Mauretana}' has been attested.
 
- TM is a relational database, which implies that is possible to get to the information from different angles. If
+ TM is a relational database, which implies that it is possible to get to the information from different angles. If
 someone is studying a certain text, he can get a list of all toponyms mentioned in that text. On the other hand, if
 someone is examining a certain place, he can find the list of all attestations for that place, in the order that he
 wants. In some cases a scholar can have very specific questions, which are difficult to search through the online TM

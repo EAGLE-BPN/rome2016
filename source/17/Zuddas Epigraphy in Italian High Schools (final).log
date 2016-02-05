@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  5 FEB 2016 12:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1230,8 +1230,14 @@ Package microtype Info: Character `029' is missing
 Underfull \vbox (badness 2173) has occurred while \output is active []
 
  [2]
-[3] [4] [5]
-Overfull \hbox (3.07726pt too wide) in paragraph at lines 220--221
+[3] [4]
+Overfull \hbox (2.66539pt too wide) in paragraph at lines 187--188
+[]\T1/qpl/m/it/10 (-20) A(n)noru(m) XIX. / Cal-ven-tia / C(ai) f(ilia)Polla, / 
+L(ucius)
+ []
+
+[5]
+Overfull \hbox (3.07726pt too wide) in paragraph at lines 218--219
 []\T1/qpl/m/it/10 (-20) Post(umus) Mime-sius C(ai) f(ilius), T(itus) Mime-sius 
 Sert(oris)
  []
@@ -1241,19 +1247,25 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
  [7]
-Overfull \hbox (0.88509pt too wide) in paragraph at lines 296--297
+Overfull \hbox (0.88509pt too wide) in paragraph at lines 293--294
 \T1/qpl/m/it/10 (-20) s(upra) s(cripta) cel-e-brata non / fuerit tunc per-tineb
 (it) omn(is)
  []
 
-[8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 353--353
+[8]
+Overfull \hbox (0.30394pt too wide) in paragraph at lines 328--341
+[]\T1/qpl/m/n/10 (-20) This type of ac-tiv-ity works bet-ter with \T1/qpl/m/it/
+10 (-20) Liceo Clas-sico \T1/qpl/m/n/10 (-20) (Gram-mar School)
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 [][][]$\T1/lmtt/m/n/8 http : / / mediaclassica . loescher . it / nuove-[]e-[] %
  93vecchie %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--357
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 [][][]$\T1/lmtt/m/n/8 http : / / www . laricerca . loescher . it / lingue-[]cla
 ssiche /
  []
@@ -1262,19 +1274,22 @@ ssiche /
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 
-./Zuddas Epigraphy in Italian High Schools (final).tex:394: Package ucs Error: 
+./Zuddas Epigraphy in Italian High Schools (final).tex:391: Package ucs Error: 
 Please activate option 'combine'.
 
 See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.394 ...Kal(endas) Martias domum oscilavi Musae.}
+l.391 ...Kal(endas) Martias domum oscilavi Musae.}
                                                   
 Composed characters can only be rendered correctly, when the option 'combine' i
 s activated
 
-(./Zuddas Epigraphy in Italian High Schools (final).bbl [11]
+[11] (./Zuddas Epigraphy in Italian High Schools (final).bbl
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `\%'
@@ -1282,24 +1297,24 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `default'.
 
 [12])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 406.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 403.
  [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 406.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 403.
  (./Zuddas Epigraphy in Italian High Schools (final).aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 406.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 406.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 403.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 403.
 Package rerunfilecheck Info: File `"Zuddas Epigraphy in Italian High Schools (f
 inal)".out' has not changed.
 (rerunfilecheck)             Checksum: 4FE703E20CC8968F852EDDF5EC7B9924;352.
  ) 
 Here is how much of TeX's memory you used:
- 21693 strings out of 493089
- 406143 string characters out of 6134841
- 462912 words of memory out of 5000000
- 24697 multiletter control sequences out of 15000+600000
- 110363 words of font info for 198 fonts, out of 8000000 for 9000
+ 22201 strings out of 493089
+ 411426 string characters out of 6134841
+ 463975 words of memory out of 5000000
+ 25181 multiletter control sequences out of 15000+600000
+ 111703 words of font info for 208 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,45p,10448b,866s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10448b,860s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
 e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2015/t
@@ -1311,10 +1326,10 @@ x-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre
 /qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri
 .pfb>
 Output written on "Zuddas Epigraphy in Italian High Schools (final).pdf" (13 pa
-ges, 186127 bytes).
+ges, 189472 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
  44593 words of extra memory for PDF output out of 51595 (max. 10000000)
 

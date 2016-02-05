@@ -3,14 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: EAGLE2016_Full_Paper_Verreth.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting an "="---line 1603 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 2546 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in verreth2013
 You've used 2 entries,
@@ -54,4 +46,4 @@ warning$ -- 1
 while$ -- 9
 width$ -- 0
 write$ -- 32
-(There were 2 error messages)
+(There was 1 warning)
