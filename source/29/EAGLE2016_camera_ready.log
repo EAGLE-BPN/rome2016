@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  5 FEB 2016 11:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1199,7 +1199,7 @@ Package microtype Info: Character `029' is missing
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 ) [2] [3]
-[4] <EAGLE2016cameraready-img001.png, id=134, 1445.4pt x 361.35pt>
+[4] <EAGLE2016cameraready-img001.png, id=133, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img001.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img001.png>
@@ -1207,7 +1207,7 @@ Package pdftex.def Info: EAGLE2016cameraready-img001.png used on input line 175
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
 
-<EAGLE2016cameraready-img002.png, id=135, 1445.4pt x 361.35pt>
+<EAGLE2016cameraready-img002.png, id=134, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img002.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img002.png>
@@ -1215,7 +1215,7 @@ Package pdftex.def Info: EAGLE2016cameraready-img002.png used on input line 176
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
  [5 <./EAGLE2016cameraready-img001.png> <./EAGLE2016cameraready-img002.png>]
-<EAGLE2016cameraready-img003.png, id=144, 901.3675pt x 464.73625pt>
+<EAGLE2016cameraready-img003.png, id=143, 901.3675pt x 464.73625pt>
 File: EAGLE2016cameraready-img003.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img003.png>
@@ -1223,7 +1223,7 @@ Package pdftex.def Info: EAGLE2016cameraready-img003.png used on input line 211
 .
 (pdftex.def)             Requested size: 310.13503pt x 159.9016pt.
  [6 <./EAGLE2016cameraready-img003.png>]
-<EAGLE2016cameraready-img004.png, id=156, 1445.4pt x 361.35pt>
+<EAGLE2016cameraready-img004.png, id=155, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img004.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img004.png>
@@ -1231,7 +1231,7 @@ Package pdftex.def Info: EAGLE2016cameraready-img004.png used on input line 237
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
 
-<EAGLE2016cameraready-img005.png, id=157, 1445.4pt x 361.35pt>
+<EAGLE2016cameraready-img005.png, id=156, 1445.4pt x 361.35pt>
 File: EAGLE2016cameraready-img005.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img005.png>
@@ -1239,7 +1239,7 @@ Package pdftex.def Info: EAGLE2016cameraready-img005.png used on input line 238
 .
 (pdftex.def)             Requested size: 310.13503pt x 77.53435pt.
  [7 <./EAGLE2016cameraready-img004.png> <./EAGLE2016cameraready-img005.png>]
-<EAGLE2016cameraready-img006.png, id=166, 1150.2975pt x 608.2725pt>
+<EAGLE2016cameraready-img006.png, id=165, 1150.2975pt x 608.2725pt>
 File: EAGLE2016cameraready-img006.png Graphic file (type png)
 
 <use EAGLE2016cameraready-img006.png>
@@ -1382,13 +1382,17 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 309.
 Package rerunfilecheck Info: File `EAGLE2016_camera_ready.out' has not changed.
 
 (rerunfilecheck)             Checksum: 9C59E035E17AB5A087020EBCD11821A9;566.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  21667 strings out of 493089
- 406975 string characters out of 6134841
- 466310 words of memory out of 5000000
+ 406981 string characters out of 6134841
+ 467310 words of memory out of 5000000
  24634 multiletter control sequences out of 15000+600000
- 110400 words of font info for 206 fonts, out of 8000000 for 9000
+ 110387 words of font info for 206 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,40p,10420b,869s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1399,10 +1403,10 @@ mf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/tex-gyre/qplri.pfb>
-Output written on EAGLE2016_camera_ready.pdf (12 pages, 4633985 bytes).
+Output written on EAGLE2016_camera_ready.pdf (12 pages, 4633934 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
+ 271 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
  53 named destinations out of 1000 (max. 500000)
  42071 words of extra memory for PDF output out of 42996 (max. 10000000)
 

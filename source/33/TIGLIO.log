@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 19:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  5 FEB 2016 11:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1254,7 +1254,10 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-[10]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
 Underfull \hbox (badness 1590) in paragraph at lines 17--22
 []\T1/qpl/m/sc/10 (+20) Lambert, S., Mc-Court, F.\T1/qpl/m/n/10 (+20) , \T1/qpl
 /m/it/10 (+20) At-tic in-scrip-tions on-line\T1/qpl/m/n/10 (+20) , in S. Or-lan
@@ -1302,11 +1305,11 @@ Package rerunfilecheck Info: File `TIGLIO.out' has not changed.
 (rerunfilecheck)             Checksum: FB80E17DC043B0AA7B1194ADE5A1BDB1;295.
  ) 
 Here is how much of TeX's memory you used:
- 21766 strings out of 493089
- 405745 string characters out of 6134841
+ 21768 strings out of 493089
+ 405765 string characters out of 6134841
  468537 words of memory out of 5000000
  24800 multiletter control sequences out of 15000+600000
- 102685 words of font info for 182 fonts, out of 8000000 for 9000
+ 102818 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,45p,10404b,885s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1319,7 +1322,7 @@ fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 x-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre
 /qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri
 .pfb>
-Output written on TIGLIO.pdf (11 pages, 181644 bytes).
+Output written on TIGLIO.pdf (11 pages, 182006 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  149 compressed objects within 2 object streams
