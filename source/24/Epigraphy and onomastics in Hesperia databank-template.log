@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 18:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -756,11 +756,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count166
 )
-(./Epigraphy and onomastics in Hesperia databank-template.aux
-
-LaTeX Warning: Label `fig:' multiply defined.
-
-)
+(./Epigraphy and onomastics in Hesperia databank-template.aux)
 \openout1 = `"Epigraphy and onomastics in Hesperia databank-template.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -777,7 +773,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 49.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 49.
@@ -1246,92 +1243,97 @@ Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
 
 [4 <./EpigraphyandonomasticsinHesperiadatabanktemplate-img001.jpg>] [5 <./Epigr
 aphyandonomasticsinHesperiadatabanktemplate-img002.png>]
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 201.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 199.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 ) [6]
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img003.png, id=71, 1284.8pt x
- 803.0pt>
-File: EpigraphyandonomasticsinHesperiadatabanktemplate-img003.png Graphic file 
-(type png)
- <use EpigraphyandonomasticsinHesperiadatabanktemplate-img003.png>
-Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
-3.png used on input line 229.
-(pdftex.def)             Requested size: 310.13503pt x 193.82669pt.
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img003new.png, id=72, 4141.55
+28pt x 1986.4614pt>
+File: EpigraphyandonomasticsinHesperiadatabanktemplate-img003new.png Graphic fi
+le (type png)
 
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png, id=72, 1284.8pt x
- 803.0pt>
+<use EpigraphyandonomasticsinHesperiadatabanktemplate-img003new.png>
+Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
+3new.png used on input line 227.
+(pdftex.def)             Requested size: 310.13503pt x 148.73569pt.
+
+Underfull \vbox (badness 1990) has occurred while \output is active []
+
+ [7 <./EpigraphyandonomasticsinHesperiadatabanktemplate-img003new.png>]
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png, id=80, 983.5947pt
+ x 493.845pt>
 File: EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png Graphic file 
 (type png)
- <use EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png>
+
+<use EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png>
 Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
 4.png used on input line 241.
-(pdftex.def)             Requested size: 310.13503pt x 193.82669pt.
+(pdftex.def)             Requested size: 310.13503pt x 155.71269pt.
 
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img005.png, id=73, 434.62375p
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img005.png, id=84, 434.62375p
 t x 331.2375pt>
 File: EpigraphyandonomasticsinHesperiadatabanktemplate-img005.png Graphic file 
 (type png)
 
 <use EpigraphyandonomasticsinHesperiadatabanktemplate-img005.png>
 Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
-5.png used on input line 253.
+5.png used on input line 252.
 (pdftex.def)             Requested size: 310.13503pt x 236.37306pt.
 
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img006.png, id=74, 372.39125p
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img006.png, id=85, 372.39125p
 t x 281.05pt>
 File: EpigraphyandonomasticsinHesperiadatabanktemplate-img006.png Graphic file 
 (type png)
 
 <use EpigraphyandonomasticsinHesperiadatabanktemplate-img006.png>
 Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
-6.png used on input line 261.
+6.png used on input line 260.
 (pdftex.def)             Requested size: 310.13503pt x 234.07336pt.
 
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img007.png, id=75, 1284.8pt x
- 803.0pt>
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img007.png, id=86, 626.34pt x
+ 625.3764pt>
 File: EpigraphyandonomasticsinHesperiadatabanktemplate-img007.png Graphic file 
 (type png)
  <use EpigraphyandonomasticsinHesperiadatabanktemplate-img007.png>
 Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
-7.png used on input line 269.
-(pdftex.def)             Requested size: 310.13503pt x 193.82669pt.
+7.png used on input line 268.
+(pdftex.def)             Requested size: 310.13503pt x 309.66246pt.
 
-[7] [8 <./EpigraphyandonomasticsinHesperiadatabanktemplate-img003.png> <./Epigr
-aphyandonomasticsinHesperiadatabanktemplate-img004.png>] [9 <./Epigraphyandonom
-asticsinHesperiadatabanktemplate-img005.png> <./EpigraphyandonomasticsinHesperi
-adatabanktemplate-img006.png>]
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img008.jpg, id=95, 803.0pt x 
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img008.jpg, id=89, 803.0pt x 
 602.25pt>
 File: EpigraphyandonomasticsinHesperiadatabanktemplate-img008.jpg Graphic file 
 (type jpg)
  <use EpigraphyandonomasticsinHesperiadatabanktemplate-img008.jpg>
 Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
-8.jpg used on input line 284.
+8.jpg used on input line 283.
 (pdftex.def)             Requested size: 310.13503pt x 232.60672pt.
 
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img009.jpg, id=96, 803.0pt x 
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img009.jpg, id=90, 803.0pt x 
 602.25pt>
 File: EpigraphyandonomasticsinHesperiadatabanktemplate-img009.jpg Graphic file 
 (type jpg)
  <use EpigraphyandonomasticsinHesperiadatabanktemplate-img009.jpg>
 Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img00
-9.jpg used on input line 292.
+9.jpg used on input line 291.
 (pdftex.def)             Requested size: 310.13503pt x 232.60672pt.
 
-[10 <./EpigraphyandonomasticsinHesperiadatabanktemplate-img007.png>] [11 <./Epi
-graphyandonomasticsinHesperiadatabanktemplate-img008.jpg> <./Epigraphyandonomas
-ticsinHesperiadatabanktemplate-img009.jpg>]
-<EpigraphyandonomasticsinHesperiadatabanktemplate-img010.png, id=108, 1284.8pt 
-x 803.0pt>
+[8 <./EpigraphyandonomasticsinHesperiadatabanktemplate-img004.png>] [9 <./Epigr
+aphyandonomasticsinHesperiadatabanktemplate-img005.png> <./Epigraphyandonomasti
+csinHesperiadatabanktemplate-img006.png>] [10 <./EpigraphyandonomasticsinHesper
+iadatabanktemplate-img007.png>] [11 <./EpigraphyandonomasticsinHesperiadatabank
+template-img008.jpg> <./EpigraphyandonomasticsinHesperiadatabanktemplate-img009
+.jpg>]
+<EpigraphyandonomasticsinHesperiadatabanktemplate-img010.png, id=118, 1000.6986
+pt x 427.5975pt>
 File: EpigraphyandonomasticsinHesperiadatabanktemplate-img010.png Graphic file 
 (type png)
- <use EpigraphyandonomasticsinHesperiadatabanktemplate-img010.png>
+
+<use EpigraphyandonomasticsinHesperiadatabanktemplate-img010.png>
 Package pdftex.def Info: EpigraphyandonomasticsinHesperiadatabanktemplate-img01
-0.png used on input line 319.
-(pdftex.def)             Requested size: 310.13503pt x 193.82669pt.
+0.png used on input line 318.
+(pdftex.def)             Requested size: 310.13503pt x 132.52122pt.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
@@ -1340,30 +1342,33 @@ File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
- [13])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 369.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 369.
 
-(./Epigraphy and onomastics in Hesperia databank-template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 369.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 369.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
+
+[14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
+ (./Epigraphy and onomastics in Hesperia databank-template.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
 Package rerunfilecheck Info: File `"Epigraphy and onomastics in Hesperia databa
 nk-template".out' has not changed.
 (rerunfilecheck)             Checksum: B33BBFDE4E82663FCD253D21B17F56D3;167.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22439 strings out of 493089
- 416375 string characters out of 6134841
- 463795 words of memory out of 5000000
- 25454 multiletter control sequences out of 15000+600000
- 105153 words of font info for 182 fonts, out of 8000000 for 9000
+ 22442 strings out of 493089
+ 416414 string characters out of 6134841
+ 462860 words of memory out of 5000000
+ 25455 multiletter control sequences out of 15000+600000
+ 105292 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,45p,10454b,848s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10454b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
 local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/
 2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texlive/2015/t
@@ -1374,10 +1379,10 @@ fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 ic/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
 -gyre/qplri.pfb>
 Output written on "Epigraphy and onomastics in Hesperia databank-template.pdf" 
-(14 pages, 7781863 bytes).
+(14 pages, 56515249 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
+ 182 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  38 named destinations out of 1000 (max. 500000)
  43595 words of extra memory for PDF output out of 51595 (max. 10000000)
 

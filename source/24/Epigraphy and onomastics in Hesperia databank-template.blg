@@ -3,55 +3,45 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Epigraphy and onomastics in Hesperia databank-template.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting an "="---line 1595 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 2538 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Warning--empty year in vallejo_antroponimia_????; set to ????
 You've used 7 entries,
             3082 wiz_defined-function locations,
-            660 strings with 6292 characters,
-and the built_in function-call counts, 3759 in all, are:
-= -- 256
+            660 strings with 6303 characters,
+and the built_in function-call counts, 3736 in all, are:
+= -- 253
 > -- 101
 < -- 9
 + -- 48
 - -- 30
-* -- 272
-:= -- 507
+* -- 268
+:= -- 506
 add.period$ -- 7
 call.type$ -- 7
-change.case$ -- 44
+change.case$ -- 43
 chr.to.int$ -- 8
-cite$ -- 8
-duplicate$ -- 361
+cite$ -- 7
+duplicate$ -- 359
 empty$ -- 372
 format.name$ -- 45
-if$ -- 759
+if$ -- 755
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 65
+missing$ -- 64
 newline$ -- 30
 num.names$ -- 30
-pop$ -- 174
+pop$ -- 170
 preamble$ -- 1
 purify$ -- 37
 quote$ -- 0
-skip$ -- 126
+skip$ -- 129
 stack$ -- 0
-substring$ -- 130
-swap$ -- 155
+substring$ -- 128
+swap$ -- 154
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 60
-warning$ -- 1
+warning$ -- 0
 while$ -- 27
 width$ -- 0
-write$ -- 85
-(There were 2 error messages)
+write$ -- 84
