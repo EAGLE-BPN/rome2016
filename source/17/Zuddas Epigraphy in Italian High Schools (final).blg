@@ -11,15 +11,15 @@ Warning--missing publisher in Hartnett2012
 Warning--missing publisher in LaFleur2010
 You've used 14 entries,
             3082 wiz_defined-function locations,
-            722 strings with 7764 characters,
-and the built_in function-call counts, 7403 in all, are:
-= -- 506
+            721 strings with 7719 characters,
+and the built_in function-call counts, 7397 in all, are:
+= -- 505
 > -- 199
 < -- 13
 + -- 90
 - -- 59
-* -- 531
-:= -- 1018
+* -- 528
+:= -- 1017
 add.period$ -- 14
 call.type$ -- 14
 change.case$ -- 79
@@ -28,20 +28,20 @@ cite$ -- 19
 duplicate$ -- 681
 empty$ -- 743
 format.name$ -- 80
-if$ -- 1515
+if$ -- 1514
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 129
 newline$ -- 51
 num.names$ -- 62
-pop$ -- 308
+pop$ -- 310
 preamble$ -- 1
 purify$ -- 73
 quote$ -- 0
 skip$ -- 260
 stack$ -- 0
 substring$ -- 304
-swap$ -- 311
+swap$ -- 310
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
@@ -49,5 +49,5 @@ type$ -- 102
 warning$ -- 5
 while$ -- 61
 width$ -- 0
-write$ -- 158
+write$ -- 157
 (There were 5 warnings)
