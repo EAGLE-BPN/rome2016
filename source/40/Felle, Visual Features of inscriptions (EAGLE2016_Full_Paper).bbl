@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{11}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -11,24 +11,30 @@
 \textsc{Carletti, C.}, \emph{Epigrafia dei cristiani in {Occidente} dal {III}
   al {VII} secolo: ideologia e prassi}, Edipuglia, Bari, 2008.
 
+\bibitem[{\textsc{Di~Stefano~Manzella}(1997)}]{Manzella1997Felle}
+\textsc{Di~Stefano~Manzella, I.} (ed.), \emph{{Le iscrizioni dei Cristiani in
+  Vaticano. Materiali e contributi scientifici per una mostra epigrafica [=
+  \emph{Inscriptiones Sanctae Sedis}, 2]}}, Monumenti, Musei e Gallerie
+  Pontificie, Città del Vaticano, 1997.
+
 \bibitem[{\textsc{Eastmond}(2015)}]{eastmond_viewing_2015}
 \textsc{Eastmond, A.} (ed.), \emph{Viewing {Inscriptions} in the {Late}
   {Antique} and {Medieval} {World}}, Cambridge University Press, Cambridge,
   2015.
 
 \bibitem[{\textsc{Eck and Funke}(2014)}]{eck_vol_2014}
-\textsc{Eck, W., Funke, P.}, \emph{Vol 4 {\"O}ffentlichkeit - {Monument} -
+\textsc{Eck, W., Funke, P.} (edd.), \emph{{\"O}ffentlichkeit - {Monument} -
   {Text}, {XIV} {Congressus} {Internationalis} {Epigraphiae} {Graecae} et
-  {Latinae}}, De Gruyter, Berlin, 2014.
+  {Latinae}. Akten (Berlin, 27-31 August 2012)}, De Gruyter, Berlin, 2014.
 
 \bibitem[{\textsc{Felle}(2006)}]{felle_biblia_2006}
-\textsc{Felle, A.E.}, \emph{Biblia epigraphica: la sacra scrittura nella
-  documentazione epigrafica dell'{Orbis} {Christianvs} {Antiqvvs} ({III} -
-  {VIII} secolo)}, no.~5 in Inscriptiones {Christianae} {Italiae} : {Subsidia},
-  Edipuglia, Bari, 2006.
+\textsc{Felle, A.E.}, \emph{\emph{Biblia epigraphica}: la sacra scrittura nella
+  documentazione epigrafica dell'\emph{{Orbis} {Christianvs} {Antiqvvs}} ({III}
+  - {VIII} secolo)}, no.~5 in \emph{Inscriptiones {Christianae} {Italiae} :
+  {Subsidia}}, Edipuglia, Bari, 2006.
 
 \bibitem[{\textsc{Felle}(2007)}]{felle_judaism_2007}
-\textsc{Felle, A.E.}, \emph{Judaism and {Christianity} in {Light} of
+\textsc{Felle, A.E.}, \emph{Judaism and {Christianity} in the {Light} of
   {Epigraphic} {Evidence} (3rd-7th cent. {CE})}, Henoch, 29 (2007), 354--77.
 
 \bibitem[{\textsc{Felle}(2013)}]{felle_apporto_2013}
@@ -36,7 +42,7 @@
   ({EDB}) all'analisi dell'apparato figurativo delle iscrizioni dei cristiani
   di {Roma}}, in F.~Bisconti, M.~Braconi (edd.), \emph{Incisioni figurate della
   {Tarda} antichit{\`a}. {Atti} del {Convegno} di {Studi} ({Roma}, 22-23 marzo
-  2012)}, 99--112, Pontificio istituto di archeologia cristiana, Citt{\`a} del
+  2012)}, 99--112, Pontificio Istituto di Archeologia Cristiana, Citt{\`a} del
   Vaticano, 2013.
 
 \bibitem[{\textsc{Felle}(2015)}]{felle_esporre_2015}
@@ -44,18 +50,18 @@
   epigrafi d'ambito pubblico fra tarda antichit{\`a} e prima et{\`a} bizantina
   (sec. {IV}-{VIII})}, Antiquit{\'e} Tardive, 23 (2015), 311--328.
 
-\bibitem[{\textsc{Felle}(2016)}]{pesce_documenti_2016}
+\bibitem[{\textsc{Felle}(2016, in press)}]{pesce_documenti_2016}
 \textsc{Felle, A.E.}, \emph{Documenti epigrafici di committenza ebraica.
-  {Omologazione} e alterit{\`a}}, in M.~Pesce, A.~Desrto (edd.), \emph{Texts,
-  {Practices}, and {Groups}. {Multidisciplinary} approaches to the istory of
-  {Jesus} {Followers} in the first two centuries. {First} {Annual} {Meeting} of
-  {Bertinoro} (2-4 {October} 2014)}, Turnhout, 2016.
+  {Omologazione} e alterit{\`a}}, in M.~Pesce, A.~Destro (edd.), \emph{Texts,
+  {Practices} and {Groups}. {Multidisciplinary} approaches to the History of
+  {Jesus'} {Followers} in the first two centuries. {First} {Annual} {Meeting}
+  of {Bertinoro} (2-4 {October} 2014)}, Brepols, Turnhout, 2016, in press.
 
 \bibitem[{\textsc{Felle and Zimmermann}(2014)}]{zimmermann_epigraphy_2014}
 \textsc{Felle, A.E., Zimmermann, N.}, \emph{Epigraphy, {Art} {History},
   {Archaeology}. {A} {Case} of {Interaction} between {Research} {Projects}:
   {The} {Epigraphic} {Database} {Bari} ({UniBa}, {Italy}) and the {Domitilla}
-  {Projekt} ({\"o}{AW}, {Austria} - {DAI}, {Deutschland})}, in S.~Orlandi,
+  {Projekt} ({Ö}{AW}, {Austria} - {DAI}, {Deutschland})}, in S.~Orlandi,
   R.~Santucci, V.~Casarosa, P.M. Liuzzo (edd.), \emph{Information
   {Technologies} for {Epigraphy} and {Cultural} {Heritage}. {Proceedings} of
   the {First} {EAGLE} {International} {Conference} ({Paris}, {September} 29-30
