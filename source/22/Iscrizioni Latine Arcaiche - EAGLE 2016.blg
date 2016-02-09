@@ -1,62 +1,55 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Iscrizioni Latine Arcaiche - EAGLE 2016.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
 Warning--entry type for "Elliot:2006aa" isn't style-file defined
---line 20 of file ../../EAGLE.bib
-I was expecting an "="---line 1603 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 2546 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
+--line 94 of file ../../EAGLE.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in goidanich_rapporti_1943
 Warning--empty booktitle in rocca_i_1995
 Warning--can't use both volume and number fields in rocca_i_1995
+Warning--missing publisher in SarulloBari
 Warning--empty journal in tissoni_epidoc_2008
-You've used 27 entries,
+You've used 28 entries,
             3082 wiz_defined-function locations,
-            803 strings with 10456 characters,
-and the built_in function-call counts, 15963 in all, are:
-= -- 1160
-> -- 443
-< -- 29
-+ -- 222
-- -- 127
-* -- 1173
-:= -- 2113
-add.period$ -- 27
-call.type$ -- 27
-change.case$ -- 166
-chr.to.int$ -- 28
-cite$ -- 31
-duplicate$ -- 1433
-empty$ -- 1560
-format.name$ -- 170
-if$ -- 3308
+            809 strings with 10602 characters,
+and the built_in function-call counts, 16494 in all, are:
+= -- 1190
+> -- 460
+< -- 30
++ -- 230
+- -- 132
+* -- 1213
+:= -- 2188
+add.period$ -- 28
+call.type$ -- 28
+change.case$ -- 172
+chr.to.int$ -- 29
+cite$ -- 33
+duplicate$ -- 1487
+empty$ -- 1615
+format.name$ -- 177
+if$ -- 3411
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 252
-newline$ -- 90
-num.names$ -- 125
-pop$ -- 629
+missing$ -- 261
+newline$ -- 93
+num.names$ -- 131
+pop$ -- 653
 preamble$ -- 1
-purify$ -- 146
+purify$ -- 151
 quote$ -- 0
-skip$ -- 551
+skip$ -- 568
 stack$ -- 0
-substring$ -- 799
-swap$ -- 677
+substring$ -- 812
+swap$ -- 701
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 225
-warning$ -- 4
-while$ -- 133
+type$ -- 234
+warning$ -- 5
+while$ -- 137
 width$ -- 0
-write$ -- 306
-(There were 2 error messages)
+write$ -- 316
+(There were 6 warnings)

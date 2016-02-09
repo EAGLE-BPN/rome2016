@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{28}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -52,7 +52,7 @@
   \urlprefix\url{http://epidoc.sf.net}.
 
 \bibitem[{\textsc{Felle}(2012)}]{felle_esperienze_2012}
-\textsc{Felle, A.}, \emph{Esperienze diverse e complementari nel trattamento
+\textsc{Felle, A.E.}, \emph{Esperienze diverse e complementari nel trattamento
   digitale delle fonti epigrafiche: il caso di {EAGLE} ed {EpiDoc}}, in
   \emph{Diritto romano e scienze antichistiche nell'era digitale. {Convegno} di
   studio ({Firenze}, 12-13 settembre 2011)}, no.~10 in Collectanea
@@ -132,6 +132,11 @@
   {Inscriptions}}, in P.~Cotticelli~Kurras (ed.), \emph{Linguistica e
   {Filologia} digitale. {Aspetti} e progetti}, 157--169, Edizioni dell'Orso,
   Alessandria, 2011.
+
+\bibitem[{\textsc{Sarullo}(in print)}]{SarulloBari}
+\textsc{Sarullo, G.}, \emph{The encoding challenge of the ila project}, in A.E.
+  Felle, A.~Rocco (edd.), \emph{Off the Beaten Tracks. Epigraphy at the Borders
+  (6th EAGLE International Event - Bari, 24-25 September 2015}, in print.
 
 \bibitem[{\textsc{Stibbe et~al.}(1980)\textsc{Stibbe, Colonna, de~Simone,
   Versnel, and Pallottino}}]{stibbe_lapis_1980}

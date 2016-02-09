@@ -58,7 +58,7 @@ EpiDoc Guidelines. The edition is the result of an autoptical examination of the
 text-bearing objects, together with the analysis of previous studies. In the particular case of the Forum inscription,
 this led to new discoveries and confirmed old hypotheses. Each text will be presented in an epigraphic chart, enriched
 by photos and illustrations.\footnote{Giovanna Rocca (GR) is responsible for § \ref{sec:generalia} and \ref{sec:news};
-Giulia Sarullo (GS) is responsible for § \ref{sec:3chart} and Marta Muscariello (MM) for § \ref{sec:4tech}.}
+Giulia Sarullo (GS) is responsible for § \ref{sec:4tech} and Marta Muscariello (MM) for § \ref{sec:3chart}.}
 \end{abstract}
 \keywords{Archaic Latin Inscriptions, Latin Epigraphy, EpiDoc, Digital Humanities, Epigraphic Edition, Forum inscription.}
 
@@ -150,8 +150,7 @@ scholars tried to find an explanation for this absence: the inscription was carv
 was made up of different texts, each copied from different drafts; the antigraph was in \emph{scriptio continua} and the
 inscriber was not familiar with this procedure; the punctuation was not accurately assigned.
 
-As a matter of fact, face A conforms to the others, showing three vertical dots after \emph{sakros} and also, although less
-deep and more worn-out, after \emph{esed}\footnote{The details of significant portions of the inscriptions will be shown on
+As a matter of fact, face A seems to conform to the others, showing three vertical dots after \emph{sakros}\footnote{The details of significant portions of the inscriptions will be shown on
 the website with several photographs. } (Fig.~\ref{fig:1}). This fact was highlighted by \citet{gamurrini_paleografia_1899} and the three dots
 appear in the apograph in \citet[col. 1003]{hulsen_neue_1899},  and they could also be guessed in the photograph Anderson 3192
 (Archivio Alinari). Nevertheless, the \emph{post} \citet{goidanich_rapporti_1943} \emph{vulgata} and the difficulties in checking in person the
@@ -338,14 +337,12 @@ The major encoding issues concern the rendering of the direction of writing and 
 Unlike later texts, predominantly left-to-right, the inscriptions of the ILA \emph{corpus} show a certain degree of
 fluctuation in the direction of writing. Besides left-to-right, right-to-left and boustrophedic inscriptions, there are
 also some particular cases, such as the lamina from Lavinium (CIL I$^2$ 2833) and the Tibur pedestal inscription (CIL I$^2$
-2658), that requires a specific treatment. For these texts, it was necessary to adopt the \texttt{{\textless}lb
-rend={\textquotedbl}up-to-down{\textquotedbl}{\textgreater}} and \texttt{{\textless}lb
-rend={\textquotedbl}down-to-up{\textquotedbl}{\textgreater}} elements in order to render the peculiar directions in
+2658), that requires a specific treatment. For these texts, it was necessary to create several new specific elements in order to render the peculiar directions in
 which the text was cut.\footnote{The issue of the direction of writing was the subject of much debate at the 6th EAGLE
 International Event \emph{Off the beaten track. Epigraphy at the borders} (Bari, September 24th{}-25th, 2015). The discussion
 highlighted how this is a matter of great relevance both for the archaic inscriptions and the testimonies from late
 antiquity and the necessity to establish a common standard to encode the instances of ``non-standard'' directions of
-writing emerged. For this reason, this issue will surely be the object of further consideration in the future.}
+writing emerged. This issue is discussed in \citet{SarulloBari}, where the newly created elements are presented.}
 Reversed and upside-down letters are usually left unmarked in traditional epigraphic editions and we decided to comply
 to this practice. Nevertheless, the \texttt{{\textless}hi{\textgreater}} element has been used to mark up these letters, with
 two different values of @rend. For reversed letters, the \texttt{{\textless}hi
