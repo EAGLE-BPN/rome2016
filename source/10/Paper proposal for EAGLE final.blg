@@ -1,32 +1,20 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Paper proposal for EAGLE final.aux
-White space in argument---line 53 of file Paper proposal for EAGLE final.aux
- : \citation{panciera
- :                    2012}
-I'm skipping whatever remains of this command
-White space in argument---line 58 of file Paper proposal for EAGLE final.aux
- : \citation{reynolds
- :                    1990}
-I'm skipping whatever remains of this command
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-Repeated entry---line 475 of file ../../EAGLE.bib
+Repeated entry---line 537 of file ../../EAGLE.bib
  : @book{Gordon1957
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5443 of file ../../EAGLE.bib
+Repeated entry---line 5551 of file ../../EAGLE.bib
  : @book{Cooley2012
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6808 of file ../../EAGLE.bib
+Repeated entry---line 6903 of file ../../EAGLE.bib
  : @book{Roueche2004
  :                  ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "mama8"
-Warning--I didn't find a database entry for "buraselis2001"
-Warning--I didn't find a database entry for "reynolds1999b"
-Warning--I didn't find a database entry for "reynolds1981"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in calabi1991
 Warning--empty journal in cooley2014
@@ -41,7 +29,7 @@ Warning--missing publisher in reynolds1990
 Warning--missing publisher in reynolds1999
 You've used 38 entries,
             3082 wiz_defined-function locations,
-            857 strings with 11416 characters,
+            854 strings with 11372 characters,
 and the built_in function-call counts, 20207 in all, are:
 = -- 1430
 > -- 567
@@ -80,4 +68,4 @@ warning$ -- 11
 while$ -- 168
 width$ -- 0
 write$ -- 421
-(There were 5 error messages)
+(There were 3 error messages)
