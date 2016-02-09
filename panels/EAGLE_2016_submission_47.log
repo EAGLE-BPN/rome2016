@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  25 JAN 2016 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 15:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1243,75 +1243,80 @@ y Por-tu-gal, Madrid.
  []
 
 
-./EAGLE_2016_submission_47.tex:69: Package ucs Error: Please activate option 'c
-ombine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.69 \item[Marion Lamé]
-                         \emph{Centre Camille Jullian, MMSH, CNRS, France Em...
-
-? 
-
-Overfull \hbox (53.88376pt too wide) in paragraph at lines 69--70
-[]\T1/qpl/m/it/10 (-20) Centre Camille Jul-lian, MMSH, CNRS, France Email: mlam
-e@mmsh.univ-
+Overfull \hbox (11.03616pt too wide) in paragraph at lines 78--79
+[]\T1/qpl/m/it/10 (-20) University of Venice Email: trentin.mia@unive.it \T1/qp
+l/m/n/10 (-20) Mia Trentin
  []
 
 
-./EAGLE_2016_submission_47.tex:82: Package ucs Error: Please activate option 'c
+./EAGLE_2016_submission_47.tex:84: Package ucs Error: Please activate option 'c
 ombine'.
 
 See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 ...tudi di Cassino Email: alfmorel@unicas.it}
+l.84 ...tudi di Cassino Email: alfmorel@unicas.it}
                                                    Professor of Latin langua...
 
 ? 
 
-Overfull \hbox (17.42271pt too wide) in paragraph at lines 82--83
+Overfull \hbox (17.42271pt too wide) in paragraph at lines 84--85
 []\T1/qpl/m/it/10 (-20) Universita^^@ degli Studi di Cassino Email: alf-morel@u
 nicas.it
  []
 
+[2]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 88.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
-Overfull \hbox (36.77339pt too wide) in paragraph at lines 85--87
-\T1/qpl/m/n/10 (-20) [http://pisaeislam.humnet.unipi.it/ - http://epigrapisa.hu
-mnet.unipi.it/] 
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\%'
+(microtype)                in font encoding `T1' in protrusion list 
+(microtype)                `default'.
+
+
+Overfull \hbox (22.29251pt too wide) in paragraph at lines 87--89
+\T1/lmtt/m/n/10 pisaeislam . humnet . unipi . it/$[][] \T1/qpl/m/n/10 (-20) - [
+][]$\T1/lmtt/m/n/10 http : / / epigrapisa . humnet . unipi .
  []
 
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
  (./EAGLE_2016_submission_47.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 Package rerunfilecheck Info: File `EAGLE_2016_submission_47.out' has not change
 d.
 (rerunfilecheck)             Checksum: BBC9A7D0CF10A1DF533E37C406530459;90.
  ) 
 Here is how much of TeX's memory you used:
- 21324 strings out of 493089
- 401099 string characters out of 6134841
+ 21360 strings out of 493089
+ 401686 string characters out of 6134841
  464142 words of memory out of 5000000
- 24459 multiletter control sequences out of 15000+600000
- 90915 words of font info for 145 fonts, out of 8000000 for 9000
+ 24491 multiletter control sequences out of 15000+600000
+ 91222 words of font info for 146 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,40p,10422b,800s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on EAGLE_2016_submission_47.pdf (3 pages, 96898 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/tex-gyre/qplri.pfb>
+Output written on EAGLE_2016_submission_47.pdf (3 pages, 119189 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
- 37905 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 38417 words of extra memory for PDF output out of 42996 (max. 10000000)
 
