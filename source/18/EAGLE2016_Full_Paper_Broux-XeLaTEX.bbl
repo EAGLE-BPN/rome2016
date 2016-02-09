@@ -51,7 +51,8 @@
 
 \bibitem[{\textsc{Broux and Vanbeselaere}(forthcoming)}]{BrouxVanbeselaere}
 \textsc{Broux, Y., Vanbeselaere, S.}, \emph{Identifying {Individuals} through
-  {Network} {Visualization}}, Digital Humanities Quarterly,  (forthcoming),
+  {Network} {Visualization}}, Digital Scholarship in the Humanities,
+  (forthcoming),
   \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/479930}.
 
 \bibitem[{\textsc{Coussement}(forthcoming)}]{Coussement}
@@ -62,9 +63,9 @@
 
 \bibitem[{\textsc{Depauw}(forthcoming)}]{Depauw}
 \textsc{Depauw, M.}, \emph{Roman {Influence} on {Rituals} of {Identification}
-  in {Egypt}}, in P.~Van~Nuffelen, A.~Zuiderhoek (ed.), \emph{Constructing (an)
-  Imperial Identity? Ritual and Identity Formation in the Roman World}, Gent,
-  forthcoming,
+  in {Egypt}}, in P.~Van~Nuffelen, A.~Zuiderhoek (edd.), \emph{Constructing
+  (an) Imperial Identity? Ritual and Identity Formation in the Roman World},
+  Gent, forthcoming,
   \urlprefix\url{https://lirias.kuleuven.be/handle/123456789/478973}.
 
 \bibitem[{\textsc{Depauw and Clarysse}(2013)}]{Depauw2013}
@@ -79,11 +80,12 @@
   Papyrology, 39 (2009), 31--47,
   \urlprefix\url{http://www.trismegistos.org/ref/depauw_vanbeek.pdf}.
 
-\bibitem[{\textsc{Van~Hooland et~al.}(forthcoming)\textsc{Van~Hooland,
-  De~Wilde, Verborgh, Steiner, and Van~de Walle}}]{vanHooland}
+\bibitem[{\textsc{Van~Hooland et~al.}(2015)\textsc{Van~Hooland, De~Wilde,
+  Verborgh, Steiner, and Van~de Walle}}]{vanHooland}
 \textsc{Van~Hooland, S., De~Wilde, M., Verborgh, R., Steiner, T., Van~de Walle,
   R.}, \emph{Exploring entity recognition and disambiguation for cultural
-  heritage collections}, Literary and linguistic computing, DSH,
-  (forthcoming).
+  heritage collections}, Digital Scholarship in the Humanities, 30 (2015),
+  262--279,
+  \urlprefix\url{http://dsh.oxfordjournals.org/content/30/2/262.abstract.}
 
 \end{thebibliography}

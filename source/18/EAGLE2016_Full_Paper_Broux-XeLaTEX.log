@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.1.24)  24 JAN 2016 15:05
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.1.24)  9 FEB 2016 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1173,6 +1173,190 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \xpg@normalclass=\XeTeXcharclass4
 )
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+Package: ucharclasses 2012/09/25 v2.0x Unicode block character classes for XeLa
+TeX
+\AegeanNumbersClass=\XeTeXcharclass5
+\AlphabeticPresentationFormsClass=\XeTeXcharclass6
+\AncientGreekMusicalNotationClass=\XeTeXcharclass7
+\AncientGreekNumbersClass=\XeTeXcharclass8
+\AncientSymbolsClass=\XeTeXcharclass9
+\ArabicClass=\XeTeXcharclass10
+\ArabicPresentationFormsAClass=\XeTeXcharclass11
+\ArabicPresentationFormsBClass=\XeTeXcharclass12
+\ArabicSupplementClass=\XeTeXcharclass13
+\ArmenianClass=\XeTeXcharclass14
+\ArrowsClass=\XeTeXcharclass15
+\BalineseClass=\XeTeXcharclass16
+\BasicLatinClass=\XeTeXcharclass17
+\BengaliClass=\XeTeXcharclass18
+\BlockElementsClass=\XeTeXcharclass19
+\BopomofoClass=\XeTeXcharclass20
+\BopomofoExtendedClass=\XeTeXcharclass21
+\BoxDrawingClass=\XeTeXcharclass22
+\BraillePatternsClass=\XeTeXcharclass23
+\BugineseClass=\XeTeXcharclass24
+\BuhidClass=\XeTeXcharclass25
+\ByzantineMusicalSymbolsClass=\XeTeXcharclass26
+\CarianClass=\XeTeXcharclass27
+\ChamClass=\XeTeXcharclass28
+\CherokeeClass=\XeTeXcharclass29
+\CJKCompatibilityClass=\XeTeXcharclass30
+\CJKCompatibilityFormsClass=\XeTeXcharclass31
+\CJKCompatibilityIdeographsClass=\XeTeXcharclass32
+\CJKCompatibilityIdeographsSupplementClass=\XeTeXcharclass33
+\CJKRadicalsSupplementClass=\XeTeXcharclass34
+\CJKStrokesClass=\XeTeXcharclass35
+\CJKSymbolsAndPunctuationClass=\XeTeXcharclass36
+\CJKUnifiedIdeographsClass=\XeTeXcharclass37
+\CJKUnifiedIdeographsExtensionAClass=\XeTeXcharclass38
+\CJKUnifiedIdeographsExtensionBClass=\XeTeXcharclass39
+\CJKUnifiedIdeographsExtensionCClass=\XeTeXcharclass40
+\CombiningDiacriticalMarksClass=\XeTeXcharclass41
+\CombiningDiacriticalMarksforSymbolsClass=\XeTeXcharclass42
+\CombiningDiacriticalMarksSupplementClass=\XeTeXcharclass43
+\CombiningHalfMarksClass=\XeTeXcharclass44
+\ControlPicturesClass=\XeTeXcharclass45
+\CopticClass=\XeTeXcharclass46
+\CountingRodNumeralsClass=\XeTeXcharclass47
+\CuneiformClass=\XeTeXcharclass48
+\CuneiformNumbersAndPunctuationClass=\XeTeXcharclass49
+\CurrencySymbolsClass=\XeTeXcharclass50
+\CypriotSyllabaryClass=\XeTeXcharclass51
+\CyrillicClass=\XeTeXcharclass52
+\CyrillicExtendedAClass=\XeTeXcharclass53
+\CyrillicExtendedBClass=\XeTeXcharclass54
+\CyrillicSupplementClass=\XeTeXcharclass55
+\DeseretClass=\XeTeXcharclass56
+\DevanagariClass=\XeTeXcharclass57
+\DingbatsClass=\XeTeXcharclass58
+\DominoTilesClass=\XeTeXcharclass59
+\EnclosedAlphanumericsClass=\XeTeXcharclass60
+\EnclosedCJKLettersAndMonthsClass=\XeTeXcharclass61
+\EthiopicClass=\XeTeXcharclass62
+\EthiopicExtendedClass=\XeTeXcharclass63
+\EthiopicSupplementClass=\XeTeXcharclass64
+\GeneralPunctuationClass=\XeTeXcharclass65
+\GeometricShapesClass=\XeTeXcharclass66
+\GeorgianClass=\XeTeXcharclass67
+\GeorgianSupplementClass=\XeTeXcharclass68
+\GlagoliticClass=\XeTeXcharclass69
+\GothicClass=\XeTeXcharclass70
+\GreekAndCopticClass=\XeTeXcharclass71
+\GreekExtendedClass=\XeTeXcharclass72
+\GujaratiClass=\XeTeXcharclass73
+\GurmukhiClass=\XeTeXcharclass74
+\HalfwidthAndFullwidthFormsClass=\XeTeXcharclass75
+\HangulCompatibilityJamoClass=\XeTeXcharclass76
+\HangulJamoClass=\XeTeXcharclass77
+\HangulSyllablesClass=\XeTeXcharclass78
+\HanunooClass=\XeTeXcharclass79
+\HebrewClass=\XeTeXcharclass80
+\HiraganaClass=\XeTeXcharclass81
+\IdeographicDescriptionCharactersClass=\XeTeXcharclass82
+\IPAExtensionsClass=\XeTeXcharclass83
+\KanbunClass=\XeTeXcharclass84
+\KangxiRadicalsClass=\XeTeXcharclass85
+\KannadaClass=\XeTeXcharclass86
+\KatakanaClass=\XeTeXcharclass87
+\KatakanaPhoneticExtensionsClass=\XeTeXcharclass88
+\KayahLiClass=\XeTeXcharclass89
+\KharoshthiClass=\XeTeXcharclass90
+\KhmerClass=\XeTeXcharclass91
+\KhmerSymbolsClass=\XeTeXcharclass92
+\LaoClass=\XeTeXcharclass93
+\LatinExtendedAdditionalClass=\XeTeXcharclass94
+\LatinExtendedAClass=\XeTeXcharclass95
+\LatinExtendedBClass=\XeTeXcharclass96
+\LatinExtendedCClass=\XeTeXcharclass97
+\LatinExtendedDClass=\XeTeXcharclass98
+\LatinSupplementClass=\XeTeXcharclass99
+\LepchaClass=\XeTeXcharclass100
+\LetterlikeSymbolsClass=\XeTeXcharclass101
+\LimbuClass=\XeTeXcharclass102
+\LinearBIdeogramsClass=\XeTeXcharclass103
+\LinearBSyllabaryClass=\XeTeXcharclass104
+\LycianClass=\XeTeXcharclass105
+\LydianClass=\XeTeXcharclass106
+\MahjongTilesClass=\XeTeXcharclass107
+\MalayalamClass=\XeTeXcharclass108
+\MathematicalAlphanumericSymbolsClass=\XeTeXcharclass109
+\MathematicalOperatorsClass=\XeTeXcharclass110
+\MiscellaneousMathematicalSymbolsAClass=\XeTeXcharclass111
+\MiscellaneousMathematicalSymbolsBClass=\XeTeXcharclass112
+\MiscellaneousSymbolsClass=\XeTeXcharclass113
+\MiscellaneousSymbolsAndArrowsClass=\XeTeXcharclass114
+\MiscellaneousTechnicalClass=\XeTeXcharclass115
+\ModifierToneLettersClass=\XeTeXcharclass116
+\MongolianClass=\XeTeXcharclass117
+\MusicalSymbolsClass=\XeTeXcharclass118
+\MyanmarClass=\XeTeXcharclass119
+\NewTaiLueClass=\XeTeXcharclass120
+\NKoClass=\XeTeXcharclass121
+\NumberFormsClass=\XeTeXcharclass122
+\OghamClass=\XeTeXcharclass123
+\OldChikiClass=\XeTeXcharclass124
+\OldItalicClass=\XeTeXcharclass125
+\OldPersianClass=\XeTeXcharclass126
+\OpticalCharacterRecognitionClass=\XeTeXcharclass127
+\OriyaClass=\XeTeXcharclass128
+\OsmanyaClass=\XeTeXcharclass129
+\PhagsPaClass=\XeTeXcharclass130
+\PhaistosDiscClass=\XeTeXcharclass131
+\PhoenicianClass=\XeTeXcharclass132
+\PhoneticExtensionsClass=\XeTeXcharclass133
+\PhoneticExtensionsSupplementClass=\XeTeXcharclass134
+\PrivateUseAreaClass=\XeTeXcharclass135
+\RejangClass=\XeTeXcharclass136
+\RunicClass=\XeTeXcharclass137
+\SaurashtraClass=\XeTeXcharclass138
+\ShavianClass=\XeTeXcharclass139
+\SinhalaClass=\XeTeXcharclass140
+\SmallFormVariantsClass=\XeTeXcharclass141
+\SpacingModifierLettersClass=\XeTeXcharclass142
+\SpecialsClass=\XeTeXcharclass143
+\SuperscriptsAndSubscriptsClass=\XeTeXcharclass144
+\SupplementalArrowsAClass=\XeTeXcharclass145
+\SupplementalArrowsBClass=\XeTeXcharclass146
+\SupplementalMathematicalOperatorsClass=\XeTeXcharclass147
+\SupplementalPunctuationClass=\XeTeXcharclass148
+\SupplementaryPrivateUseAreaAClass=\XeTeXcharclass149
+\SupplementaryPrivateUseAreaBClass=\XeTeXcharclass150
+\SylotiNagriClass=\XeTeXcharclass151
+\SyriacClass=\XeTeXcharclass152
+\TagalogClass=\XeTeXcharclass153
+\TagbanwaClass=\XeTeXcharclass154
+\TagsClass=\XeTeXcharclass155
+\TaiLeClass=\XeTeXcharclass156
+\TaiXuanJingSymbolsClass=\XeTeXcharclass157
+\TamilClass=\XeTeXcharclass158
+\TeluguClass=\XeTeXcharclass159
+\ThaanaClass=\XeTeXcharclass160
+\ThaiClass=\XeTeXcharclass161
+\TibetanClass=\XeTeXcharclass162
+\TifinaghClass=\XeTeXcharclass163
+\UgariticClass=\XeTeXcharclass164
+\UnifiedCanadianAboriginalSyllabicsClass=\XeTeXcharclass165
+\VaiClass=\XeTeXcharclass166
+\VariationSelectorsClass=\XeTeXcharclass167
+\VariationSelectorsSupplementClass=\XeTeXcharclass168
+\VerticalFormsClass=\XeTeXcharclass169
+\YiRadicalsClass=\XeTeXcharclass170
+\YiSyllablesClass=\XeTeXcharclass171
+\YijingHexagramSymbolsClass=\XeTeXcharclass172
+\MandaicClass=\XeTeXcharclass173
+\BatakClass=\XeTeXcharclass174
+\EthiopicExtendedAClass=\XeTeXcharclass175
+\BrahmiClass=\XeTeXcharclass176
+\BamumSupplementClass=\XeTeXcharclass177
+\KanaSupplementClass=\XeTeXcharclass178
+\PlayingCardsClass=\XeTeXcharclass179
+\MiscellaneousSymbolsAndPictographsClass=\XeTeXcharclass180
+\EmoticonsClass=\XeTeXcharclass181
+\TransportAndMapSymbolsClass=\XeTeXcharclass182
+\AlchemicalSymbolsClass=\XeTeXcharclass183
+\CJKUnifiedIdeographsExtensionDClass=\XeTeXcharclass184
+)
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
 File: gloss-english.ldf polyglossia: module for english
 )
@@ -1232,34 +1416,34 @@ LaTeX Info: Redefining \anw@print on input line 236.
 (./EAGLE2016_Full_Paper_Broux-XeLaTEX.aux)
 \openout1 = `EAGLE2016_Full_Paper_Broux-XeLaTEX.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 57.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 63.
 
 (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
 *** some features of other encodings may conflict, resulting in poor output.
-LaTeX Info: Redefining \microtypecontext on input line 57.
+LaTeX Info: Redefining \microtypecontext on input line 63.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1982,7 +2166,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: xetex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 57.
+Package hyperref Info: Link coloring ON on input line 63.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1992,9 +2176,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count188
 )
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
 
 (./EAGLE2016_Full_Paper_Broux-XeLaTEX.out)
 (./EAGLE2016_Full_Paper_Broux-XeLaTEX.out)
@@ -2007,7 +2191,7 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 57.
+(hyperref)                setting the option has no effect on input line 63.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
@@ -2022,7 +2206,7 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-LaTeX Info: Redefining \textsubscript on input line 57.
+LaTeX Info: Redefining \textsubscript on input line 63.
 \c@definition=\count189
 \c@condition=\count190
 \c@problem=\count191
@@ -2228,7 +2412,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/m/n/6.02931'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 57.
+(Font)              scaled to size 10.00015pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2287,7 +2471,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 7.2746pt on input line 57.
+(Font)              scaled to size 7.2746pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2346,7 +2530,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 6.0294pt on input line 57.
+(Font)              scaled to size 6.0294pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/6.02931'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2405,7 +2589,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/6.02931'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 57.
+(Font)              scaled to size 9.99985pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2464,7 +2648,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 7.27437pt on input line 57.
+(Font)              scaled to size 7.27437pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2523,7 +2707,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 6.0292pt on input line 57.
+(Font)              scaled to size 6.0292pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/6.02931'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2584,7 +2768,7 @@ Package microtype Info: Character `―' is missing
 
 
 LaTeX Font Warning: Font shape `EU1/AsanaMath(0)/bx/n' undefined
-(Font)              using `EU1/AsanaMath(0)/m/n' instead on input line 57.
+(Font)              using `EU1/AsanaMath(0)/m/n' instead on input line 63.
 
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/bx/n/7.27449'.
@@ -2702,10 +2886,10 @@ Package microtype Info: Character `―' is missing
 (microtype)             Ignoring protrusion settings for this character.
 
 LaTeX Font Warning: Font shape `EU1/AsanaMath(1)/bx/n' undefined
-(Font)              using `EU1/AsanaMath(1)/m/n' instead on input line 57.
+(Font)              using `EU1/AsanaMath(1)/m/n' instead on input line 63.
 
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 7.2746pt on input line 57.
+(Font)              scaled to size 7.2746pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2764,7 +2948,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 6.0294pt on input line 57.
+(Font)              scaled to size 6.0294pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/6.02931'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2824,10 +3008,10 @@ Package microtype Info: Character `―' is missing
 (microtype)             Ignoring protrusion settings for this character.
 
 LaTeX Font Warning: Font shape `EU1/AsanaMath(2)/bx/n' undefined
-(Font)              using `EU1/AsanaMath(2)/m/n' instead on input line 57.
+(Font)              using `EU1/AsanaMath(2)/m/n' instead on input line 63.
 
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 7.27437pt on input line 57.
+(Font)              scaled to size 7.27437pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2886,7 +3070,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 6.0292pt on input line 57.
+(Font)              scaled to size 6.0292pt on input line 63.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/6.02931'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3038,7 +3222,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/TeXGyrePagella(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (10.21693pt too wide) in paragraph at lines 59--59
+Overfull \hbox (10.21693pt too wide) in paragraph at lines 65--65
 []\EU1/TeXGyrePagella(0)/m/n/14.4 Towards a Universal Facebook of the Ancient W
 orld 
  []
@@ -3127,7 +3311,7 @@ Package microtype Info: Character `‒' is missing
 Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/TeXGyrePagella(0)/m/n/7.27449'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Calculating math sizes for size <7.27449> on input line 59.
+LaTeX Font Info:    Calculating math sizes for size <7.27449> on input line 65.
 
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/m/n/5.09212'.
@@ -3244,7 +3428,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/m/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 5.0922pt on input line 59.
+(Font)              scaled to size 5.0922pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3303,7 +3487,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 3.63728pt on input line 59.
+(Font)              scaled to size 3.63728pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3362,7 +3546,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 5.09203pt on input line 59.
+(Font)              scaled to size 5.09203pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3421,7 +3605,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 3.63718pt on input line 59.
+(Font)              scaled to size 3.63718pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3594,7 +3778,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/bx/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 5.0922pt on input line 59.
+(Font)              scaled to size 5.0922pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3653,7 +3837,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 3.63728pt on input line 59.
+(Font)              scaled to size 3.63728pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3712,7 +3896,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 5.09203pt on input line 59.
+(Font)              scaled to size 5.09203pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3771,7 +3955,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/5.09212'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 3.63718pt on input line 59.
+(Font)              scaled to size 3.63718pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/3.63724'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3887,7 +4071,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/bx/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 10.00015pt on input line 59.
+(Font)              scaled to size 10.00015pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3946,7 +4130,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 9.99985pt on input line 59.
+(Font)              scaled to size 9.99985pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4332,7 +4516,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 59.
+(Font)              scaled to size 8.00012pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4391,7 +4575,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 59.
+(Font)              scaled to size 6.00009pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4450,7 +4634,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 59.
+(Font)              scaled to size 5.00008pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4509,7 +4693,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 59.
+(Font)              scaled to size 7.99988pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4568,7 +4752,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 59.
+(Font)              scaled to size 5.99991pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4627,7 +4811,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 59.
+(Font)              scaled to size 4.99992pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4857,7 +5041,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(0)/bx/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 8.00012pt on input line 59.
+(Font)              scaled to size 8.00012pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4916,7 +5100,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 6.00009pt on input line 59.
+(Font)              scaled to size 6.00009pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4975,7 +5159,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(1)/bx/n' will be
-(Font)              scaled to size 5.00008pt on input line 59.
+(Font)              scaled to size 5.00008pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -5034,7 +5218,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(1)/bx/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 7.99988pt on input line 59.
+(Font)              scaled to size 7.99988pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -5093,7 +5277,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 5.99991pt on input line 59.
+(Font)              scaled to size 5.99991pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -5152,7 +5336,7 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `EU1/AsanaMath(2)/bx/n' will be
-(Font)              scaled to size 4.99992pt on input line 59.
+(Font)              scaled to size 4.99992pt on input line 65.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/AsanaMath(2)/bx/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -5690,7 +5874,7 @@ Package microtype Info: Character `‒' is missing
 Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/TeXGyrePagella(0)/bx/n/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 87.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -5700,7 +5884,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (12.61395pt too wide) in paragraph at lines 85--94
+Overfull \hbox (12.61395pt too wide) in paragraph at lines 91--100
 \EU1/TeXGyrePagella(0)/m/n/10 dispensable. In a traditional scholarly setting, 
 this implies time-consuming
  []
@@ -5799,7 +5983,7 @@ Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\EU1/TeXGyrePagella(0)/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (6.0917pt too wide) in paragraph at lines 105--116
+Overfull \hbox (6.0917pt too wide) in paragraph at lines 111--122
 \EU1/TeXGyrePagella(0)/m/n/10 dardized identification cluster, consisting of a 
 person’s name, patronymic
  []
@@ -5974,28 +6158,16 @@ Package microtype Info: Character `―' is missing
 (microtype)             in font `\EU1/TeXGyrePagella(0)/bx/n/11'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (4.1028pt too wide) in paragraph at lines 123--137
+Overfull \hbox (4.1028pt too wide) in paragraph at lines 129--143
 \EU1/TeXGyrePagella(0)/m/n/10 players in the field (PHI: [][]$[][][][][][][][][
 ] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][]$[][]; DC3
- []
-
-
-Overfull \hbox (19.1817pt too wide) in paragraph at lines 123--137
-\EU1/TeXGyrePagella(0)/m/n/10 for Punic (CIP: [][]$[][][] [] [][][][] [] [][][]
-[] [] [][]$[][]) and South-Arabian (DASI: [][]$[][][][] [] [][][][][][] []
- []
-
-
-Overfull \hbox (17.99171pt too wide) in paragraph at lines 144--148
-\EU1/TeXGyrePagella(0)/m/n/10 dition of an estimated 500,000 or more new refere
-nces to names/individuals
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-Overfull \hbox (6.03056pt too wide) in paragraph at lines 159--165
+Overfull \hbox (6.03056pt too wide) in paragraph at lines 165--171
 []\EU1/TeXGyrePagella(0)/m/n/10 NER was originally developed by computational l
 inguists in the 1990s
  []
@@ -6092,13 +6264,13 @@ Underfull \vbox (badness 1117) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Overfull \hbox (4.01837pt too wide) in paragraph at lines 218--222
+Overfull \hbox (4.01837pt too wide) in paragraph at lines 224--228
 \EU1/TeXGyrePagella(0)/m/n/10 study of social interaction, but also by developi
 ng new, non-conventional
  []
 
 
-Overfull \hbox (3.25171pt too wide) in paragraph at lines 223--234
+Overfull \hbox (3.25171pt too wide) in paragraph at lines 229--240
 \EU1/TeXGyrePagella(0)/m/n/10 papyri during the ‘Creating Identities’ project, 
 people appearing in more
  []
@@ -6237,37 +6409,41 @@ Underfull \hbox (badness 2884) in paragraph at lines 47--51
  []
 
 [9]
-Underfull \hbox (badness 3375) in paragraph at lines 64--69
+Underfull \hbox (badness 3375) in paragraph at lines 65--70
 \EU1/TeXGyrePagella(0)/m/n/10 coming, URL [][]$[][][][][] [] [] [] [][][][][][]
  [] [][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 71--75
+Underfull \hbox (badness 1158) in paragraph at lines 72--76
 \EU1/TeXGyrePagella(0)/m/n/10 435, URL [][]$[][][][] [] [] [] [][][][][][][][][
 ][][][][][][][] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][] []
  []
 
+
+Underfull \hbox (badness 1430) in paragraph at lines 86--90
+\EU1/TeXGyrePagella(0)/m/sc/10 Walle, R.\EU1/TeXGyrePagella(0)/m/n/10 , \EU1/Te
+XGyrePagella(0)/m/it/10 Exploring entity recognition and disambiguation for cul
+-
+ []
+
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
  (./EAGLE2016_Full_Paper_Broux-XeLaTEX.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 300.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 300.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 306.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 306.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 33410 strings out of 494815
- 631473 string characters out of 6175707
- 769259 words of memory out of 5000000
- 36251 multiletter control sequences out of 15000+600000
+ 34024 strings out of 494815
+ 643287 string characters out of 6175707
+ 784818 words of memory out of 5000000
+ 36861 multiletter control sequences out of 15000+600000
  15349 words of font info for 112 fonts, out of 8000000 for 9000
  684 hyphenation exceptions out of 8191
  59i,9n,74p,10457b,853s stack positions out of 5000i,500n,10000p,200000b,80000s
