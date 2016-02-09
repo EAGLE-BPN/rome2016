@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  25 JAN 2016 11:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 18:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,7 +811,7 @@ Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \ST@dimen=\dimen210
 \ST@pbox=\box51
 )
-No file EAGLE_2016_submission_6.aux.
+(./EAGLE_2016_submission_6.aux)
 \openout1 = `EAGLE_2016_submission_6.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -828,6 +828,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1058,6 +1059,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
+
+(./EAGLE_2016_submission_6.out) (./EAGLE_2016_submission_6.out)
 \@outlinefile=\write3
 \openout3 = `EAGLE_2016_submission_6.out'.
 
@@ -1255,469 +1258,47 @@ Overfull \hbox (1.3798pt too wide) in paragraph at lines 53--53
 []\T1/qpl/m/n/14.4 Assessing the Role of Di-gi-tal Li-bra-ries of Squeezes
  []
 
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 53.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-Overfull \hbox (4.69807pt too wide) in paragraph at lines 58--59
-\T1/qpl/m/n/10 (-20) use and ef-fi-ciency of di-gi-tal li-bra-ries of squeezes 
-of ins-crip-tions^^Vstructure
- []
+) [1
 
-[1
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
-File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
-)
-
-./EAGLE_2016_submission_6.tex:73: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.73 ...�nes  Email: Michele.Brunet@univ-lyon2.fr}
-                                                   Prof. Brunet has been the...
-
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 l'É
-          cole Normale Supérieure de Paris (1979-1984) and l'École franc...
-
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 l'École Normale Supé
-                             rieure de Paris (1979-1984) and l'École franc...
-
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ...upérieure de Paris (1979-1984) and l'É
-                                                  cole française d'Athène...
-
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ...de Paris (1979-1984) and l'École franç
-                                                  aise d'Athènes (1984-1988...
-
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ...ek Art a Bordeaux III and Paris I Panthé
-                                                  on-Sorbonne. She also serv...
-
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ...the Director of Ancient Studies at l’É
-                                                  cole française d'Athèn...
-
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ... of Ancient Studies at l’École franç
-                                                  aise d'Athènes of member.
-? 
-
-./EAGLE_2016_submission_6.tex:75: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ...tudies at l’École française d'Athè
-                                                  nes of member.
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...hènes Email: adeline.levivier@gmail.com}
-                                                   Adeline is a doctoral can...
-
-? 
-./EAGLE_2016_submission_6.tex:76: Misplaced alignment tab character &.
-<argument> Université Lyon 2, UMR HiSoMA &
-                                             Ecole française d’Athènes...
-l.76 ...hènes Email: adeline.levivier@gmail.com}
-                                                   Adeline is a doctoral can...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...hènes Email: adeline.levivier@gmail.com}
-                                                   Adeline is a doctoral can...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...hènes Email: adeline.levivier@gmail.com}
-                                                   Adeline is a doctoral can...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...Adeline is a doctoral candidate in l’É
-                                                  cole française d'Athèn...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ... doctoral candidate in l’École franç
-                                                  aise d'Athènes - Univers...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...didate in l’École française d'Athè
-                                                  nes - Université Lyon 2....
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...ole française d'Athènes - Université
-                                                   Lyon 2. She works on the ...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...thesis is entitled ‘Recherches sur l'é
-                                                  criture grecque à partir...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...‘Recherches sur l'écriture grecque à
-                                                   partir des collections d'...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...borated on the project ANR E-pigramme (É
-                                                  pigraphie et Muséographi...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...ect ANR E-pigramme (Épigraphie et Musé
-                                                  ographie - Édition nume�...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...amme (Épigraphie et Muséographie - É
-                                                  dition numérique et valo...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...aphie et Muséographie - Édition numé
-                                                  rique et valorisation de l...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...ection des inscriptions grecques du Musé
-                                                  e du Louvre). She is curre...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...nager of the project E-  stampages (Numé
-                                                  risation et diffusion web ...
-
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...e  l'UMR 5189 HiSoMA et de l'Ecole franç
-                                                  aise d'Athènes).
-? 
-
-./EAGLE_2016_submission_6.tex:76: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ... HiSoMA et de l'Ecole française d'Athè
-                                                  nes).
-? 
-
-Overfull \hbox (4.02567pt too wide) in paragraph at lines 76--77
-\T1/qpl/m/n/10 (-20) et va-lo-ri-sa-tion de la Col-lec-tion des ins-crip-tions 
-grecques du Muse^^Ae
- []
-
-
-./EAGLE_2016_submission_6.tex:79: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 \item[Manuel Ramírez Sánchez]
-                                       \emph{Universidad de Las Palmas de Gr...
-
-? 
-
-./EAGLE_2016_submission_6.tex:79: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 \item[Manuel Ramírez Sánchez]
-                                       \emph{Universidad de Las Palmas de Gr...
-
-? 
-
-./EAGLE_2016_submission_6.tex:79: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 ...Email: manuel.ramirez@ulpgc.es} Prof. Sá
-                                                  nchez is a Professor of Hi...
-
-? 
-[2]
-
-./EAGLE_2016_submission_6.tex:81: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 \item[Jose-Pablo Suárez-Rivero]
-                                       \emph{Universidad de Las Palmas de Gr...
-
-? 
-
-./EAGLE_2016_submission_6.tex:81: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 ...il: Josepablo.suarez@ulpgc.es} Prof. Suá
-                                                  rez-Rivero is the Director...
-
-? 
-
-./EAGLE_2016_submission_6.tex:81: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 ... Suárez-Rivero is the Director of Polí
-                                                  tica Informática at the ...
-
-? 
-
-./EAGLE_2016_submission_6.tex:81: Package ucs Error: Please activate option 'co
-mbine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 ...ro is the Director of Política Informá
-                                                  tica at the Cartography an...
-
-? 
-
-Overfull \hbox (32.6104pt too wide) in paragraph at lines 83--84
+) [3] [4]
+Overfull \hbox (32.6104pt too wide) in paragraph at lines 107--108
 []\T1/qpl/m/it/10 (-20) University of Flo-rida Email : an-ge-los@digitalworlds.
 ufl.edu
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./EAGLE_2016_submission_6.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
-
-
-Package rerunfilecheck Warning: File `EAGLE_2016_submission_6.out' has changed.
-
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `EAGLE_2016_submission_6.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  10BC7953B892FBCD18F58AEF58BAEE81;130.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package rerunfilecheck Info: File `EAGLE_2016_submission_6.out' has not changed
+.
+(rerunfilecheck)             Checksum: BBC9A7D0CF10A1DF533E37C406530459;90.
  ) 
 Here is how much of TeX's memory you used:
- 22645 strings out of 493089
- 417704 string characters out of 6134841
- 474943 words of memory out of 5000000
- 25771 multiletter control sequences out of 15000+600000
- 73463 words of font info for 120 fonts, out of 8000000 for 9000
+ 22381 strings out of 493089
+ 415543 string characters out of 6134841
+ 475120 words of memory out of 5000000
+ 25470 multiletter control sequences out of 15000+600000
+ 89537 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,5n,40p,10421b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,40p,10421b,875s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on EAGLE_2016_submission_6.pdf (3 pages, 99656 bytes).
+Output written on EAGLE_2016_submission_6.pdf (5 pages, 105492 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 31233 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 37393 words of extra memory for PDF output out of 42996 (max. 10000000)
 
