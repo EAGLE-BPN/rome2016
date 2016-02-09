@@ -1,4 +1,4 @@
-\begin{thebibliography}{12}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -24,20 +24,6 @@
   {Proceedings} of the first {EAGLE} international conference}, 41--50,
   Sapienza Universit{\`a} Editrice, Rome, 2014.
 
-\bibitem[{\textsc{Felle}(2012)}]{felle_esperienze_2012}
-\textsc{Felle, A.}, \emph{Esperienze diverse e complementari nel trattamento
-  digitale delle fonti epigrafiche: il caso di {EAGLE} ed {EpiDoc}}, in
-  \emph{Diritto romano e scienze antichistiche nell'era digitale. {Convegno} di
-  studio ({Firenze}, 12-13 settembre 2011)}, no.~10 in Collectanea
-  {Graeco}-{Romana}. {Studi} e strumenti per la ricerca storico-giuridica,
-  117--130, Giappichelli, Torino, 2012.
-
-\bibitem[{\textsc{Felle}(2014)}]{felle_perspectives_2014}
-\textsc{Felle, A.}, \emph{Perspectives on the {Digital} {Corpus} of the
-  {Christian} {Inscriptions} of {Rome} ({Epigraphic} {Database} {Bari}).
-  {Contexts} and texts}, Zeitschrift f{\"u}r Papyrologie und Epigraphik, 191
-  (2014), 302--307.
-
 \bibitem[{\textsc{Felle}(2007)}]{felle_fenomeni_2007}
 \textsc{Felle, A.E.}, \emph{Fenomeni di compresenza delle lingue e delle
   scritture greca e latina nella epigrafia romana di committenza cristiana}, in
@@ -45,6 +31,20 @@
   {XII} {Congressus} {Internationalis} {Epigraphiae} {Graecae} et {Latinae}.
   {Provinciae} {Imperii} {Romani} inscriptionibus descriptae ({Barcelona}, 3-8
   septembris 2002)}, 475--481, Institut d'estudis catalans, Barcelona, 2007.
+
+\bibitem[{\textsc{Felle}(2012)}]{felle_esperienze_2012}
+\textsc{Felle, A.E.}, \emph{Esperienze diverse e complementari nel trattamento
+  digitale delle fonti epigrafiche: il caso di {EAGLE} ed {EpiDoc}}, in
+  \emph{Diritto romano e scienze antichistiche nell'era digitale. {Convegno} di
+  studio ({Firenze}, 12-13 settembre 2011)}, no.~10 in Collectanea
+  {Graeco}-{Romana}. {Studi} e strumenti per la ricerca storico-giuridica,
+  117--130, Giappichelli, Torino, 2012.
+
+\bibitem[{\textsc{Felle}(2014)}]{felle_perspectives_2014}
+\textsc{Felle, A.E.}, \emph{Perspectives on the {Digital} {Corpus} of the
+  {Christian} {Inscriptions} of {Rome} ({Epigraphic} {Database} {Bari}).
+  {Contexts} and texts}, Zeitschrift f{\"u}r Papyrologie und Epigraphik, 191
+  (2014), 302--307.
 
 \bibitem[{\textsc{Felle and Zimmermann}(2014)}]{orlandi_case_2014}
 \textsc{Felle, A.E., Zimmermann, N.}, \emph{A {Case} of {Interaction} between
@@ -75,5 +75,12 @@
 \textsc{Panciera, S.}, \emph{Cronistoria di un problema e di un progetto}, in
   \emph{Epigrafi, epigrafia, epigrafisti: scritti vari editi e inediti
   (1956-2005) con note complementari e indici}, 1913--1917, Quasar, Roma, 2006.
+
+\bibitem[{\textsc{Rocco}(2015)}]{Rocco2015a}
+\textsc{Rocco, A.}, \emph{Risorse digitali per la ricerca storica: l’esempio
+  di edb, database delle iscrizioni dei cristiani di roma}, in A.~Giudice,
+  R.~G. (edd.), \emph{\emph{Realia Christianorum.} Il contributo delle fonti
+  documentarie allo studio del cristianesimo antico. Atti del Convegno (Napoli,
+  14 novembre 2014)}, 189--208, Ante Quem, Bologna, 2015.
 
 \end{thebibliography}
