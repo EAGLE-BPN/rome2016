@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 23:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 19:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1205,13 +1205,13 @@ Package microtype Info: Character `029' is missing
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-LaTeX Font Info:    Try loading font information for LGR+qpl on input line 105.
+LaTeX Font Info:    Try loading font information for LGR+qpl on input line 103.
 
-LaTeX Font Info:    No file LGRqpl.fd. on input line 105.
+LaTeX Font Info:    No file LGRqpl.fd. on input line 103.
 
 
 LaTeX Font Warning: Font shape `LGR/qpl/m/n' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 105.
+(Font)              using `LGR/cmr/m/n' instead on input line 103.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1224,7 +1224,7 @@ File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 ) [2] [3]
 [4]
-Overfull \hbox (9.07234pt too wide) in paragraph at lines 173--179
+Overfull \hbox (9.07234pt too wide) in paragraph at lines 170--176
 []\T1/qpl/m/n/10 (-20) The cor-pus of epi-grams anal-ysed in-cludes ded-i-ca-to
 ry verse-inscriptions
  []
@@ -1232,33 +1232,35 @@ ry verse-inscriptions
 <schema.png, id=128, 1028.84375pt x 524.96124pt>
 File: schema.png Graphic file (type png)
  <use schema.png>
-Package pdftex.def Info: schema.png used on input line 187.
+Package pdftex.def Info: schema.png used on input line 183.
 (pdftex.def)             Requested size: 310.13503pt x 158.24255pt.
  [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./schema.png>]
 
-./Paper_licciardello.tex:242: Package ucs Error: Please activate option 'combin
+./Paper_licciardello.tex:236: Package ucs Error: Please activate option 'combin
 e'.
 
 See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.242 v.1 \begin{otherlanguage*}{greek}ἀ̣
+l.236 v.1 \begin{otherlanguage*}{greek}ἀ̣
                                             νακείμεθα\end{otherlan...
 
-? 
-LaTeX Font Info:    Try loading font information for OT1+qpl on input line 242.
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+LaTeX Font Info:    Try loading font information for OT1+qpl on input line 236.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ot1qpl.fd
 File: ot1qpl.fd 2009/09/25 v1.2 font definition file for OT1/qpl
 ) [7] [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(./Paper_licciardello.bbl
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
  [9]
-(./Paper_licciardello.bbl
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 46.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -1276,12 +1278,12 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `default'.
 
 [10])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 311.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
  [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 311.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
  (./Paper_licciardello.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 311.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 311.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
 Package rerunfilecheck Info: File `Paper_licciardello.out' has not changed.
 (rerunfilecheck)             Checksum: D3D2E584407FC8468249C10582DE14CA;309.
 
@@ -1290,13 +1292,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23067 strings out of 493089
- 422577 string characters out of 6134841
- 468268 words of memory out of 5000000
+ 23069 strings out of 493089
+ 422593 string characters out of 6134841
+ 468224 words of memory out of 5000000
  26013 multiletter control sequences out of 15000+600000
- 113057 words of font info for 215 fonts, out of 8000000 for 9000
+ 113203 words of font info for 216 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,45p,10416b,855s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,45p,10416b,859s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texlive/2
 015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texlive/2015/te
@@ -1308,7 +1310,7 @@ ype1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
 c/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-
 gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/q
 plri.pfb>
-Output written on Paper_licciardello.pdf (11 pages, 253806 bytes).
+Output written on Paper_licciardello.pdf (11 pages, 253797 bytes).
 PDF statistics:
  231 PDF objects out of 1000 (max. 8388607)
  206 compressed objects within 3 object streams
