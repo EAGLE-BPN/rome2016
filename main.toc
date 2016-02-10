@@ -1,17 +1,16 @@
 \select@language {english}
-\contentsline {chapter}{Preface}{ix}
-\contentsline {chapter}{\rule {0pt}{25pt}Conference committee}{xi}
+\contentsline {chapter}{\rule {0pt}{25pt}Conference committee}{ix}
 \contentsline {part}{Keynote speakers}{1}
 \contentsline {chapter}{Where Eagles Dare.\\ \textit {Charlotte Rouech\'e}}{3}
 \contentsline {chapter}{Putting ancient inscriptions in the limelight.\\ \textit {Mary Beard}}{5}
 \contentsline {chapter}{Keynote Speech.\\ \textit {Werner Eck}}{7}
 \contentsline {chapter}{Infrastructures for Digital Research: New opportunities and challenges.\\ \textit {Lorna Hughes}}{9}
 \contentsline {part}{Digital Editions of Inscriptions: methods, problems, approaches}{11}
-\contentsline {chapter}{AXON. A Selection of Greek Historical Inscriptions. A Database for Research and Teaching.\\ \textit {Stefania De Vido, Ivan Matijasic, Silvia Palazzo}}{13}
+\contentsline {chapter}{AXON. A Selection of Greek Historical Inscriptions. A Database for Research and Teaching.\\ \textit {Stefania De Vido, Ivan Matija\v {s}i\'c, Silvia Palazzo}}{13}
 \contentsline {chapter}{The digital edition of the archaic Latin inscriptions (7th-5th century B.C.).\\ \textit {Giulia Sarullo, Giovanna Rocca, Marta Muscariello}}{23}
 \contentsline {chapter}{I.Sicily: an epidoc corpus for ancient Sicily.\\ \textit {Jonathan Prag, James Chartrand, James Cummings}}{39}
 \contentsline {chapter}{Towards the Publication of ICI Siracusa: General Data and Previews.\\ \textit {Mariarita Sgarlata}}{53}
-\contentsline {chapter}{EDB 2.0. How Eagle Europeana project improved the Epigraphic Database Bari.\\ \textit {Anita Rocco}}{73}
+\contentsline {chapter}{EDB 2.0. How EAGLE improved the Epigraphic Database Bari.\\ \textit {Anita Rocco}}{73}
 \contentsline {chapter}{Visual features of Inscriptions. An issue for EDB (and EAGLE).\\ \textit {Antonio Felle}}{91}
 \contentsline {chapter}{Working with Text and Images: The Graffiti of Herculaneum.\\ \textit {Rebecca Benefiel, Holly Sypniewski, Sara Sprenkle}}{107}
 \contentsline {part}{Collaborating in Digital Epigraphy}{121}
@@ -27,16 +26,16 @@
 \contentsline {chapter}{Free Reproduction of Cultural Heritage for Research Purposes: Regulatory Aspects and New Prospects for Project EAGLE.\\ \textit {Mirco Modolo}}{227}
 \contentsline {chapter}{Digital enhancement of the ``Paolo Orsi'' museum: a Google Street View 360 pilot project tour.\\ \textit {Elisa Bonacini}}{237}
 \contentsline {chapter}{Latin Epigraphy for the Visually Impaired. New Technologies to Favour Universal Accessibility.\\ \textit {Francesca Licordari}}{251}
-\contentsline {chapter}{Teaching (Digital) Epigraphy.\\ \textit {Marion Lam\'e, Federico Ponchio, Ivan Radman-Livaja, Bruce Robertson}}{261}
-\contentsline {chapter}{Epigraphy in Italian High Schools.\\ \textit {Enrico Zuddas}}{277}
-\contentsline {part}{Digital Approaches to cross-disciplinary studies of inscriptions}{291}
-\contentsline {chapter}{Romans 1 by 1. Documenting a population database for the Roman world.\\ \textit {Rada Varga}}{293}
-\contentsline {chapter}{Towards a Universal Facebook of the Ancient World.\\ \textit {Yanne Broux}}{303}
-\contentsline {chapter}{Epigraphy and Onomastics in the Hesperia Database.\\ \textit {Noem\'i Moncunill, Javier Velaza}}{313}
-\contentsline {chapter}{Face Value: The Power of Images at Aphrodisias. How Digital Resources Can Transform our use of Palaeography in understanding Inscriptions.\\ \textit {Abigail Graham}}{327}
-\contentsline {chapter}{Deixis and Frames of Reference in Dedicatory Epigrams.\\ \textit {Flavia Licciardello}}{351}
-\contentsline {part}{Panels}{363}
-\contentsline {chapter}{Assessing the Role of Digital Libraries of Squeezes in Epigraphic Studies.\\ \textit {Eleni Bozia}}{365}
-\contentsline {chapter}{Epigraphic Echoes in Epigrams.\\ \textit {Marion Lam\@inpenc@undefined@ {utf8}}}{369}
-\contentsline {part}{Posters}{373}
-\contentsline {chapter}{\numberline {1}List of Posters presented}{375}
+\contentsline {chapter}{Teaching (Digital) Epigraphy.\\ \textit {Marion Lam\'e, Federico Ponchio, Ivan Radman-Livaja, Bruce Robertson}}{269}
+\contentsline {chapter}{Epigraphy in Italian High Schools.\\ \textit {Enrico Zuddas}}{285}
+\contentsline {part}{Digital Approaches to cross-disciplinary studies of inscriptions}{299}
+\contentsline {chapter}{Romans 1 by 1. Documenting a population database for the Roman world.\\ \textit {Rada Varga}}{301}
+\contentsline {chapter}{Towards a Universal Facebook of the Ancient World.\\ \textit {Yanne Broux}}{311}
+\contentsline {chapter}{Epigraphy and Onomastics in the Hesperia Database.\\ \textit {Noem\'i Moncunill, Javier Velaza}}{321}
+\contentsline {chapter}{The Power of Images at Aphrodisias: How Digital Resources Can Transform our assessment of Palaeography.\\ \textit {Abigail Graham}}{335}
+\contentsline {chapter}{Deixis and Frames of Reference in Dedicatory Epigrams.\\ \textit {Flavia Licciardello}}{361}
+\contentsline {part}{Panels}{373}
+\contentsline {chapter}{Assessing the Role of Digital Libraries of Squeezes in Epigraphic Studies.\\ \textit {Eleni Bozia}}{375}
+\contentsline {chapter}{Epigraphic Echoes in Epigrams.\\ \textit {Marion Lam\'e}}{381}
+\contentsline {part}{Posters}{385}
+\contentsline {chapter}{\numberline {1}List of Posters presented}{387}

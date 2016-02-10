@@ -42,7 +42,7 @@
 \title{EDB 2.0 
 How EAGLE improved the Epigraphic Database Bari}
 \author[uniba]{Anita Rocco \corref{first}}
-\address[uniba]{Università degli Studi di Bari ``Aldo Moro''}
+\address[uniba]{Dip. di Studi Umanistici, Università degli Studi di Bari ``Aldo Moro''}
 \cortext[first]{Corresponding author. Email: anita.rocco@uniba.it}
 \begin{document}
 \maketitle
@@ -92,7 +92,7 @@ complexity of epigraphs even in the frame of a very simple and basic IT structur
 \centering
  \includegraphics[width=\columnwidth]{Fig1NEW.png} 
 \caption{The record of a bilingual inscription (ICVR V, 15147) as it appeared in data processing program ICVR in MS-DOS
-in 1988.}
+in 1988 and as it appears now in EDB, with the acronyms expanded, the image and the text displayed in Greek characters.}
 \label{fig:1}
 \end{figure}
 
@@ -130,7 +130,7 @@ beginning of the fourth century.}.
 In the early 2000s, the ICVR database, containing more than 20,000 records, became part of the EAGLE federation of
 databases (Electronic Archive of Greek and Latin Epigraphy), under the patronage of the Association Internationale
 d’Épigraphie Grecque et Latine (AIEGL), as EDB (Epigraphic Database Bari) and extended its competencies to the
-epigraphic documentation of Christian patronage of the city of Rome, published after the volumes of ICVR. 
+epigraphic documentation of Christian patronage of the city of Rome, published after the volumes of ICVR (Fig.~\ref{fig:3}). 
 
 \begin{figure}[hbp]
 \centering
@@ -153,7 +153,7 @@ the database to the present one.
 The current structure of EDB consists of a relational database, based on the open-source program My-SQL, with a complex
 scheme drafted according to the most recent advances in epigraphic methodology: reestablishing historical and material
 value of the object, identifying each epigraph as a complex and polysemic product consisting partially but not only of
-text.
+text (Fig.~\ref{fig:4}).
 
 
 
@@ -173,12 +173,13 @@ text.
 As in the past version, the first pieces of information recorded for each epigraphic document are bibliographic data.
 
 Besides data related to the ICVR publication - volume and edition number of the inscription - now EDB is able to record
-other bibliographic references as well as concordances with other Corpora (CIL, IG, IGUR, IGC). 
+other bibliographic references as well as concordances with other Corpora (CIL, IG, IGUR, IGC) (Fig.~\ref{fig:3b}). 
 
+\newpage
 \begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{Fig4.png}
-\caption{Bibliographic data fields}
+\caption{Bibliographic data fields.}
 \label{fig:3b}
 \end{figure}
 
@@ -211,7 +212,7 @@ Consequently in EDB, geographic indications require a more detailed articulation
 maximum level of definition is just the city of provenance, often lacking detailed information about the inscription’s
 discovery.
 
-Data on the \emph{original context} are therefore organized hierarchically in three related fields containing controlled lists.
+Data on the \emph{original context} are therefore organized hierarchically in three related fields containing controlled lists (Fig.~\ref{fig:5}). 
 After selecting the area of the suburb identified by the name of the consular road - or by the number of the Augustan
 \emph{regio} for urban inscriptions - it's possible to select the monument from a list: a catacomb or part of it, if it is a
 large and multi-layered one; a church; a public building or an urban area. The third field allows access to a further
@@ -237,14 +238,6 @@ adplicitae}, in accordance with the definitions of the ICVR.
 To complete information on spatial data, all cemeterial contexts have been georeferenced, so that clicking on their name
 opens a new window in \emph{Google Map} that shows the modern entrance to the cemetery, with the address and its coordinates. 
 
- \begin{figure}[hbp]
-\centering
- \includegraphics[width=\columnwidth]{EAGLE2016Roccoengrev-img006.png} 
-\caption{The original context maps.}
-\label{fig:6}
-\end{figure}
-
-
 As a case of study, for the inscriptions \emph{in situ} pertaining to the Domitilla catacomb (Via Ardeatina) - the only
 cemeterial complex with a georeferenced plan of almost its entire extension\footnote{\emph{START-Projekt: Die
 Domitilla-Katakombe in Rome (Institut für Kulturgeschichte der Antike - Österreichische Akademie der Wissenschaften)}.
@@ -256,11 +249,19 @@ In every plan, the inscriptions preserved \emph{in situ} are placed and marked b
 plans are available on START-Projektwebsite: \url{www.oeaw.ac.at/antike/index.php\&id=431}, clicking on EDB number opens a
 window with the EDB record. }.
 
+ \begin{figure}[!hbp]
+\centering
+ \includegraphics[width=\columnwidth]{EAGLE2016Roccoengrev-img006.png} 
+\caption{The original context maps.}
+\label{fig:6}
+\end{figure}
+
+
 Even the geographic data relating to the place of conservation of the inscriptions are managed with a similar structure.
 Since not a few inscriptions, produced in Rome have been taken away and carried to other places in Italy or abroad, the
 information have been organized in three related fields reporting respectively the list of the cities, the list of
 associated structures, such as museums, churches or catacombs; and the specific positions in the context where the
-object is actually preserved.
+object is actually preserved (Fig.~\ref{fig:7}).
 
 
 
@@ -280,12 +281,13 @@ data, linking every City/Town to GeoNames site\footnote{ \url{www.geonames.org}}
 location and to avoid ambiguity between homonyms. A link to the Trismegistos Collection\footnote{
 \url{www.trismegistos.org}}, a database of papyrological and epigraphic collections, if available, also helps to identify
 uniquely the place of conservation, as well as to obtain additional information, included the geographic
-positioning.\footnote{\url{http://www.eagle-network.eu/wp-content/uploads/2013/06/EAGLE\_D2.2.2\_Content-harmonisation-guidelines-including-GIS-and-terminologies-Second-Release.pdf}}
+positioning (Fig.~\ref{fig:8new}).\footnote{\url{http://www.eagle-network.eu/wp-content/uploads/2013/06/EAGLE\_D2.2.2\_Content-harmonisation-guidelines-including-GIS-and-terminologies-Second-Release.pdf}}
 
+\newpage
 \begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{Fig8.png}
-\caption{Conservation maps and links}
+\caption{Conservation maps and links.}
 \label{fig:8new}
 \end{figure}
 
@@ -303,7 +305,7 @@ has generated lists of controlled terms for some of the fields (Fig.~\ref{fig:8}
 \emph{Function} vocabularies are aimed at classifying the specific and peculiar materials, methods and functions of the
 inscriptions encoded in EDB, as the traditional epigraphic taxonomies do not totally adhere to their features.
 
-\begin{figure}[hbp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016Roccoengrev-img008.png}
 \caption{Controlled vocabularies for Type of support, Executing technique and Function fields.}
@@ -315,9 +317,9 @@ inscriptions encoded in EDB, as the traditional epigraphic taxonomies do not tot
 The controlled lists have been integrated in the vocabularies of the EAGLE community\footnote{
 \url{http://www.eagle-network.eu/resources/vocabularies/}.}, wich align, harmonize, create relations and translate into
 various languages the terms used by the various partners, and returns them in a format that allows the user to get a
-stable and unique identifier for each term, accessible and reusable by other users.
+stable and unique identifier for each term, accessible and reusable by other users (Fig.~\ref{fig:9}).
 
-\begin{figure}[hbp]
+\begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{EAGLE2016Roccoengrev-img009.png}
 \caption{The integration with EAGLE Vocabularies, that can be opened clicking on the highlighted terms.}
@@ -325,7 +327,7 @@ stable and unique identifier for each term, accessible and reusable by other use
 \end{figure}
 
 
-
+\newpage
 
 \subsection{The text}
 
@@ -333,19 +335,6 @@ stable and unique identifier for each term, accessible and reusable by other use
 The nature of the inscription as a sequence of characters carried by a physical object is represented by a series of
 fields related to various features of texts: language and alphabet (Latin, Greek and the multiform combination of
 coexistence between them), and metrical structure.
-
-
-
-
-\begin{figure}[hbp]
-\centering
- \includegraphics[width=\columnwidth]{EAGLE2016Roccoengrev-img010.png}
-\caption{Text fields in the submission mask.}
-\label{fig:10}
-\end{figure}
-
-
-
 
 The proper text of the inscription is stored in an apposite field, following the Krummrey - Panciera
 conventions\footnote{\citet{krummrey_criteri_1980}; \citet{Panciera1991}.}, with some adjustments to make it possible to describe
@@ -367,10 +356,19 @@ In EDB, as in every epigraphic database, the transcription of the text provides 
 expansion of abbreviations, hypothesis of integration, and, if possible, an update version of the text, according to
 recent publications. It includes, moreover, the description of non-alphabetic signs - in double round brackets - such
 as figurative elements (fishes, birds, anchors, etc.) and Christological monograms. Other fields record onomastic
-notes, \emph{critical apparatus} and textual comments. 
+notes, \emph{critical apparatus} and textual comments (Fig.~\ref{fig:10}). 
 
 A series of fields responding to the questions “When?” allows to insert a specific date, if recorded in the text, a
 specific time span (such as the duration of the reign of a Bishop of Rome or of an emperor), or a generic interval.
+
+\newpage
+
+\begin{figure}[!hbp]
+\centering
+ \includegraphics[width=\columnwidth]{EAGLE2016Roccoengrev-img010.png}
+\caption{Text fields in the submission mask.}
+\label{fig:10}
+\end{figure}
 
 
 
@@ -381,7 +379,7 @@ specific time span (such as the duration of the reign of a Bishop of Rome or of 
 Another meaningful improvement of EDB 2.0 is represented by the inclusion of visual representation of inscriptions. It’s
 evident how images dramatically enhance analysis of epigraphic materials, showing them in their manifold aspects:
 reference with the context, form and quality of the support, graphic forms, peculiarities of technique, layout and
-relationship between the text and any figurative or decorative elements\footnote{\citet{panciera_cronistoria_2006}.}.
+relationship between the text and any figurative or decorative elements\footnote{\citet{panciera_questioni_2006}.}.
 
 In the frame of the collaborations with Europeana, the largest online collection of digitized items, EDB has been
 encouraged to enlarge the image repository, based on a cooperation agreement established between the EAGLE consortium
@@ -405,7 +403,9 @@ The system manages three kinds of users: editors, compilers and generic, anonymo
 The latter of these can navigate in the descriptive section of the website (About EDB, People) and in the list of cited
 Publications. They also have access to the entire database using two research masks: a \emph{Quick search} allows the user to
 search in only one of the following fields: identifier EDB, bibliographic data and text; an \emph{Advanced Search} provides
-the opportunity to explore the database through multiple search criteria variously combined.
+the opportunity to explore the database through multiple search criteria variously combined (Fig.~\ref{fig:11}).
+
+
 
 \begin{figure}[!hbp]
 \centering
@@ -414,8 +414,6 @@ the opportunity to explore the database through multiple search criteria various
 \label{fig:11}
 \end{figure}
  
-
-
 
 
 Like today's web search engines, EDB provides an advanced text search in Latin and Greek - an integrated tool
@@ -455,7 +453,7 @@ different archives and purpose-built best practices.
 Among the improvements, it’s worth mentioning
 
 \begin{enumerate}
-\item The inclusion of EDB bibliography, structured in metadata, in the Zotero Group, where it have been merged with those
+\item The inclusion of EDB bibliography, structured in metadata, in the Zotero Group, where it has been merged with those
 of other content providers and has been made directly and publicly available in the most reusable way, giving more
 exposition of the bibliographic database; allowing the integration and enrichment with other databases; allowing easy
 export of data in multiple formats (bibtex, bookmarks, mods, rdf, xml, etc).

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 10:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1227,7 +1227,7 @@ File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-31.def
 File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
-) [2 <./Fig1NEW.png>] <EAGLE2016Roccoengrev-img003.png, id=67, 1023.825pt x 411
+) [2 <./Fig1NEW.png>] <EAGLE2016Roccoengrev-img003.png, id=68, 1023.825pt x 411
 .5375pt>
 File: EAGLE2016Roccoengrev-img003.png Graphic file (type png)
 
@@ -1236,20 +1236,20 @@ Package pdftex.def Info: EAGLE2016Roccoengrev-img003.png used on input line 137
 .
 (pdftex.def)             Requested size: 310.13503pt x 124.66159pt.
  [3 <./EAGLE2016Roccoengrev-img003.png (PNG copy)>] <EAGLE2016Roccoengrev-img00
-4.png, id=76, 1082.0425pt x 909.3975pt>
+4.png, id=78, 1082.0425pt x 909.3975pt>
 File: EAGLE2016Roccoengrev-img004.png Graphic file (type png)
 
 <use EAGLE2016Roccoengrev-img004.png>
 Package pdftex.def Info: EAGLE2016Roccoengrev-img004.png used on input line 162
 .
 (pdftex.def)             Requested size: 310.13503pt x 260.65187pt.
-
-<Fig4.png, id=78, 381.1038pt x 175.1343pt>
+ [4 <./EAGLE2016Roccoengrev-img004.png>]
+<Fig4.png, id=88, 381.1038pt x 175.1343pt>
 File: Fig4.png Graphic file (type png)
  <use Fig4.png>
-Package pdftex.def Info: Fig4.png used on input line 180.
+Package pdftex.def Info: Fig4.png used on input line 181.
 (pdftex.def)             Requested size: 310.13503pt x 142.5234pt.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 187.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 188.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -1266,104 +1266,102 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-[4 <./EAGLE2016Roccoengrev-img004.png>] [5 <./Fig4.png>]
-<EAGLE2016Roccoengrev-img005.jpg, id=92, 1157.32375pt x 582.175pt>
+[5 <./Fig4.png>]
+<EAGLE2016Roccoengrev-img005.jpg, id=96, 1157.32375pt x 582.175pt>
 File: EAGLE2016Roccoengrev-img005.jpg Graphic file (type jpg)
 
 <use EAGLE2016Roccoengrev-img005.jpg>
-Package pdftex.def Info: EAGLE2016Roccoengrev-img005.jpg used on input line 224
+Package pdftex.def Info: EAGLE2016Roccoengrev-img005.jpg used on input line 225
 .
 (pdftex.def)             Requested size: 310.13503pt x 156.00787pt.
-
-<EAGLE2016Roccoengrev-img006.png, id=93, 306.9066pt x 261.6174pt>
+ [6 <./EAGLE2016Roccoengrev-img005.jpg>]
+<EAGLE2016Roccoengrev-img006.png, id=107, 306.9066pt x 261.6174pt>
 File: EAGLE2016Roccoengrev-img006.png Graphic file (type png)
 
 <use EAGLE2016Roccoengrev-img006.png>
-Package pdftex.def Info: EAGLE2016Roccoengrev-img006.png used on input line 242
+Package pdftex.def Info: EAGLE2016Roccoengrev-img006.png used on input line 254
 .
 (pdftex.def)             Requested size: 310.13503pt x 264.39514pt.
- [6 <./EAGLE2016Roccoengrev-img005.jpg>]
-[7 <./EAGLE2016Roccoengrev-img006.png>]
-<Fig7.png, id=111, 1099.10625pt x 558.085pt>
+ [7 <./EAGLE2016Roccoengrev-img006.png>]
+<Fig7.png, id=118, 1099.10625pt x 558.085pt>
 File: Fig7.png Graphic file (type png)
  <use Fig7.png>
-Package pdftex.def Info: Fig7.png used on input line 270.
+Package pdftex.def Info: Fig7.png used on input line 271.
 (pdftex.def)             Requested size: 310.13503pt x 157.47195pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--283
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 [][][]$\T1/lmtt/m/n/8 http : / / www . eagle-[]network . eu / wp-[]content / up
 loads / 2013 / 06 / EAGLE _ D2 . 2 . 2 _
  []
 
 
-Overfull \hbox (45.11633pt too wide) in paragraph at lines 283--283
+Overfull \hbox (45.11633pt too wide) in paragraph at lines 284--284
 \T1/lmtt/m/n/8 Content-[]harmonisation-[]guidelines-[]including-[]GIS-[]and-[]t
 erminologies-[]Second-[]Release .
  []
 
-[8 <./Fig7.png>] <Fig8.png, id=122, 962.6364pt x 756.6669pt>
+[8 <./Fig7.png>] <Fig8.png, id=131, 962.6364pt x 756.6669pt>
 File: Fig8.png Graphic file (type png)
  <use Fig8.png>
-Package pdftex.def Info: Fig8.png used on input line 287.
+Package pdftex.def Info: Fig8.png used on input line 289.
 (pdftex.def)             Requested size: 310.13503pt x 243.77785pt.
 
-[9 <./Fig8.png>]
-<EAGLE2016Roccoengrev-img008.png, id=131, 711.65875pt x 366.36874pt>
+<EAGLE2016Roccoengrev-img008.png, id=133, 711.65875pt x 366.36874pt>
 File: EAGLE2016Roccoengrev-img008.png Graphic file (type png)
 
 <use EAGLE2016Roccoengrev-img008.png>
-Package pdftex.def Info: EAGLE2016Roccoengrev-img008.png used on input line 308
+Package pdftex.def Info: EAGLE2016Roccoengrev-img008.png used on input line 310
 .
 (pdftex.def)             Requested size: 310.13503pt x 159.6598pt.
-
-<EAGLE2016Roccoengrev-img009.png, id=133, 395.3169pt x 219.9417pt>
+ [9 <./Fig8.png>]
+<EAGLE2016Roccoengrev-img009.png, id=141, 395.3169pt x 219.9417pt>
 File: EAGLE2016Roccoengrev-img009.png Graphic file (type png)
 
 <use EAGLE2016Roccoengrev-img009.png>
-Package pdftex.def Info: EAGLE2016Roccoengrev-img009.png used on input line 322
+Package pdftex.def Info: EAGLE2016Roccoengrev-img009.png used on input line 324
 .
 (pdftex.def)             Requested size: 310.13503pt x 172.55057pt.
-
-<EAGLE2016Roccoengrev-img010.png, id=134, 940.51375pt x 565.11125pt>
+ [10 <./EAGLE2016Roccoengrev-img008.png> <./EAGLE2016Roccoengrev-img009.png>] [
+11]
+<EAGLE2016Roccoengrev-img010.png, id=167, 940.51375pt x 565.11125pt>
 File: EAGLE2016Roccoengrev-img010.png Graphic file (type png)
 
 <use EAGLE2016Roccoengrev-img010.png>
-Package pdftex.def Info: EAGLE2016Roccoengrev-img010.png used on input line 342
+Package pdftex.def Info: EAGLE2016Roccoengrev-img010.png used on input line 368
 .
 (pdftex.def)             Requested size: 310.13503pt x 186.3407pt.
- [10 <./EAGLE2016Roccoengrev-img008.png>]
-[11 <./EAGLE2016Roccoengrev-img009.png> <./EAGLE2016Roccoengrev-img010.png>]
-[12] <EAGLE2016Roccoengrev-img011.png, id=168, 1192.455pt x 822.07124pt>
+ [12 <./EAGLE2016Roccoengrev-img010.png>]
+<EAGLE2016Roccoengrev-img011.png, id=178, 1192.455pt x 822.07124pt>
 File: EAGLE2016Roccoengrev-img011.png Graphic file (type png)
 
 <use EAGLE2016Roccoengrev-img011.png>
 Package pdftex.def Info: EAGLE2016Roccoengrev-img011.png used on input line 412
 .
 (pdftex.def)             Requested size: 310.13503pt x 213.79619pt.
- [13] [14 <./EAGLE2016Roccoengrev-img011.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 465--465
+ [13 <./EAGLE2016Roccoengrev-img011.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 463--463
 [][][]$\T1/lmtt/m/n/8 http : / / www . eagle-[]network . eu / wp-[]content / up
 loads / 2013 / 06 / EAGLE _ D2 . 2 . 2 _
  []
 
 
-Overfull \hbox (45.11633pt too wide) in paragraph at lines 465--465
+Overfull \hbox (45.11633pt too wide) in paragraph at lines 463--463
 \T1/lmtt/m/n/8 Content-[]harmonisation-[]guidelines-[]including-[]GIS-[]and-[]t
 erminologies-[]Second-[]Release .
  []
 
-[15] (./EAGLE2016_Rocco_engrev.bbl
+[14] [15] (./EAGLE2016_Rocco_engrev.bbl
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
- [16] [17])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 515.
- [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 515.
+ [16])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
 
 (./EAGLE2016_Rocco_engrev.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 515.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 515.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
 Package rerunfilecheck Info: File `EAGLE2016_Rocco_engrev.out' has not changed.
 
 (rerunfilecheck)             Checksum: 15F5BDDFCBF0B68E20D27EEFB3E049A9;548.
@@ -1373,11 +1371,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23070 strings out of 493089
- 422625 string characters out of 6134841
- 465853 words of memory out of 5000000
+ 23071 strings out of 493089
+ 422634 string characters out of 6134841
+ 465198 words of memory out of 5000000
  26013 multiletter control sequences out of 15000+600000
- 114227 words of font info for 206 fonts, out of 8000000 for 9000
+ 114347 words of font info for 207 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,45p,10420b,924s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1389,10 +1387,10 @@ dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
 public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on EAGLE2016_Rocco_engrev.pdf (18 pages, 17422382 bytes).
+Output written on EAGLE2016_Rocco_engrev.pdf (17 pages, 17423427 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
+ 255 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  44165 words of extra memory for PDF output out of 51595 (max. 10000000)
 
