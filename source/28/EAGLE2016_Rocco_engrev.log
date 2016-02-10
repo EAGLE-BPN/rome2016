@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 10:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 12:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1373,7 +1373,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  23071 strings out of 493089
  422634 string characters out of 6134841
- 465198 words of memory out of 5000000
+ 465201 words of memory out of 5000000
  26013 multiletter control sequences out of 15000+600000
  114347 words of font info for 207 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1387,7 +1387,7 @@ dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
 public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on EAGLE2016_Rocco_engrev.pdf (17 pages, 17423427 bytes).
+Output written on EAGLE2016_Rocco_engrev.pdf (17 pages, 17423438 bytes).
 PDF statistics:
  255 PDF objects out of 1000 (max. 8388607)
  211 compressed objects within 3 object streams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  20 JAN 2016 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 20:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -759,38 +759,38 @@ LaTeX Info: Redefining \cite on input line 694.
 (./Damnjanovic_et_al_EAGLE2016.aux)
 \openout1 = `Damnjanovic_et_al_EAGLE2016.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 49.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 50.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 50.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 49.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 49.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 50.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 49.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 )
-LaTeX Info: Redefining \microtypecontext on input line 50.
+LaTeX Info: Redefining \microtypecontext on input line 49.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -990,7 +990,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 50.
+Package hyperref Info: Link coloring ON on input line 49.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1000,9 +1000,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count182
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
 
 (./Damnjanovic_et_al_EAGLE2016.out) (./Damnjanovic_et_al_EAGLE2016.out)
 \@outlinefile=\write3
@@ -1011,7 +1011,7 @@ LaTeX Info: Redefining \nameref on input line 50.
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 50.
+(hyperref)                setting the option has no effect on input line 49.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
@@ -1022,7 +1022,7 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-LaTeX Info: Redefining \textsubscript on input line 50.
+LaTeX Info: Redefining \textsubscript on input line 49.
 \c@definition=\count183
 \c@condition=\count184
 \c@problem=\count185
@@ -1044,7 +1044,7 @@ LaTeX Info: Redefining \textsubscript on input line 50.
 
 
 Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
-(utf8x.def)                Restoringtoitsutf8x-meaning on input line 50.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 49.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -1134,30 +1134,30 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
 \c__siunitx_mathsf_int=\count201
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 49.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 49.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 49.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 49.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 49.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1167,7 +1167,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 49.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmss.fd
@@ -1178,7 +1178,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 \c__siunitx_mathtt_int=\count202
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 49.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
@@ -1189,11 +1189,11 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (9.88054pt too wide) in paragraph at lines 53--53
+Overfull \hbox (9.88054pt too wide) in paragraph at lines 52--52
 \T1/qpl/m/n/14.4 for In-ter-ac-tion with Dig-i-tal Con-tent. The case study
  []
 
-LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 53.
+LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 52.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1201,7 +1201,7 @@ Package microtype Info: Character `029' is missing
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 121.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 120.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1228,7 +1228,7 @@ File: DamnjanovicetalEAGLE2016-img001.png Graphic file (type png)
 
 <use DamnjanovicetalEAGLE2016-img001.png>
 Package pdftex.def Info: DamnjanovicetalEAGLE2016-img001.png used on input line
- 144.
+ 143.
 (pdftex.def)             Requested size: 310.13503pt x 193.83817pt.
  [4 <./DamnjanovicetalEAGLE2016-img001.png>] <DamnjanovicetalEAGLE2016-img002.p
 ng, id=98, 310.104pt x 193.815pt>
@@ -1236,7 +1236,7 @@ File: DamnjanovicetalEAGLE2016-img002.png Graphic file (type png)
 
 <use DamnjanovicetalEAGLE2016-img002.png>
 Package pdftex.def Info: DamnjanovicetalEAGLE2016-img002.png used on input line
- 163.
+ 162.
 (pdftex.def)             Requested size: 310.13503pt x 193.83817pt.
  [5 <./DamnjanovicetalEAGLE2016-img002.png>] <DamnjanovicetalEAGLE2016-img003.p
 ng, id=108, 310.104pt x 193.815pt>
@@ -1244,7 +1244,7 @@ File: DamnjanovicetalEAGLE2016-img003.png Graphic file (type png)
 
 <use DamnjanovicetalEAGLE2016-img003.png>
 Package pdftex.def Info: DamnjanovicetalEAGLE2016-img003.png used on input line
- 203.
+ 202.
 (pdftex.def)             Requested size: 310.13503pt x 193.83817pt.
 
 Underfull \vbox (badness 3758) has occurred while \output is active []
@@ -1255,10 +1255,10 @@ File: DamnjanovicetalEAGLE2016-img004.jpg Graphic file (type jpg)
 
 <use DamnjanovicetalEAGLE2016-img004.jpg>
 Package pdftex.def Info: DamnjanovicetalEAGLE2016-img004.jpg used on input line
- 231.
+ 230.
 (pdftex.def)             Requested size: 310.13503pt x 116.36382pt.
  [7 <./DamnjanovicetalEAGLE2016-img004.jpg>]
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 264.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 263.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
@@ -1268,7 +1268,7 @@ File: DamnjanovicetalEAGLE2016-img005.pdf Graphic file (type pdf)
 
 <use DamnjanovicetalEAGLE2016-img005.pdf>
 Package pdftex.def Info: DamnjanovicetalEAGLE2016-img005.pdf used on input line
- 273.
+ 272.
 (pdftex.def)             Requested size: 310.13503pt x 338.0985pt.
  [8] [9 <./DamnjanovicetalEAGLE2016-img005.pdf>] [10] [11] (./Damnjanovic_et_al
 _EAGLE2016.bbl
@@ -1383,13 +1383,13 @@ File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 ))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 357.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 357.
 
 (./Damnjanovic_et_al_EAGLE2016.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 357.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 357.
 Package rerunfilecheck Info: File `Damnjanovic_et_al_EAGLE2016.out' has not cha
 nged.
 (rerunfilecheck)             Checksum: 3DC53105466DB9ACE6B51A0AAF699D8A;485.
@@ -1401,7 +1401,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  22532 strings out of 493089
  417271 string characters out of 6134841
- 466002 words of memory out of 5000000
+ 466001 words of memory out of 5000000
  25517 multiletter control sequences out of 15000+600000
  106955 words of font info for 195 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1416,7 +1416,7 @@ ts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
 re/qplri.pfb>
-Output written on Damnjanovic_et_al_EAGLE2016.pdf (14 pages, 904523 bytes).
+Output written on Damnjanovic_et_al_EAGLE2016.pdf (14 pages, 904497 bytes).
 PDF statistics:
  249 PDF objects out of 1000 (max. 8388607)
  215 compressed objects within 3 object streams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1253,86 +1253,76 @@ Package microtype Info: Character `029' is missing
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-<1.png, id=37, 767.86874pt x 612.2875pt>
-File: 1.png Graphic file (type png)
- <use 1.png>
-Package pdftex.def Info: 1.png used on input line 104.
-(pdftex.def)             Requested size: 383.93343pt x 306.143pt.
-
-Overfull \hbox (73.7984pt too wide) in paragraph at lines 104--105
- [][] 
- []
-
+<graph.png, id=37, 624.3325pt x 407.5225pt>
+File: graph.png Graphic file (type png)
+ <use graph.png>
+Package pdftex.def Info: graph.png used on input line 104.
+(pdftex.def)             Requested size: 310.13503pt x 202.43625pt.
 
 Underfull \vbox (badness 1194) has occurred while \output is active []
 
  [2]
-[3 <./1.png>]
+[3 <./graph.png>]
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `\%'
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-
-Underfull \vbox (badness 1194) has occurred while \output is active []
-
- [4]
-[5] [6]
-Overfull \hbox (16.6609pt too wide) in paragraph at lines 222--222
+[4] [5] [6]
+Overfull \hbox (16.6609pt too wide) in paragraph at lines 209--209
 [] 
  []
 
 
-Overfull \hbox (16.6609pt too wide) in paragraph at lines 222--222
+Overfull \hbox (16.6609pt too wide) in paragraph at lines 209--209
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
 []\T1/qpl/m/n/9 (+20) Cognomen/Personal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
 []\T1/qpl/m/n/9 (+20) Ethnicity cog-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
 \T1/qpl/m/n/9 (+20) nomen/personal
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 281--282
+Underfull \hbox (badness 6300) in paragraph at lines 284--285
 []\T1/qpl/m/n/9 (+20) Citizen, Lib-er-tus, Pere-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 \T1/qpl/m/n/9 (+20) grine, Slave Vet-er-anus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 \T1/qpl/m/n/9 (+20) (opens Unit/Rank -
  []
 
 
-Overfull \hbox (16.6609pt too wide) in paragraph at lines 222--282
+Overfull \hbox (16.6609pt too wide) in paragraph at lines 209--303
 [] 
  []
 
 [7]
-Overfull \hbox (16.6609pt too wide) in paragraph at lines 282--323
+Overfull \hbox (16.6609pt too wide) in paragraph at lines 303--336
 [] 
  []
 
-[8]
-Overfull \hbox (16.6609pt too wide) in paragraph at lines 323--329
-[] 
- []
 
+Underfull \vbox (badness 2221) has occurred while \output is active []
+
+ [8]
 (./EAGLE_2016_submission_3.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
  [9]
@@ -1345,10 +1335,10 @@ Package rerunfilecheck Info: File `EAGLE_2016_submission_3.out' has not changed
 (rerunfilecheck)             Checksum: 21AF57810139D897A5A8A4C3989F9047;193.
  ) 
 Here is how much of TeX's memory you used:
- 21722 strings out of 493089
- 406247 string characters out of 6134841
- 467296 words of memory out of 5000000
- 24756 multiletter control sequences out of 15000+600000
+ 21720 strings out of 493089
+ 406223 string characters out of 6134841
+ 469296 words of memory out of 5000000
+ 24754 multiletter control sequences out of 15000+600000
  127507 words of font info for 212 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,40p,10421b,829s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1361,7 +1351,7 @@ nts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
 re/qplri.pfb>
-Output written on EAGLE_2016_submission_3.pdf (9 pages, 324441 bytes).
+Output written on EAGLE_2016_submission_3.pdf (9 pages, 204078 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream

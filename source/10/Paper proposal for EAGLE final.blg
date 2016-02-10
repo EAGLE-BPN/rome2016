@@ -1,6 +1,11 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Paper proposal for EAGLE final.aux
+Case mismatch error between cite keys graham2015 and Graham2015
+---line 73 of file Paper proposal for EAGLE final.aux
+ : \citation{graham2015
+ :                     }
+I'm skipping whatever remains of this command
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
 Repeated entry---line 537 of file ../../EAGLE.bib
@@ -22,14 +27,14 @@ Warning--missing publisher in Manzella1995
 Warning--missing publisher in Manzella2007
 Warning--empty booktitle in doruk1990
 Warning--missing publisher in doruk1990
-Warning--missing publisher in graham2015
+Warning--missing publisher in Graham2015
 Warning--missing publisher in harris1989
 Warning--empty journal in panciera2012
 Warning--missing publisher in reynolds1990
 Warning--missing publisher in reynolds1999
 You've used 38 entries,
             3082 wiz_defined-function locations,
-            854 strings with 11372 characters,
+            855 strings with 11382 characters,
 and the built_in function-call counts, 20207 in all, are:
 = -- 1430
 > -- 567
@@ -68,4 +73,4 @@ warning$ -- 11
 while$ -- 168
 width$ -- 0
 write$ -- 421
-(There were 3 error messages)
+(There were 4 error messages)

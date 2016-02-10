@@ -101,7 +101,7 @@ social history.
 
 \begin{figure}[!bp]
 \centering
-\includegraphics[scale=0.50]{1.png}
+\includegraphics[width=\columnwidth]{graph.png}
 \caption{Schema of the database}
 \label{fig:schemadatabase}
 \end{figure}
@@ -198,9 +198,18 @@ magistrate} and \emph{Decurion} open a \emph{City/Town} value list, while \emph{
 elite members and military personnel will at some point be added to the database, for the currently running project
 purposes, their social and professional status, together with a minimum of relevant details and relation with the
 recorded individuals represent enough information. 
-\vspace{20pt}
+\newpage
 
 %\begin{table}[!h]
+\tablehead{\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline}
+
+{\small
+\addtolength{\tabcolsep}{-0.5mm}
+%\begin{supertabular*}{\textwidth}{p{3.5cm}lp{3cm}}
+\begin{xtabular}{|p{.30\textwidth}|p{.33\textwidth}|p{.33\textwidth}|}
+
+\tablehead{\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline}
+
 \tablefirsthead{\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline }
 \bottomcaption{Metadata of the Personal data table}
 
@@ -209,17 +218,11 @@ recorded individuals represent enough information.
 %continued from previous page}} \\
 %\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline }
 
-\tablehead{\hline \textbf{Field label} & \textbf{Field id} & \textbf{Data type} \\ \hline}
+
 
 \tabletail{\hline \multicolumn{3}{|r|}{{\textit{Continued on next page}}} \\ \hline}
 \tablelasttail{\hline}
 
-
-
-{\small
-\addtolength{\tabcolsep}{-0.5mm}
-%\begin{supertabular*}{\textwidth}{p{3.5cm}lp{3cm}}
-\begin{xtabular}{|p{.30\textwidth}|p{.33\textwidth}|p{.33\textwidth}|}
 %\begin{tabular*}{p{.30\textwidth}p{.29\textwidth}p{.31\textwidth}}
 %\toprule
 %\textbf{Field label} & \textbf{Field id} & \textbf{Data type}\\\midrule
@@ -331,13 +334,10 @@ Text\\ \hline
 %\label{tab:personaldata}
 %\end{table}
 
-
-
 %\caption{Metadata of the Personal data table}
 %\end{supertabular}
 %\label{tab:personaldata}
 %\end{center}
-
 
 Based on the personal ID given to each individual, the \emph{Relationship} table will solely name the relationship between
 individuals (A to B and B to A), choosing from a drop-down menu. The relationships have been encoded from the start, in
