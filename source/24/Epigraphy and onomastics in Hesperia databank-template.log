@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 18:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1356,15 +1356,11 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
 Package rerunfilecheck Info: File `"Epigraphy and onomastics in Hesperia databa
 nk-template".out' has not changed.
 (rerunfilecheck)             Checksum: B33BBFDE4E82663FCD253D21B17F56D3;167.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  22442 strings out of 493089
  416414 string characters out of 6134841
- 462860 words of memory out of 5000000
+ 462859 words of memory out of 5000000
  25455 multiletter control sequences out of 15000+600000
  105292 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1379,7 +1375,7 @@ fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 ic/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
 -gyre/qplri.pfb>
 Output written on "Epigraphy and onomastics in Hesperia databank-template.pdf" 
-(14 pages, 56515249 bytes).
+(14 pages, 56515218 bytes).
 PDF statistics:
  182 PDF objects out of 1000 (max. 8388607)
  143 compressed objects within 2 object streams

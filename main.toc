@@ -22,7 +22,7 @@
 \contentsline {chapter}{Augmenting the workspace of epigraphists: An interaction design study.\\ \textit {Angelos Barmpoutis, Eleni Bozia}}{173}
 \contentsline {chapter}{TIGLIO. Translations and Images of Greek and Latin Inscriptions Online.\\ \textit {Pietro Maria Liuzzo, Bridget Almas, Ryan Baumann, Marie-Claire Beaulieu, Hugh Cayless, James Cowey, Finlay Mc Court, Joshua Sosin}}{185}
 \contentsline {chapter}{A Virtual Research Environment to Document and Analyze Non-alphabetic Writing Systems..\\ \textit {Katja Diederichs, Sven Gronemeyer, Christian Prager, Elisabeth Wagner, Franziska Diehr, Brodhun Maximilian, Nikolai Grube}}{197}
-\contentsline {chapter}{Integration of Multimedia Collections and Tools for Interaction with Digital Content. The case study of the Archaia Kypriaki Grammateia Digital Corpus.\\ \textit {Valentina Vassallo, Uros Damnjanovic}}{211}
+\contentsline {chapter}{Integration of Multimedia Collections and Tools for Interaction with Digital Content. The case study of the Archaia Kypriaki Grammateia Digital Corpus.\\ \textit {Uros Damnjanovic, Valentina Vassallo, Sorin Hermon}}{211}
 \contentsline {part}{Users, Epigraphy and the social web}{225}
 \contentsline {chapter}{Free Reproduction of Cultural Heritage for Research Purposes: Regulatory Aspects and New Prospects for Project EAGLE.\\ \textit {Mirco Modolo}}{227}
 \contentsline {chapter}{Digital enhancement of the ``Paolo Orsi'' museum: a Google Street View 360 pilot project tour.\\ \textit {Elisa Bonacini}}{237}

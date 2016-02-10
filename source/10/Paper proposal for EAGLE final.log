@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 20:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1200,11 +1200,11 @@ Package microtype Info: Character `029' is missing
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 ) [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [3]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 157.
+) [2] [3]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 154.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -1221,14 +1221,17 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-[4] [5]
-LaTeX Font Info:    Try loading font information for LGR+qpl on input line 198.
+[4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    No file LGRqpl.fd. on input line 198.
+ [5]
+LaTeX Font Info:    Try loading font information for LGR+qpl on input line 195.
+
+LaTeX Font Info:    No file LGRqpl.fd. on input line 195.
 
 
 LaTeX Font Warning: Font shape `LGR/qpl/m/n' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 198.
+(Font)              using `LGR/cmr/m/n' instead on input line 195.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1240,31 +1243,34 @@ File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-31.def
 File: uni-31.def 2013/05/13 UCS: Unicode data U+1F00..U+1FFF
 )
-Overfull \hbox (4.25224pt too wide) in paragraph at lines 227--229
+Overfull \hbox (4.25224pt too wide) in paragraph at lines 224--226
 \T1/qpl/m/n/10 (-20) Eumachos Dio-genes, son of Athenago-ras, the son of Athena
 go-
  []
 
-[6] [7]
-<PaperproposalforEAGLEfinal-img001.png, id=200, 1442.38875pt x 861.2175pt>
+[6]
+Underfull \vbox (badness 1509) has occurred while \output is active []
+
+ [7]
+<PaperproposalforEAGLEfinal-img001.png, id=199, 1442.38875pt x 861.2175pt>
 File: PaperproposalforEAGLEfinal-img001.png Graphic file (type png)
 
 <use PaperproposalforEAGLEfinal-img001.png>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img001.png used on input li
-ne 285.
-(pdftex.def)             Requested size: 310.13503pt x 185.1713pt.
+ne 280.
+(pdftex.def)             Requested size: 217.09357pt x 129.6107pt.
  [8 <./PaperproposalforEAGLEfinal-img001.png>] [9]
 <PaperproposalforEAGLEfinal-img002.jpg, id=211, 252.945pt x 221.7375pt>
 File: PaperproposalforEAGLEfinal-img002.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img002.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img002.jpg used on input li
-ne 352.
+ne 347.
 (pdftex.def)             Requested size: 310.13503pt x 271.8761pt.
  [10] [11 <./PaperproposalforEAGLEfinal-img002.jpg>]
 
 Package natbib Warning: Citation `graham2015' on page 12 undefined on input lin
-e 392.
+e 387.
 
 [12] [13]
 <PaperproposalforEAGLEfinal-img003.jpg, id=232, 276.9255pt x 208.926pt>
@@ -1272,7 +1278,7 @@ File: PaperproposalforEAGLEfinal-img003.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img003.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img003.jpg used on input li
-ne 447.
+ne 442.
 (pdftex.def)             Requested size: 310.13503pt x 233.9955pt.
  [14 <./PaperproposalforEAGLEfinal-img003.jpg>]
 <PaperproposalforEAGLEfinal-img004.jpg, id=247, 308.4615pt x 116.6175pt>
@@ -1280,24 +1286,24 @@ File: PaperproposalforEAGLEfinal-img004.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img004.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img004.jpg used on input li
-ne 499.
+ne 494.
 (pdftex.def)             Requested size: 310.13503pt x 117.25778pt.
  [15 <./PaperproposalforEAGLEfinal-img004.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+qpl on input line 528.
+LaTeX Font Info:    Try loading font information for OMS+qpl on input line 523.
 
-LaTeX Font Info:    No file OMSqpl.fd. on input line 528.
+LaTeX Font Info:    No file OMSqpl.fd. on input line 523.
 
 
 LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 528.
+(Font)              for symbol `textbraceleft' on input line 523.
 
 <PaperproposalforEAGLEfinal-img005.jpg, id=256, 205.9695pt x 158.0085pt>
 File: PaperproposalforEAGLEfinal-img005.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img005.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img005.jpg used on input li
-ne 549.
+ne 544.
 (pdftex.def)             Requested size: 310.13503pt x 237.91867pt.
 
 <PaperproposalforEAGLEfinal-img006.jpg, id=257, 177.0615pt x 130.743pt>
@@ -1305,7 +1311,7 @@ File: PaperproposalforEAGLEfinal-img006.jpg Graphic file (type jpg)
 
 <use PaperproposalforEAGLEfinal-img006.jpg>
 Package pdftex.def Info: PaperproposalforEAGLEfinal-img006.jpg used on input li
-ne 550.
+ne 545.
 (pdftex.def)             Requested size: 310.13503pt x 229.04303pt.
  [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1370,12 +1376,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 691.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 686.
 [25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 691.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 686.
  (./Paper proposal for EAGLE final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 691.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 691.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 686.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 686.
 Package rerunfilecheck Info: File `"Paper proposal for EAGLE final".out' has no
 t changed.
 (rerunfilecheck)             Checksum: 0438975EBBB954F58AEA8F9AF58594EA;1272.
@@ -1387,7 +1393,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  23187 strings out of 493089
  424364 string characters out of 6134841
- 470205 words of memory out of 5000000
+ 474265 words of memory out of 5000000
  26074 multiletter control sequences out of 15000+600000
  116582 words of font info for 224 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1402,7 +1408,7 @@ dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts
 ic/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex
 -gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/
 qplri.pfb>
-Output written on "Paper proposal for EAGLE final.pdf" (25 pages, 1395555 bytes
+Output written on "Paper proposal for EAGLE final.pdf" (25 pages, 1395578 bytes
 ).
 PDF statistics:
  417 PDF objects out of 1000 (max. 8388607)

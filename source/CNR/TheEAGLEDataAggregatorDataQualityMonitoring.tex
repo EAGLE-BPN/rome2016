@@ -70,7 +70,7 @@ A monitoring scenario for EAGLE has been defined and tested on simulated data (t
 
 \section{Monitoring framework}\label{framework}
 
-The EAGLE project \citep[fully described in][]{eagle} aggregates epigraphy related content from about 20 different data providers (cultural institutions all over Europe), and makes its content available to both Europeana \citep{europeana} (through an OAI-PMH interface) and to scholars and the general public through a Web portal.
+\noindent The EAGLE project \citep[fully described in][]{eagle} aggregates epigraphy related content from about 20 different data providers (cultural institutions all over Europe), and makes its content available to both Europeana \citep{europeana} (through an OAI-PMH interface) and to scholars and the general public through a Web portal.
 
 Collecting data provided by a number of different sources, very often with different quality standards, presents the challenge of measuring the overall quality of the aggregated data, and how it compares with standards and objectives set by the aggregating institution.
 
@@ -80,31 +80,39 @@ By modelling ``data processing'' as a manufacturing process involving data \cite
 
 The Monitoring Framework offers a \textit{Data Flow and Dynamics Service} (DFDS for short) to the \textit{Infrastructure Quality Manager} (IQM for short), a role that (hopefully) will become standard in data aggregation infrastructures. The DFDS enables the IQM to create one or more monitoring scenarios, each designed to monitor a particular functional area or aspect of the aggregation infrastructure. For example, an EAGLE monitoring scenario could deal with the workflow that builds the aggregated content to be used by the EAGLE Web portal and by Europeana’s OAI-PMH harvesters \citep{mannocci2014}. After the collection and processing of (possibly heterogeneous) records coming from different content providers, the aggregator stores them into different environments, for different purposes. More precisely: \textit{i)} the processed records are indexed as a full-text index (implemented by Apache Solr) to support search and browse queries from the EAGLE Web portal; \textit{ii)} the processed records are stored also in a document store (implemented by MongoDB) to support OAI-PMH requests. In this case, for example, we might be interested in assessing (and keep assessing over time) whether the total number of artifacts indexed by Solr matches the number of artifacts delivered via OAI-PMH. This could easily be accomplished by monitoring the number of records stored in the index and the number of records stored in the document store, and comparing their values. As another example, we might be interested in verifying whether the trend of a certain property of the monitored system complies with a given criterion (e.g. the number of records per content provider should be strictly increasing over time).
 
+\vspace{5pt}
 Using the Data Flow and Dynamics Service provided by the Monitoring Framework, it is possible to define \textit{monitoring scenarios}, which define a conceptualization of the data flows taking place in the aggregating infrastructure. Similarly to what happens to goods in a manufacturing process, data collections and processes acting over that data can be observed thanks to specially devised \textit{sensors}, which in our case are pieces of code providing numeric values about features of interest. The monitoring scenario can also define controls to verify if the values of such features comply with some expected behaviour over time.
 
+\vspace{5pt}
 With the concept of sensor, we refer to a piece of software capable of generating \textit{observations} (a numeric value plus some contextual metadata) about a measured object. \textit{Measured objects} can be of different granularity, e.g. single data units (datum) or data collections stored somewhere by the aggregating infrastructure. Each observation is expressed in just one specific metric, intended to measure a specific feature of a measured object (e.g. the number of publications present in the data collection stored in the Solr index). A sensor can generate observations in more than one metric, each one referring to a different feature of the measured object. 
 
+\vspace{5pt}
 A sensor can in principle be plugged anywhere in the aggregating infrastructure; with the understanding that the implementation of the sensor and the point of the data flow where it will be placed are the responsibility of the IQM. When the workflows of the aggregating infrastructure are in execution, the sensors will be activated and will produce a stream of observations. The DFDS will separate the stream of observations into different streams, each one related to a specific metric, and will store them as points of time series. In this way, observations can be queried and examined either as charts or tabular data.
 
+\vspace{5pt}
 The interaction between the IQM and the Monitoring Framework is done through a user friendly user interface (WebUI) provided by the DFDS. In addition to providing easy access to the observation time series, the WebUI provides the facilities to define the overall Monitoring Scenario, which will include the sensors and the \emph{controls}. 
 
+\vspace{5pt}
 For the purpose of monitoring, the IQM can define \textit{controls}, i.e. checks that can be scheduled to automatically verify the compliance of one or more metrics (and their observations) with a desired (or un-desired) condition. A control uses an \textit{analyser} for the comparison of observation values, such as, for example, values alignment, less or greater than, (strictly) monotonic increasing or decreasing values, threshold guards, thresholded peak or percentage variation, etc. For example, as mentioned before, we might be interested to check if the number of artefacts indexed by Solr is equal to the number of artefacts exported in OAI-PMH records, or if the total number of EAGLE objects provided by a content provider is steadily increasing over time, or, as a further example, if the ``goodness'' of an EAGLE record (the concept of goodness being defined by the IQM and implemented through sensors and controls) remains above a threshold of 0.8. The Data Flow and Dynamics Service offers some analysers out-of-the-box, but also enables the IQM to develop her own custom analysers.
 
+\vspace{5pt}
 Finally, the Data Flow and Dynamics Service enables the generation of an exhaustive \textit{report} about the defined metrics and controls providing insights, via the WebUI, in a quick glance about key features and potential issues present in the infrastructure. Given a set of controls, the monitoring service also takes care of raising \textit{alerts} and \textit{notifications} informing the IQM about the status of the infrastructure and its operation.
 
-
+\vspace{5pt}
 \section{Architecture}\label{arch}
 
-The Monitoring Framework (see Figure 1) is architected as a client-server application, where a core module (imported and used by the code of the aggregating infrastructure) plays the role of \textit{client}. The infrastructure source code needs to be instrumented in order to put sensors in place and produce observations of the measured objects.
+\noindent The Monitoring Framework (see Figure 1) is architected as a client-server application, where a core module (imported and used by the code of the aggregating infrastructure) plays the role of \textit{client}. The infrastructure source code needs to be instrumented in order to put sensors in place and produce observations of the measured objects.
 
+\vspace{5pt}
 The implementation of a sensor provides the logic to produce a measurement; in general, a sensor is devised to probe a specific object type (thus the typing of the measured object is hardcoded), while its configuration can be defined via WebUI and retrieved at runtime (dynamically). Such a design opens up to configurability and extendibility of the sensor’s collection offered by the DFDS, which in any case comes with off-the-shelf implemented sensors.
 
+\vspace{5pt}
 The \textit{server} component is a stand-alone web application that receives observations from sensors, stores those observations as time series and runs automatically user-defined controls over this corpus of data. The controls present the outcome of their activity as reports, which are made available to the IMQ via the WebUI. There is also an alert and notification service to warn the IMQ about potential anomalies or wrong operation in the aggregating infrastructure.
 
 
 \section{The EAGLE use case}\label{usecase}
 
-In order to apply the monitoring framework described above to the EAGLE aggregator, we need to define first a monitoring scenario, based on the actual EAGLE data flow, which must include the following. 
+\noindent In order to apply the monitoring framework described above to the EAGLE aggregator, we need to define first a monitoring scenario, based on the actual EAGLE data flow, which must include the following. 
 \begin{itemize}
 \item Sensors to be used in terms of measured objects and metrics implemented (i.e. functions to apply in order to extract observations). Once deployed and running, a sensor dynamically retrieves its defined configuration from the server whenever it is needed. Metrics identified in this test case are reported in Section \ref{sec:metrics}.
 \item Controls representing quality checks to be run against measurements obtained with certain metrics. The framework guides the IQM into the definition of a control according to the scenario defined so far. Controls identified in this test case are reported in Section \ref{sec:controls}.
@@ -113,7 +121,7 @@ In order to apply the monitoring framework described above to the EAGLE aggregat
 
 \subsection{Metrics}\label{sec:metrics}
 
-A monitoring scenario has been defined and tested on simulated data in order to monitor the ``health'' of different data collections involved in the EAGLE collection and transformation workflows. In particular, a first collection is stored in a full-text index (Apache Solr) serving search queries, and a second one is stored in a document store (MongoDB) serving data for OAI-PMH export.
+\noindent A monitoring scenario has been defined and tested on simulated data in order to monitor the ``health'' of different data collections involved in the EAGLE collection and transformation workflows. In particular, a first collection is stored in a full-text index (Apache Solr) serving search queries, and a second one is stored in a document store (MongoDB) serving data for OAI-PMH export.
 
 In this same scenario, we are interested in monitoring also the collection workflow by inspecting every single native XML record flowing into the EAGLE infrastructure from content providers. Some useful metrics identified in EAGLE are described in Table \ref{tab:metrics}.
 
@@ -138,7 +146,7 @@ Total \# of EAGLE records & Total records\\
 
 \subsection{Controls}\label{sec:controls}
 
-Given the metrics described in \ref{sec:metrics}, Table \ref{tab:controls} reports some controls defined over those metrics.
+\noindent Given the metrics described in \ref{sec:metrics}, Table \ref{tab:controls} reports some controls defined over those metrics.
 
 \begin{table}
 {\small
@@ -162,8 +170,9 @@ Completeness & \parbox[t]{0.6\textwidth}{Check if such indicator (actually its r
 
 \subsection{Sample implementation}\label{sample}
 
-Three different sensors have been defined and implemented for this test on EAGLE: two collection sensors (one for Solr and one for MongoDB) and one single-datum sensor for XML record-by-record inspection. Once the three sensors have been placed in the EAGLE workflow implementation and the EAGLE infrastructure is running, they start to produce observations and deliver them to the server component of the monitoring framework.
+\noindent Three different sensors have been defined and implemented for this test on EAGLE: two collection sensors (one for Solr and one for MongoDB) and one single-datum sensor for XML record-by-record inspection. Once the three sensors have been placed in the EAGLE workflow implementation and the EAGLE infrastructure is running, they start to produce observations and deliver them to the server component of the monitoring framework.
 
+\newpage
 As an example, we report in figures included in Section \ref{sec:figures} simulated trends of the defined metrics and relative reports (i.e. the evaluation of controls defined over the metrics).
 
 The metric about the ``Total number of content providers'' is reported in Figure \ref{fig:cps}; as expected, the number of content providers indexed is monotonically (each value is greater or equal to the previous one) increasing, as stated in the leftmost report, and the number of OAI sets present in the data collection stored in MongoDB equals the number of content providers indexed in Solr, as stated in the rightmost report. It is also interesting to notice how the two trends diverged in time back in October. In the simulated data we introduced an \textit{ad-hoc} problem in October, related to the publication of EAGLE records into the OAI-PMH store, which the monitoring service succeeded to discover.
@@ -177,9 +186,10 @@ In Figure \ref{fig:voc}, the metric ``Voc:material compliance'' is depicted. The
 Figure \ref{fig:comp} reports the oscillations of the record-by-record metric ``Completeness'' (narrowed down to a hundred records sample), while Figure \ref{fig:ravg} reports the associated ``rolling average'' (i.e. each point is the updated average up to that instant). Again, as the last observation of metrics is equal to 0.52, the relative reports is marked in red, as the 0.8 threshold defined in the control is not met.
 
 
+\newpage
 \section{Conclusions and future work}\label{sec:conclusions}
 
-We have presented here the possible application of the Monitoring Framework concepts to the EAGLE aggregating infrastructure. The Monitoring Framework is ``work in progress'' in another European project related to research data infrastructures \citep{openaire}.
+\noindent We have presented here the possible application of the Monitoring Framework concepts to the EAGLE aggregating infrastructure. The Monitoring Framework is ``work in progress'' in another European project related to research data infrastructures \citep{openaire}.
 
 The results presented here are based on simulated data, as the EAGLE infrastructure is not yet instrumented with the sensors needed for collecting observations, but we are planning to instrument it as soon as the development of the Monitoring Framework will reach the \textit{beta} status. 
 

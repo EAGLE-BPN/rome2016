@@ -3,10 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: EAGLE_2016_submission_8_revised.aux
 The style file: sapauth-eng.bst
 Database file #1: ../../EAGLE.bib
-I was expecting an "="---line 1578 of file ../../EAGLE.bib
- : <<<<<<< 
- :         f4a89610179edf4931fe38a31ee871cdcc98c178
-I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in DFG2014
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty author in DFG2014
@@ -18,45 +14,46 @@ Warning--missing publisher in LacadenaWichmann2002
 Warning--missing publisher in Prager2015
 Warning--missing publisher in SachseDurr2015
 Warning--empty journal in Stuhrenberg2012
-You've used 16 entries,
+Warning--missing publisher in Zender1999
+You've used 14 entries,
             3082 wiz_defined-function locations,
-            733 strings with 8401 characters,
-and the built_in function-call counts, 8148 in all, are:
-= -- 540
-> -- 256
-< -- 14
-+ -- 133
-- -- 74
-* -- 644
-:= -- 1124
-add.period$ -- 16
-call.type$ -- 16
-change.case$ -- 96
-chr.to.int$ -- 17
-cite$ -- 28
-duplicate$ -- 753
-empty$ -- 793
-format.name$ -- 110
-if$ -- 1611
+            716 strings with 7877 characters,
+and the built_in function-call counts, 7180 in all, are:
+= -- 471
+> -- 223
+< -- 12
++ -- 114
+- -- 65
+* -- 560
+:= -- 986
+add.period$ -- 14
+call.type$ -- 14
+change.case$ -- 85
+chr.to.int$ -- 15
+cite$ -- 27
+duplicate$ -- 668
+empty$ -- 702
+format.name$ -- 95
+if$ -- 1417
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 136
-newline$ -- 57
-num.names$ -- 69
-pop$ -- 347
+missing$ -- 122
+newline$ -- 51
+num.names$ -- 60
+pop$ -- 312
 preamble$ -- 1
-purify$ -- 85
+purify$ -- 74
 quote$ -- 0
-skip$ -- 255
+skip$ -- 227
 stack$ -- 0
-substring$ -- 255
-swap$ -- 337
+substring$ -- 231
+swap$ -- 299
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 132
-warning$ -- 10
-while$ -- 55
+type$ -- 117
+warning$ -- 11
+while$ -- 49
 width$ -- 0
-write$ -- 182
-(There was 1 error message)
+write$ -- 156
+(There were 11 warnings)

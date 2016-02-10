@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 08:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 22:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1270,7 +1270,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 354--354
 ssiche /
  []
 
-[10] (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
+[10] [11] (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 
@@ -1283,10 +1283,8 @@ Type  H <return>  for immediate help.
                                                   
 l.391 ...Kal(endas) Martias domum oscilavi Musae.}
                                                   
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-[11] (./Zuddas Epigraphy in Italian High Schools (final).bbl
+? 
+(./Zuddas Epigraphy in Italian High Schools (final).bbl
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
@@ -1326,7 +1324,7 @@ x-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre
 /qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri
 .pfb>
 Output written on "Zuddas Epigraphy in Italian High Schools (final).pdf" (13 pa
-ges, 188371 bytes).
+ges, 188365 bytes).
 PDF statistics:
  203 PDF objects out of 1000 (max. 8388607)
  180 compressed objects within 2 object streams

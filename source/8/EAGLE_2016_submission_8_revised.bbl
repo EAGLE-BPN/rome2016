@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{14}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -11,10 +11,6 @@
 \emph{Deutsche {Forschungsgemeinschaft} ({DFG}), {Praxisregeln}
   ``{Digitalisierung}''}, Tech. rep., Bonn, 2013.
 
-\bibitem[{\textsc{Bußmann}(2002)}]{Bussmann2002}
-\textsc{Bußmann, H.} (ed.), \emph{Lexikon der {Sprachwissenschaft}}, Kröner,
-  Stuttgart, 2002.
-
 \bibitem[{\textsc{Crystal}(1997)}]{Crystal1997}
 \textsc{Crystal, D.}, \emph{The {Cambridge} encyclopedia of language},
   Cambridge University Press, Cambridge, 1997.
@@ -24,11 +20,11 @@
   Studi Epigrafici e Linguistici,  (2002), 19--37,
   \urlprefix\url{http://www.sel.cchs.csic.es/sites/default/files/06day_2a4aeb99.pdf}.
 
-\bibitem[{\textsc{Diederichs}(2015 (in print))}]{Diederichs2015}
+\bibitem[{\textsc{Diederichs}(2015 in print)}]{Diederichs2015}
 \textsc{Diederichs, K.}, \emph{The ``{Open} {Science}'' {Strategy} of the
   {Project} ``{Text} {Database} and {Dictionary} of {Classic} {Mayan}''}, in
   \emph{Textdatenbank und {W{\"o}rterbuch} des {Klassischen} {Maya}}, Working
-  Paper 1, Bonn, 2015 (in print).
+  Paper 1, Bonn, 2015 in print.
 
 \bibitem[{\textsc{Gronemeyer}(2014)}]{Gronemeyer2014}
 \textsc{Gronemeyer, S.}, \emph{E pluribus unum: {Embracing} {Vernacular}
@@ -45,25 +41,23 @@
 \bibitem[{\textsc{Lacadena and Wichmann}(2015)}]{LacadenaWichmann2002}
 \textsc{Lacadena, A., Wichmann, S.}, \emph{The distribution of {Lowland} {Maya}
   languages in the {Classic} period}, in V.~Tiesler~Blos, M.~Greene~Robertson,
-  R.~Cobos (edd.), \emph{La organización social entre los mayas}, Mexico City,
-  2015.
+  R.~Cobos (edd.), \emph{La organizaci{\'o}n social entre los mayas}, Mexico
+  City, 2015.
 
 \bibitem[{\textsc{Lacau}(1903)}]{Lacau1903}
 \textsc{Lacau, P.}, \emph{M{\'e}tath{\`e}ses apparentes en {\'e}gyptien},
-  Recueil de travaux relatifs à la philologie et à l'archéologie
-  égyptiennes et assyriennes, 25, 3-4 (1903), 139--161.
+  Recueil de travaux relatifs {\`a} la philologie et {\`a} l'arch{\'e}ologie
+  {\'e}gyptiennes et assyriennes, 25, 3-4 (1903), 139--161.
 
 \bibitem[{\textsc{McEnery and Wilson}(2001)}]{McEneryWilson2001}
 \textsc{McEnery, T., Wilson, A.}, \emph{Corpus linguistics: {An} introduction,
-  Second Edition}, Edinburgh University Press, Edinburgh, 2001,
-  \urlprefix\url{https://books.google.de/books?hl=en&lr=&id=nwmgdvN_akAC&oi=fnd&pg=PP10&dq=Corpus+Linguistics:+An+Introduction&ots=9N9OklDMRf&sig=JjGIvHpOv6guAhphw4NGe55g4RU}.
+  Second Edition}, Edinburgh University Press, Edinburgh, 2001.
 
 \bibitem[{\textsc{Neuroth et~al.}(2011)\textsc{Neuroth, Lohmeier, and
   Smith}}]{NeurothLohmeier2011}
 \textsc{Neuroth, H., Lohmeier, F., Smith, K.M.}, \emph{Textgrid--virtual
   research environment for the humanities}, International Journal of Digital
-  Curation, 6 (2011), 222--231,
-  \urlprefix\url{http://ijdc.net/index.php/ijdc/article/view/193}.
+  Curation, 6 (2011), 222--231.
 
 \bibitem[{\textsc{Prager}(2015)}]{Prager2015}
 \textsc{Prager, C.}, \emph{Das {Textdatenbank}- und {W{\"o}rterbuchprojekt} des
@@ -76,22 +70,16 @@
 \textsc{Sachse, F., D{\"u}rr, M.}, \emph{Morphological {Glossing} of {Mayan}
   {Languages} under {XML}: {Preliminary} {Results}}, in \emph{Textdatenbank und
   {W{\"o}rterbuch} des {Klassischen} {Maya}, Working Paper 4}, Bonn, 2015 (in
-  print), \urlprefix\url{http://mayawoerterbuch.de/?p=2122}.
+  print).
 
 \bibitem[{\textsc{St{\"u}hrenberg}(2012)}]{Stuhrenberg2012}
 \textsc{St{\"u}hrenberg, M.}, \emph{Auszeichnungssprachen f{\"u}r linguistische
   {Korpora}: theroretische {Grundlagen}, {De}-facto-{Standards}, {Normen}},
   (2012), \urlprefix\url{http://pub.uni-bielefeld.de/download/2492772/2492773}.
 
-\bibitem[{\textsc{Thompson and Stuart}(1962)}]{Thompson1962}
-\textsc{Thompson, J.E.S., Stuart, G.E.}, \emph{A catalog of {Maya}
-  hieroglyphs}, University of Oklahoma Press, Norman, 1962,
-  \urlprefix\url{http://www.latinamericanstudies.org/maya/Thompson-Glyph-Catalog.pdf}.
-
 \bibitem[{\textsc{Zender}(1999)}]{Zender1999}
 \textsc{Zender, M.U.}, \emph{Diacritical marks and underspelling in the
-  {Classic} {Maya} script: {Implications} for decipherment}, Tesi di dottorato,
-  University of Calgary, 1999,
+  {Classic} {Maya} script: {Implications} for decipherment}, 1999,
   \urlprefix\url{http://www.collectionscanada.gc.ca/obj/s4/f2/dsk1/tape9/PQDD_0020/MQ47975.pdf}.
 
 \end{thebibliography}
