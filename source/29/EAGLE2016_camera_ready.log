@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  10 FEB 2016 21:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  15 FEB 2016 11:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1248,8 +1248,9 @@ File: EAGLE2016cameraready-img006.png Graphic file (type png)
 <use EAGLE2016cameraready-img006.png>
 Package pdftex.def Info: EAGLE2016cameraready-img006.png used on input line 273
 .
-(pdftex.def)             Requested size: 310.13503pt x 163.99445pt.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 292.
+(pdftex.def)             Requested size: 248.10896pt x 131.1937pt.
+ [8 <./EAGLE2016cameraready-img006.png>]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 293.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -1266,10 +1267,6 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `T1' in protrusion list 
 (microtype)                `default'.
 
-
-Underfull \vbox (badness 1990) has occurred while \output is active []
-
- [8]
 (./EAGLE2016_camera_ready.bbl
 Underfull \hbox (badness 3942) in paragraph at lines 17--22
 []\T1/qpl/m/sc/10 (+20) Aswatha, S.M., Talla, A.N., Mukhopad-hyay, J., Bhowmick
@@ -1288,7 +1285,7 @@ Underfull \hbox (badness 3333) in paragraph at lines 17--22
  (+20) Com-puter Vision-ACCV 2014 Work-shops\T1/qpl/m/n/10 (+20) , 598--
  []
 
-[9 <./EAGLE2016cameraready-img006.png>]
+[9]
 Underfull \hbox (badness 2486) in paragraph at lines 39--43
 []\T1/qpl/m/sc/10 (+20) Böhler, W., Marbs, A.\T1/qpl/m/n/10 (+20) , \T1/qpl/m/i
 t/10 (+20) 3d scan-ning and pho-togram-me-try for her-
@@ -1312,7 +1309,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--69
 inf-[]sci .
  []
 
-[10]
+
 Underfull \hbox (badness 2486) in paragraph at lines 79--83
 []\T1/qpl/m/sc/10 (+20) Landon, G.V., Seales, W.B.\T1/qpl/m/n/10 (+20) , \T1/qp
 l/m/it/10 (+20) Pet-ro-glyph dig-i-ti-za-tion: en-abling cul-
@@ -1330,7 +1327,7 @@ Underfull \hbox (badness 7759) in paragraph at lines 79--83
  . springer . com / article / 10 .
  []
 
-
+[10]
 Underfull \hbox (badness 3088) in paragraph at lines 100--105
 []\T1/qpl/m/sc/10 (+20) Osman, M.A., Talib, A.Z., Sanusi, Z.A., Yen, T.S., Alwi
 , A.S.\T1/qpl/m/n/10 (+20) ,
@@ -1380,24 +1377,28 @@ Underfull \hbox (badness 1072) in paragraph at lines 160--165
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 309.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
  [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 309.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
  (./EAGLE2016_camera_ready.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 309.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 309.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
 Package rerunfilecheck Info: File `EAGLE2016_camera_ready.out' has not changed.
 
 (rerunfilecheck)             Checksum: 9C59E035E17AB5A087020EBCD11821A9;566.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  21667 strings out of 493089
  406981 string characters out of 6134841
- 466311 words of memory out of 5000000
+ 467311 words of memory out of 5000000
  24634 multiletter control sequences out of 15000+600000
  110387 words of font info for 206 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,40p,10420b,867s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,40p,10420b,869s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/local/texliv
 e/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/te
@@ -1406,7 +1407,7 @@ mf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/tex-gyre/qplri.pfb>
-Output written on EAGLE2016_camera_ready.pdf (12 pages, 4633888 bytes).
+Output written on EAGLE2016_camera_ready.pdf (12 pages, 4633934 bytes).
 PDF statistics:
  271 PDF objects out of 1000 (max. 8388607)
  241 compressed objects within 3 object streams
