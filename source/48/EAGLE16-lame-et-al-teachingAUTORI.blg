@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: EAGLE16-lame-et-al-teachingAUTORI.aux
+The style file: sapauth-eng.bst
+Database file #1: ../../EAGLE.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--missing publisher in Lame2015b
+Warning--missing publisher in paci_etichette_1995
+Warning--missing publisher in cherry_storytelling_2014
+Warning--missing publisher in radman-livaja_plombs_2014
+You've used 27 entries,
+            3082 wiz_defined-function locations,
+            804 strings with 10729 characters,
+and the built_in function-call counts, 15845 in all, are:
+= -- 1150
+> -- 416
+< -- 31
++ -- 185
+- -- 121
+* -- 1187
+:= -- 2105
+add.period$ -- 27
+call.type$ -- 27
+change.case$ -- 166
+chr.to.int$ -- 28
+cite$ -- 31
+duplicate$ -- 1445
+empty$ -- 1536
+format.name$ -- 170
+if$ -- 3237
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 267
+newline$ -- 90
+num.names$ -- 126
+pop$ -- 606
+preamble$ -- 1
+purify$ -- 141
+quote$ -- 0
+skip$ -- 497
+stack$ -- 0
+substring$ -- 850
+swap$ -- 714
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 237
+warning$ -- 4
+while$ -- 141
+width$ -- 0
+write$ -- 300
+(There were 4 warnings)

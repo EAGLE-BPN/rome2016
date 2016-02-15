@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  9 FEB 2016 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.10)  15 FEB 2016 13:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1219,7 +1219,27 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Calculating math sizes for size <7.6> on input line 54.
- [1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 61.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\%'
+(microtype)                in font encoding `T1' in protrusion list 
+(microtype)                `default'.
+
+[1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
@@ -1267,15 +1287,6 @@ nicas.it
  []
 
 [2]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 88.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `\%'
@@ -1299,24 +1310,25 @@ d.
 (rerunfilecheck)             Checksum: BBC9A7D0CF10A1DF533E37C406530459;90.
  ) 
 Here is how much of TeX's memory you used:
- 21360 strings out of 493089
- 401686 string characters out of 6134841
+ 21851 strings out of 493089
+ 406773 string characters out of 6134841
  464142 words of memory out of 5000000
- 24491 multiletter control sequences out of 15000+600000
- 91222 words of font info for 146 fonts, out of 8000000 for 9000
+ 24976 multiletter control sequences out of 15000+600000
+ 91676 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,40p,10422b,800s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2
 015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fo
-nts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/tex-gyre/qplri.pfb>
-Output written on EAGLE_2016_submission_47.pdf (3 pages, 119189 bytes).
+ist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+tex-gyre/qplri.pfb>
+Output written on EAGLE_2016_submission_47.pdf (3 pages, 140119 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
- 38417 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 38929 words of extra memory for PDF output out of 42996 (max. 10000000)
 
