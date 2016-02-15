@@ -1,0 +1,94 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX program = pdflatex
+% !TEX spellcheck = en_US
+
+
+% In order to correctly compile this document,
+% execute the following commands:
+% 1. pdflatex
+% 2. pdflatex
+% 3. pdflatex
+
+
+
+\documentclass[amsthm,ebook]{saparticle}
+
+% IF YOU USE PDFLATEX
+\usepackage[utf8x]{inputenc}
+% if you write in english and in greek
+\usepackage{ucs}
+\usepackage[greek,english,francais]{babel}
+\languageattribute{greek}{polutoniko}
+
+% IF YOU USE XELATEX
+%\usepackage{polyglossia}
+% if you write in italian
+%\setmainlanguage{italian}
+% If you want put some ancient greek:
+%\setotherlanguage[variant=polytonic]{greek}
+%\newfontfamily{\greekfont}[Ligatures=TeX]{Palatino Linotype}
+
+% dummy text (remove in a normal thesis)
+% remove if not necessary
+\usepackage{siunitx}
+%Natbib for bibliography management
+\usepackage[authoryear]{natbib}
+% custom commands
+\newcommand{\bs}{\textbackslash}
+\usepackage{xtab}
+%%%%%%%%
+%TITLE:%
+%%%%%%%%
+
+\title{EAGLE Featured Panel}
+
+\author[ISTI]{Vittore Casarosa\corref{first}}
+
+\address[ISTI]{Istituto di Scienza e Tecnologie
+dell’Informazione ``A. Faedo''}
+\cortext[first]{Corresponding author. Email: casarosa@isti.cnr.it}
+
+%\usepackage{longtable}
+\begin{document}
+
+\maketitle
+
+
+\section{Description}
+The EAGLE project is really a multidisciplinary project,
+which can be looked at from three different perspectives,
+each one with many different facets.
+\begin{itemize}
+\item The epigraphy dimension, (inscriptions, transcriptions,
+critical editions, translations, historical context,
+geographical context, materials)
+\item  The technology dimension (data model, data aggregation,
+search engine, 3D representations, disambiguation,
+image recognition)
+\item  The application dimension (mobile application,
+storytelling, virtual reality, epigraphy in schools)
+\end{itemize}
+
+
+In this panel, we will touch on some of those facets,
+focussing more on the ones that are not going to be
+presented during the conference. Our aim is to stimulate
+some discussion and exchange of ideas, to try and
+understand what we have missed, what could have been
+done better, and what you (the audience) see as the
+strong points of EAGLE.
+
+\section{Panelists}
+\begin{description}
+\item[Anita Rocco] EDB 2.0
+\item[Valentina Vassallo] 3D epigraphy
+\item[Andrea Mannocci] data quality
+\item[Francesco Mambrini] storytelling
+\item[Giuseppe Amato] mobile application
+\item[Sorin Hermon] virtual exhibition
+\item[Luca Giberti] promotional video
+\end{description}
+
+
+
+\end{document}
