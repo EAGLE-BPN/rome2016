@@ -1,0 +1,31 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{Dow}(1969)}]{dow1969conventions}
+\textsc{Dow, S.}, \emph{Conventions in editing: a suggested reformulation of
+  the Leiden system}, vol.~2, Duke University Press, Durham, NC, 1969.
+
+\bibitem[{\textsc{Krummrey and Panciera}(1980)}]{krummrey_criteri_1980}
+\textsc{Krummrey, H., Panciera, S.}, \emph{Criteri di edizione e segni
+  diacritici}, Tituli, 2 (1980), 205--215.
+
+\bibitem[{\textsc{Panciera}(1991)}]{Panciera1991}
+\textsc{Panciera, S.}, \emph{{Struttura dei supplementi e segni diacritici
+  dieci anni dopo}}, {Supplementa Italica}, {8} (1991), 9--21.
+
+\bibitem[{\textsc{Rouech\'e}(2013)}]{rouechethon2013}
+\textsc{Rouech\'e, C.}, \emph{The history of an idea: tracing the origins of
+  the mama project}, in P.~Thonemann (ed.), \emph{Roman Phrygia: Culture and
+  Society}, 249--264, Cambridge University Press, Cambridge, 2013.
+
+\bibitem[{\textsc{Van~Groningen}(1932)}]{van1932projet}
+\textsc{Van~Groningen, B.A.}, \emph{Projet d'unification des syst{\`e}mes de
+  signes critiques}, Chronique d'{\'E}gypte, 7 (1932), 262--269.
+
+\end{thebibliography}
