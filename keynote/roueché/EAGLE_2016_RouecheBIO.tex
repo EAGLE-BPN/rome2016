@@ -1,0 +1,186 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX program = pdflatex
+% !TEX spellcheck = en_US
+
+
+% In order to correctly compile this document,
+% execute the following commands:
+% 1. pdflatex
+% 2. pdflatex
+% 3. pdflatex
+
+
+
+\documentclass[amsthm,ebook]{saparticle}
+
+% IF YOU USE PDFLATEX
+\usepackage[utf8x]{inputenc}
+% if you write in english and in greek
+\usepackage{ucs}
+\usepackage[greek,english]{babel}
+\languageattribute{greek}{polutoniko}
+
+% IF YOU USE XELATEX
+%\usepackage{polyglossia}
+% if you write in italian
+%\setmainlanguage{italian}
+% If you want put some ancient greek:
+%\setotherlanguage[variant=polytonic]{greek}
+%\newfontfamily{\greekfont}[Ligatures=TeX]{Palatino Linotype}
+
+% dummy text (remove in a normal thesis)
+% remove if not necessary
+\usepackage{siunitx}
+%Natbib for bibliography management
+\usepackage[authoryear]{natbib}
+% custom commands
+\newcommand{\bs}{\textbackslash}
+
+%%%%%%%%
+%TITLE:%
+%%%%%%%%
+\title{Where Eagles Dare}
+\author[]{Charlotte Roueché\corref{first}}
+\begin{document}
+\maketitle
+\begin{abstract}
+The publication of inscriptions in digital form has been evolving since the 1980s, and online publication since the 1990s. It is useful to see where EAGLE is positioned in this evolution --- a huge step forward, but not the end of the road. What can we learn from our progress so far? What have the main challenges been? And what does this suggest about the next stages?
+
+\end{abstract}
+
+{\small \emph{Charlotte Roueché studied Classics at Cambridge, and Byzantine Studies in Paris and Washington; as a pupil of Joyce Reynolds, she became involved in publishing Greek inscriptions, with a particular focus on material from Late Antiquity. In 1984 she was appointed to King's College London, where an important centre of Digital Humanities started to develop in the 1990s; this encouraged her to explore the possibilities for publishing inscribed texts online. In 1999 Tom Elliott published the first proposal for EpiDoc; working with him and Gabriel Bodard, Charlotte was able to use EpiDoc to publish several online corpora: \url{http://insaph.kcl.ac.uk/ala2004}, \url{http://insaph.kcl.ac.uk/iaph2007}, and \url{http://irt.kcl.ac.uk/irt2009}. At present she is preparing a digital corpus of inscriptions of Roman Cyrenaica, and developing plans for a shared portal, Inscriptions of Libya. She has also recently published an eleventh century Byzantine text online, in a project exploring the uses of RDF to analyse intertextuality: \url{http://ancientwisdoms.ac.uk}.}}
+
+\vspace{1cm}
+I couldn't resist this title, taken from Shakespeare's \emph{Richard III} to use for a Hollywood film, full of daring wartime
+adventures. As academics we may underestimate the importance of courage in our undertakings. But the early epigraphers
+required a good deal of \textbf{daring}; while recording inscriptions was straightforward enough in Italy or north-western
+Europe, the eastern and southern regions of the Greco-Roman world remained difficult and dangerous to visit until the
+late nineteenth century or even later --- as is again becoming true. The early travellers also suffered from practical
+constraints; in the 18\textsuperscript{th} and 19\textsuperscript{th} centuries they were limited by the quantity of paper that they had brought with them
+just as in the 20\textsuperscript{th} century; Robert `Palmyra' Wood recorded inscriptions on pages of his copy of Homer. He was
+travelling for several months, and was saving his paper for sketches, plans and drawings of buildings.\footnote{ Robert
+Wood (1716/17–1771): doi:10.1093/ref:odnb/29891} Similarly John Deering recorded texts in a notebook with very small
+pages.\footnote{ John Peter Deering (1787–1850): doi:10.1093/ref:odnb/7420} Twentieth century travellers were to
+experience similar constraints on the amount of photographic film available to them.
+
+
+At the same time, epigraphers have always been ingenious in their use of technical solutions. The most dramatic of these
+is perhaps the development of squeezes, which have turned out to provide records of enduring and continuing value. The
+driving force here was the need to record inscriptions in languages --- hieroglyphics, cuneiform --- which could not be
+interpreted, and even incised designs; copyists who know Greek or Latin could record texts in those languages with
+relative ease, but they too came to find squeezes useful in representing what they saw. Over time the technology was
+improved; while the plaster casts of Egyptian paintings could seriously damage the monument, paper squeezes improved in
+quality.\footnote{\url{ http://www.asia.si.edu/research/squeezeproject/sq\_making.asp}} 
+
+
+During the 19\textsuperscript{th} century, \textbf{travel} became steadily safer, and also easier --- most dramatically as railways began to open up
+new regions. Over the same period, the creation of the first great corpora of inscriptions encouraged an increasing
+standardisation of records. Early travellers recorded as much as they could, often in haste: this normally took the
+form of a simple transcription, or drawing, of the text, with sometimes a brief mention of its support. \ Gradually,
+measurements start to appear --- often only of letters, then of the monument or fragment itself. In 1890 the Austrian
+government set up the Kleinasiatische Kommission,\footnote{
+\url{http://www.oeaw.ac.at/en/science-and-society/commissions/kleinasiatische-kommission/geschichte/}} which provided
+travellers with special notebooks: these were pre-printed with headings for Location and Position, Material, Height,
+Width, Depth, Letter heights, Shape and Condition, Number and location of squeeze, When copied and by whom.\footnote{
+Fund- und Standort, Material, Höhe, Breite, Dicke, Buchstabenhöhe, Form und Erhaltung, Nummer und Ortsangabe des
+Abklatsches, Wann und von wem copirt} On return to Vienna, the notebooks could be filed, and the squeezes stored, in
+bookshelves and drawers specially designed for the purpose.
+
+
+At the same time, the publication of the corpora, and the great projects from Boeckh's \emph{CIG} to Mommsen's \emph{CIL} was
+revealing the \textbf{volume} of material. The Ottoman world was becoming increasingly accessible; in the western part of the
+Roman Empire development and industrialisation --- particularly the redevelopment of Rome as a capital city - increased
+the torrent of material. Publishing an abundance of texts, accompanied by increasingly detailed information, required a
+systematised response. Organisation could be thematic: Christian inscriptions, for example, were identified as a
+separate category, requiring different expertise, although this division has remained problematic. It could be
+geographic: the Berlin Academy took responsibility for publishing the material from Italy and the west, while the
+Austrian Academy was to deal with Asia Minor and the East; but national interests also played a part, with Italian and
+French scholars publishing materials from the epigraphically prolific north African regions which their governments
+controlled. The situation also demanded finding aids --- the \emph{PIR} can be seen as a tool for accessing the material in \emph{CIL}.
+And the pressure for standardisation continued, although it was not until the 1930s that use of the Leiden conventions
+for publishing inscribed texts was agreed (and modifications continued).\footnote{\citet[262–9.7]{van1932projet} ; for further modifications, see
+\citet{dow1969conventions}; \citet{krummrey_criteri_1980}; \citet{Panciera1991}.}
+
+
+Much of this reflected a response to the increased volume of material becoming available as the world changed. But the
+end of the nineteenth century saw the beginning of a further technological revolution with the arrival of \textbf{photography}.
+The use of cameras for archaeological records was at first limited to established excavation sites, or cities such as
+Athens, with a reasonable amount of infrastructure and protection for cumbersome equipment; but by the 1920s cameras
+were sufficiently portable to be taken out into the countryside. More and more inscriptions were photographed; but the
+traditions which had already developed meant that they were not immediately seen as essential elements in publication.
+The \emph{Monumenta Asiae Minoris} Antiqua represent an honourable exception, established with the specific aim of taking and
+publishing photographs; but they had the support of American funding.\footnote{\citet{rouechethon2013}} 
+
+
+Gradually, however, photographs began to effect transformations in scholarly practice. They permitted a far better
+understanding of regional, cultural and chronological distinctions, which could be communicated to readers who would
+have no opportunity to see the stones themselves. And they provided an increasing understanding of \textbf{context} --- whose
+importance was emphasised by both Louis Robert and, more recently, Werner Eck. The photograph can present the support,
+and, when applicable, the setting of that support; Robert emphasised the importance of visualising the landscape
+surrounding a particular community.
+
+
+Robert also demanded ever higher \textbf{standards} in the accompanying commentaries on inscriptions. But all of this raised a
+huge logistical problem: a text accompanied by a detailed description, a detailed commentary and one or more
+photographs requires a good deal of space --- and more and more texts were appearing. From the 1980s onwards it was also
+becoming standard to provide a translation into a modern language. Publication in book form was becoming increasingly
+expensive and burdensome.
+
+
+It was therefore changes which had been brought about by a series of technological developments which led far-sighted
+scholars --- in particular Silvio Panciera and Geza Alföldy --- to look to yet another technology. As early as the 1980s
+they both saw the value of \textbf{computers} as tools for holding, organising and searching large volumes of text; others
+quickly followed. Panciera also understood early on that working in this medium required collaboration, and the use of
+agreed standards, convening meetings to discuss such matters from 1989 onwards. With the arrival of the web, and the
+resultant possibilities for communication, these requirements became ever more important; in the early 2000s the agreed
+conventions of epigraphy were translated into a set of machine readable instructions by Tom Elliott, when he developed
+EpiDoc.\footnote{ \url{http://epidoc.sourceforge.net/}} 
+
+
+At the same time, the steady improvements in technology were making it possible, by the 2000s, to exchange images as
+well as texts; and the arrival of the digital camera was transforming the possibilities for photographing texts. The
+epigrapher in the field no longer depends on a finite supply of film: the traditional shot of several fragments
+photographed together for reasons of economy is disappearing. Instead, the epigrapher should be expected to present
+images of every side of a monument and its setting. All these developments both enabled and necessitated the first
+large scale publications of inscriptions on line: \emph{Vindolanda Tablets Online},\footnote{
+\url{http://vindolanda.csad.ox.ac.uk/}} (2003), the \emph{U.S. Epigraphy project},\footnote{ \url{http://usepigraphy.brown.edu}} (2003–),
+\emph{Aphrodisias in Late Antiquity} (2004), \footnote{ \url{http://insaph.kcl.ac.uk/ala2004/}} the \emph{Inscriptions of Aphrodisias}
+(2007),\footnote{ \url{http://insaph.kcl.ac.uk/iaph2007/}} and others in preparation.
+
+
+While we were working on the materials from Aphrodisias, new possibilities were opening up: connections were becoming
+faster and more ubiquitous. More and more relevant material was being published online: what Tim Berners-Lee calls the
+\emph{next Web of open, \textbf{linked data}}. In 2008 we received a grant to start exploring the use of geodata with inscriptions, in
+the\emph{ Inscriptions of Roman Tripolitania} (2009);\footnote{ \url{http://inslib.kcl.ac.uk/irt2009/}} this approach has been
+further developed in \emph{Monumenta Asiae Minoris Antiqua XI},\footnote{ \url{http://mama.csad.ox.ac.uk/}}  and other kinds of
+interconnection are being actively explored. Linking is closely connected to \textbf{sharing}: it is becoming increasingly clear
+that one way of ensuring the survival of our materials is by making them openly available for others to reuse and share
+as widely as possible.
+
+
+One of the aims of both Alföldy and Panciera had been to develop collaborative corpora, places where large quantities of
+texts could be shared to enable extensive searching. After their projects moved onto the web it also became possible to
+include more and more material --- photographs and other images, and geodata. It was Silvia Orlandi who realised that the
+next step was a portal, to offer access across these and many other online epigraphic collections. Work over several
+years, by many different scholars, had established EpiDoc as a robust system, particularly for the exchange of
+information, and it was therefore available to build \textbf{EAGLE}. The spirit of this enterprise was exactly the spirit behind
+Europeana --- a project to present high quality records of heritage materials to a worldwide audience. 
+
+
+This is an account, therefore, of an academic discipline which has evolved by engagement with a series of technological
+developments over two centuries, and is continuing to do so; it is also a story of developing steadily higher standards
+for the publication of heritage materials. The current challenge is to confront the fact that such materials will now
+be universally available, and must therefore be presented in a way that helps and supports \textbf{new audiences}. For this the
+EAGLE project has been developing valuable new resources --- such as the mobile app ---and, very importantly, encouraging
+translations. The crucial thing to realise is that it will not be possible to revert to earlier models: this project
+sets new, higher standards for epigraphic publication. This is a project which will take the subject into the future
+`on \emph{eagles' wings}', as the Bible puts it --- in another phrase used by Hollywood.\footnote{ Exodus 19.4} They
+should be taking us all with them.
+
+
+\bibliographystyle{sapauth-eng}
+\bibliography{../../EAGLE}
+
+\end{document}
+
+
