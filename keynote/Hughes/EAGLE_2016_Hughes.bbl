@@ -1,0 +1,51 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textsc{ENUMERATE}(2014)}]{ENUMERATE:2014aa}
+\textsc{ENUMERATE}, \emph{Survey report on digitisation in european cultural
+  heritage institutions}, 2014,
+  \urlprefix\url{http://www.enumerate.eu/fileadmin/ENUMERATE/documents/ENUMERATE-Digitisation-Survey-2014.pdf}.
+
+\bibitem[{\textsc{Hughes}(2012)}]{Hughes:2012aa}
+\textsc{Hughes, L.M.}, \emph{Live and kicking: the impact and sustainability of
+  digital collections in the humanities}, in C.~Mills, M.~Pidd, E.~Ward (edd.),
+  \emph{Proceedings of the Digital Humanities Congress 2012}, HRI Online
+  Publications, Sheffield, 2012,
+  \urlprefix\url{http://www.hrionline.ac.uk/openbook/chapter/dhc-hughes}.
+
+\bibitem[{\textsc{Hughes et~al.}(2015)\textsc{Hughes, Ell, Knight, and
+  Dobreva}}]{Hughes:2015aa}
+\textsc{Hughes, L.M., Ell, P.S., Knight, G.A., Dobreva, M.}, \emph{Assessing
+  and measuring impact of a digital collection in the humanities: an analysis
+  of the {SPHERE} ({Stormont Parliamentary Hansards: Embedded in Research and
+  Education}) project}, Digital Scholarship in the Humanities, 30 (2015),
+  183--198, \doi{10.1093/llc/fqt054}.
+
+\bibitem[{\textsc{Nicholas et~al.}(2014)\textsc{Nicholas, Clarck, and
+  Watkinson}}]{Nicholas:2014aa}
+\textsc{Nicholas, D., Clarck, D., Watkinson, A.}, \emph{Log usage analysis:
+  What it discloses about use,information seeking and trustworthiness},
+  International Journal of Knowledge Content Development \& Technology, 4
+  (2014), 23--37.
+
+\bibitem[{\textsc{Nicholas and Clark}(2015)}]{Nicholas:2015aa}
+\textsc{Nicholas, D., Clark, D.}, \emph{Finding stuff}, in E.P. Moss, Dupuis
+  (edd.), \emph{Is Digital Different?}, 16--34, Facet, London, 2015.
+
+\bibitem[{\textsc{Robey}(2008)}]{Robey:2008aa}
+\textsc{Robey, D.}, \emph{Sustainability of ahrc-funded digital resources},
+  2008,
+  \urlprefix\url{http://www.ahrcict.rdg.ac.uk/activities/review/synthesis%20of%20sustainability%20issues.pdf}.
+
+\bibitem[{\textsc{Robey}(2011)}]{Robey:2011aa}
+\textsc{Robey, D.}, \emph{Improving sustainability of publicly digital
+  resources}, in L.M. Hughes (ed.), \emph{Evaluating and the measuring the
+  value, use and impact of digital collections}, 147--156, Facet, London, 2011.
+
+\end{thebibliography}

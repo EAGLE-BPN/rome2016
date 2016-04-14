@@ -138,7 +138,7 @@
 \fi
 
 
-\RequirePackage{caption}
+\RequirePackage{dammi}
 \DeclareCaptionFont{SAP@captionfontspec}{\normalfont\fontsize{8}{10}\selectfont}
 \captionsetup{labelfont={SAP@captionfontspec,bf},labelsep=period,%
   ,textfont=SAP@captionfontspec}
