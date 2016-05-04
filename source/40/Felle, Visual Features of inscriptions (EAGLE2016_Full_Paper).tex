@@ -33,6 +33,7 @@
 \usepackage{siunitx}
 %Natbib for bibliography management
 \usepackage[authoryear]{natbib}
+\bibpunct{(}{)}{;}{a}{}{,}
 % custom commands
 \newcommand{\bs}{\textbackslash}
 
@@ -317,12 +318,6 @@ of the walls of Byzantine cities, such as Constantinople or Thessaloniki (Fig.~\
 \label{fig:7}
 \end{figure}
 
-
-
-
-
-
-
 There, the inscriptions are not carved in marble slabs or stone blocks, but they are realized with the same materials of
 the walls: simple bricks, but disposed to obtain letters \emph{and} signs \emph{and} symbols, visible also from afar. The
 inscriptions explain the walls; the walls speak its \emph{raisons d'être} by the inscriptions, that are in different cases
@@ -331,9 +326,6 @@ opinion, this notion is clearly demonstrated by the unnecessary captions in the 
 (Fig.~\ref{fig:8}), where \ {}- on closer view - the inscriptions are completely useless, if we continue to consider them only as
 texts to be read. 
 
-
-
-
 \begin{figure}[!hbp]
 \centering
  \includegraphics[width=\columnwidth]{FelleVisualFeaturesofinscriptionsEAGLE2016FullPaper-img011.jpg}
@@ -341,17 +333,6 @@ texts to be read.
 ``useless'' caption  \emph{s(an)c(t)a Agnes}, age of pope Honorius I. (photo: A. E. Felle).}
 \label{fig:8}
 \end{figure}
-
-
-
-
-
-
-
-
-
-
-
 
 
 \subsection{Relationship with the context}
@@ -383,22 +364,18 @@ of the throne with open inscribed codex above the lintel of the central gate (fr
 \label{fig:9}
 \end{figure}
 
-
-\newpage
+%\newpage
 On the open \emph{codex} is inscribed a focused - but barely readable - quotation from John 10, verses 7 and 9, where Jesus
 indicates himself as the gate: 
 
-
-
-
 \begin{quotation}
-John 10.7: \begin{otherlanguage*}{greek}
+John 10.7: \selectlanguage{greek}
 \underline{Εἶπεν} οὖν πάλιν ὁ ᾿Ιησοῦς, ᾿Αμὴν ἀμὴν λέγω ὑμῖν ὅτι \underline{ἐγώ εἰμι ἡ θύρα τῶν προβάτων}.
-\end{otherlanguage*} (\emph{Therefore Jesus said again, ‘Very truly I tell you, I am the gate for the sheep}); 
+\selectlanguage{english} (\emph{Therefore Jesus said again, ‘Very truly I tell you, I am the gate for the sheep}); 
 
-John 10, 9: \begin{otherlanguage*}{greek}
+John 10, 9: \selectlanguage{greek}
 ἐγώ εἰμι ἡ θύρα· \underline{δι' ἐμοῦ ἐάν τις εἰσέλθῃ} σωθήσεται καὶ \underline{εἰσελεύσεται καὶ ἐξελεύσεται καὶ νομὴν εὑρήσει}
-\end{otherlanguage*}  ( $^\textit{9}$ \emph{I am the gate;
+\selectlanguage{english}  ( $^\textit{9}$ \emph{I am the gate;
 whoever enters through me will be saved.} $^{[a]}$ \emph{They will come in and go out, and find pasture}).
 
 \end{quotation}
@@ -407,9 +384,9 @@ whoever enters through me will be saved.} $^{[a]}$ \emph{They will come in and g
 This the text of the inscription \citep[n. 505]{felle_biblia_2006}: 
 
 \begin{quotation}
-((crux)) \begin{otherlanguage*}{greek}
+((crux)) \selectlanguage{greek}
 εἶπεν ὁ κ(ύριο)ς \textlatin{|} ἐγώ εἰμι \textlatin{|} ἡ θύρα τῶν \textlatin{|} προβάτων· \textlatin{|} δι᾿ ἐμοῦ \textlatin{||} ἐάν τις \textlatin{|} εἰσέλθῃ \textlatin{|} εἰσελεύσετ(αι) \textlatin{|} κ(αὶ) ἐξελεύσετ(αι) \textlatin{|} κ(αὶ) νομὴν \textlatin{|} εὑρήσει.
-\end{otherlanguage*}
+\selectlanguage{english}
 
 
 \end{quotation}
@@ -461,7 +438,7 @@ reached in encoding the texts: a hard challenge.
 
 \nocite{Manzella1997Felle}
 
-\bibliographystyle{sapauth-eng}
+\bibliographystyle{sapienza-chicago}
 \bibliography{../../EAGLE}
 
 \end{document}

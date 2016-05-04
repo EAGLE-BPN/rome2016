@@ -1,4 +1,5 @@
 \begin{thebibliography}{11}
+\newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -7,69 +8,86 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{\textsc{Carletti}(2008)}]{carletti_epigrafia_2008}
-\textsc{Carletti, C.}, \emph{Epigrafia dei cristiani in {Occidente} dal {III}
-  al {VII} secolo: ideologia e prassi}, Edipuglia, Bari, 2008.
+\bibitem[{Carletti(2008)}]{carletti_epigrafia_2008}
+\textsc{Carletti, Carlo}.
+\newblock \emph{Epigrafia dei cristiani in {Occidente} dal {III} al {VII}
+  secolo: ideologia e prassi}.
+\newblock Bari: Edipuglia, 2008.
 
-\bibitem[{\textsc{Di~Stefano~Manzella}(1997)}]{Manzella1997Felle}
-\textsc{Di~Stefano~Manzella, I.} (ed.), \emph{{Le iscrizioni dei cristiani in
-  Vaticano. Materiali e contributi scientifici per una mostra epigrafica [=
-  \emph{Inscriptiones Sanctae Sedis}, 2]}}, Monumenti, Musei e Gallerie
-  Pontificie, Citt{\`a} del Vaticano, 1997.
+\bibitem[{Di~Stefano~Manzella(1997)}]{Manzella1997Felle}
+\textsc{Di~Stefano~Manzella, Ivan}, ed.
+\newblock \emph{{Le iscrizioni dei cristiani in Vaticano. Materiali e
+  contributi scientifici per una mostra epigrafica [= \emph{Inscriptiones
+  Sanctae Sedis}, 2]}}. Citt{\`a} del Vaticano: Monumenti, Musei e Gallerie
+  Pontificie, 1997.
 
-\bibitem[{\textsc{Eastmond}(2015)}]{eastmond_viewing_2015}
-\textsc{Eastmond, A.} (ed.), \emph{Viewing {Inscriptions} in the {Late}
-  {Antique} and {Medieval} {World}}, Cambridge University Press, Cambridge,
-  2015.
+\bibitem[{Eastmond(2015)}]{eastmond_viewing_2015}
+\textsc{Eastmond, Antony}, ed.
+\newblock \emph{Viewing {Inscriptions} in the {Late} {Antique} and {Medieval}
+  {World}}.
+\newblock Cambridge: Cambridge University Press, 2015.
 
-\bibitem[{\textsc{Eck and Funke}(2014)}]{eck_vol_2014}
-\textsc{Eck, W., Funke, P.} (edd.), \emph{{\"O}ffentlichkeit - {Monument} -
-  {Text}, {XIV} {Congressus} {Internationalis} {Epigraphiae} {Graecae} et
-  {Latinae}. Akten (Berlin, August 2012)}, De Gruyter, Berlin, 2014.
+\bibitem[{Eck and Funke(2014)}]{eck_vol_2014}
+\textsc{Eck, Werner and Peter Funke}, eds.
+\newblock \emph{{\"O}ffentlichkeit - {Monument} - {Text}, {XIV} {Congressus}
+  {Internationalis} {Epigraphiae} {Graecae} et {Latinae}. Akten (Berlin, August
+  2012)}. Berlin: De Gruyter, 2014.
 
-\bibitem[{\textsc{Felle}(2006)}]{felle_biblia_2006}
-\textsc{Felle, A.E.}, \emph{\emph{Biblia epigraphica}: la sacra scrittura nella
+\bibitem[{Felle(2006)}]{felle_biblia_2006}
+\textsc{Felle, Antonio~Enrico}.
+\newblock \emph{\emph{Biblia epigraphica}: la sacra scrittura nella
   documentazione epigrafica dell'\emph{{Orbis} {Christianvs} {Antiqvvs}} ({III}
-  - {VIII} secolo)}, no.~5 in \emph{Inscriptiones {Christianae} {Italiae} :
-  {Subsidia}}, Edipuglia, Bari, 2006.
+  - {VIII} secolo)}.
+\newblock Number~5 in \emph{Inscriptiones {Christianae} {Italiae} :
+  {Subsidia}}. Bari: Edipuglia, 2006.
 
-\bibitem[{\textsc{Felle}(2007)}]{felle_judaism_2007}
-\textsc{Felle, A.E.}, \emph{Judaism and {Christianity} in the {Light} of
-  {Epigraphic} {Evidence} (3rd-7th cent. {CE})}, Henoch, 29 (2007), 354--77.
+\bibitem[{Felle(2007)}]{felle_judaism_2007}
+---{}---{}---.
+\newblock \enquote{Judaism and {Christianity} in the {Light} of {Epigraphic}
+  {Evidence} (3rd-7th cent. {CE})}.
+\newblock \emph{Henoch} 29 (2007): 354--77.
 
-\bibitem[{\textsc{Felle}(2013)}]{felle_apporto_2013}
-\textsc{Felle, A.E.}, \emph{L'apporto dell'{Epigraphic} {Database} {Bari}
-  ({EDB}) all'analisi dell'apparato figurativo delle iscrizioni dei cristiani
-  di {Roma}}, in F.~Bisconti, M.~Braconi (edd.), \emph{Incisioni figurate della
-  {Tarda} antichit{\`a}. {Atti} del {Convegno} di {Studi} ({Roma}, 22-23 marzo
-  2012)}, 99--112, Pontificio Istituto di Archeologia Cristiana, Citt{\`a} del
-  Vaticano, 2013.
+\bibitem[{Felle(2013)}]{felle_apporto_2013}
+---{}---{}---.
+\newblock \enquote{L'apporto dell'{Epigraphic} {Database} {Bari} ({EDB})
+  all'analisi dell'apparato figurativo delle iscrizioni dei cristiani di
+  {Roma}}.
+\newblock In \emph{Incisioni figurate della {Tarda} antichit{\`a}. {Atti} del
+  {Convegno} di {Studi} ({Roma}, 22-23 marzo 2012)}, edited by F~Bisconti and
+  M~Braconi, 99--112. Citt{\`a} del Vaticano: Pontificio Istituto di
+  Archeologia Cristiana, 2013 .
 
-\bibitem[{\textsc{Felle}(2015)}]{felle_esporre_2015}
-\textsc{Felle, A.E.}, \emph{Esporre la {Scrittura}. {L}'uso di testi biblici in
-  epigrafi d'ambito pubblico fra tarda antichit{\`a} e prima et{\`a} bizantina
-  (sec. {IV}-{VIII})}, Antiquit{\'e} Tardive, 23 (2015), 311--328.
+\bibitem[{Felle(2015)}]{felle_esporre_2015}
+---{}---{}---.
+\newblock \enquote{Esporre la {Scrittura}. {L}'uso di testi biblici in epigrafi
+  d'ambito pubblico fra tarda antichit{\`a} e prima et{\`a} bizantina (sec.
+  {IV}-{VIII})}.
+\newblock \emph{Antiquit{\'e} Tardive} 23 (2015): 311--328.
 
-\bibitem[{\textsc{Felle}(2016, in press)}]{pesce_documenti_2016}
-\textsc{Felle, A.E.}, \emph{Documenti epigrafici di committenza ebraica.
-  {Omologazione} e alterit{\`a}}, in M.~Pesce, A.~Destro (edd.), \emph{Texts,
-  {Practices} and {Groups}. {Multidisciplinary} approaches to the History of
-  {Jesus'} {Followers} in the first two centuries. {First} {Annual} {Meeting}
-  of {Bertinoro} (2-4 {October} 2014)}, Brepols, Turnhout, 2016, in press.
+\bibitem[{Felle(2016, in press)}]{pesce_documenti_2016}
+---{}---{}---.
+\newblock \enquote{Documenti epigrafici di committenza ebraica. {Omologazione}
+  e alterit{\`a}}.
+\newblock In \emph{Texts, {Practices} and {Groups}. {Multidisciplinary}
+  approaches to the History of {Jesus'} {Followers} in the first two centuries.
+  {First} {Annual} {Meeting} of {Bertinoro} (2-4 {October} 2014)}, edited by
+  M~Pesce and A~Destro. Turnhout: Brepols, 2016, in press.
 
-\bibitem[{\textsc{Felle and Zimmermann}(2014)}]{zimmermann_epigraphy_2014}
-\textsc{Felle, A.E., Zimmermann, N.}, \emph{Epigraphy, {Art} {History},
-  {Archaeology}. {A} {Case} of {Interaction} between {Research} {Projects}:
-  {The} {Epigraphic} {Database} {Bari} ({UniBa}, {Italy}) and the {Domitilla}
-  {Projekt} ({{\"O}}{AW}, {Austria} - {DAI}, {Deutschland})}, in S.~Orlandi,
-  R.~Santucci, V.~Casarosa, P.M. Liuzzo (edd.), \emph{Information
-  {Technologies} for {Epigraphy} and {Cultural} {Heritage}. {Proceedings} of
-  the {First} {EAGLE} {International} {Conference} ({Paris}, {September} 29-30
-  - {October}, 1, 2014)}, 95--116, Sapienza Universit{\`a} Editrice, Roma,
-  2014.
+\bibitem[{Felle and Zimmermann(2014)}]{zimmermann_epigraphy_2014}
+\textsc{Felle, Antonio~Enrico and Norbert Zimmermann}.
+\newblock \enquote{Epigraphy, {Art} {History}, {Archaeology}. {A} {Case} of
+  {Interaction} between {Research} {Projects}: {The} {Epigraphic} {Database}
+  {Bari} ({UniBa}, {Italy}) and the {Domitilla} {Projekt} ({{\"O}}{AW},
+  {Austria} - {DAI}, {Deutschland})}.
+\newblock In \emph{Information {Technologies} for {Epigraphy} and {Cultural}
+  {Heritage}. {Proceedings} of the {First} {EAGLE} {International} {Conference}
+  ({Paris}, {September} 29-30 - {October}, 1, 2014)}, edited by Silvia Orlandi,
+  Raffaella Santucci, Vittore Casarosa, and Pietro~Maria Liuzzo, 95--116. Roma:
+  Sapienza Universit{\`a} Editrice, 2014 .
 
-\bibitem[{\textsc{K{\"a}hler and Mango}(1967)}]{kahler_hagia_1967}
-\textsc{K{\"a}hler, H., Mango, C.}, \emph{Die {Hagia} {Sophia}}, Mann, Berlin,
-  1967.
+\bibitem[{K{\"a}hler and Mango(1967)}]{kahler_hagia_1967}
+\textsc{K{\"a}hler, Heinz and Cyril Mango}.
+\newblock \emph{Die {Hagia} {Sophia}}.
+\newblock Berlin: Mann, 1967.
 
 \end{thebibliography}

@@ -1,42 +1,42 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Felle, Visual Features of inscriptions (EAGLE2016_Full_Paper).aux
-The style file: sapauth-eng.bst
+The style file: sapienza-chicago.bst
 Database file #1: ../../EAGLE.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 You've used 11 entries,
-            3082 wiz_defined-function locations,
-            689 strings with 7789 characters,
-and the built_in function-call counts, 5978 in all, are:
-= -- 398
-> -- 176
+            3112 wiz_defined-function locations,
+            688 strings with 7879 characters,
+and the built_in function-call counts, 6066 in all, are:
+= -- 497
+> -- 184
 < -- 12
-+ -- 79
++ -- 61
 - -- 51
-* -- 446
-:= -- 806
-add.period$ -- 11
+* -- 394
+:= -- 921
+add.period$ -- 37
 call.type$ -- 11
-change.case$ -- 63
+change.case$ -- 66
 chr.to.int$ -- 12
 cite$ -- 11
-duplicate$ -- 558
-empty$ -- 600
+duplicate$ -- 501
+empty$ -- 555
 format.name$ -- 76
-if$ -- 1216
+if$ -- 1271
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 106
-newline$ -- 42
-num.names$ -- 53
-pop$ -- 270
+missing$ -- 93
+newline$ -- 63
+num.names$ -- 50
+pop$ -- 220
 preamble$ -- 1
 purify$ -- 58
 quote$ -- 0
-skip$ -- 186
+skip$ -- 182
 stack$ -- 0
 substring$ -- 222
-swap$ -- 254
+swap$ -- 236
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
@@ -44,4 +44,4 @@ type$ -- 87
 warning$ -- 0
 while$ -- 46
 width$ -- 0
-write$ -- 124
+write$ -- 145
